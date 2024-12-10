@@ -7,7 +7,7 @@ _10/12/2024_
 
 ## Samenvatting
 
-De ziekte van Parkinson is een neurologische aandoening waarbij tot op de dag van vandaag nog altijd geen remedie voor bestaat. Uit ons literatuuronderzoek wijst uit dat het verder ontwikkelen van de aandoening ernstige impact levert op de motoriek van de persoon. Er moet intensieve medicatie genomen worden om het proces te remmen, maar dit is geen blijvende oplossing. Hierbij hebben we ons verder uitgediept in de Ronnie Gardiner Methode, een bewezen methode om cognitieve en motorische vaardigheden te stimuleren via multisensorische prikkels op basis van muziek. 
+De ziekte van Parkinson is een neurologische aandoening waarbij tot op de dag van vandaag nog altijd geen remedie voor bestaat. Uit volgend literatuuronderzoek[^1] wijst uit dat het verder ontwikkelen van de aandoening ernstige impact levert op de motoriek van de persoon. Er moet intensieve medicatie genomen worden om het proces te remmen, maar dit is geen blijvende oplossing. Hierbij hebben we ons verder uitgediept in de Ronnie Gardiner Methode, een bewezen methode om cognitieve en motorische vaardigheden te stimuleren via multisensorische prikkels op basis van muziek. 
 
 Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we **_CYR_** voor. _**C**reate **Y**our **R**ithm_ is een interactief muziekspel dat helpt bij het verbeteren van de motoriek en de cognitieve vaardigheden. Deze oplossing stelt instaat om zelfstandig muziek te maken met behulp van een _touchpad_ om muziek te creëren en een _musicbox_ om een keuze te maken uit verschillende sets van liedjes. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
 
@@ -63,7 +63,8 @@ Definieer de belangrijkste designbeslissingen
 Max. 500 woorden
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+
+[^1]: Diedrich, N. (2020, Juli). The Evolution-Driven Signature of Parkinson's Disease. CELL. (https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30103-X)
 
 ## Bijlagen
 
@@ -71,6 +72,8 @@ D1: Discovery
 
 - [Protocol interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ESJYqHmrCHZLsC0qj__VXJ0BjyDkQe4iN9FXYPPxXNy2uQ?e=tfqRws)
 - [Rapport interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EYnefagKg3FOtLsMqfEdwcMBIqPX8TSfu_CDAfIlTkcXZQ?e=Ka2ge1)
+-
+-
 
 D2: Definition 
 
