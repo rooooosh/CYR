@@ -6,13 +6,10 @@ Een interactief muziekspel voor mensen met de ziekte van Parkinson om zowel cogn
 10/12/2024
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
+De ziekte van Parkinson is een neurologische aandoening waarbij tot op de dag van vandaag nog altijd geen remedie voor bestaat. Uit ons literatuuronderzoek wijst uit dat het verder ontwikkelen van de aandoening serieuze impact levert op de motoriek van de persoon. Er moet intensieve medicatie genomen worden om het proces te remmen, maar dit is geen blijvende oplossing. Het gebruik van muziek gecombineerd met lichamelijke oefeningen bevordert de hersenstimulatie en kan een meerwaarde bieden aan ons cognitief stelsel.
+
+Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we _CYR_ voor. _**C**reate **Y**our **R**ithm_ is een interactief muziekspel dat helpt bij het verbeteren van de motoriek en de cognitieve vaardigheden. Deze oplossing stelt instaat om zelfstandig muziek te maken met behulp van een _touchpad_ om muziek te creëren en een _musicbox_ om een keuze te maken uit verschillende sets van liedjes.
 
 ## Introductie
 Max 300 woorden.
