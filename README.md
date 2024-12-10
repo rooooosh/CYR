@@ -9,7 +9,7 @@ Een interactief muziekspel voor mensen met de ziekte van Parkinson om zowel cogn
 
 De ziekte van Parkinson is een neurologische aandoening waarbij tot op de dag van vandaag nog altijd geen remedie voor bestaat. Uit ons literatuuronderzoek wijst uit dat het verder ontwikkelen van de aandoening serieuze impact levert op de motoriek van de persoon. Er moet intensieve medicatie genomen worden om het proces te remmen, maar dit is geen blijvende oplossing. Hierbij hebben we ons verder uitgediept in de Ronnie Gardiner Methode, een bewezen methode om cognitieve en motorische vaardigheden te stimuleren via multisensorische prikkels op basis van muziek. 
 
-Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we _CYR_ voor. _**C**reate **Y**our **R**ithm_ is een interactief muziekspel dat helpt bij het verbeteren van de motoriek en de cognitieve vaardigheden. Deze oplossing stelt instaat om zelfstandig muziek te maken met behulp van een _touchpad_ om muziek te creëren en een _musicbox_ om een keuze te maken uit verschillende sets van liedjes. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
+Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we **_CYR_** voor. _**C**reate **Y**our **R**ithm_ is een interactief muziekspel dat helpt bij het verbeteren van de motoriek en de cognitieve vaardigheden. Deze oplossing stelt instaat om zelfstandig muziek te maken met behulp van een _touchpad_ om muziek te creëren en een _musicbox_ om een keuze te maken uit verschillende sets van liedjes. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
 
 ## Introductie
 Max 300 woorden.
