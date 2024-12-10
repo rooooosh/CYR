@@ -12,9 +12,6 @@ De ziekte van Parkinson is een neurologische aandoening waarbij tot op de dag va
 Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we **_CYR_** voor. _**C**reate **Y**our **R**ithm_ is een interactief muziekspel dat helpt bij het verbeteren van de motoriek en de cognitieve vaardigheden. Deze oplossing stelt instaat om zelfstandig muziek te maken met behulp van een _touchpad_ om muziek te creëren en een _musicbox_ om een keuze te maken uit verschillende sets van liedjes. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
 De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vorderd is het noodgedwongen voor de patient om zich in een zorginstelling te plaatsen waar er wordt gefocust op intensieve zorg. 
 
