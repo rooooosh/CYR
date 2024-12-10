@@ -69,7 +69,7 @@ D1: Discovery
 - [Protocol interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ESJYqHmrCHZLsC0qj__VXJ0BjyDkQe4iN9FXYPPxXNy2uQ?e=tfqRws)
 - [Rapport interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EYnefagKg3FOtLsMqfEdwcMBIqPX8TSfu_CDAfIlTkcXZQ?e=Ka2ge1)
 - [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EXIrXCpz-dFAuOz6OB77Z0QBnIgQqzJ2xosTrCaE54sqkw?e=Ui9HQr)
-- [Rapport literatuuronderzoek)[https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ETgJmnygez1KvILyP5yb4owB2Ubt0oamoWoxb60TCJ8oPQ?e=Qta01t]
+- [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ETgJmnygez1KvILyP5yb4owB2Ubt0oamoWoxb60TCJ8oPQ?e=Qta01t)
 
 D2: Definition 
 
