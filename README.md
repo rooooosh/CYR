@@ -5,13 +5,13 @@ Een interactief muziekspel voor mensen met de ziekte van Parkinson om zowel de c
 
 _10/12/2024_
 
-## Samenvatting
+## Samenvatting 
 
 De ziekte van Parkinson is een neurologische aandoening waarbij tot op de dag van vandaag nog altijd geen remedie voor bestaat. Uit volgend literatuuronderzoek[^1] wijst uit dat het verder ontwikkelen van de aandoening ernstige impact levert op de motoriek van de persoon. Er moet intensieve medicatie genomen worden om het proces te remmen, maar dit is geen blijvende oplossing. Hierbij hebben we ons verder uitgediept in de Ronnie Gardiner Methode, een bewezen methode om cognitieve en motorische vaardigheden te stimuleren via multisensorische prikkels op basis van muziek. 
 
 Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we **_CYR_** voor. _**C**reate **Y**our **R**ithm_ is een interactief muziekspel dat helpt bij het verbeteren van de motoriek en de cognitieve vaardigheden. Deze oplossing stelt instaat om zelfstandig muziek te maken met behulp van een _touchpad_ om muziek te creëren en een _musicbox_ om een keuze te maken uit verschillende sets van liedjes. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
 
-## Introductie
+## Introductie 
 
 De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vorderd is het noodgedwongen voor de patient om zich in een zorginstelling te plaatsen waar er wordt gefocust op intensieve zorg. 
 
@@ -24,7 +24,7 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
 
 We namen de aanpak van **UCD** aan. Het doel is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeftes van de gebruiker. Hieronder staat een overzicht van de uitgevoerde fases binnen een geschatte tijdlijn:
 
-> tijdlijn nog invoegen
+> tijdlijn invoegen
 
 ## Discovery
 Max. 1000 woorden
@@ -68,8 +68,8 @@ D1: Discovery
 
 - [Protocol interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ESJYqHmrCHZLsC0qj__VXJ0BjyDkQe4iN9FXYPPxXNy2uQ?e=tfqRws)
 - [Rapport interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EYnefagKg3FOtLsMqfEdwcMBIqPX8TSfu_CDAfIlTkcXZQ?e=Ka2ge1)
--
--
+- [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EXIrXCpz-dFAuOz6OB77Z0QBnIgQqzJ2xosTrCaE54sqkw?e=Ui9HQr)
+- [Rapport literatuuronderzoek)[https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ETgJmnygez1KvILyP5yb4owB2Ubt0oamoWoxb60TCJ8oPQ?e=Qta01t]
 
 D2: Definition 
 
@@ -78,6 +78,5 @@ D2: Definition
 
 ## Bronnen
 
-[^1]: Diedrich, N. (2020, Juli). _The Evolution-Driven Signature of Parkinson's Disease. CellPress._ 
-(https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30103-X)
+[^1]: Diedrich, N. (2020, Juli). _The Evolution-Driven Signature of Parkinson's Disease. CellPress._ (https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30103-X)
 
