@@ -78,6 +78,6 @@ D2: Definition
 
 ## Bronnen
 
-[^1]: Diedrich, N. (2020, Juli). The Evolution-Driven Signature of Parkinson's Disease. CellPress. 
+[^1]: Diedrich, N. (2020, Juli). _The Evolution-Driven Signature of Parkinson's Disease. CellPress._ 
 (https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30103-X)
 
