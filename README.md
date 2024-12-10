@@ -1,9 +1,9 @@
 # Projecttitel
-*Omschrijving van je concept in 1 zin* 
+Een interactief muziekspel voor mensen met de ziekte van Parkinson om zowel cognitie als motoriek scherp te houden / te verbeteren.
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Aldo Mauro Van Hese; Rösh-Matthew Gryson*
 
-Datum
+10/12/2024
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
