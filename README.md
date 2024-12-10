@@ -62,10 +62,6 @@ Definieer de belangrijkste designbeslissingen
 ## Kritische reflectie
 Max. 500 woorden
 
-## Bronnen
-
-[^1]: Diedrich, N. (2020, Juli). The Evolution-Driven Signature of Parkinson's Disease. CELL. (https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30103-X)
-
 ## Bijlagen
 
 D1: Discovery
@@ -80,5 +76,7 @@ D2: Definition
 - [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EZP574aSoAhFl09WsWrbi8UBA5_1NxcKcqAjORO0SBlqww?e=72MF4B)
 - [Rapport gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EdqZbkmwm4NGiZS6KD74P3EBFJ-uTSXOdE_JABqfQalWkQ?e=12LJiF)
 
+## Bronnen
 
+[^1]: Diedrich, N. (2020, Juli). The Evolution-Driven Signature of Parkinson's Disease. CELL. (https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30103-X)
 
