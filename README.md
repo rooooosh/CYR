@@ -24,7 +24,7 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
 
 We namen de aanpak van **UCD** aan. Het doel is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeftes van de gebruiker. Hieronder staat een overzicht van de uitgevoerde fases binnen een geschatte tijdlijn
 
-> insert tijdlijn
+> tijdlijn nog invoegen
 
 ## Discovery
 Max. 1000 woorden
