@@ -3,7 +3,7 @@ Een interactief muziekspel voor mensen met de ziekte van Parkinson om zowel de c
 
 *Projectteam: Aldo Mauro Van Hese; Rösh-Matthew Gryson*
 
-10/12/2024
+_10/12/2024_
 
 ## Samenvatting
 
