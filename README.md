@@ -22,7 +22,7 @@ We streven naar een gebruiksvriendelijk product waar de uitdaging het plezier na
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
-We namen de aanpak van **UCD** aan. Het doel is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeftes van de gebruiker. Hieronder staat een overzicht van de uitgevoerde fases binnen een geschatte tijdlijn
+We namen de aanpak van **UCD** aan. Het doel is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeftes van de gebruiker. Hieronder staat een overzicht van de uitgevoerde fases binnen een geschatte tijdlijn:
 
 > tijdlijn nog invoegen
 
