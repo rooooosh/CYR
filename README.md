@@ -13,7 +13,7 @@ Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we **_CYR_** voor. 
 
 ## Introductie 
 
-De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie vaak ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vorderd is het noodgedwongen voor de patient om zich in een zorginstelling te plaatsen waar er wordt gefocust op intensieve zorg. 
+De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie vaak ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vordert is het noodgedwongen voor de patient om zich in een zorginstelling te plaatsen waar er wordt gefocust op intensieve zorg. 
 
 Het doel van dit project is om mensen met een _vroege_ diagnose van Parkinson te begeleiden, zodanig dat de ziekte niet verergerd. De bewuste keuze om niet verder te gaan met mensen met een langere diagnose ligt aan het feit dat interactie met dagdagelijkse gebruiksvoorwerpen voor hen ingewikkelder worden. _**CYR**_ heeft als doel om de gebruiker multisensorisch te prikkelen zodat hun cognitieve vaardigheden niet verloren gaan. De nadruk op het ontwerp ligt op het zelfstandig gebruiken van het product om de effectiviteit van de werking te garanderen. Het bestaat uit twee geïntegreerde onderdelen: een touchpad waarop muziek wordt gecreëerd en een muziekbox waar de gebruiker een keuze kan maken uit verschillende sets van voorgeprogrammeerde liedjes. 
 
