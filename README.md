@@ -66,3 +66,15 @@ Max. 500 woorden
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+
+D1: Discovery
+
+- 
+
+D2: Definition 
+
+- [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EZP574aSoAhFl09WsWrbi8UBA5_1NxcKcqAjORO0SBlqww?e=72MF4B)
+- [Rapportering gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EdqZbkmwm4NGiZS6KD74P3EBFJ-uTSXOdE_JABqfQalWkQ?e=12LJiF)
+
+
+
