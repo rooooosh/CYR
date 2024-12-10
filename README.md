@@ -1,5 +1,5 @@
 # Projecttitel
-Een interactief muziekspel voor mensen met de ziekte van Parkinson om zowel cognitie als motoriek scherp te houden / te verbeteren.
+Een interactief muziekspel voor mensen met de ziekte van Parkinson om zowel de cognitieve als de motorische vaardigheden scherp te houden / te verbeteren.
 
 *Projectteam: Aldo Mauro Van Hese; Rösh-Matthew Gryson*
 
