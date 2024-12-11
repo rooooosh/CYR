@@ -13,16 +13,21 @@ Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we **_CYR_** voor. 
 
 ## Introductie 
 
-De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie vaak ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vordert is het noodgedwongen voor de patient om zich in een zorginstelling te plaatsen waar er wordt gefocust op intensieve zorg. 
+De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie vaak ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vordert is het voor de familie niet meer mogelijk om de nodige zorg te verlenen, waardoor een gepaste zorginstelling wordt gekozen om de intensieve zorg verder te zetten.
 
-Het doel van dit project is om mensen met een _vroege_ diagnose van Parkinson te begeleiden, zodanig dat de ziekte niet verergerd. De bewuste keuze om niet verder te gaan met mensen met een langere diagnose ligt aan het feit dat interactie met dagdagelijkse gebruiksvoorwerpen voor hen ingewikkelder worden. _**CYR**_ heeft als doel om de gebruiker multisensorisch te prikkelen zodat hun cognitieve vaardigheden niet verloren gaan. De nadruk op het ontwerp ligt op het zelfstandig gebruiken van het product om de effectiviteit van de werking te garanderen. Het bestaat uit twee geïntegreerde onderdelen: een touchpad waarop muziek wordt gecreëerd en een muziekbox waar de gebruiker een keuze kan maken uit verschillende sets van voorgeprogrammeerde liedjes. 
+Het doel van dit project is om mensen met een _vroege_ diagnose van Parkinson te begeleiden, zodanig dat de ziekte niet verergerd. De bewuste keuze om niet verder te gaan met mensen met een langere diagnose ligt aan het feit dat interactie met dagdagelijkse gebruiksvoorwerpen voor hen ingewikkelder worden. _**CYR**_ heeft als doel om de gebruiker multisensorisch te prikkelen zodat hun cognitieve vaardigheden niet verloren gaan. De nadruk op het ontwerp ligt op het zelfstandig gebruiken van het product om de effectiviteit van de werking te garanderen. Het bestaat uit twee geïntegreerde onderdelen: een touchpad waarop muziek wordt gecreëerd en een muziekbox waar de gebruiker een keuze kan maken uit verschillende sets van voorgeprogrammeerde liedjes. Het ontwerp kan ook gebruikt worden in verschillende omgevingen.
 
 We streven naar een gebruiksvriendelijk product die de gebruiker uitdaagt, maar alsnog het plezier behoudt. 
 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
-We namen de aanpak van **UCD** aan. Het doel is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeften van de gebruiker. Hieronder staat een overzicht van de uitgevoerde fases binnen een geschatte tijdlijn:
+We namen de aanpak van **UCD** aan. Het doel van user-centered design is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeften van de gebruiker. Binnen het kader van ons project hebben we twee _Waves_ van iteraties voorebereid om de gebruikstesten uit te voeren. Voor zowel Wave 1 (n=5) als Wave 2 (n=5) namen we contact op met mensen die voldeden aan onze gekozen doelgroep. 
+
+De eerste vijf gebruikstesten gaven ons een breed inzicht binnen de voorkeuren van de gebruikers. 
+
+
+Hieronder staat een overzicht van de uitgevoerde fases binnen een geschatte tijdlijn:
 
 > tijdlijn invoegen
 
