@@ -7,13 +7,13 @@ _10/12/2024_
 
 ## Samenvatting 
 
-De ziekte van Parkinson is een neurologische aandoening waarbij tot op de dag van vandaag nog altijd geen remedie voor bestaat. Uit literatuuronderzoek[^1] wijst uit dat het verder ontwikkelen van de aandoening ernstige impact levert op de motoriek van de persoon. Er moet intensieve medicatie genomen worden om het proces te remmen, maar dit is geen blijvende oplossing. Hierbij hebben we ons verder uitgediept in de Ronnie Gardiner Methode, een bewezen methode om cognitieve en motorische vaardigheden te stimuleren via multisensorische prikkels op basis van muziek. 
+De ziekte van Parkinson is een neurologische aandoening waarvoor tot op heden nog steeds geen remedie voor bestaat. Uit literatuuronderzoek[^1] blijkt dat de verdere ontwikkeling van de aandoening een ernstige invloed heeft op de motorische vaardigheden van de persoon. Intensieve medicatie is nodig om het proces te vertragen, maar dit biedt geen permanente oplossing. Hierbij hebben we ons verder uitgediept in de Ronnie Gardiner Methode, een wetenschappelijk onderbouwde methode om cognitieve en motorische vaardigheden te stimuleren via multisensorische prikkels op basis van muziek. 
 
-Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we **_CYR_** voor. _**C**reate **Y**our **R**ithm_ is een interactief muziekspel dat helpt bij het verbeteren van de motorische -en de cognitieve vaardigheden. Deze oplossing stelt instaat om zelfstandig muziek te maken met behulp van twee geïntegreerde modules: een _touchpad_  en een _muziekbox_. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
+Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we **_CYR_** voor. _**C**reate **Y**our **R**ithm_ is een interactief muziekspel dat helpt bij het verbeteren van de motorische -en de cognitieve vaardigheden. Deze oplossing biedt de mogelijkheid om zelfstandig muziek te maken met behulp van twee geïntegreerde modules: een _touchpad_  en een _muziekbox_. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
 
 ## Introductie 
 
-De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie vaak ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vordert is het voor de familie niet meer mogelijk om de nodige zorg te verlenen, waardoor een gepaste zorginstelling wordt gekozen om de intensieve zorg verder te zetten.
+De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie vaak ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vordert, wordt het voor de familie steeds moeilijker om de benodigde zorg te bieden, waarvoor uiteindelijk wordt gekozen voor een geschikte zorginstelling om de intensieve zorg over te nemen.
 
 Het doel van dit project is om mensen met een _vroege_ diagnose van Parkinson te begeleiden, zodanig dat de ziekte niet verergerd. De bewuste keuze om niet verder te gaan met mensen met een langere diagnose ligt aan het feit dat interactie met dagdagelijkse gebruiksvoorwerpen voor hen ingewikkelder worden. _**CYR**_ heeft als doel om de gebruiker multisensorisch te prikkelen zodat hun cognitieve vaardigheden niet verloren gaan. De nadruk op het ontwerp ligt op het zelfstandig gebruiken van het product om de effectiviteit van de werking te garanderen. Het bestaat uit twee geïntegreerde onderdelen: een touchpad waarop muziek wordt gecreëerd en een muziekbox waar de gebruiker een keuze kan maken uit verschillende sets van voorgeprogrammeerde liedjes. Het ontwerp kan ook gebruikt worden in verschillende omgevingen.
 
@@ -22,9 +22,9 @@ We streven naar een gebruiksvriendelijk product die de gebruiker uitdaagt, maar 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
-We namen de aanpak van **UCD** aan. Het doel van user-centered design is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeften van de gebruiker. Binnen het kader van ons project hebben we twee _Waves_ van iteraties voorebereid om de gebruikstesten uit te voeren. Voor zowel Wave 1 (n=5) als Wave 2 (n=5) namen we contact op met mensen die voldeden aan onze gekozen doelgroep. 
+We namen de aanpak van **UCD** aan. Het doel van user-centered design is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeften van de gebruiker. Binnen het kader van ons project hebben we twee _Waves_ van iteraties voorebereid om de gebruikstesten uit te voeren. Voor zowel _Wave 1_ (n=5) als _Wave 2_ (n=5) namen we contact op met mensen die voldeden aan onze gekozen doelgroep. 
 
-De eerste vijf gebruikstesten gaven ons een breed inzicht binnen de voorkeuren van de gebruikers. 
+De eerste vijf gebruikstesten gaven ons een breed inzicht binnen de voorkeuren van de gebruikers. Op deze manier konden we ons voorbereiden op het ontwikkelen van de volgende iteraties voor _Wave 2_.
 
 
 Hieronder staat een overzicht van de uitgevoerde fases binnen een geschatte tijdlijn:
