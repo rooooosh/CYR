@@ -22,7 +22,7 @@ We streven naar een gebruiksvriendelijk product die de gebruiker uitdaagt, maar 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
-We namen de aanpak van **UCD** aan. Het doel van user-centered design is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeften van de gebruiker. Binnen het kader van ons project hebben we twee _Waves_ van iteraties voorebereid om de gebruikstesten uit te voeren. Voor zowel _Wave 1_ (n=5) als _Wave 2_ (n=5) namen we contact op met mensen die voldeden aan onze gekozen doelgroep. 
+We namen de aanpak van **UCD** aan. Het doel van user-centered design is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeften van de gebruiker. Binnen het kader van ons project hebben we twee _Waves_ van iteraties voorbereid om de gebruikstesten uit te voeren. Voor zowel _Wave 1_ (n=5) als _Wave 2_ (n=5) namen we contact op met mensen die voldeden aan onze gekozen doelgroep. 
 
 De eerste vijf gebruikstesten gaven ons een breed inzicht binnen de voorkeuren van de gebruikers. Op deze manier konden we ons voorbereiden op het ontwikkelen van de volgende iteraties voor _Wave 2_.
 
