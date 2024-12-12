@@ -45,9 +45,13 @@ Definieer de belangrijkste designbeslissingen
 ## Definition
 Max. 1000 woorden
 ### Doestellingen
-Wat wilde je bereiken?
+Vanuit het vooropgestelde onderzoek proberen we een prototype te bouwen die het ritme van muziek kan construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstest wordt het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback wordt de volgende iteratie gebouwd.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Er worden twee prototypes van de muziekbox gemaakt om de voorkeur van grootte weer te geven. Aangezien dit enkel dient om te bepalen welk prototype de voorkeur krijgt, worden deze vervaardigt uit karton. De keuze om de percussie aan of uit te zetten wordt bepaald met een hendel of een aan-/uitknop. Het grotere prototype krijgt aan de zijkant de hendel, het kleinere prototype de aan-/uitknop. Deze keuze is onbewust en kan uiteraard aangepast worden indien nodig.
+
+Het touchpad wordt ook vervaardigt uit karton eem een idee van grote te krijgen. 
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
