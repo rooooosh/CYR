@@ -32,15 +32,20 @@ Hieronder staat een overzicht van de uitgevoerde fases binnen een geschatte tijd
 > tijdlijn invoegen
 
 ## Discovery
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+Aangezien de keuze was om te werken rond mensen met Parkinson, vonden we het nodig ook genoeg met hen in contact te staan bij het beslissen van bepaalde ontwerpkeuzes. 
+Ons grootste doel was dus om een product te ontwerpen, dat een positieve, stimulerende invloed heeft op de gebruikers. Deze positieve invloeden zouden dan zowel wetenschappelijk een voordeel moeten bieden, zoals gehaald uit de literature review, als een positieve invloed op het humeur en gedrag van de gebruiker. 
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+
+#### Voor(onderzoek)
+Bij het exploreren van de onderzoeksopdracht hebben we aan de hand van een literature review en expert interviews gevonden welke richting we verder in wouden werken. Tijdens het uitvoeren van dit onderzoek begon het bedenken van concepten ook al.
+De keuze om een literature review te doen, kwam uit de realisatie dat het cruciaal is om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte, zoals in ons geval Parkinson. Bovendien is er al heel veel relevante informatie ter beschikking. Het grootste richtdoel dat we uit de literature reviews hebben is om te werken met muziek, aangezien het bewezen is dat muziek, en dan vooral ritme een positieve invloed heeft op mensen met Parkinson.
+De expert interviews werden uitgevoerd, omdat we al eerder doorhadden dat de feedback van de gebruikers een cruciale rol zou spelen bij het bedenken van concepten. De expert interviews hebben geholpen bij het krijgen van een inzicht naar wat onze gebruikers nodig hebben en wat het voor hen aantrekkelijk kan maken om te gebruiken. Wat we vooral uit de interviews hebben gehaald is dat ze akkoord gaan dat er ruimte is voor een nieuw product, en dat het aangenaam is een hulpmiddel te hebben voor Parkinson, waarbij geen extra tientallen pillen per dag bij nodig zijn.
+Eens deze onderzoeken waren afgerond, begon de volgende fase in onderzoek. 
+
+#### Conceptselectie
 
 ## Definition
 Max. 1000 woorden
