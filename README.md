@@ -46,6 +46,15 @@ De expert interviews werden uitgevoerd, omdat we al eerder doorhadden dat de fee
 Eens deze onderzoeken waren afgerond, begon de volgende fase in onderzoek. 
 
 #### Conceptselectie
+De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. De keuze om met CYR verder te gaan, was vanzelfsprekend, aangezien deze het beste aanpast bij het verlopen onderzoek. In de andere concepten stond muziek eerder centraal gericht. Bij CYR is het vooral ritme en timing, wat het beste zou moeten werken.
+
+#### Ontwikkelen deelaspecten
+
+#### Prototypen en testen
+
+### Resultaten
+
+### Conclusies & implicaties
 
 ## Definition
 Max. 1000 woorden
