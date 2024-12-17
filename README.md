@@ -5,7 +5,7 @@ _Een interactief muziekspel voor mensen met de ziekte van Parkinson om hun cogni
 
 _10/12/2024_
 
-<img src= "CYR PIC.png">
+<img src= "CYR PICS/CYR PIC.png">
 
 ## Samenvatting 
 
