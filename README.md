@@ -52,7 +52,11 @@ De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. 
 
 <img src="CYR PICS/modules.png" width="32%"> 
 
+
 #### Ontwikkelen deelaspecten
+De aparte modules hebben elk aparte desgin keuzes. 
+De touchbox moest groot genoeg zijn, zodat de gebruiker (met Parkinson) nog genoeg mobiliteit zou hebben om comfortabel het product te gebruiken. De keuze om met een makey-makey te werken voor het prototype was vanzelfsprekend, maar het bracht interessante voordelen mee. We besloten de prototypes uit mdf en karton te maken voor een snel resultaat. De plaatjes moesten geleidend zijn dus waren metalen plaatjes een perfecte oplossing.
+De hoofdmodule werd ook gemaakt uit karten en mdf. Hierbij was het belangrijkste te onderzoeken aspect de plaatsing, grootte en vorm van de knoppen. We besloten dit te testen aan de hand van een aantal iteraties op de module. We besloten te experimenteren met hendels, drukknoppen en touchscreens.
 
 #### Prototypen en testen
 
