@@ -4,8 +4,8 @@ _Een interactief muziekspel voor mensen met de ziekte van Parkinson om hun cogni
 *Projectteam: Aldo Mauro Van Hese; Rösh-Matthew Gryson*
 
 _10/12/2024_
-<p align="center">
-  <img src= "CYR PICS/CYR PIC.png">
+
+<img src= "CYR PICS/CYR PIC.png">
 
 ## Samenvatting 
 
@@ -72,17 +72,23 @@ In de eerste wave wouden we testen hoe de interactie wordt ervaren tussen gebrui
 We werkten voor het prototypen met mdf, karton, metalen plaatjes en een makey makey. 
 Door de metalen plaatjes met de makey makey te verbinden, kregen we een snel resultaat, dit was kwalitatief genoeg voor de waves.
 
-In wave 1 hadden we de feedback gekregen dat ze graag de mogelijkheid zouden hebben om een soort instructie/spel te hebben. Na wat verder overleg besloten we een ‘guitar hero’ variant te maken via protopie. We hebben dit protopie bestand gelinkt aan een Ipad en vervolgens de Ipad bevestigd aan de hoofdmodule, na wat herschikken van de layout. We besloten ineens de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd zijn in het effetieve product later, we zouden dit eerder met een ingebouwd scherm, of een opzetstukje voor een gsm/Ipad/tablet, en dit linken aan een app.
+In wave 1 hadden we de feedback gekregen dat ze graag de mogelijkheid zouden hebben om een soort instructie/spel te hebben. Na wat verder overleg besloten we in wave 2 een ‘guitar hero’ variant te maken via protopie. We hebben dit protopie bestand gelinkt aan een Ipad en vervolgens de Ipad bevestigd aan de hoofdmodule, na wat herschikken van de layout. We besloten ineens de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd zijn in het effetieve product later, we zouden dit eerder met een ingebouwd scherm, of een opzetstukje voor een gsm/Ipad/tablet, en dit linken aan een app.
 
 <img src="CYR PICS/TEST.jpg" width="32%">
 
 ### Resultaten
+Uit Wave 1 kregen we positieve feedback over het concept. Ze vonden het een leuk 'speels' product, waarbij ze wel het gevoel kregen dat ze constant uitgedaagd werden, zeker voor mensen met een verleden zonder spelen van muziek. 
+Ze ervaarden de interactie met de touchbox, wat ze heel goed vonden was dat ze niks hoefden in te drukken, em feedback te krijgen. Ze moesten de plaatjes enkel aanraken. Dit kan voor mensen met Parkinson een graad van moeilijkheid zijn, die zo overwonnen kon worden. Wel kregen we als verbeterpunt de kleine delay dat er nog zat op het tikken van het plaatje en het geluid. Dit was een te verwachten probleem, aangezien de directe feedback wel noodzakelijk was voor het spelen van muziek. Hier konden we geen directe oplossing voor bedenken en is dus iets dat nog opgelost moet worden.
+
+Wave 2 werd VERDER AAN TE VULLEN NA WAVES
+
+
 
 ### Conclusies & implicaties
 
 ## Definition
 Max. 1000 woorden
-### Doestellingen
+### Doelstellingen
 Vanuit het vooropgestelde onderzoek proberen we een prototype te bouwen die het ritme van muziek kan construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstest wordt het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback wordt de volgende iteratie gebouwd.
 
 ### Materiaal & methoden
