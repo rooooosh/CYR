@@ -79,7 +79,7 @@ In wave 1 hadden we de feedback gekregen dat ze graag de mogelijkheid zouden heb
 Uit Wave 1 kregen we positieve feedback over het concept. Ze vonden het een leuk 'speels' product, waarbij ze wel het gevoel kregen dat ze constant uitgedaagd werden, zeker voor mensen met een verleden zonder spelen van muziek. 
 Ze ervaarden de interactie met de touchbox, wat ze heel goed vonden was dat ze niks hoefden in te drukken, em feedback te krijgen. Ze moesten de plaatjes enkel aanraken. Dit kan voor mensen met Parkinson een graad van moeilijkheid zijn, die zo overwonnen kon worden. Wel kregen we als verbeterpunt de kleine delay dat er nog zat op het tikken van het plaatje en het geluid. Dit was een te verwachten probleem, aangezien de directe feedback wel noodzakelijk was voor het spelen van muziek. Hier konden we geen directe oplossing voor bedenken en is dus iets dat nog opgelost moet worden.
 
-Wave 2 werd VERDER AAN TE VULLEN NA WAVES
+Wave 2 werd VERDER AAN TE VULLEN NA WAVES _Wave_ *Wave* _*Wave*_ **Wave** _**Wave**_
 
 <img src="CYR PICS/TEST.jpg" width="32%">
 
