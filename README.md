@@ -60,11 +60,6 @@ De aparte modules hebben elk aparte desgin keuzes.
 De touchbox moest groot genoeg zijn, zodat de gebruiker (met Parkinson) nog genoeg mobiliteit zou hebben om comfortabel het product te gebruiken. De keuze om met een makey-makey te werken voor het prototype was vanzelfsprekend, maar het bracht interessante voordelen mee. We besloten de prototypes uit mdf en karton te maken voor een snel resultaat. De plaatjes moesten geleidend zijn dus waren metalen plaatjes een perfecte oplossing.
 De muziekbox werd ook gemaakt uit karten en mdf. Hierbij was het belangrijkste te onderzoeken aspect de plaatsing, grootte en vorm van de knoppen. We besloten dit te testen aan de hand van een aantal iteraties op de module. We besloten te experimenteren met hendels, drukknoppen en touchscreens.
 
-<p align="center">
-  <img src="CYR PICS/Touchbox2.jpg" width="32%">
-  <img src="CYR PICS/Hoofdbox1.jpg" width="32%">
-  <img src="CYR PICS/Hoofdbox2.jpg" width="32%">
-  
 #### Prototypen en testen
 Het testen zal gebeurde in 2 waves.
 In de eerste wave wouden we testen hoe de interactie wordt ervaren tussen gebruiker en product. We zouden willen achterhalen wat voor soort knoppen het beste past bij mensen met Parkinson. We testten met drukknoppen (verschillende groottes) en hendels. In deze wave testten we ook hoe de gebruikers de interactie met de Touchbox ervaarden en welk gevoel ze krijgen wanneer ze de feedback(het drummen) ontvangen. Hiermee konden we ook direct testen of het concept ‘leuk’ was voor de testpersonen, aangezien dit een belangrijke factor is voor het succes van dit project.
@@ -74,7 +69,11 @@ Door de metalen plaatjes met de makey makey te verbinden, kregen we een snel res
 
 In wave 1 hadden we de feedback gekregen dat ze graag de mogelijkheid zouden hebben om een soort instructie/spel te hebben. Na wat verder overleg besloten we in wave 2 een ‘guitar hero’ variant te maken via protopie. We hebben dit protopie bestand gelinkt aan een Ipad en vervolgens de Ipad bevestigd aan de hoofdmodule, na wat herschikken van de layout. We besloten ineens de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd zijn in het effetieve product later, we zouden dit eerder met een ingebouwd scherm, of een opzetstukje voor een gsm/Ipad/tablet, en dit linken aan een app.
 
-<img src="CYR PICS/TEST.jpg" width="32%">
+<p align="center">
+  <img src="CYR PICS/Touchbox2.jpg" width="32%">
+  <img src="CYR PICS/Hoofdbox1.jpg" width="32%">
+  <img src="CYR PICS/Hoofdbox2.jpg" width="32%">
+  
 
 ### Resultaten
 Uit Wave 1 kregen we positieve feedback over het concept. Ze vonden het een leuk 'speels' product, waarbij ze wel het gevoel kregen dat ze constant uitgedaagd werden, zeker voor mensen met een verleden zonder spelen van muziek. 
@@ -82,7 +81,7 @@ Ze ervaarden de interactie met de touchbox, wat ze heel goed vonden was dat ze n
 
 Wave 2 werd VERDER AAN TE VULLEN NA WAVES
 
-
+<img src="CYR PICS/TEST.jpg" width="32%">
 
 ### Conclusies & implicaties
 
