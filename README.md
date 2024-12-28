@@ -110,27 +110,37 @@ Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door 
 Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse objecten kunt omzetten in touchpads en ze kunt gebruiken als invoerapparaten voor een computer. Het werkt op basis van een microcontroller (meestal een Arduino-variant), waarmee je via alligatorclips en geleidende materialen toetsenbord- en muisinvoer kunt simuleren. Op deze manier kunnen we de toetsen van het touchpad linken met de computer om  muziek te imiteren. Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchpad te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Op basis van de resultaten tijdens de discovery fase en uit de definition fase kunnen we een lijst opstellen met de belangrijkste punten in het (voor)onderzoek;
 
-Uit de gebruikerstests van de tweede wave was er een grote voorkeur om het spel competitiever te maken, voor zij die echt eens uitgedaagt willen worden. Op basis van deze feedback zullen we volgend semester focussen om verschillende spelmoduli te creëren voor de gebruikers. Om deze manier is er een keuze wat de gebruiker wil spelen op basis van zijn of haar niveau en interesse.
+#### Prototypes
+- De groottes van beide muziekboxen en het touchpad zijn optimaal
+- De vorm van drukknoppen op het touchpad zijn optimaal en groot genoeg van dimensies
+- Een extra uitdaging zoals meerdere spelvormen zouden het plezier nog meer naar boven halen
+- De delay op het indrukken van de toetsen was een vaak voorkomende storende factor
+- Aanduiding op de toetsen welk geluid welke toets maakte, zorgde voor een beter begrip
+- Het ritme kon iets beter nagevolgd worden m.b.v. de Ipad die werd gemonteerd aan de muziekbox
+
+#### Gebruikers
+- Er was vaak een gebrek aan kennis over de verschillende componenten van de toetsen (drumstel)
+- In een aantal gevallen waren de gebruikers niet compatibel voor het gebruik van het prototype door bepaalde menselijke factoren (verbinding i.v.m. Makey Makey)
+- Het duurde een aantal keren voordat er werd onthouden welke toets welk geluid maakte
+- De gebruikers lieten een goed gevoel achter na afronden van de tests
 
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Binnen de onderzoeksfase komen we met het besluit een goede stap genomen te hebben in de richting van het uiteindelijke prototype. Door de vele uitgevoerde gebruikerstests kwamen we tot een dieper inzicht en kunnen op basis van de gekregen feedback een beter beeld vormen over de volgende stappen. Daarbij zullen we focussen op het vervaardigen van de prototypes uit beter materiaal en optimalere oplossingen te zoeken voor onze nieuw opgestelde problemen. We houden zeker nog contact met de huidige testpersonen om hen een kans te bieden om als eersten het eind ontwerp te testen. 
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+Deze materialen hopen we te gebruiken bij aanvang van het tweede semester om high-fidelity prototypes te maken
+
+- Natuurhout (vooral duurzaam, maar kwaliteitsvol hout)
+- Roestvrij staal
+- Arduino
+- Kunststof drukknoppen/toetsen
+- Digitale interfaces
 
 ## Kritische reflectie
-Max. 500 woorden
+
 
 ## Bijlagen
 
