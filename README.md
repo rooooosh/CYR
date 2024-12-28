@@ -57,19 +57,19 @@ De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. 
 
 #### Ontwikkelen deelaspecten
 De aparte modules hebben elk aparte desgin keuzes. 
-De touchbox moest groot genoeg zijn, zodat de gebruiker (met Parkinson) nog genoeg mobiliteit zou hebben om comfortabel het product te gebruiken. De keuze om met een makey-makey te werken voor het prototype was vanzelfsprekend, maar het bracht interessante voordelen mee. We besloten de prototypes uit mdf en karton te maken voor een snel resultaat. De plaatjes moesten geleidend zijn dus waren metalen plaatjes een perfecte oplossing.
+De touchbox moest groot genoeg zijn, zodat de gebruiker (met Parkinson) nog genoeg mobiliteit zou hebben om comfortabel het product te gebruiken. De keuze om met Makey Makey te werken voor het prototype was vanzelfsprekend, maar het bracht interessante voordelen mee. We besloten de prototypes uit mdf en karton te maken voor een snel resultaat. De plaatjes moesten geleidend zijn dus waren metalen plaatjes een perfecte oplossing.
 De muziekbox werd ook gemaakt uit karten en mdf. Hierbij was het belangrijkste te onderzoeken aspect de plaatsing, grootte en vorm van de knoppen. We besloten dit te testen aan de hand van een aantal iteraties op de module. We besloten te experimenteren met hendels, drukknoppen en touchscreens.
 
 #### Prototypen en testen
 Het testen zal gebeurde in 2 waves.
 In de eerste wave wouden we testen hoe de interactie wordt ervaren tussen gebruiker en product. We zouden willen achterhalen wat voor soort knoppen het beste past bij mensen met Parkinson. We testten met drukknoppen (verschillende groottes) en hendels. In deze wave testten we ook hoe de gebruikers de interactie met de Touchbox ervaarden en welk gevoel ze krijgen wanneer ze de feedback(het drummen) ontvangen. Hiermee konden we ook direct testen of het concept ‘leuk’ was voor de testpersonen, aangezien dit een belangrijke factor is voor het succes van dit project.
 
-We werkten voor het prototypen met mdf, karton, metalen plaatjes en een makey makey. 
-Door de metalen plaatjes met de makey makey te verbinden, kregen we een snel resultaat, dit was kwalitatief genoeg voor de waves.
+We werkten voor het prototypen met mdf, karton, metalen plaatjes en Makey Makey. 
+Door de metalen plaatjes met de Makey Makey te verbinden, kregen we een snel resultaat, dit was kwalitatief genoeg voor de waves.
 
 In wave 1 hadden we de feedback gekregen dat ze graag de mogelijkheid zouden hebben om een soort instructie/spel te hebben. Na wat verder overleg besloten we in wave 2 een ‘guitar hero’ variant te maken via protopie. We hebben dit protopie bestand gelinkt aan een Ipad en vervolgens de Ipad bevestigd aan de hoofdmodule, na wat herschikken van de layout. We besloten ineens de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd zijn in het effetieve product later, we zouden dit eerder met een ingebouwd scherm, of een opzetstukje voor een gsm/Ipad/tablet, en dit linken aan een app.
 
-<p align="center">
+<p align="left">
   <img src="CYR PICS/Touchbox2.jpg" width="32%">
   <img src="CYR PICS/Hoofdbox1.jpg" width="32%">
   <img src="CYR PICS/Hoofdbox2.jpg" width="32%">
@@ -88,10 +88,10 @@ Wave 2 werd VERDER AAN TE VULLEN NA WAVES  kort testje ter referentie --> _Wave_
 ## Definition
 Max. 1000 woorden
 ### Doelstellingen
-Vanuit het vooropgestelde onderzoek probeerden we een prototype te bouwen die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstest werd het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback werd de volgende iteratie gebouwd.
+Vanuit het vooropgestelde onderzoek probeerden we een prototype te bouwen die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstest werd het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback werden de volgende prototypes gebouwd voor de volgende wave.
 
 ### Materiaal & methoden
-Er werden twee prototypes van de muziekbox gemaakt om de voorkeur van grootte weer te geven. Aangezien dit enkel diende om te bepalen welk prototype de voorkeur kreeg, werden deze vervaardigt uit karton. De keuze om de percussie aan of uit te zetten werd bepaald met een hendel of een aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de aan-/uitknop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Het touchpad werd ook vervaardigt uit karton om een idee van grote te krijgen. Binnen deze eerste prototype fasen lag de nadruk niet op het maken van high-fidelity prototypes, maar eerder op het nakomen van de verschillende wensen vanuit de gebruikstests. 
+Er werden twee prototypes van de muziekbox met verschillende grootte gemaakt om de voorkeur weer te geven die in elk van de waves werd aangehaald. Aangezien dit enkel diende om te bepalen welk prototype de voorkeur kreeg, werden deze vervaardigt uit karton. De keuze om de percussie aan of uit te zetten werd bepaald met een hendel of een aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de aan-/uitknop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Het touchpad werd ook vervaardigt uit karton om een idee van grote te krijgen. Binnen deze eerste prototype fasen lag de nadruk niet op het maken van high-fidelity prototypes, maar eerder op het nakomen van de verschillende wensen vanuit de eerste gebruikerstests. 
 
 Het idee om een muziekspel te maken stamde af op het idee dat leek op Piano Tiles, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de gebruiker/speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. CYR werkt op een gelijkaardige manier. De gebruiker krijgt aan het begin van een liedje een set van voorgeprogrameerde "pictogrammen" die corresponderen met de toetsen op het touchpad. Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt hij/zij niet bestrafd, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker, slaagt CYR erin om zowel cognitie als motoriek te blijven trainen.
 
