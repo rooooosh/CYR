@@ -101,7 +101,7 @@ De keuze om de percussie aan of uit te zetten werd bepaald met een hendel of een
 
 Het idee om een muziekspel te maken stamde af op het idee dat leek op Gitar Hero, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. CYR werkt op een gelijkaardige manier. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de muziekbox die corresponderen met de toetsen op het touchpad. Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt er niet opnieuw gestart, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker, slaagt CYR erin om zowel cognitie als motoriek te blijven trainen.
 
-Het indrukken van de toetsen wordt mogelijk gemaakt door Makey Makey[^2]. 
+Het indrukken van de toetsen wordt mogelijk gemaakt door [Makey Makey](https://makeymakey.com/). 
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/05c628ee-eef2-4db5-9a8a-575cb7c0a90c" width="32%">
@@ -150,6 +150,5 @@ Max. 500 woorden
 ## Bronnen
 
 [^1]: Diedrich, N. (2020, Juli). _The Evolution-Driven Signature of Parkinson's Disease. CellPress._ (https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30103-X)
-[^2]: https://makeymakey.com/
 
 
