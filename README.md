@@ -90,7 +90,10 @@ Wave 2 werd VERDER AAN TE VULLEN NA WAVES  kort testje ter referentie --> _Wave_
 Vanuit het vooropgestelde onderzoek probeerden we een prototype te bouwen die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstests werd het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback werden de volgende stappen genomen in het ontwerp van een nieuw prototype voor de volgende wave.
 
 ### Materiaal & methoden
-Er werden twee prototypes van de muziekbox met verschillende grootte gemaakt om de voorkeur weer te geven die in elk van de waves werd aangehaald. Aangezien dit enkel diende om te bepalen welk prototype de voorkeur kreeg, werden deze vervaardigt uit karton. De muziekbox, binnen deze fase, diende om een voorgeprogrammeerd liedje te selecteren en vervolgens werd een keuze gemaakt om dit met of zonder percussie[^?] te doen.
+Er werden twee prototypes van de muziekbox met verschillende grootte gemaakt om de voorkeur weer te geven die in elk van de waves werd aangehaald. Aangezien dit enkel diende om te bepalen welk prototype de voorkeur kreeg, werden deze vervaardigt uit karton. De muziekbox, binnen deze fase, diende om een voorgeprogrammeerd liedje te selecteren en vervolgens werd een keuze gemaakt om dit met of zonder percussie te doen.
+
+> [!NOTE]
+> Percussie in een liedje verwijst naar het gebruik van muziekinstrumenten die geluid produceren door te slaan, te schudden, te schrapen of te tikken. Deze instrumenten vormen de ritmische basis van een nummer en kunnen variëren van traditionele drums (zoals een snare drum, bass drum of conga) tot andere klankmakers zoals bekkens, shakers, klokkenspelen of zelfs onconventionele objecten (bijvoorbeeld handenklappen of voetenstampen).
 
 De keuze om de percussie aan of uit te zetten werd bepaald met een hendel of een aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de aan-/uitknop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Het touchpad werd ook vervaardigt uit karton om een idee van grote te krijgen. Binnen deze eerste prototype fasen lag de nadruk niet op het maken van high-fidelity prototypes, maar eerder op het nakomen van de verschillende wensen vanuit de eerste gebruikerstests. 
 
@@ -113,8 +116,6 @@ Uit de gebruikerstests van de tweede wave was er een grote voorkeur om het spel 
 
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
-
-[^?]: Percussie in een liedje verwijst naar het gebruik van muziekinstrumenten die geluid produceren door te slaan, te schudden, te schrapen of te tikken. Deze instrumenten vormen de ritmische basis van een nummer en kunnen variëren van traditionele drums (zoals een snare drum, bass drum of conga) tot andere klankmakers zoals bekkens, shakers, klokkenspelen of zelfs onconventionele objecten (bijvoorbeeld handenklappen of voetenstampen).
 
 ## Bill of materials
 - Welk
