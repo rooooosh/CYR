@@ -111,10 +111,12 @@ Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door 
   <img src="https://github.com/user-attachments/assets/799e44e1-f681-4659-8ee0-bfc84e7c1d99" width="32%">
 
 
-Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse objecten kunt omzetten in touchpads en ze kunt gebruiken als invoerapparaten voor een computer. Het werkt op basis van een microcontroller (meestal een Arduino-variant), waarmee je via alligatorclips en geleidende materialen toetsenbord- en muisinvoer kunt simuleren. Op deze manier kunnen we de toetsen van het touchpad linken met de computer om  muziek te imiteren. Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchpad te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
+Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse objecten kunt omzetten in touchpads en ze kunt gebruiken als invoerapparaten voor een computer. Het werkt op basis van een microcontroller (meestal een Arduino-variant), waarmee je via alligatorclips en geleidende materialen toetsenbord- en muisinvoer kunt simuleren. Op deze manier kunnen we de toetsen van het touchpad linken met de computer om  muziek te imiteren. 
+
+Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchpad te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
 ### Resultaten
-Op basis van de resultaten tijdens de discovery fase en uit de definition fase kunnen we een lijst opstellen met de belangrijkste punten in het (voor)onderzoek;
+Op basis van de resultaten tijdens de discovery fase en uit de definition fase kunnen we een lijst opstellen met de belangrijkste punten in het (voor)onderzoek:
 
 #### Prototypes
 - De groottes van beide muziekboxen en het touchpad zijn optimaal
