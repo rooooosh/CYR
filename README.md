@@ -86,15 +86,15 @@ Wave 2 werd VERDER AAN TE VULLEN NA WAVES  kort testje ter referentie --> _Wave_
 ### Conclusies & implicaties
 
 ## Definition
-Max. 1000 woorden
 ### Doelstellingen
-Vanuit het vooropgestelde onderzoek probeerden we een prototype te bouwen die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstest werd het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback werden de volgende prototypes gebouwd voor de volgende wave.
+Vanuit het vooropgestelde onderzoek probeerden we een prototype te bouwen die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstests werd het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback werden de volgende stappen genomen in het ontwerp van een nieuw prototype voor de volgende wave.
 
 ### Materiaal & methoden
-Er werden twee prototypes van de muziekbox met verschillende grootte gemaakt om de voorkeur weer te geven die in elk van de waves werd aangehaald. Aangezien dit enkel diende om te bepalen welk prototype de voorkeur kreeg, werden deze vervaardigt uit karton. De keuze om de percussie aan of uit te zetten werd bepaald met een hendel of een aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de aan-/uitknop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Het touchpad werd ook vervaardigt uit karton om een idee van grote te krijgen. Binnen deze eerste prototype fasen lag de nadruk niet op het maken van high-fidelity prototypes, maar eerder op het nakomen van de verschillende wensen vanuit de eerste gebruikerstests. 
+Er werden twee prototypes van de muziekbox met verschillende grootte gemaakt om de voorkeur weer te geven die in elk van de waves werd aangehaald. Aangezien dit enkel diende om te bepalen welk prototype de voorkeur kreeg, werden deze vervaardigt uit karton. De muziekbox, binnen deze fase, diende om een voorgeprogrammeerd liedje te selecteren en vervolgens werd een keuze gemaakt om dit met of zonder percussie[^?] te doen.
 
-Het idee om een muziekspel te maken stamde af op het idee dat leek op Piano Tiles, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de gebruiker/speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. CYR werkt op een gelijkaardige manier. De gebruiker krijgt aan het begin van een liedje een set van voorgeprogrameerde "pictogrammen" die corresponderen met de toetsen op het touchpad. Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt hij/zij niet bestrafd, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker, slaagt CYR erin om zowel cognitie als motoriek te blijven trainen.
+De keuze om de percussie aan of uit te zetten werd bepaald met een hendel of een aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de aan-/uitknop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Het touchpad werd ook vervaardigt uit karton om een idee van grote te krijgen. Binnen deze eerste prototype fasen lag de nadruk niet op het maken van high-fidelity prototypes, maar eerder op het nakomen van de verschillende wensen vanuit de eerste gebruikerstests. 
 
+Het idee om een muziekspel te maken stamde af op het idee dat leek op Gitar Hero, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. CYR werkt op een gelijkaardige manier. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de muziekbox die corresponderen met de toetsen op het touchpad. Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt er niet opnieuw gestart, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker, slaagt CYR erin om zowel cognitie als motoriek te blijven trainen.
 
 Het indrukken van de toetsen wordt mogelijk gemaakt door Makey Makey[^2]. 
 
@@ -107,8 +107,14 @@ Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse 
 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
+Uit de gebruikerstests van de tweede wave was er een grote voorkeur om het spel competitiever te maken, voor zij die echt eens uitgedaagt willen worden. Op basis van deze feedback zullen we volgend semester focussen om verschillende spelmoduli te creëren voor de gebruikers. Om deze manier is er een keuze wat de gebruiker wil spelen op basis van zijn of haar niveau en interesse.
+
+
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
+
+[^?]: Percussie in een liedje verwijst naar het gebruik van muziekinstrumenten die geluid produceren door te slaan, te schudden, te schrapen of te tikken. Deze instrumenten vormen de ritmische basis van een nummer en kunnen variëren van traditionele drums (zoals een snare drum, bass drum of conga) tot andere klankmakers zoals bekkens, shakers, klokkenspelen of zelfs onconventionele objecten (bijvoorbeeld handenklappen of voetenstampen).
 
 ## Bill of materials
 - Welk
