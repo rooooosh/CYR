@@ -100,7 +100,7 @@ Het idee om een muziekspel te maken stamde af op het idee dat leek op Piano Tile
 
 Het indrukken van de toetsen wordt mogelijk gemaakt door Makey Makey[^2]. 
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/05c628ee-eef2-4db5-9a8a-575cb7c0a90c" width="32%">
   <img src="https://github.com/user-attachments/assets/799e44e1-f681-4659-8ee0-bfc84e7c1d99" width="32%">
 
