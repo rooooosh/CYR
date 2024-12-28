@@ -98,7 +98,7 @@ Het idee om een muziekspel te maken stamde af op het idee dat leek op Piano Tile
 ![image](https://github.com/user-attachments/assets/c99baedb-673e-47a3-80d8-d598c6ccf27d)
 
 
-Het indrukken van de toetsen wordt mogelijk gemaakt door MakeyMakey
+Het indrukken van de toetsen wordt mogelijk gemaakt door Makey Makey. Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse objecten kunt omzetten in touchpads en ze kunt gebruiken als invoerapparaten voor een computer. Het werkt op basis van een microcontroller (meestal een Arduino-variant), waarmee je via alligatorclips en geleidende materialen toetsenbord- en muisinvoer kunt simuleren. Op deze manier kunnen we de toetsen van het touchpad linken met de computer om vervolgens muziek te imiteren. Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. 
 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
