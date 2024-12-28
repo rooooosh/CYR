@@ -25,14 +25,8 @@ Het doel van dit project is om mensen met een _vroege_ diagnose van Parkinson te
 We streven naar een gebruiksvriendelijk product die de gebruiker uitdaagt, maar alsnog het plezier behoudt. 
 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
-We namen de aanpak van **UCD** aan. Het doel van user-centered design is om via gebruikstesten en expert interviews concrete feedback te krijgen om het huidig ontwerp aan te passen aan de behoeften van de gebruiker. Binnen het kader van ons project hebben we twee _Waves_ van iteraties voorbereid om de gebruikstesten uit te voeren. Voor zowel **wave 1** (n=5) als **wave 2** (n=5) namen we contact op met mensen die voldeden aan onze gekozen doelgroep. 
-
-De eerste vijf gebruikerstests gaven ons een breed inzicht binnen de voorkeuren van de gebruikers. Op deze manier konden we ons voorbereiden op het ontwikkelen van de volgende iteraties voor Wave 2.
-
-
-Hieronder staat een overzicht van de uitgevoerde fases binnen een geschatte tijdlijn:
+We volgden de aanpak van **UCD** om ons project tot goede banen te leiden in het eerste semester. 
 
 > tijdlijn invoegen
 
@@ -140,7 +134,6 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 Binnen de onderzoeksfase komen we met het besluit een goede stap genomen te hebben in de richting van het uiteindelijke prototype. Door de vele uitgevoerde gebruikerstests kwamen we tot een dieper inzicht en kunnen we op basis van de gekregen feedback een beter beeld vormen over de volgende stappen. Daarbij zullen we focussen op het vervaardigen van de prototypes uit beter materiaal en optimalere oplossingen te zoeken voor onze nieuw opgestelde problemen. We houden zeker nog contact met de huidige testpersonen om hen een kans te bieden om als eersten het eind ontwerp te testen. 
 
 ## Bill of materials
-Deze materialen hopen we te gebruiken bij aanvang van het tweede semester om high-fidelity prototypes te maken
 
 - Natuurhout (vooral duurzaam, maar kwaliteitsvol hout)
 - Roestvrij staal
@@ -149,7 +142,7 @@ Deze materialen hopen we te gebruiken bij aanvang van het tweede semester om hig
 - Digitale interfaces
 
 ## Kritische reflectie
-
+Max 500 woorden
 
 ## Bijlagen
 
