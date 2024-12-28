@@ -102,7 +102,10 @@ Het indrukken van de toetsen wordt mogelijk gemaakt door Makey Makey[^2].
 
 ![image](https://github.com/user-attachments/assets/05c628ee-eef2-4db5-9a8a-575cb7c0a90c)
 ![image](https://github.com/user-attachments/assets/799e44e1-f681-4659-8ee0-bfc84e7c1d99)
-
+<p align="center">
+  <img src="CYR PICS/Touchbox2.jpg" width="32%">
+  <img src="CYR PICS/Hoofdbox1.jpg" width="32%">
+  <img src="CYR PICS/Hoofdbox2.jpg" width="32%">
 
 Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse objecten kunt omzetten in touchpads en ze kunt gebruiken als invoerapparaten voor een computer. Het werkt op basis van een microcontroller (meestal een Arduino-variant), waarmee je via alligatorclips en geleidende materialen toetsenbord- en muisinvoer kunt simuleren. Op deze manier kunnen we de toetsen van het touchpad linken met de computer om vervolgens muziek te imiteren. Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. 
 
@@ -142,6 +145,6 @@ Max. 500 woorden
 ## Bronnen
 
 [^1]: Diedrich, N. (2020, Juli). _The Evolution-Driven Signature of Parkinson's Disease. CellPress._ (https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30103-X)
-[^2]: (https://makeymakey.com/)
+[^2]: https://makeymakey.com/
 
 
