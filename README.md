@@ -95,8 +95,6 @@ Er werden twee prototypes van de muziekbox gemaakt om de voorkeur van grootte we
 
 Het idee om een muziekspel te maken stamde af op het idee dat leek op Piano Tiles, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de gebruiker/speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. CYR werkt op een gelijkaardige manier. De gebruiker krijgt aan het begin van een liedje een set van voorgeprogrameerde "pictogrammen" die corresponderen met de toetsen op het touchpad. Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt hij/zij niet bestrafd, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker, slaagt CYR erin om zowel cognitie als motoriek te blijven trainen.
 
-![image](https://github.com/user-attachments/assets/c99baedb-673e-47a3-80d8-d598c6ccf27d)
-
 
 Het indrukken van de toetsen wordt mogelijk gemaakt door Makey Makey[^2]. 
 
@@ -105,7 +103,7 @@ Het indrukken van de toetsen wordt mogelijk gemaakt door Makey Makey[^2].
   <img src="https://github.com/user-attachments/assets/799e44e1-f681-4659-8ee0-bfc84e7c1d99" width="32%">
 
 
-Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse objecten kunt omzetten in touchpads en ze kunt gebruiken als invoerapparaten voor een computer. Het werkt op basis van een microcontroller (meestal een Arduino-variant), waarmee je via alligatorclips en geleidende materialen toetsenbord- en muisinvoer kunt simuleren. Op deze manier kunnen we de toetsen van het touchpad linken met de computer om vervolgens muziek te imiteren. Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. 
+Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse objecten kunt omzetten in touchpads en ze kunt gebruiken als invoerapparaten voor een computer. Het werkt op basis van een microcontroller (meestal een Arduino-variant), waarmee je via alligatorclips en geleidende materialen toetsenbord- en muisinvoer kunt simuleren. Op deze manier kunnen we de toetsen van het touchpad linken met de computer om  muziek te imiteren. Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. 
 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
