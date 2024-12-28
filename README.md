@@ -128,7 +128,7 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 
 
 ### Conclusies & implicaties
-Binnen de onderzoeksfase komen we met het besluit een goede stap genomen te hebben in de richting van het uiteindelijke prototype. Door de vele uitgevoerde gebruikerstests kwamen we tot een dieper inzicht en kunnen op basis van de gekregen feedback een beter beeld vormen over de volgende stappen. Daarbij zullen we focussen op het vervaardigen van de prototypes uit beter materiaal en optimalere oplossingen te zoeken voor onze nieuw opgestelde problemen. We houden zeker nog contact met de huidige testpersonen om hen een kans te bieden om als eersten het eind ontwerp te testen. 
+Binnen de onderzoeksfase komen we met het besluit een goede stap genomen te hebben in de richting van het uiteindelijke prototype. Door de vele uitgevoerde gebruikerstests kwamen we tot een dieper inzicht en kunnen we op basis van de gekregen feedback een beter beeld vormen over de volgende stappen. Daarbij zullen we focussen op het vervaardigen van de prototypes uit beter materiaal en optimalere oplossingen te zoeken voor onze nieuw opgestelde problemen. We houden zeker nog contact met de huidige testpersonen om hen een kans te bieden om als eersten het eind ontwerp te testen. 
 
 ## Bill of materials
 Deze materialen hopen we te gebruiken bij aanvang van het tweede semester om high-fidelity prototypes te maken
