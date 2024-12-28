@@ -51,7 +51,7 @@ Eens deze onderzoeken waren afgerond, begon de volgende fase in onderzoek.
 
 #### Conceptselectie
 De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. De keuze om met **CYR** verder te gaan, was vanzelfsprekend, aangezien deze het beste aanpast bij het verlopen onderzoek. In de andere concepten stond muziek meer centraal. Bij **CYR** is het vooral ritme en timing die een oplossing zou moeten geven voor ons project.
-<p align="center">
+<p align="left">
   <img src="CYR PICS/modules.png" width="32%"> 
 
 
