@@ -13,6 +13,9 @@ De ziekte van Parkinson is een neurologische aandoening waarvoor tot op heden no
 
 Om te voorkomen dat de ziekte zich verder ontwikkeld stellen we **CYR** voor. **C**reate **Y**our **R**ithm is een interactief muziekspel dat helpt bij het verbeteren van de motorische -en de cognitieve vaardigheden. Deze oplossing biedt de mogelijkheid om zelfstandig muziek te maken met behulp van twee geïntegreerde modules: een _touchpad_  en een _muziekbox_. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
 
+> [!NOTE]
+> Linken naar protocollen, rapporteringen en diepgaand onderzoek zijn te vinden in de sectie [Bijlagen](#Bijlagen)
+
 ## Introductie 
 
 De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vordert, wordt het voor de familie steeds moeilijker om de benodigde zorg te bieden, waarvoor uiteindelijk wordt gekozen voor een geschikte zorginstelling om de intensieve zorg over te nemen.
