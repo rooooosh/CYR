@@ -91,9 +91,14 @@ Max. 1000 woorden
 Vanuit het vooropgestelde onderzoek proberen we een prototype te bouwen die het ritme van muziek kan construeren op een gekozen set van liedjes. Vanuit de eerste gebruikerstest wordt het prototype aangepast aan de voorkeur van de gebruiker. Vanuit deze feedback wordt de volgende iteratie gebouwd.
 
 ### Materiaal & methoden
-Er worden twee prototypes van de muziekbox gemaakt om de voorkeur van grootte weer te geven. Aangezien dit enkel dient om te bepalen welk prototype de voorkeur krijgt, worden deze vervaardigt uit karton. De keuze om de percussie aan of uit te zetten wordt bepaald met een hendel of een aan-/uitknop. Het grotere prototype krijgt aan de zijkant de hendel, het kleinere prototype de aan-/uitknop. Deze keuze is onbewust en kan uiteraard aangepast worden indien nodig.
+Er worden twee prototypes van de muziekbox gemaakt om de voorkeur van grootte weer te geven. Aangezien dit enkel dient om te bepalen welk prototype de voorkeur krijgt, worden deze vervaardigt uit karton. De keuze om de percussie aan of uit te zetten wordt bepaald met een hendel of een aan-/uitknop. Het grotere prototype krijgt aan de zijkant de hendel, het kleinere prototype de aan-/uitknop. Deze keuze is onbewust en kan uiteraard aangepast worden indien nodig. Het touchpad wordt ook vervaardigt uit karton eem een idee van grote te krijgen. Binnen deze eerste prototype fasen lag de nadruk niet op het maken van high-fidelity prototypes, maar eerder op het nakomen van de verschillende wensen vanuit de gebruikstests. 
 
-Het touchpad wordt ook vervaardigt uit karton eem een idee van grote te krijgen. 
+Het idee om een muziekspel te maken stamde af op het idee dat leek op Piano Tiles, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de gebruiker/speler op een verkeerde toets drukt, of deze te laat indrukt heeft de speler verloren en moet deze proberen het level opnieuw te spelen. CYR werkt op een gelijkaardige manier. De gebruiker krijgt aan het begin van een liedje een set van voorgeprogrameerde "pictogrammen" die corresponderen met de toetsen op het touchpad. Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt hij/zij niet bestrafd, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker, slaagt CYR erin om zowel cognitie als motoriek te blijven trainen.
+
+![image](https://github.com/user-attachments/assets/c99baedb-673e-47a3-80d8-d598c6ccf27d)
+
+
+Het indrukken van de toetsen wordt mogelijk gemaakt door MakeyMakey
 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
