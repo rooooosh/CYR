@@ -82,7 +82,6 @@ Dit zal voor de volgende fase in ons ontwerpproces dus een kwestie moeten zijn w
 
 <img src="CYR PICS/TEST.jpg" width="32%">
 
-### Conclusies & implicaties
 
 ## Definition
 ### Doelstellingen
