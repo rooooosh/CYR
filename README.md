@@ -136,6 +136,7 @@ Dit zal voor de volgende fase in ons ontwerpproces dus een kwestie moeten zijn w
 
 > [!NOTE]
 > De gebruikstests werden uitgevoerd volgens de **Wizard Of Oz** methode. _"De Wizard of Oz methode is een gemodereerde onderzoeksmethode waarbij een gebruiker interageert met een interface die autonoom lijkt te zijn, maar (geheel of gedeeltelijk) bestuurd wordt door een mens."_[^2]
+> <img src="Extra/The Wizard of Oz.png" width="32%">
 
 > In wave 1 hadden we de feedback gekregen dat ze graag de mogelijkheid zouden hebben om een soort instructie/spel te hebben. Na wat verder overleg besloten we in wave 2 een ‘Guitar Hero’ variant te maken via protopie. We hebben dit     protopie bestand gelinkt aan een Ipad en vervolgens de Ipad bevestigd aan de hoofdmodule na wat herschikken van de layout. We besloten ineens de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd moeten zijn in het uiteindelijke product. We zouden dit verder willen realiseren met een ingebouwd scherm of opzetstukje voor een smartphone/Ipad/tablet, en dit linken aan een app.
 
