@@ -74,7 +74,7 @@ _Foto 3: Grote muziekbox_
   
 
 ### Resultaten
-Hieronder staat een overzichtelijke tabel met de belangrijkste inzichten die we haalden uit de expert interviews.
+Op basis van de uitgevoerde expert interviews halen we de belangrijkste zaken aan.
 
 | **Naam**               | **Relatie tot patiënt** | **Belangrijkste inzichten**                                                                                                                                                                                                                                                        | **Opmerkingen over muziek en RGM**                                                                                                                                                                              |
 |-------------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
