@@ -63,6 +63,9 @@ Voor het prototypen zullen we werken met mdf, karton, metalen plaatjes en Makey 
 We zullen de Makey Makey via een simpel arduino bordje verbinden met de metalen plaatjes. De plaatjes vormen een goede elektrische geleiding en biedt meteen een oplossing voor ons prototype. Het bordje wordt op zijn beurt verbonden met een laptop waarop verdere instructies worden gegeven aan de Makey Makey. 
 
 Hieronder staan de uitgewerkte prototypes die we zullen gebruiken voor het testen van beide waves. 
+_Foto 1: Touchpad_
+_Foto 2: Kleine muziekbox_
+_Foto 3: Grote muziekbox_
 
 <p align="left">
   <img src="CYR PICS/Touchbox2.jpg" width="32%">
@@ -71,8 +74,6 @@ Hieronder staan de uitgewerkte prototypes die we zullen gebruiken voor het teste
   
 
 ### Resultaten
-
--
 -
 -
 -
