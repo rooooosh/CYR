@@ -68,12 +68,6 @@ _Foto 2: Kleine muziekbox_
 _Foto 3: Grote muziekbox_
 
 <p align="left">
-
-  <figure>
-    <img src="CYR PICS/Touchbox2.jpg" width="32%">
-    <figcaption>Touchbox 2</figcaption>
-  </figure>
-  
   <img src="CYR PICS/Touchbox2.jpg" width="32%">
   <img src="CYR PICS/Hoofdbox1.jpg" width="32%">
   <img src="CYR PICS/Hoofdbox2.jpg" width="32%">
