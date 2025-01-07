@@ -76,7 +76,7 @@ Uit wave 1 kregen we positieve feedback over het concept. Ze vonden het een leuk
 Ze ervaarden de interactie met de touchbox, wat ze heel goed vonden was dat ze niks hoefden in te drukken, em feedback te krijgen. Ze moesten de plaatjes enkel aanraken. Dit kan voor mensen met Parkinson een graad van moeilijkheid zijn, die zo overwonnen kon worden. Wel kregen we als verbeterpunt de kleine delay dat er nog zat op het tikken van het plaatje en het geluid. Dit was een te verwachten probleem, aangezien de directe feedback wel noodzakelijk was voor het spelen van muziek. Hier konden we geen directe oplossing voor bedenken en is dus iets dat nog opgelost moet worden.
 
 Het grootste resultaat uit wave 2 was de goede ervaring van de gebruikers met het, via protopie, gemaakte spel. De gebruikers vertelden ons dat het een goede uitdaging was, waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid van dit spel werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat we verawcht hadden en niet als probleem zien, aangezien het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
-Waar de gebruikers wel nog een punt van kritiek op hadden was de kwaliteit van het spel. de 'icoontjes' waren niet altijd perfect getimed en waren dus soms wat uit ritme. Dit kwam door het gebruik van protopie bij het maken van dit spel, het bleek op deze manier niet zo efficïent om de verplaatsing van de icoontjes correct in te programmeren. 
+Waar de gebruikers wel nog een punt van kritiek op hadden, was de kwaliteit van het spel. De 'icoontjes' waren niet altijd perfect getimed en waren dus soms wat uit ritme. Dit kwam door het gebruik van protopie bij het maken van dit spel, het bleek op deze manier niet zo efficïent om de verplaatsing van de icoontjes correct in te programmeren. 
 Dit zal voor de volgende fase in ons ontwerpproces dus een kwestie moeten zijn waar we op verder moeten werken. Dit gaat ook gepaard met het scherm dat we zouden gebruiken in een finaal ontwerp.
 
 
@@ -108,6 +108,8 @@ Het idee om een muziekspel te maken stamde af op het idee dat leek op Gitar Hero
   <img src="https://github.com/user-attachments/assets/8231d844-6537-408e-9b07-16e54d26f000" width="32%">
   <img src="https://github.com/user-attachments/assets/bbf16f55-8417-4b2d-8459-fb4150877f14" width="32%">
 
+> [!NOTE]
+> De werking van CYR die wij op dit moment voor ogen hebben kan mogelijks variëren met het eindontwerp. Het doel blijft om een interactief, leuk en uitdagend muziekspel te maken met de voorkeuren van de gebruikers als hoogste prioriteit. 
 
 
 #### Makey Makey
