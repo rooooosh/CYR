@@ -39,11 +39,11 @@ Ons grootste doel was dus om een product te ontwerpen, dat een positieve, stimul
 ### Materiaal & methoden
 Bij het exploreren van de onderzoeksopdracht hebben we aan de hand van een literature review en expert interviews gevonden welke richting we verder in wouden werken. Tijdens het uitvoeren van dit onderzoek begon het bedenken van concepten ook al.
 
-#### Literatuuronderzoek (N=10)
-Literatuuronderzoek uitvoeren is cruciaal om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte. Via internet researchers konden we tal van relevante informatie terug vinden die ons verder kon helpen bij het opstellen van een goede onderzoeksvraag. Het grootste richtdoel dat we uit de literature reviews konden halen, is om te werken rond muziek. Het is bewezen dat muziek en ritme een positieve invloed heeft op mensen met Parkinson.
-
 #### Expert interviews (N=3)
 Expert interviews werden uitgevoerd om _early_ feedback van de gebruikers te verzamelen die helpen bij het bedenken van concepten. Het afnemen van expert interviews hebben geholpen bij het krijgen van een inzicht naar wat onze gebruikers nodig hebben en wat het voor hen aantrekkelijk maakt om zo'n prototype te gebruiken. Wat we vooral uit de interviews hebben gehaald, is dat ze akkoord gaan dat er ruimte is voor een nieuw product. Volgens hen zou het een handig hulpmiddel zijn voor andere mensen met Parkinson, waarbij geen extra tientallen pillen per dag bij nodig zijn.
+
+#### Literatuuronderzoek (N=10)
+Literatuuronderzoek uitvoeren is cruciaal om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte. Via internet researchers konden we tal van relevante informatie terug vinden die ons verder kon helpen bij het opstellen van een goede onderzoeksvraag. Het grootste richtdoel dat we uit de literature reviews konden halen, is om te werken rond muziek. Het is bewezen dat muziek en ritme een positieve invloed heeft op mensen met Parkinson.
 
 #### Conceptselectie
 De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. De keuze om met **CYR** verder te gaan, was vanzelfsprekend. Dit concept sluit het beste aan bij het verlopen onderzoek. In de andere concepten stond muziek meer centraal. Bij **CYR** is het vooral ritme en timing die een oplossing zou moeten geven voor ons project.
@@ -82,7 +82,7 @@ Op basis van de uitgevoerde expert interviews halen we de belangrijkste zaken aa
 | **Monique Deurinck**    | Partner van patiënt    | - Mantelzorger van echtgenoot Marcel (10 jaar Parkinson)<br>- Marcel kan niet meer zelfstandig bewegen, woont in een woonzorgcentrum<br>- Merkte de symptomen op in fijne motoriek<br>- Medicatie wisselde vaak, niet altijd effectief                                                | - Marcel vindt zingen in de woonzorgactiviteiten plezierig, minder schaamte in de sociale setting<br>- Skeptisch over effectiviteit van een product, maar ziet potentieel in motivatie en muziek              |
 | **Annabelle Vermeulen** | Zus van patiënt        | - Mantelzorger van Gaston (23 jaar Parkinson)<br>- Helpt met dagelijkse taken, voelt emotionele impact van zijn achteruitgang<br>- Gaston heeft mentale en fysieke moeilijkheden, confronterend voor beiden<br>- Positief over nieuwe oplossingen                                   | - Gaston heeft muzikale achtergrond, voelt geluk bij het spelen van muziek<br>- Gelooft dat muzikale en fysieke acties effectief kunnen zijn, vooral met een motiverende insteek                         |
 
-
+Het literatuuronderzoek geeft een heel breed inzicht over hoe de ziekte zich precies ontwikkeld binnen de hersenen. Op basis van deze inzichten kunnen we verschillende competenties met elkaar combineren om tot meerdere deeloplossingen te komen. Toch zijn de al reeds gebouwde prototypes onafhankelijk van het gedane onderzoek, omdat bij de keuze uit vorm of grootte vaak een persoonlijke voorkeur aan gebonden is. We hebben ook als doel om het eind ontwerp zo inclusief mogelijk te maken, voor een breder gebruik. 
 
 
 ## Definition
