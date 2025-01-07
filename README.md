@@ -31,9 +31,7 @@ We volgden het Double Diamond ontwerpmodel om ons project in goede banen te leid
 Pas binnen de tweede helft van het semester betraden we de define fase. Hierbij vormden we teams van 2 personen om het gekozen concept verder te zetten. Zoals de figuur van de double diamond het laat zien, is het de bedoeling dat we concepten en oplossingen convergeren tot één werkend concept die de eerste diamond omsluit. Pas bij aanvang van het tweede semester zullen we dieper ingaan op de develop -en deliver fase van het project. Het convergeren tot één werkend concept omslaat allerlei aspecten zoals: prototyping, storyboarding, expert interviews, ...
 
 <p align="left">
-  <img src="Extra/Double diamond.png" width="32%"> 
-
-**WIZARD OF OZ**
+  <img src="Extra/Double Diamond.png" width="32%"> 
 
 ## Discovery
 
@@ -136,6 +134,9 @@ Het grootste resultaat uit wave 2 was de goede ervaring van de gebruikers met he
 Waar de gebruikers wel nog een punt van kritiek op hadden, was de kwaliteit van het spel. De 'icoontjes' waren niet altijd perfect getimed en waren dus soms wat uit ritme. Dit kwam door het gebruik van protopie bij het maken van dit spel, het bleek op deze manier niet zo efficïent om de verplaatsing van de icoontjes correct in te programmeren. 
 Dit zal voor de volgende fase in ons ontwerpproces dus een kwestie moeten zijn waar we op verder moeten werken. Dit gaat ook gepaard met het scherm dat we zouden gebruiken in een finaal ontwerp.
 
+> [!NOTE]
+> De gebruikstests werden uitgevoerd volgens de **Wizard Of Oz** methode. _"De Wizard of Oz methode is een gemodereerde onderzoeksmethode waarbij een gebruiker interageert met een interface die autonoom lijkt te zijn, maar (geheel of gedeeltelijk) bestuurd wordt door een mens."_[^2]
+
 > In wave 1 hadden we de feedback gekregen dat ze graag de mogelijkheid zouden hebben om een soort instructie/spel te hebben. Na wat verder overleg besloten we in wave 2 een ‘Guitar Hero’ variant te maken via protopie. We hebben dit     protopie bestand gelinkt aan een Ipad en vervolgens de Ipad bevestigd aan de hoofdmodule na wat herschikken van de layout. We besloten ineens de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd moeten zijn in het uiteindelijke product. We zouden dit verder willen realiseren met een ingebouwd scherm of opzetstukje voor een smartphone/Ipad/tablet, en dit linken aan een app.
 
 
@@ -202,5 +203,7 @@ Deze korte tegenslagen terzijde, verliep de samenwerking en de progressie die we
 ## Bronnen
 
 [^1]: Diedrich, N. (2020, Juli). _The Evolution-Driven Signature of Parkinson's Disease. CellPress._ (https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30103-X)
+[^2]: Paul, S. Rosala, M. (2024, April). _The Wizard of Oz Method in UX. Nielsen Norman Group_ (https://www.nngroup.com/articles/wizard-of-oz/)
+
 
 
