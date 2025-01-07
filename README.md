@@ -103,6 +103,13 @@ Het idee om een muziekspel te maken stamde af op het idee dat leek op Gitar Hero
 
 **CYR** werkt op een gelijkaardige manier. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de muziekbox die corresponderen met de toetsen op het touchpad. Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt er niet opnieuw gestart, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker slaagt **CYR** erin om zowel cognitie als motoriek te blijven trainen.
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/14b20c3f-54e5-4d32-8076-f1c21077d9bd" width="32%">
+  <img src="https://github.com/user-attachments/assets/8231d844-6537-408e-9b07-16e54d26f000" width="32%">
+  <img src="https://github.com/user-attachments/assets/bbf16f55-8417-4b2d-8459-fb4150877f14" width="32%">
+
+
+
 #### Makey Makey
 Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door [Makey Makey](https://makeymakey.com/). 
 
