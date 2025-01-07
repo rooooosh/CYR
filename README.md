@@ -26,9 +26,14 @@ We streven naar een gebruiksvriendelijk product die de gebruiker uitdaagt, maar 
 
 ## Methodologie
 
-We volgden de aanpak van **UCD** om ons project tot goede banen te leiden in het eerste semester. 
+We volgden het Double Diamond ontwerpmodel om ons project in goede banen te leiden. Dit model bestaat uit 4 fasen: discover, define, develop en deliver. Binnen het eerste semester bevinden we ons in de discover en deliver fase. Binnen de discover fase, eerste helft van het semester, waren we individueel bezig met het onderzoeken van mogelijke concepten voor een vooraf gekozen doelgroep. Dit onderzoek bestond uit een literatuurstudie en het afnemen van enkele interviews. Aan het eind van deze fase werden korte pitches gehouden om de huidige concepten te introduceren. Slechts een deel hiervan kon verder bouwen op hun concept.
 
-> tijdlijn invoegen + **WIZARD OF OZ**
+Pas binnen de tweede helft van het semester betraden we de define fase. Hierbij vormden we teams van 2 personen om het gekozen concept verder te zetten. Zoals de figuur van de double diamond het laat zien, is het de bedoeling dat we concepten en oplossingen convergeren tot één werkend concept die de eerste diamond omsluit. Pas bij aanvang van het tweede semester zullen we dieper ingaan op de develop -en deliver fase van het project. Het convergeren tot één werkend concept omslaat allerlei aspecten zoals: prototyping, storyboarding, expert interviews, ...
+
+<p align="left">
+  <img src="Extra/Double diamond.png" width="32%"> 
+
+**WIZARD OF OZ**
 
 ## Discovery
 
