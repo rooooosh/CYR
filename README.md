@@ -186,6 +186,7 @@ Deze korte tegenslagen terzijde, verliep de samenwerking en de progressie die we
 
 - [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EZP574aSoAhFl09WsWrbi8UBA5_1NxcKcqAjORO0SBlqww?e=72MF4B)
 - [Rapport gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EdqZbkmwm4NGiZS6KD74P3EBFJ-uTSXOdE_JABqfQalWkQ?e=12LJiF)
+- [Storyboard](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EWE_Iul9T3BOiqSTV3mQHsABdU0qXvV47XVcKRbxtR9C3w?e=RbmGrt)
 
 ## Bronnen
 
