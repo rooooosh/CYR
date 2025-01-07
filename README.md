@@ -138,7 +138,7 @@ Waar de gebruikers wel nog een punt van kritiek op hadden, was de kwaliteit van 
 Dit zal voor de volgende fase in ons ontwerpproces dus een kwestie moeten zijn waar we op verder moeten werken. Dit gaat ook gepaard met het scherm dat we zouden gebruiken in een finaal ontwerp.
 
 > [!NOTE]
-> De gebruikstests werden uitgevoerd volgens de **Wizard Of Oz** methode. _"De Wizard of Oz methode is een gemodereerde onderzoeksmethode waarbij een gebruiker interageert met een interface die autonoom lijkt te zijn, maar (geheel of gedeeltelijk) bestuurd wordt door een mens."_[^2]
+> De gebruikstests werden uitgevoerd volgens de **Wizard of Oz** methode. _"De Wizard of Oz methode is een gemodereerde onderzoeksmethode waarbij een gebruiker interageert met een interface die autonoom lijkt te zijn, maar (geheel of gedeeltelijk) bestuurd wordt door een mens."_[^2]
 <img src="Extra/The Wizard of Oz.png" width="32%">
 
 #### Enkele foto's met de gebruikers
