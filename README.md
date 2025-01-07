@@ -28,7 +28,7 @@ We streven naar een gebruiksvriendelijk product die de gebruiker uitdaagt, maar 
 
 We volgden de aanpak van **UCD** om ons project tot goede banen te leiden in het eerste semester. 
 
-> tijdlijn invoegen
+> tijdlijn invoegen + **WIZARD OF OZ**
 
 ## Discovery
 
@@ -60,9 +60,9 @@ Het testen zal plaats vinden in 2 waves.
 In de eerste wave zullen we testen hoe de interactie wordt ervaren tussen gebruiker en product. We zouden willen achterhalen wat voor soort knoppen het beste past bij mensen met Parkinson. We testen met drukknoppen (verschillende groottes) en hendels. In de eerste wave testen we ook hoe de gebruikers de interactie met de touchbox ervaaren en welk gevoel ze krijgen wanneer ze de feedback (het drummen) ontvangen. Hiermee kunnen we ook direct testen of het concept "leuk" is voor de testpersonen, aangezien dit een belangrijke factor is voor het succes van dit project.
 
 Voor het prototypen zullen we werken met mdf, karton, metalen plaatjes en Makey Makey. 
-Door de metalen plaatjes met de Makey Makey te verbinden, kregen we een snel resultaat. Dit was kwalitatief genoeg voor de waves.
+We zullen de Makey Makey via een simpel arduino bordje verbinden met de metalen plaatjes. De plaatjes vormen een goede elektrische geleiding en biedt meteen een oplossing voor ons prototype. Het bordje wordt op zijn beurt verbonden met een laptop waarop verdere instructies worden gegeven aan de Makey Makey. 
 
-In wave 1 hadden we de feedback gekregen dat ze graag de mogelijkheid zouden hebben om een soort instructie/spel te hebben. Na wat verder overleg besloten we in wave 2 een ‘Guitar Hero’ variant te maken via protopie. We hebben dit protopie bestand gelinkt aan een Ipad en vervolgens de Ipad bevestigd aan de hoofdmodule na wat herschikken van de layout. We besloten ineens de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd moeten zijn in het uiteindelijke product. We zouden dit verder willen realiseren met een ingebouwd scherm of opzetstukje voor een smartphone/Ipad/tablet, en dit linken aan een app.
+Hieronder staan de uitgewerkte prototypes die we zullen gebruiken voor het testen van beide waves. 
 
 <p align="left">
   <img src="CYR PICS/Touchbox2.jpg" width="32%">
@@ -123,6 +123,8 @@ Ze ervaarden de interactie met de touchbox, wat ze heel goed vonden was dat ze n
 Het grootste resultaat uit wave 2 was de goede ervaring van de gebruikers met het, via protopie, gemaakte spel. De gebruikers vertelden ons dat het een goede uitdaging was, waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid van dit spel werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat we verawcht hadden en niet als probleem zien, aangezien het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
 Waar de gebruikers wel nog een punt van kritiek op hadden, was de kwaliteit van het spel. De 'icoontjes' waren niet altijd perfect getimed en waren dus soms wat uit ritme. Dit kwam door het gebruik van protopie bij het maken van dit spel, het bleek op deze manier niet zo efficïent om de verplaatsing van de icoontjes correct in te programmeren. 
 Dit zal voor de volgende fase in ons ontwerpproces dus een kwestie moeten zijn waar we op verder moeten werken. Dit gaat ook gepaard met het scherm dat we zouden gebruiken in een finaal ontwerp.
+
+> In wave 1 hadden we de feedback gekregen dat ze graag de mogelijkheid zouden hebben om een soort instructie/spel te hebben. Na wat verder overleg besloten we in wave 2 een ‘Guitar Hero’ variant te maken via protopie. We hebben dit     protopie bestand gelinkt aan een Ipad en vervolgens de Ipad bevestigd aan de hoofdmodule na wat herschikken van de layout. We besloten ineens de knoppen hier in het touchscreen te verwerken, om een extra variant te hebben op de test uit wave 1. De Ipad dient hier puur als prototype en is niet noodzakelijk iets dat zou ingebouwd moeten zijn in het uiteindelijke product. We zouden dit verder willen realiseren met een ingebouwd scherm of opzetstukje voor een smartphone/Ipad/tablet, en dit linken aan een app.
 
 
 <img src="CYR PICS/TEST.jpg" width="32%">
