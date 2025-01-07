@@ -121,6 +121,9 @@ Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse 
 Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchpad te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
 ### Resultaten
+
+
+### Conclusies & implicaties
 Op basis van de resultaten tijdens de discovery fase en uit de definition fase kunnen we een lijst opstellen met de belangrijkste punten in het (voor)onderzoek:
 
 #### Prototypes
@@ -139,9 +142,6 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 - Het duurde een aantal keren voordat er werd onthouden welke toets welk geluid maakte.
 - De gebruikers lieten een goed gevoel achter na afronden van de tests.
 - Gebruikers met duidelijkere symptomen (vb. tremor hand) hadden meer moeite om op een toets te drukken.
-
-### Conclusies & implicaties
-Binnen de onderzoeksfase komen we met het besluit een goede stap genomen te hebben in de richting van het uiteindelijke prototype. Door de vele uitgevoerde gebruikerstests kwamen we tot een dieper inzicht en kunnen we op basis van de gekregen feedback een beter beeld vormen over de volgende stappen. Daarbij zullen we focussen op het vervaardigen van de prototypes uit beter materiaal en optimalere oplossingen te zoeken voor onze nieuw opgestelde problemen. We houden zeker nog contact met de huidige testpersonen om hen een kans te bieden om als eersten het eind ontwerp te testen. 
 
 ## Bill of materials
 
