@@ -31,7 +31,7 @@ We volgden het Double Diamond ontwerpmodel om ons project in goede banen te leid
 Pas binnen de tweede helft van het semester betraden we de define fase. Hierbij vormden we teams van 2 personen om het gekozen concept verder te zetten. Zoals de figuur van de double diamond het laat zien, is het de bedoeling dat we concepten en oplossingen convergeren tot één werkend concept die de eerste diamond omsluit. Pas bij aanvang van het tweede semester zullen we dieper ingaan op de develop -en deliver fase van het project. Het convergeren tot één werkend concept omslaat allerlei aspecten zoals: prototyping, storyboarding, expert interviews, ...
 
 <p align="left">
-  <img src="Extra/Double Diamond.png" width="32%"> 
+  <img src="Extra/Double Diamond.png" width="100%"> 
 
 ## Discovery
 
