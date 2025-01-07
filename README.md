@@ -108,9 +108,6 @@ Het idee om een muziekspel te maken stamde af op het idee dat leek op Gitar Hero
   <img src="https://github.com/user-attachments/assets/8231d844-6537-408e-9b07-16e54d26f000" width="32%">
   <img src="https://github.com/user-attachments/assets/bbf16f55-8417-4b2d-8459-fb4150877f14" width="32%">
 
-> [!NOTE]
-> De werking van CYR die wij op dit moment voor ogen hebben kan mogelijks variëren met het eindontwerp. Het doel blijft om een interactief, leuk en uitdagend muziekspel te maken met de voorkeuren van de gebruikers als hoogste prioriteit. 
-
 
 #### Makey Makey
 Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door [Makey Makey](https://makeymakey.com/). 
