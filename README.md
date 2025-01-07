@@ -1,4 +1,4 @@
-# Projecttitel
+# CYR
 _Een interactief muziekspel voor mensen met de ziekte van Parkinson om hun cognitieve -en motorische vaardigheden te verbeteren._
 
 *Projectteam: Aldo Mauro Van Hese; Rösh-Matthew Gryson*
