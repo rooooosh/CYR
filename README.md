@@ -71,15 +71,11 @@ In wave 1 hadden we de feedback gekregen dat ze graag de mogelijkheid zouden heb
   
 
 ### Resultaten
-Uit wave 1 kregen we positieve feedback over het concept. Ze vonden het een leuk "speels" product, waarbij ze wel het gevoel kregen dat ze constant uitgedaagd werden, zeker voor mensen met een verleden zonder spelen van muziek. 
-Ze ervaarden de interactie met de touchbox, wat ze heel goed vonden was dat ze niks hoefden in te drukken, em feedback te krijgen. Ze moesten de plaatjes enkel aanraken. Dit kan voor mensen met Parkinson een graad van moeilijkheid zijn, die zo overwonnen kon worden. Wel kregen we als verbeterpunt de kleine delay dat er nog zat op het tikken van het plaatje en het geluid. Dit was een te verwachten probleem, aangezien de directe feedback wel noodzakelijk was voor het spelen van muziek. Hier konden we geen directe oplossing voor bedenken en is dus iets dat nog opgelost moet worden.
 
-Het grootste resultaat uit wave 2 was de goede ervaring van de gebruikers met het, via protopie, gemaakte spel. De gebruikers vertelden ons dat het een goede uitdaging was, waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid van dit spel werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat we verawcht hadden en niet als probleem zien, aangezien het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
-Waar de gebruikers wel nog een punt van kritiek op hadden, was de kwaliteit van het spel. De 'icoontjes' waren niet altijd perfect getimed en waren dus soms wat uit ritme. Dit kwam door het gebruik van protopie bij het maken van dit spel, het bleek op deze manier niet zo efficïent om de verplaatsing van de icoontjes correct in te programmeren. 
-Dit zal voor de volgende fase in ons ontwerpproces dus een kwestie moeten zijn waar we op verder moeten werken. Dit gaat ook gepaard met het scherm dat we zouden gebruiken in een finaal ontwerp.
-
-
-<img src="CYR PICS/TEST.jpg" width="32%">
+-
+-
+-
+-
 
 
 ## Definition
@@ -121,7 +117,15 @@ Makey Makey van Joylabz is een eenvoudige uitvindingstool waarmee je alledaagse 
 Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchpad te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
 ### Resultaten
+Uit wave 1 kregen we positieve feedback over het concept. Ze vonden het een leuk "speels" product, waarbij ze wel het gevoel kregen dat ze constant uitgedaagd werden, zeker voor mensen met een verleden zonder spelen van muziek. 
+Ze ervaarden de interactie met de touchbox, wat ze heel goed vonden was dat ze niks hoefden in te drukken, em feedback te krijgen. Ze moesten de plaatjes enkel aanraken. Dit kan voor mensen met Parkinson een graad van moeilijkheid zijn, die zo overwonnen kon worden. Wel kregen we als verbeterpunt de kleine delay dat er nog zat op het tikken van het plaatje en het geluid. Dit was een te verwachten probleem, aangezien de directe feedback wel noodzakelijk was voor het spelen van muziek. Hier konden we geen directe oplossing voor bedenken en is dus iets dat nog opgelost moet worden.
 
+Het grootste resultaat uit wave 2 was de goede ervaring van de gebruikers met het, via protopie, gemaakte spel. De gebruikers vertelden ons dat het een goede uitdaging was, waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid van dit spel werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat we verawcht hadden en niet als probleem zien, aangezien het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
+Waar de gebruikers wel nog een punt van kritiek op hadden, was de kwaliteit van het spel. De 'icoontjes' waren niet altijd perfect getimed en waren dus soms wat uit ritme. Dit kwam door het gebruik van protopie bij het maken van dit spel, het bleek op deze manier niet zo efficïent om de verplaatsing van de icoontjes correct in te programmeren. 
+Dit zal voor de volgende fase in ons ontwerpproces dus een kwestie moeten zijn waar we op verder moeten werken. Dit gaat ook gepaard met het scherm dat we zouden gebruiken in een finaal ontwerp.
+
+
+<img src="CYR PICS/TEST.jpg" width="32%">
 
 ### Conclusies & implicaties
 Op basis van de resultaten tijdens de discovery fase en uit de definition fase kunnen we een lijst opstellen met de belangrijkste punten in het (voor)onderzoek:
