@@ -37,7 +37,7 @@ Pas binnen de tweede helft van het semester betraden we de define fase. Hierbij 
 
 ### Doestellingen
 Aangezien de keuze was om te werken rond mensen met Parkinson, vonden we het nodig ook genoeg met hen in contact te staan bij het beslissen van bepaalde ontwerpkeuzes. 
-Ons grootste doel was dus om een product te ontwerpen, dat een positieve, stimulerende invloed heeft op de gebruikers. Deze positieve invloeden zouden dan zowel wetenschappelijk een voordeel moeten bieden, zoals gehaald uit de literature review, als een positieve invloed op het humeur en gedrag van de gebruiker. 
+Ons grootste doel was dus om een product te ontwerpen dat een positieve, stimulerende invloed heeft op de gebruikers. Deze positieve invloeden zouden dan zowel wetenschappelijk een voordeel moeten bieden, zoals gehaald uit de literature review, als een positieve invloed op het humeur en gedrag van de gebruiker. 
 
 ### Materiaal & methoden
 Bij het exploreren van de onderzoeksopdracht hebben we aan de hand van een literature review en expert interviews gevonden welke richting we verder in wouden werken. Tijdens het uitvoeren van dit onderzoek begon het bedenken van concepten ook al.
