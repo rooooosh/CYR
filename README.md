@@ -53,7 +53,7 @@ De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. 
 
 ### Inleiding Definition
 #### Ontwikkelen deelaspecten
-De  modules hebben elk aparte desgin keuzes. 
+De  modules hebben elk aparte design keuzes. 
 De touchbox moest groot genoeg zijn zodat de gebruiker nog genoeg mobiliteit zou hebben om comfortabel het product te gebruiken. De keuze om met Makey Makey te werken was vanzelfsprekend en bracht interessante voordelen mee. We besloten de prototypes uit mdf en karton te maken voor een snel resultaat. De plaatjes moesten geleidend zijn dus waren metalen plaatjes een perfecte oplossing. De muziekbox werd ook gemaakt uit karton en mdf. Hierbij was het belangrijkste te onderzoeken aspect de plaatsing, grootte en vorm van de knoppen. We besloten dit te testen aan de hand van een aantal iteraties op de module. We besloten ook te experimenteren met hendels, drukknoppen en touchscreens.
 
 #### Prototypen en testen
