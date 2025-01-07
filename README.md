@@ -41,9 +41,11 @@ Ons grootste doel was dus om een product te ontwerpen, dat een positieve, stimul
 #### (Voor)onderzoek
 Bij het exploreren van de onderzoeksopdracht hebben we aan de hand van een literature review en expert interviews gevonden welke richting we verder in wouden werken. Tijdens het uitvoeren van dit onderzoek begon het bedenken van concepten ook al.
 
+##### Literatuuronderzoek (N=10)
 De keuze om een literature review te doen kwam uit de realisatie dat het cruciaal is om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte. Via verschillende internet researchers konden we tal van relevante informatie terug vinden die ons verder kon helpen bij het opstellen van een goede onderzoeksvraag. Het grootste richtdoel dat we uit de literature reviews hebben is om te werken met muziek. Het is bewezen dat muziek en en ritme een positieve invloed heeft op mensen met Parkinson.
 
-De expert interviews werden uitgevoerd omdat we al eerder doorhadden dat de feedback van de gebruikers een cruciale rol zou spelen bij het bedenken van concepten. De expert interviews hebben geholpen bij het krijgen van een inzicht naar wat onze gebruikers nodig hebben en wat het voor hen aantrekkelijk maakt om het prototype te gebruiken. Wat we vooral uit de interviews hebben gehaald, is dat ze akkoord gaan dat er ruimte is voor een nieuw product. Volgens hen zou het een handig hulpmiddel zijn voor andere mensen met Parkinson, waarbij geen extra tientallen pillen per dag bij nodig zijn.
+##### Expert interviews (N=3)
+De expert interviews werden uitgevoerd omdat we al eerder doorhadden dat de feedback van de gebruikers een cruciale rol zou spelen bij het bedenken van concepten. Het afnemen van expert interviews hebben geholpen bij het krijgen van een inzicht naar wat onze gebruikers nodig hebben en wat het voor hen aantrekkelijk maakt om het prototype te gebruiken. Wat we vooral uit de interviews hebben gehaald, is dat ze akkoord gaan dat er ruimte is voor een nieuw product. Volgens hen zou het een handig hulpmiddel zijn voor andere mensen met Parkinson, waarbij geen extra tientallen pillen per dag bij nodig zijn.
 Eens deze onderzoeken waren afgerond, begon de volgende fase in onderzoek. 
 
 #### Conceptselectie
@@ -51,12 +53,12 @@ De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. 
 <p align="left">
   <img src="CYR PICS/modules.png" width="32%"> 
 
-
-#### Ontwikkelen deelaspecten
+#### Inleiding Definition
+##### Ontwikkelen deelaspecten
 De  modules hebben elk aparte desgin keuzes. 
 De touchbox moest groot genoeg zijn zodat de gebruiker nog genoeg mobiliteit zou hebben om comfortabel het product te gebruiken. De keuze om met Makey Makey te werken was vanzelfsprekend en bracht interessante voordelen mee. We besloten de prototypes uit mdf en karton te maken voor een snel resultaat. De plaatjes moesten geleidend zijn dus waren metalen plaatjes een perfecte oplossing. De muziekbox werd ook gemaakt uit karton en mdf. Hierbij was het belangrijkste te onderzoeken aspect de plaatsing, grootte en vorm van de knoppen. We besloten dit te testen aan de hand van een aantal iteraties op de module. We besloten ook te experimenteren met hendels, drukknoppen en touchscreens.
 
-#### Prototypen en testen
+##### Prototypen en testen
 Het testen vond plaats in 2 waves.
 In de eerste wave wouden we testen hoe de interactie wordt ervaren tussen gebruiker en product. We zouden willen achterhalen wat voor soort knoppen het beste past bij mensen met Parkinson. We testten met drukknoppen (verschillende groottes) en hendels. In deze wave testten we ook hoe de gebruikers de interactie met de touchbox ervaarden en welk gevoel ze krijgen wanneer ze de feedback (het drummen) ontvangen. Hiermee konden we ook direct testen of het concept "leuk" was voor de testpersonen, aangezien dit een belangrijke factor is voor het succes van dit project.
 
