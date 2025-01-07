@@ -125,19 +125,21 @@ Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk va
 Op basis van de resultaten tijdens de discovery fase en uit de definition fase kunnen we een lijst opstellen met de belangrijkste punten in het (voor)onderzoek:
 
 #### Prototypes
-- De groottes van beide muziekboxen en het touchpad zijn optimaal
-- De vorm van drukknoppen op het touchpad zijn optimaal en groot genoeg van dimensies
-- Een extra uitdaging zoals meerdere spelvormen zouden het plezier nog meer naar boven halen
-- De delay op het indrukken van de toetsen was een vaak voorkomende storende factor
-- Aanduiding op de toetsen welk geluid welke toets maakte, zorgde voor een beter begrip
-- Het ritme kon iets beter nagevolgd worden m.b.v. de Ipad die werd gemonteerd aan de muziekbox
+- Een spel op basis van muziek zou de motivatie verhogen om hun conditie beter te onderhouden.
+- De groottes van beide muziekboxen en het touchpad zijn optimaal.
+- De vorm van drukknoppen op het touchpad zijn optimaal en groot genoeg van dimensies.
+- Een extra uitdaging zoals meerdere spelvormen zouden het plezier nog meer naar boven halen.
+- De delay op het indrukken van de toetsen was een vaak voorkomende storende factor.
+- Aanduiding op de toetsen welk geluid welke toets maakte, zorgde voor een beter begrip.
+- Het ritme kon iets beter nagevolgd worden m.b.v. de Ipad die werd gemonteerd aan de muziekbox.
+- De toetsen, verbonden met Makey Makey, waren tè responsief. M.a.w. als de toets voor langere tijd werd ingedrukt, kreeg je een rare vervorming van het geluid.
 
 #### Gebruikers
-- Er was vaak een gebrek aan kennis over de verschillende componenten van de toetsen (drumstel)
-- In een aantal gevallen waren de gebruikers niet compatibel voor het gebruik van het prototype door bepaalde menselijke factoren (verbinding i.v.m. Makey Makey)
-- Het duurde een aantal keren voordat er werd onthouden welke toets welk geluid maakte
-- De gebruikers lieten een goed gevoel achter na afronden van de tests
-
+- Er was vaak een gebrek aan kennis over de verschillende componenten (van een drumstel).
+- In een aantal gevallen waren de gebruikers niet compatibel voor het gebruik van het prototype door bepaalde menselijke factoren (verbinding i.v.m. Makey Makey).
+- Het duurde een aantal keren voordat er werd onthouden welke toets welk geluid maakte.
+- De gebruikers lieten een goed gevoel achter na afronden van de tests.
+- Gebruikers met duidelijkere symptomen (vb. tremor hand) hadden meer moeite om op een toets te drukken.
 
 ### Conclusies & implicaties
 Binnen de onderzoeksfase komen we met het besluit een goede stap genomen te hebben in de richting van het uiteindelijke prototype. Door de vele uitgevoerde gebruikerstests kwamen we tot een dieper inzicht en kunnen we op basis van de gekregen feedback een beter beeld vormen over de volgende stappen. Daarbij zullen we focussen op het vervaardigen van de prototypes uit beter materiaal en optimalere oplossingen te zoeken voor onze nieuw opgestelde problemen. We houden zeker nog contact met de huidige testpersonen om hen een kans te bieden om als eersten het eind ontwerp te testen. 
