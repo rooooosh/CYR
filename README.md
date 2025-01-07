@@ -63,8 +63,8 @@ Voor het prototypen zullen we werken met mdf, karton, metalen plaatjes en Makey 
 We zullen de Makey Makey via een simpel arduino bordje verbinden met de metalen plaatjes. De plaatjes vormen een goede elektrische geleiding en biedt meteen een oplossing voor ons prototype. Het bordje wordt op zijn beurt verbonden met een laptop waarop verdere instructies worden gegeven aan de Makey Makey. 
 
 Hieronder staan de uitgewerkte prototypes die we zullen gebruiken voor het testen van beide waves. 
-_Foto 1: Touchpad_
-_Foto 2: Kleine muziekbox_
+_Foto 1: Touchpad_;
+_Foto 2: Kleine muziekbox_;
 _Foto 3: Grote muziekbox_
 
 <p align="left">
@@ -74,9 +74,15 @@ _Foto 3: Grote muziekbox_
   
 
 ### Resultaten
--
--
--
+Hieronder staat een overzichtelijke tabel met de belangrijkste inzichten die we haalden uit de expert interviews.
+
+| **Naam**               | **Relatie tot patiënt** | **Belangrijkste inzichten**                                                                                                                                                                                                                                                        | **Opmerkingen over muziek en RGM**                                                                                                                                                                              |
+|-------------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Gaston Vermeulen**    | Patiënt (68 jaar)      | - Parkinson sinds zijn 45ste.<br>- Kan nog stappen, maar fijne motoriek moeilijk.<br>- Heeft moeten stoppen met muziek spelen (saxofoon, fluiten), wat hij pijnlijk vond.<br>- Open voor nieuwe producten, vooral met muzikale en ritmische aspecten.                                  | - Interesse in ritme/melodie-gebaseerde producten.<br>- Voelt zich ongemakkelijk bij groepsactiviteiten.<br>- Vond voorgesteld concept leuk, ziet uitdaging als motivatie.                                       |
+| **Monique Deurinck**    | Partner van patiënt    | - Mantelzorger van echtgenoot Marcel (10 jaar Parkinson).<br>- Marcel kan niet meer zelfstandig bewegen, woont in een woonzorgcentrum.<br>- Merkte de symptomen op in fijne motoriek.<br>- Medicatie wisselde vaak, niet altijd effectief.                                                | - Marcel vindt zingen in de woonzorgactiviteiten plezierig, minder schaamte in de sociale setting.<br>- Skeptisch over effectiviteit van een product, maar ziet potentieel in motivatie en muziek.              |
+| **Annabelle Vermeulen** | Zus van patiënt        | - Mantelzorger van Gaston (23 jaar Parkinson).<br>- Helpt met dagelijkse taken, voelt emotionele impact van zijn achteruitgang.<br>- Gaston heeft mentale en fysieke moeilijkheden, confronterend voor beiden.<br>- Positief over nieuwe oplossingen.                                   | - Gaston heeft muzikale achtergrond (saxofoon/fluiten), voelt geluk bij muziek.<br>- Gelooft dat muzikale en fysieke acties effectief kunnen zijn, vooral met een motiverende insteek.                         |
+
+
 
 
 ## Definition
