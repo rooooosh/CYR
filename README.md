@@ -142,7 +142,7 @@ Dit zal voor de volgende fase in ons ontwerpproces dus een kwestie moeten zijn w
 
 <p align="left">
   <img src="CYR PICS/TEST.jpg" width="32%">
-  <img src="CYR PICS/TEST2.jpeg" width="32%">
+  <img src="CYR PICS/TEST2.jpeg" width="32%" height="50%">
 
 ### Conclusies & implicaties
 Op basis van de resultaten tijdens de discovery fase en uit de definition fase kunnen we een lijst opstellen met de belangrijkste punten in het (voor)onderzoek:
