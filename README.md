@@ -62,6 +62,8 @@ De touchbox moet groot genoeg zijn zodat de gebruiker nog genoeg mobiliteit heef
 Het testen zal plaats vinden in 2 waves.
 In de eerste wave zullen we testen hoe de interactie wordt ervaren tussen gebruiker en product. We zouden willen achterhalen wat voor soort knoppen het beste past bij mensen met Parkinson. We testen met drukknoppen (verschillende groottes) en hendels. In de eerste wave testen we ook hoe de gebruikers de interactie met de touchbox ervaaren en welk gevoel ze krijgen wanneer ze de feedback (het drummen) ontvangen. Hiermee kunnen we ook direct testen of het concept "leuk" is voor de testpersonen, aangezien dit een belangrijke factor is voor het succes van dit project.
 
+Wat we zullen testen in wave 2 zal afhankelijk zijn van de feedback die we zullen krijgen uit de eerste gebruikstests. Binnen beide waves zouden we wel graag een vergelijking willen maken tussen beide muziekboxen met verschillende groottes. Het is aan de gebruiker een voorkeur van grootte te geven zodat we een beslissing kunnen maken. 
+
 Voor het prototypen zullen we werken met mdf, karton, metalen plaatjes en Makey Makey. 
 We zullen de Makey Makey via een simpel arduino bordje verbinden met de metalen plaatjes. De plaatjes vormen een goede elektrische geleiding en biedt meteen een oplossing voor ons prototype. Het bordje wordt op zijn beurt verbonden met een laptop waarop verdere instructies worden gegeven aan de Makey Makey. 
 
