@@ -201,12 +201,12 @@ Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen)
 ### Resultaten
 - #### **Touchbox MOS Test**
 
-  |**Gebruiker**               | **Score** | **Beperking**||
-  |-|-|-|-|
+  |**Gebruiker**               | **Score** | **Beperking**|
+  |-|-|-|
   | Anne Mestdag    | 3      | Licht Storend   | 
-  | Sofie Vanhoutte    | 2    | Storend
+  | Sofie Vanhoutte    | 2    | Storend|
   | Pieter Jan Lernout | 4 | Waarneembaar, maar niet storend  |
-  | | *gem.: 3* 
+  | | *gem.: 3* ||
   
   De testpersonen ervaarden de latency op de touchbox gemiddeld gezien nog als licht storend.
 
