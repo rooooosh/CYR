@@ -199,20 +199,53 @@ Om de interfaces van de touchbox en de muziekbox vast te leggen werden een aanta
 Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen).
 
 ### Resultaten
+- #### **Touchbox MOS Test**
+
+  |**Gebruiker**               | **Score** | **Beperking**||
+  |-|-|-|-|
+  | Anne Mestdag    | 3      | Licht Storend   | 
+  | Sofie Vanhoutte    | 2    | Storend
+  | Pieter Jan Lernout | 4 | Waarneembaar, maar niet storend  |
+  | | *gem.: 3* 
+  
+  De testpersonen ervaarden de latency op de touchbox gemiddeld gezien nog als licht storend.
+
+- #### **Varianten Touchbox** 
+  *1 - meest voorkeur*
+  
+  *3 - minst voorkeur*
+  |       | **9 toetsen** | **6 toetsen**| **4 toetsen** |
+  |-|-|-|-|
+  | Anne Mestdag    | 2      | 1   | 3|
+  | Sofie Vanhoutte    | 2    | 1 | 3|
+  | Pieter Jan Lernout | 3 | 1  |  2|
+  | || *Favoriet* 
+
+- #### **Varianten Hoofdbox** 
+  *1 - meest voorkeur*
+  
+  *4 - minst voorkeur*
+  |       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
+  |-|-|-|-|-|
+  | Anne Mestdag    | 1      | 2| 4   | 3|
+  | Sofie Vanhoutte    | 2  |4  | 3 | 1|
+  | Pieter Jan Lernout |1| 3 | 4  |  2|
+  | | *Favoriet* 
+
+- #### **Meningen Hendel**
+  Wanneer we de gebruikers vroegen of hoe zij de hendel zagen en of deze hun zelf was opgevallen, reageerden ze meestal met een iets negatievere kijk. 
+  Ze vonden de locatie wat verschuild en het uitsteken van de hendel een probleem
+- 
 -
 -
--
--
--
-....
+
 
 ### Conclusies en implicaties
+- We kunnen stellen dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
+- Wanneer we de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij lieten we hun ook nadenken over de hoeveelheid knoppen ze dan nog tot hun beschikking zouden hebben. Ze bleven bij hun eerste keuze, dit betekent voor ons dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
 -
 -
 -
--
--
-....
 
 > [!IMPORTANT]
 > Design requirements
