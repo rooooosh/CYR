@@ -206,7 +206,7 @@ Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen)
   | Anne Mestdag    | 3      | Licht Storend   | 
   | Sofie Vanhoutte    | 2    | Storend|
   | Pieter Jan Lernout | 4 | Waarneembaar, maar niet storend  |
-  | -| *gem.: 3* |-|
+  | | *gem.: 3* ||
   
   De testpersonen ervaarden de latency op de touchbox gemiddeld gezien nog als licht storend.
 
@@ -235,15 +235,12 @@ Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen)
 - #### **Meningen Hendel**
   Wanneer we de gebruikers vroegen of hoe zij de hendel zagen en of deze hun zelf was opgevallen, reageerden ze meestal met een iets negatievere kijk. 
   Ze vonden de locatie wat verschuild en het uitsteken van de hendel een probleem
-- 
--
--
 
 
 ### Conclusies en implicaties
 - We kunnen stellen dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
 - Wanneer we de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij lieten we hun ook nadenken over de hoeveelheid knoppen ze dan nog tot hun beschikking zouden hebben. Ze bleven bij hun eerste keuze, dit betekent voor ons dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
--
+- Wanneer we op dezelfde wijze de varianten op de interface van de hoofdbox voorlegden, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek voor hen de goede oplossing voor dit probleem, het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om ze zo te kunnen selecteren via 1 knop. 
 -
 -
 
