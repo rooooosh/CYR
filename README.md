@@ -237,7 +237,11 @@ Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen)
   Ze vonden de locatie wat verschuild en het uitsteken van de hendel een probleem
 
 - #### **Voordelen en nadelen van verbinding van hoofd- en touchbox**
-  
+  |**Voordelen**|**Nadelen**|
+  |-|-|
+  |Zo lijkt het wat logischer, het product voelt meer aan als 1 geheel| Het is mogelijks moeilijker om op te bergen |
+  |Voelt ergonomischer aan (scherm zit automatischop een goede positie)| Aangezien het 1 geheel is, is het zwaarder|
+  |Verbinding tussen elektronica eenvoudiger||
 
 ### Conclusies en implicaties
 - We kunnen stellen dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
