@@ -108,7 +108,7 @@ Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgen
   <img src="CYR PICS/CYR met Ipad volledige setup 2.jpeg" width="32%">
 
 [<img src="/CYR PICS/Thumbnail.png">](https://youtu.be/sCeQrx-kPlM)
-
+ 
 #### Makey Makey
 Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door [Makey Makey](https://makeymakey.com/). 
 
