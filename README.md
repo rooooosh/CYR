@@ -3,7 +3,7 @@ _Een interactief muziekspel voor mensen met de ziekte van Parkinson om hun cogni
 
 *Projectteam: Aldo Mauro Van Hese; Rösh-Matthew Gryson*
 
-_11/03/2024_
+_11/03/2025_
 
 <img src= "CYR PICS/CYR PIC.png">
 
