@@ -193,7 +193,7 @@ Deze korte tegenslagen terzijde, verliep de samenwerking en de vooruitgang die w
 De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
 
 ### Materiaal & methoden
-Om de interfaces van de touchbox en de Boombox vast te leggen werden een aantal iteraties gebouwd:
+Om de interfaces van de touchbox en de boombox vast te leggen werden een aantal iteraties gebouwd:
 - Het touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De Boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 
@@ -207,7 +207,7 @@ De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop 
 
 **3.** De draaiknop heeft als mogelijkheid om opnieuw uit een lijst van liedjes te scrollen via een draaibeweging naar links of naar rechts. Om een liedje te selecteren wordt dan op de knop gedrukt. Na het uitvoeren van de gebruikstests kan geconcludeerd worden dat deze interface het meest gunstige is binnen de 4 mogelijkheden.
 
-**4.** 
+**4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de interne schijf ook meedraaien volgens de beweging van het draaiwiel. Binnen de mogelijkheden eindigde deze interface op de tweede plaats.
 
 Hierbij een [link](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5) naar de verschillende gebouwde iteraties.
 
