@@ -225,7 +225,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
   | Anne Mestdag    | 3      | Licht Storend   | 
   | Sofie Vanhoutte    | 2    | Storend|
   | Pieter Jan Lernout | 4 | Waarneembaar, maar niet storend  |
-  | | *gem.: 3* ||
+  | | *Gem.: 3* ||
   
   De testpersonen ervaarden de latency op de touchbox gemiddeld gezien nog als licht storend.
 
