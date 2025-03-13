@@ -11,7 +11,7 @@ _10/12/2024_
 
 De ziekte van Parkinson is een neurologische aandoening waarvoor tot op heden nog steeds geen remedie voor bestaat. Uit literatuuronderzoek[^1] blijkt dat de verdere ontwikkeling van de aandoening een ernstige invloed heeft op de motorische vaardigheden van de persoon. Intensieve medicatie is nodig om het proces te vertragen, maar dit biedt geen permanente oplossing. Hierbij is er verder uitgediept in de Ronnie Gardiner Methode, een wetenschappelijk onderbouwde methode om cognitieve en motorische vaardigheden te stimuleren via multisensorische prikkels op basis van muziek. 
 
-Om te voorkomen dat deze ziekte verder ontwikkeld, werd **CYR** ontworpen. **C**reate **Y**our **R**ithm is een interactief muziekspel dat helpt bij het verbeteren van de motorische -en de cognitieve vaardigheden. Deze oplossing biedt de mogelijkheid om zelfstandig muziek te maken met behulp van twee geïntegreerde modules: een **touchpad**  en een **muziekbox**. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
+Om te voorkomen dat deze ziekte verder ontwikkeld, werd **CYR** ontworpen. **C**reate **Y**our **R**ithm is een interactief muziekspel dat helpt bij het verbeteren van de motorische -en de cognitieve vaardigheden. Deze oplossing biedt de mogelijkheid om zelfstandig muziek te maken met behulp van twee geïntegreerde modules: een **touchbox**  en een **Boombox**. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
 
 > [!NOTE]
 > Linken naar protocollen, rapporteringen en diepgaand onderzoek zijn te vinden in de sectie [Bijlagen](#Bijlagen)
@@ -20,7 +20,7 @@ Om te voorkomen dat deze ziekte verder ontwikkeld, werd **CYR** ontworpen. **C**
 
 De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vordert, wordt het voor de familie steeds moeilijker om de benodigde zorg te bieden, waarvoor uiteindelijk wordt gekozen voor een geschikte zorginstelling om de intensieve zorg over te nemen.
 
-Het doel van dit project is om mensen met een _vroege_ diagnose van Parkinson te begeleiden, zodanig dat de ziekte niet verergerd. De bewuste keuze om niet verder te gaan met mensen met een langere diagnose ligt aan het feit dat interactie met dagdagelijkse gebruiksvoorwerpen voor hen ingewikkelder worden. **CYR** heeft als doel om de gebruiker multisensorisch te prikkelen zodat hun cognitieve vaardigheden niet verloren gaan. De nadruk op het ontwerp ligt op het zelfstandig gebruiken van het product om de effectiviteit van de werking te garanderen. Het bestaat uit twee geïntegreerde onderdelen: een touchpad waarop muziek wordt gecreëerd en een muziekbox waar de gebruiker een keuze kan maken uit verschillende sets van voorgeprogrammeerde liedjes. Het ontwerp kan ook gebruikt worden in verschillende omgevingen.
+Het doel van dit project is om mensen met een _vroege_ diagnose van Parkinson te begeleiden, zodanig dat de ziekte niet verergerd. De bewuste keuze om niet verder te gaan met mensen met een langere diagnose ligt aan het feit dat interactie met dagdagelijkse gebruiksvoorwerpen voor hen ingewikkelder worden. **CYR** heeft als doel om de gebruiker multisensorisch te prikkelen zodat hun cognitieve vaardigheden niet verloren gaan. De nadruk op het ontwerp ligt op het zelfstandig gebruiken van het product om de effectiviteit van de werking te garanderen. Het bestaat uit twee geïntegreerde onderdelen: een touchbox waarop muziek wordt gecreëerd en een Boombox waar de gebruiker een keuze kan maken uit verschillende sets van voorgeprogrammeerde liedjes. Het ontwerp kan ook gebruikt worden in verschillende omgevingen.
 
 We streven naar een gebruiksvriendelijk product die de gebruiker uitdaagt, maar alsnog het plezier behoudt. 
 
@@ -74,15 +74,15 @@ De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. 
 Vanuit het vooropgestelde onderzoek bouwden we een prototype die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste wave werd het prototype aangepast aan de voorkeur van de gebruiker. Uit deze feedback werden de volgende stappen genomen voor wave 2.
 
 ### Materiaal & methoden
-De gebruikstesten zullen plaats vinden in 2 waves. De eerste wave legt de focus op de interactie tussen het prototype (zowel touchbox als muziekbox) en de gebruiker. Hierbij was de bedoeling om enige ongemakken tijdens het gebruik op te sporen en de interactie zo goed mogelijk te optimaliseren. Er werd getest met drukknoppen (verschillende groottes) en hendels waarvan de functies later worden besproken. Wat getest zal worden in wave 2 is afhankelijk van de feedback uit wave 1. Voor het prototypen werd er gebruik gemaakt van mdf, karton, metalen plaatjes en Makey Makey. 
+De gebruikstesten zullen plaats vinden in 2 waves. De eerste wave legt de focus op de interactie tussen het prototype (zowel touchbox als Boombox) en de gebruiker. Hierbij was de bedoeling om enige ongemakken tijdens het gebruik op te sporen en de interactie zo goed mogelijk te optimaliseren. Er werd getest met drukknoppen (verschillende groottes) en hendels waarvan de functies later worden besproken. Wat getest zal worden in wave 2 is afhankelijk van de feedback uit wave 1. Voor het prototypen werd er gebruik gemaakt van mdf, karton, metalen plaatjes en Makey Makey. 
 
-Er zijn twee prototypes van de muziekbox in verschillende formaten gemaakt om de voorkeuren weer te geven die in elk van de waves naar voren kwamen. De muziekbox heeft als doel om een liedje te selecteren en biedt de keuze om dit met of zonder percussie te doen via een keuzehendel of aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de knop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide muziekboxen werden grote knoppen gemonteerd die de keuze liet geven uit een aantal liedjes. 
+Er zijn twee prototypes van de Boombox in verschillende formaten gemaakt om de voorkeuren weer te geven die in elk van de waves naar voren kwamen. De Boombox heeft als doel om een liedje te selecteren en biedt de keuze om dit met of zonder percussie te doen via een keuzehendel of aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de knop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide Boomboxen werden grote knoppen gemonteerd die de keuze liet geven uit een aantal liedjes. 
 
 Vooraf aan de bouw van het touchbox werden de dimensies zodanig gekozen dat er genoeg plaats voor de elektronica en de plaatjes die moeten bevestigd worden. In totaal werden 9 gelijke metalen plaatjes gemonteerd, 3 plaatjes per 3 rijen. In het verdere verloop van dit project zou kunnen gewerkt worden met minder of meer plaatjes, deze keuze kan nog verandert worden in de loop van de tijd. 
 
-_Foto 1: Touchpad_;
-_Foto 2: Kleine muziekbox_;
-_Foto 3: Grote muziekbox_
+_Foto 1: touchbox_;
+_Foto 2: Kleine Boombox_;
+_Foto 3: Grote Boombox_
 
 <p align="left">
   <img src="CYR PICS/Touchbox2.jpg" width="32%">
@@ -98,7 +98,7 @@ In wave 1 werden de verschillende toetsen van het touchbox aangeduid met hun bij
 #### Inspiratie
 Het idee om een muziekspel te maken stamde af op het idee dat leek op Guitar Hero, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. 
 
-In wave 2 werd een spel geprogrammeerd waarin **CYR** op een vergelijkbare manier functioneert. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de muziekbox die corresponderen met de icoontjes op het touchpad. In dit geval werd er gebruik gemaakt van een Ipad als scherm.
+In wave 2 werd een spel geprogrammeerd waarin **CYR** op een vergelijkbare manier functioneert. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de Boombox die corresponderen met de icoontjes op het touchbox. In dit geval werd er gebruik gemaakt van een Ipad als scherm.
 
 Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt er niet opnieuw gestart, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker slaagt **CYR** erin om zowel cognitie als motoriek te blijven trainen.
 
@@ -117,7 +117,7 @@ Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door 
   <img src="Extra/Makey Makey 1.png" width="32%">
   <img src="Extra/Makey Makey 2.png" width="32%">
 
-Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchpad te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
+Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchbox te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
 > [!IMPORTANT]
 > Makey Makey maakt gebruik van haptic touch waardoor een simpele aanraking met één van de toetsen al een geluid creëert. 
@@ -143,12 +143,12 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 
 #### Prototypes
 - Een spel op basis van muziek zou de motivatie verhogen om hun conditie beter te onderhouden.
-- De groottes van beide muziekboxen en het touchbox zijn optimaal alsook voor de groottes van de toetsen.
-- De vorm van drukknoppen op het touchpad zijn optimaal en groot genoeg van dimensies.
+- De groottes van beide Boomboxen en het touchbox zijn optimaal alsook voor de groottes van de toetsen.
+- De vorm van drukknoppen op het touchbox zijn optimaal en groot genoeg van dimensies.
 - Een extra uitdaging zoals meerdere spelvormen zouden het plezier nog meer naar boven halen.
 - De delay op het indrukken van de toetsen was een vaak voorkomende storende factor.
 - Aanduiding op de toetsen welk geluid welke toets maakte, zorgde voor een beter begrip.
-- Het ritme kon iets beter nagevolgd worden m.b.v. de Ipad die werd gemonteerd aan de muziekbox.
+- Het ritme kon iets beter nagevolgd worden m.b.v. de Ipad die werd gemonteerd aan de Boombox.
 - De toetsen, verbonden met Makey Makey, waren tè responsief. M.a.w. als de toets voor langere tijd werd ingedrukt, kreeg je een rare vervorming van het geluid.
 
 #### Gebruikers
@@ -164,9 +164,9 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 > - 2.1 De touchbox produceert geluid door een enkele aanraking met één van de toetsen
 > - 2.2 De toetsen zijn groot genoeg om eenvoudig en comfortabel deze aan te tikken
 > - 2.3 Elke toets wordt afgebeeld met een ander symbool
-> - 3.1 De muziekbox bevat een minimale grootte voor het ondersteunen van een scherm 
-> - 3.2 De muziekbox heeft een functieknop aan de zijkant om het ritme van muziek aan/uit te schakelen
-> - 3.3 De muziekbox bevat verschillende knoppen om een keuze te maken uit verschillende liedjes
+> - 3.1 De Boombox bevat een minimale grootte voor het ondersteunen van een scherm 
+> - 3.2 De Boombox heeft een functieknop aan de zijkant om het ritme van muziek aan/uit te schakelen
+> - 3.3 De Boombox bevat verschillende knoppen om een keuze te maken uit verschillende liedjes
 > - 4.1 De toetsen bevinden zich in een dicht gestapeld raster (2x2, 3x2, 3x3) om multi-touch mogelijk te maken
 
 ## Bill of materials
@@ -193,9 +193,9 @@ Deze korte tegenslagen terzijde, verliep de samenwerking en de progressie die er
 De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
 
 ### Materiaal & methoden
-Om de interfaces van de touchbox en de muziekbox vast te leggen werden een aantal iteraties gebouwd:
+Om de interfaces van de touchbox en de Boombox vast te leggen werden een aantal iteraties gebouwd:
 - Het touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
-- De muziekbox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
+- De Boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 
 Hierbij een [link](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5) naar de verschillende gebouwde iteraties en extra uitleg in verband met de werking.
 
@@ -228,7 +228,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
   | Pieter Jan Lernout | 3 | 1  |  2|
   | || *Favoriet* 
 
-- #### **Varianten Hoofdbox** 
+- #### **Varianten boombox** 
   *1 - meest voorkeur*
   
   *4 - minst voorkeur*
@@ -243,7 +243,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
   Wanneer we de gebruikers vroegen of hoe zij de hendel zagen en of deze hun zelf was opgevallen, reageerden ze meestal met een iets negatievere kijk. 
   Ze vonden de locatie wat verschuild en het uitsteken van de hendel een probleem
 
-- #### **Voordelen en nadelen van verbinding van hoofd- en touchbox**
+- #### **Voordelen en nadelen van verbinding van touch- en boombox**
   |**Voordelen**|**Nadelen**|
   |-|-|
   |Zo lijkt het wat logischer, het product voelt meer aan als 1 geheel| Het is mogelijks moeilijker om op te bergen |
@@ -253,15 +253,15 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 ### Conclusies en implicaties
 - We kunnen stellen dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
 - Wanneer we de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij lieten we hun ook nadenken over de hoeveelheid knoppen ze dan nog tot hun beschikking zouden hebben. Ze bleven bij hun eerste keuze, dit betekent voor ons dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
-- Wanneer we op dezelfde wijze de varianten op de interface van de hoofdbox voorlegden, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek voor hen de goede oplossing voor dit probleem, het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om ze zo te kunnen selecteren via 1 knop. 
+- Wanneer we op dezelfde wijze de varianten op de interface van de boombox voorlegden, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek voor hen de goede oplossing voor dit probleem, het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om ze zo te kunnen selecteren via 1 knop. 
 -
 -
 
 > [!IMPORTANT]
 > Design requirements
-> - 1.2 De touchbox en muziekbox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
+> - 1.2 De touchbox en Boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
 > - 1.3 Het product is zo klein mogelijk
-> - 2.4 De interface van de hoofdmodule is zodanig ontworpen zodat de interactie
+> - 2.4 De interface van de boombox is zodanig ontworpen zodat de interactie
 > - 2.5 Voor elke gebruiker is er een uitdagend niveau beschikbaar
 > - 2.6 De display is simplistisch en makkelijk om te begrijpen
 > - 3.4 Het product geeft duidelijk aan met welke elementen in interactie gegaan kan worden
@@ -269,7 +269,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 > - 3.6 De touchbox is responsief en heeft een lage latency
 > - 4.3 De knoppen van de touchbox hebben een gepaste grootte
 > - 4.4 Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch
-> - 4.5 De interactie met de muziekbox gebeurt aan de hand van fysieke knoppen
+> - 4.5 De interactie met de Boombox gebeurt aan de hand van fysieke knoppen
 
 ## Bijlagen
 
