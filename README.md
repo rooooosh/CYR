@@ -200,7 +200,8 @@ Om de interfaces van de touchbox en de muziekbox vast te leggen werden een aanta
 Hierbij een link naar de verschillende gebouwde iteraties: [iteraties](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5)
 
 
-Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen)
+> [!NOTE]
+> Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen)
 
 ### Resultaten
 - #### **Touchbox MOS Test**
