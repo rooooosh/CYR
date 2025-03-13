@@ -228,7 +228,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
   | Pieter Jan Lernout | 3 | 1  |  2|
   | || *Favoriet* 
 
-- #### **Varianten boombox** 
+- #### **Varianten Boombox** 
   *1 - meest voorkeur*
   
   *4 - minst voorkeur*
@@ -240,19 +240,18 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
   | | *Favoriet* 
 
 - #### **Meningen Hendel**
-  Wanneer we de gebruikers vroegen of hoe zij de hendel zagen en of deze hun zelf was opgevallen, reageerden ze meestal met een iets negatievere kijk. 
-  Ze vonden de locatie wat verschuild en het uitsteken van de hendel een probleem
+- De hendel werd doorgaans opgemerkt met een iets negatievere indruk wanneer ernaar werd gevraagd. De locatie was volgens hen te verschuild en het uitsteken van de hendel vormde een miniem probleem
 
-- #### **Voordelen en nadelen van verbinding van touch- en boombox**
+- #### **Voordelen en nadelen verbinding touch- en boombox**
   |**Voordelen**|**Nadelen**|
   |-|-|
-  |Zo lijkt het wat logischer, het product voelt meer aan als 1 geheel| Het is mogelijks moeilijker om op te bergen |
-  |Voelt ergonomischer aan (scherm zit automatischop een goede positie)| Aangezien het 1 geheel is, is het zwaarder|
-  |Verbinding tussen elektronica eenvoudiger||
+  |"Zo lijkt het wat logischer, het product voelt meer aan als 1 geheel"| "Het is mogelijks moeilijker om op te bergen" |
+  |"Voelt ergonomischer aan (scherm zit automatisch op een goede positie)"| "Aangezien het 1 geheel is, is het zwaarder"|
+  |"Verbinding tussen elektronica zal eenvoudiger zijn"||
 
 ### Conclusies en implicaties
-- We kunnen stellen dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
-- Wanneer we de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij lieten we hun ook nadenken over de hoeveelheid knoppen ze dan nog tot hun beschikking zouden hebben. Ze bleven bij hun eerste keuze, dit betekent voor ons dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
+- Er kan gesteld worden dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
+- Wanneer de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij lieten we hun ook nadenken over de hoeveelheid knoppen ze dan nog tot hun beschikking zouden hebben. Ze bleven bij hun eerste keuze, dit betekent voor ons dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
 - Wanneer we op dezelfde wijze de varianten op de interface van de boombox voorlegden, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek voor hen de goede oplossing voor dit probleem, het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om ze zo te kunnen selecteren via 1 knop. 
 -
 -
