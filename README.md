@@ -197,7 +197,19 @@ Om de interfaces van de touchbox en de Boombox vast te leggen werden een aantal 
 - Het touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De Boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 
-Hierbij een [link](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5) naar de verschillende gebouwde iteraties en extra uitleg in verband met de werking.
+**1.** De verschillende iteraties op de boombox bevatten interfaces die elk op een andere manier worden gebruikt. Het originele prototype dat 4 keuzeknoppen bevatte voor het selecteren van een liedje, werd opnieuw gebouwd met een viertal kleinere knoppen waarbij een extra respons wordt toegepast na indrukken van een knop. 
+
+**2.** De interface met 2 knoppen dient op gelijkaardige wijze gebruikt te worden. De interface bestaat uit een lijst van liedjes die voorgeprogrammeerd zijn en bevat ook de optie om eigen liedjes up te loaden binnen de software.
+
+_"Na mum van tijd zul je die liedjes zat zijn"_
+
+De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop zorgt voor de navigatie naar boven. Om een keuze te maken uit een liedje worden simultaan beide knoppen ingedrukt. 
+
+**3.** De draaiknop heeft als mogelijkheid om opnieuw uit een lijst van liedjes te scrollen via een draaibeweging naar links of naar rechts. Om een liedje te selecteren wordt dan op de knop gedrukt. Na het uitvoeren van de gebruikstests kan geconcludeerd worden dat deze interface het meest gunstige is binnen de 4 mogelijkheden.
+
+**4.** 
+
+Hierbij een [link](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5) naar de verschillende gebouwde iteraties.
 
 > [!IMPORTANT]
 > Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen)
@@ -253,6 +265,9 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 - Er kan gesteld worden dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
 - Wanneer de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij lieten we hun ook nadenken over de hoeveelheid knoppen men dan nog tot hun beschikking zouden hebben. De eerste keus bleef behouden, dit betekent dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
 - Wanneer op dezelfde wijze de varianten op de interface van de boombox werden voorgelegd, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek de goede oplossing voor dit probleem, het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om zo te kunnen selecteren via 1 knop. 
+-
+-
+...
 
 
 > [!IMPORTANT]
