@@ -204,7 +204,7 @@ Hierbij een [link](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_
 
 ### Resultaten
 
-De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ES3WNbN0WClOn1nJESBFn6IBWB74uhWHl6Zd6KmwXddXkg?e=pNfeQX) en zullen hier kort toegelicht worden.
+De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort toegelicht worden.
 
 - #### **Touchbox MOS Test**
 
