@@ -240,7 +240,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
   | | *Favoriet* 
 
 - #### **Meningen Hendel**
-- De hendel werd doorgaans opgemerkt met een iets negatievere indruk wanneer ernaar werd gevraagd. De locatie was volgens hen te verschuild en het uitsteken van de hendel vormde een miniem probleem
+  De hendel werd doorgaans opgemerkt met een iets negatievere indruk wanneer ernaar werd gevraagd. De locatie was volgens hen te verschuild en het uitsteken van de hendel vormde een miniem probleem
 
 - #### **Voordelen en nadelen verbinding touch- en boombox**
   |**Voordelen**|**Nadelen**|
@@ -251,10 +251,9 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 
 ### Conclusies en implicaties
 - Er kan gesteld worden dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
-- Wanneer de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij lieten we hun ook nadenken over de hoeveelheid knoppen ze dan nog tot hun beschikking zouden hebben. Ze bleven bij hun eerste keuze, dit betekent voor ons dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
-- Wanneer we op dezelfde wijze de varianten op de interface van de boombox voorlegden, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek voor hen de goede oplossing voor dit probleem, het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om ze zo te kunnen selecteren via 1 knop. 
--
--
+- Wanneer de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij lieten we hun ook nadenken over de hoeveelheid knoppen men dan nog tot hun beschikking zouden hebben. De eerste keus bleef behouden, dit betekent dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
+- Wanneer op dezelfde wijze de varianten op de interface van de boombox werden voorgelegd, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek de goede oplossing voor dit probleem, het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om zo te kunnen selecteren via 1 knop. 
+
 
 > [!IMPORTANT]
 > Design requirements
