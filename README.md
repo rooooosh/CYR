@@ -197,10 +197,9 @@ Om de interfaces van de touchbox en de muziekbox vast te leggen werden een aanta
 - Het touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De muziekbox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 
-Hierbij een link naar de verschillende gebouwde iteraties: [iteraties](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5)
+Hierbij een [link](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5) naar de verschillende gebouwde iteraties en extra uitleg in verband met de werking.
 
-
-> [!NOTE]
+> [!IMPORTANT]
 > Verdere ontwerpbeslissingen worden aangekaart in [Protocol develop 1](#Bijlagen)
 
 ### Resultaten
