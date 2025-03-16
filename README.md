@@ -43,14 +43,13 @@ Bij aanvang van het tweede semester (week 13) treden we de derde en laatste diam
 ## Discovery
 
 ### Doestellingen
-Aangezien de keuze was om te werken rond mensen met Parkinson, was het nodig om ook genoeg met gebruikers in contact te staan bij het beslissen van bepaalde ontwerpkeuzes. 
-Ons grootste doel was dus om een product te ontwerpen dat een positieve, stimulerende invloed heeft op de gebruikers. Deze positieve invloeden zouden dan zowel wetenschappelijk een voordeel moeten bieden, zoals gehaald uit de literature review, als een positieve invloed op het humeur en gedrag van de gebruiker. 
+De keuze om te werken rond mensen met Parkinson maakte het noodzakelijk om voldoende met gebruikers in contact te staan bij het maken van bepaalde ontwerpkeuzes. Het grootste doel is om een product te ontwerpen dat een positieve, stimulerende invloed heeft op de gebruikers. Deze positieve invloeden zouden zowel wetenschappelijk een voordeel moeten bieden als een positieve invloed op het humeur en gedrag van de gebruiker. 
 
 ### Materiaal & methoden
-Bij het exploreren van de onderzoeksopdracht is er aan de hand van een literature review en expert interviews gevonden welke richting er verder in gewerkt kon worden. Tijdens het uitvoeren van dit onderzoek begon het bedenken van concepten ook al.
+Door een grondige verkenning van de onderzoeksopdracht, gebaseerd op een uitgebreide literatuurstudie en diepgaande expertinterviews, werd de verdere onderzoeksrichting zorgvuldig bepaald. Parallel aan de uitvoering van het onderzoek ontstonden de eerste conceptuele ideeën, waarbij inzichten uit de analyse direct bijdroegen aan de ontwikkeling van innovatieve oplossingsrichtingen.
 
 #### Expert interviews (N=3)
-Expert interviews werden uitgevoerd om _early_ feedback van de gebruikers te verzamelen die helpen bij het bedenken van concepten. Het afnemen van expert interviews hebben geholpen bij het krijgen van een inzicht naar wat onze gebruikers nodig hebben en wat het voor hen aantrekkelijk maakt om zo'n prototype te gebruiken. Wat er vooral uit de interviews gehaald is, is dat ze akkoord gaan dat er ruimte is voor een nieuw product. Volgens de gebruikers zou het een handig hulpmiddel zijn voor andere mensen met Parkinson, waarbij geen extra tientallen pillen per dag bij nodig zijn.
+De expert interviews werden uitgevoerd om _early_ feedback van de gebruikers te verzamelen die hielpen bij het bedenken van concepten. Uit de interviews kwam vooral naar voren dat de respondenten erkenden dat er een behoefte en marktruimte bestaat voor een nieuw product. Het zou een handig hulpmiddel zijn voor mensen met Parkinson, waarbij er minder extra medicatie moet genomen worden. 
 
 Op basis van de interviews worden hier de belangrijkste zaken aangehaald.
 
@@ -61,10 +60,10 @@ Op basis van de interviews worden hier de belangrijkste zaken aangehaald.
 | **Annabelle Vermeulen** | Zus van patiënt        | - Mantelzorger van Gaston (23 jaar Parkinson)<br>- Helpt met dagelijkse taken, voelt emotionele impact van zijn achteruitgang<br>- Gaston heeft mentale en fysieke moeilijkheden, confronterend voor beiden<br>- Positief over nieuwe oplossingen                                   | - Gaston heeft muzikale achtergrond, voelt geluk bij het spelen van muziek<br>- Gelooft dat muzikale en fysieke acties effectief kunnen zijn, vooral met een motiverende insteek                         |
 
 #### Literatuuronderzoek (N=10)
-Literatuuronderzoek uitvoeren is cruciaal om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte. Via internet researchers werd tal van relevante informatie gevonden die het project verder kon helpen bij het opstellen van een goede onderzoeksvraag. Het grootste richtdoel dat er uit de literature reviews kon gehaald worden, is om te werken rond muziek. Het is bewezen dat muziek en ritme een positieve invloed hebben op mensen met Parkinson.
+Literatuuronderzoek uitvoeren is cruciaal om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte. Via een internet research werd tal van relevante informatie gevonden die het project verder kon helpen bij het opstellen van een goede onderzoeksvraag. De literatuurstudie wees uit dat muziek het meest prominente focuspunt vormt voor verdere ontwikkeling binnen dit onderzoek. Het is bewezen dat muziek en ritme een positieve invloed hebben op mensen met Parkinson.
 
 #### Conceptselectie
-De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. De keuze om met **CYR** verder te gaan, was vanzelfsprekend. Dit concept sluit het beste aan bij het verlopen onderzoek. In de andere concepten stond muziek meer centraal. Bij **CYR** is het vooral ritme en timing die een oplossing zou moeten geven voor ons project.
+De concepten die uit het vooronderzoek kwamen, waren allemaal gericht op muziek. De keuze om met **CYR** verder te gaan, was vanzelfsprekend. Dit concept sluit het beste aan bij het verlopen onderzoek. In de andere concepten stond muziek meer centraal. De kern bij **CYR** ligt vooral bij ritme en timing die een oplossing zou moeten geven voor ons project.
 <p align="left">
   <img src="CYR PICS/modules.png" width="32%"> 
 
@@ -74,13 +73,13 @@ De concepten die uit het vooronderzoek kwamen waren allemaal gericht op muziek. 
 Vanuit het vooropgestelde onderzoek bouwden we een prototype die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste wave werd het prototype aangepast aan de voorkeur van de gebruiker. Uit deze feedback werden de volgende stappen genomen voor wave 2.
 
 ### Materiaal & methoden
-De gebruikstesten zullen plaats vinden in 2 waves. De eerste wave legt de focus op de interactie tussen het prototype (zowel touchbox als Boombox) en de gebruiker. Hierbij was de bedoeling om enige ongemakken tijdens het gebruik op te sporen en de interactie zo goed mogelijk te optimaliseren. Er werd getest met drukknoppen (verschillende groottes) en hendels waarvan de functies later worden besproken. Wat getest zal worden in wave 2 is afhankelijk van de feedback uit wave 1. Voor het prototypen werd er gebruik gemaakt van mdf, karton, metalen plaatjes en Makey Makey. 
+De gebruikstesten zullen plaats vinden in 2 waves. De eerste wave legt de focus op de interactie tussen het prototype (zowel touchbox als boombox) en de gebruiker. Hierbij was de bedoeling om enige ongemakken tijdens het gebruik op te sporen en de interactie zo goed mogelijk te optimaliseren. Er werd getest met drukknoppen (verschillende groottes) en hendels waarvan de functies later worden besproken. Wat getest zal worden in wave 2 is afhankelijk van de feedback uit wave 1. Voor het prototypen werd er gebruik gemaakt van mdf, karton, metalen plaatjes en Makey Makey. 
 
-Er zijn twee prototypes van de Boombox in verschillende formaten gemaakt om de voorkeuren weer te geven die in elk van de waves naar voren kwamen. De Boombox heeft als doel om een liedje te selecteren en biedt de keuze om dit met of zonder percussie te doen via een keuzehendel of aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de knop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide Boomboxen werden grote knoppen gemonteerd die de keuze liet geven uit een aantal liedjes. 
+Er zijn twee prototypes van de boombox in verschillende formaten gemaakt om de voorkeuren weer te geven die in elk van de waves naar voren kwamen. De Boombox heeft als doel om een liedje te selecteren en biedt de keuze om dit met of zonder percussie te doen via een keuzehendel of aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de knop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide boomboxen werden grote knoppen gemonteerd die de keuze liet geven uit een aantal liedjes. 
 
 Vooraf aan de bouw van het touchbox werden de dimensies zodanig gekozen dat er genoeg plaats voor de elektronica en de plaatjes die moeten bevestigd worden. In totaal werden 9 gelijke metalen plaatjes gemonteerd, 3 plaatjes per 3 rijen. In het verdere verloop van dit project zou kunnen gewerkt worden met minder of meer plaatjes, deze keuze kan nog verandert worden in de loop van de tijd. 
 
-_Foto 1: touchbox_;
+_Foto 1: Touchbox_;
 _Foto 2: Kleine Boombox_;
 _Foto 3: Grote Boombox_
 
@@ -89,7 +88,7 @@ _Foto 3: Grote Boombox_
   <img src="CYR PICS/Hoofdbox1.jpg" width="32%">
   <img src="CYR PICS/Hoofdbox2.jpg" width="32%">
 
-In wave 1 werden de verschillende toetsen van het touchbox aangeduid met hun bijhorende naam. Door de vele verwarring en beperkte kennis over een drumstel werd er overgeschakeld naar een alternatief met icoontjes in wave 2. Door het gebruik van icoontjes op de toetsen kreeg de gebruiker meer voeling om het ritme goed na te bootsen.
+In wave 1 werden de verschillende toetsen van de touchbox aangeduid met hun bijhorende naam. Door de vele verwarring en beperkte kennis over een drumstel werd er overgeschakeld naar een alternatief met icoontjes in wave 2. Door het gebruik van icoontjes op de toetsen kreeg de gebruiker meer voeling om het ritme goed na te bootsen.
 
 <p align="left">
   <img src="CYR PICS/Touchbox 3.jpeg" width="32%">
@@ -98,9 +97,9 @@ In wave 1 werden de verschillende toetsen van het touchbox aangeduid met hun bij
 #### Inspiratie
 Het idee om een muziekspel te maken stamde af op het idee dat leek op Guitar Hero, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. 
 
-In wave 2 werd een spel geprogrammeerd waarin **CYR** op een vergelijkbare manier functioneert. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de Boombox die corresponderen met de icoontjes op het touchbox. In dit geval werd er gebruik gemaakt van een Ipad als scherm.
+In wave 2 werd een spel geprogrammeerd waarin **CYR** op een vergelijkbare manier functioneert. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de boombox die corresponderen met de icoontjes op de touchbox. In dit geval werd er gebruik gemaakt van een Ipad als scherm.
 
-Het doel is dus om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt er niet opnieuw gestart, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker slaagt **CYR** erin om zowel cognitie als motoriek te blijven trainen.
+Het doel is om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt er niet opnieuw gestart, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker, slaagt **CYR** erin om zowel cognitie als motoriek te blijven trainen.
 
 <p align="left">
   <img src="CYR PICS/CYR met Ipad.jpeg" width="32%">
@@ -117,7 +116,7 @@ Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door 
   <img src="Extra/Makey Makey 1.png" width="32%">
   <img src="Extra/Makey Makey 2.png" width="32%">
 
-Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten waardoor het imiteren van de percussie een grotere uitdaging kan vormen voor de gebruiker. Om de touchbox te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
+Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald, geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten. Dit kan voor de gebruiker een grotere uitdaging vormen. Om de touchbox te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
 > [!IMPORTANT]
 > Makey Makey maakt gebruik van haptic touch waardoor een simpele aanraking met één van de toetsen al een geluid creëert. 
@@ -125,7 +124,7 @@ Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk va
 ### Resultaten
 In wave 1 kreeg het concept positieve feedback. Gebruikers vonden het een leuk en uitdagend product, zeker voor mensen zonder ervaring met muziekspelen. Ze waardeerden de interactie met de touchbox en vonden het prettig dat ze geen knoppen hoefden in te drukken - het aanraken van de plaatjes was voldoende om feedback te krijgen. Voor mensen met Parkinson kon dit een uitdaging zijn, maar één die te overwinnen was. Een verbeterpunt was de lichte vertraging tussen het aanraken van het plaatje en het afspelen van het geluid.
 
-Het grootste resultaat uit wave 2 was de goede ervaring van de gebruikers met het gemaakte spel. De gebruikers vertelden dat het een goede uitdaging was waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat verwacht werd bij het starten van deze wave en niet als probleem werd gezien omdat het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
+Het grootste resultaat uit wave 2 was de goede ervaring met het gemaakte spel. De gebruikers vertelden dat het een leuke uitdaging was waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat verwacht werd bij het starten van deze wave en niet als probleem werd gezien omdat het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
 
 Gebruikers hadden wel kritiek op de kwaliteit van het spel. De icoontjes waren niet altijd perfect getimed en vielen soms buiten het ritme. Dit kwam door de beperkingen van ProtoPie, waardoor het lastig was om de beweging van de icoontjes nauwkeurig te programmeren.
 
@@ -143,8 +142,8 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 
 #### Prototypes
 - Een spel op basis van muziek zou de motivatie verhogen om hun conditie beter te onderhouden.
-- De groottes van beide Boomboxen en het touchbox zijn optimaal alsook voor de groottes van de toetsen.
-- De vorm van drukknoppen op het touchbox zijn optimaal en groot genoeg van dimensies.
+- De groottes van beide Boomboxen en de touchbox zijn optimaal alsook voor de groottes van de toetsen.
+- De vorm van drukknoppen op de touchbox zijn optimaal en groot genoeg van dimensies.
 - Een extra uitdaging zoals meerdere spelvormen zouden het plezier nog meer naar boven halen.
 - De delay op het indrukken van de toetsen was een vaak voorkomende storende factor.
 - Aanduiding op de toetsen welk geluid welke toets maakte, zorgde voor een beter begrip.
@@ -180,10 +179,10 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 ## Kritische reflectie
 Bij aanvang van dit project werd er veel progressie gemaakt. Na de vorming van de groepen werd er overlegd wat er goed was en wat er nog kon verbeterd worden aan het concept met de feedback gekregen uit de pitch. Hierna werd er gebrainstormd over wat er zou kunnen worden getest voor de verschillende waves. Een overgang werd gemaakt tot de prototyping fase, dit werd misschien wel wat te snel gedaan en had als gevolg dat er tijdens de tests af en toe iets onverwachts plaatsvond. Dit waren dingen zoals Protopie dat een update nodig had, een verbinding van de Makey Makey die loskwam etc. Desondanks bracht dit de positieve resultaten uit de tests niet neer. 
 
-Waar er vooral last werd ervaren, was het contacteren van gebruikers om de waves mee uit te voeren. Door de moeilijke doelgroep was er geen optie waar alle tests op een gelijk tijdstip zou kunnen worden uitgevoerd. De gekozen doelgroep heeft nog geen extreme zorg nodig (rusthuis) en is niet altijd even mobiel. De meeste gebruikers hadden liever een afspraak moment bij hen thuis, wat soms voor moeilijkheden zorgde. 
+Waar er vooral last werd ervaren, was het contacteren van gebruikers om de waves mee uit te voeren. Door de moeilijke doelgroep was er geen optie waar alle tests op een gelijk tijdstip zou kunnen worden uitgevoerd. De gekozen doelgroep heeft nog geen extreme zorg nodig en is niet altijd even mobiel. De meeste gebruikers hadden liever een afspraak moment bij hen thuis, wat soms voor moeilijkheden zorgde. 
 
-Wave 1 werd apart uitgevoerd, maar dit had beter doordacht moeten worden voordat de momenten werden vastgelegd.
-Er werd ook besloten na de eerste test van wave 1 om de beide waves tegelijkertijd af te nemen. Er werd met een tiental mensen in contact gestaan, maar door een aantal factoren kon er geen gepast moment ingepland worden om het prototype te testen. Dit had als gevolg dat er een test werd uitgevoerd met een persoon die geen Parkinson heeft, maar er wel vaak mee in contact heeft gestaan en nuttige feedback heeft kunnen geven.
+Wave 1 werd initieel afzonderlijk uitgevoerd, maar een grondigere voorafgaande analyse had wenselijk geweest alvorens de momenten definitief vast te leggen.
+Naar aanleiding van de eerste test binnen wave 1 werd besloten om de daaropvolgende waves simultaan af te nemen. Er werd met een tiental mensen in contact gestaan, maar door een aantal factoren kon er geen gepast moment ingepland worden om het prototype te testen. Dit had als gevolg dat er een test werd uitgevoerd met een persoon die geen Parkinson heeft, maar wel vaak in contact heeft gestaan met de doelgroep en nuttige feedback heeft kunnen geven.
 
 Deze korte tegenslagen terzijde, verliep de samenwerking en de vooruitgang die werd gemaakt in het proces goed. Na het voltooien van de waves kan het project naar de volgende fase. De waves hebben een grote impact gehad op het project en hebben de nodige motivatie gegeven om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te willen staan, wegens de grootte interesse in het concept. In de toekomst zullen deze mensen de mogelijkheid krijgen om als eersten het volmaakt prototype te testen.
 
@@ -194,7 +193,7 @@ De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verd
 
 ### Materiaal & methoden
 Om de interfaces van de touchbox en de boombox vast te leggen werden een aantal iteraties gebouwd:
-- Het touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
+- De touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De Boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 
 **1.** De verschillende iteraties op de boombox bevatten interfaces die elk op een andere manier worden gebruikt. Het originele prototype dat 4 keuzeknoppen bevatte voor het selecteren van een liedje, werd opnieuw gebouwd met een viertal kleinere knoppen waarbij een extra respons wordt toegepast na indrukken van een knop. 
