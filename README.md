@@ -275,10 +275,10 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 ### Conclusies en implicaties
 - Er kan gesteld worden dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
 - Wanneer de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij lieten we hun ook nadenken over de hoeveelheid knoppen men dan nog tot hun beschikking zouden hebben. De eerste keus bleef behouden, dit betekent dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
-- Wanneer op dezelfde wijze de varianten op de interface van de boombox werden voorgelegd, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek de goede oplossing voor dit probleem, het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om zo te kunnen selecteren via 1 knop. 
-- De grote van het ontworpen scherm blijkt goed te zijn. Het gaaat eerder over de grote van de iconen, dan over de grote van het scherm.
+- Wanneer op dezelfde wijze de varianten op de interface van de boombox werden voorgelegd, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek de goede oplossing voor dit probleem. Het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om zo te kunnen selecteren via 1 knop. 
+- De grote van het ontworpen scherm blijkt goed te zijn. Het gaat eerder over de grote van de iconen i.p.v. de grote van het scherm.
 - het spel zelf zit goed ineen, er kan mogelijks nog gespeeld worden met het kleurenpalette en een deeltje van de layout.
-- De hendel zelf is onnodig. De functie hiervan kan worden geïntegreerd in de gekozen interface.
+- De hendel is onnodig. De functie hiervan kan worden geïntegreerd in de gekozen interface.
 - De algemene mening van de gebruikers geeft weer dat ze liever de touchbox en boombox aan elkaar zouden hebben. Dit haalt een aantal praktische problemen weg en is de voor de hand liggende keuze.
 
 
