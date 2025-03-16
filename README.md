@@ -200,7 +200,7 @@ Om de interfaces van de touchbox en de boombox vast te leggen werden een aantal 
 
 **2.** De interface met 2 knoppen dient op gelijkaardige wijze gebruikt te worden. De interface bestaat uit een lijst van liedjes die voorgeprogrammeerd zijn en bevat ook de optie om eigen liedjes up te loaden binnen de software.
 
-_"Na mum van tijd zul je die liedjes zat zijn"_
+> _"Na mum van tijd zul je die liedjes zat zijn"_
 
 De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop zorgt voor de navigatie naar boven. Om een keuze te maken uit een liedje worden simultaan beide knoppen ingedrukt. 
 
