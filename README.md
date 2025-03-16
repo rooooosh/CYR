@@ -196,6 +196,14 @@ Om de interfaces van de touchbox en de boombox vast te leggen werden een aantal 
 - De touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 
+**Touchbox**
+
+Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal toetsen. Het origineel bevatte teveel knoppen waardoor een groot aantal niet werden gebruikt tijdens een gebruikstest. Deze bevinding stamde af van de definition fase. Ook is het moeilijk om elke knop een ander icoon aan te linken aangezien dat een drumstel soms overlappende elementen bevat. 
+
+> _"Hoe meer knoppen hoe verwarrender"_
+
+**Boombox**
+
 **1.** De verschillende iteraties op de boombox bevatten interfaces die elk op een andere manier worden gebruikt. Het originele prototype dat 4 keuzeknoppen bevatte voor het selecteren van een liedje, werd opnieuw gebouwd met een viertal kleinere knoppen waarbij een extra respons wordt toegepast na indrukken van een knop. 
 
 **2.** De interface met 2 knoppen dient op gelijkaardige wijze gebruikt te worden. De interface bestaat uit een lijst van liedjes die voorgeprogrammeerd zijn en bevat ook de optie om eigen liedjes up te loaden binnen de software.
