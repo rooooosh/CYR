@@ -192,7 +192,7 @@ Deze korte tegenslagen terzijde, verliep de samenwerking en de vooruitgang die w
 De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
 
 ### Materiaal & methoden
-Om de interfaces van de touchbox en de boombox vast te leggen werden een aantal iteraties gebouwd:
+Om de interfaces van de touchbox en de boombox vast te leggen, werden een aantal iteraties gebouwd:
 - De touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
   
