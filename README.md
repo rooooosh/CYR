@@ -203,6 +203,8 @@ Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal
 > _"Hoe meer knoppen hoe verwarrender"_
 
 **Boombox**
+
+
 De verschillende iteraties op de boombox bevatten interfaces die elk op een andere manier worden gebruikt.
 
 
