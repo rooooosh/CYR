@@ -11,7 +11,7 @@ _11/03/2025_
 
 De ziekte van Parkinson is een neurologische aandoening waarvoor tot op heden nog steeds geen remedie voor bestaat. Uit literatuuronderzoek[^1] blijkt dat de verdere ontwikkeling van de aandoening een ernstige invloed heeft op de motorische vaardigheden van de persoon. Intensieve medicatie is nodig om het proces te vertragen, maar dit biedt geen permanente oplossing. Hierbij is er verder uitgediept in de Ronnie Gardiner Methode, een wetenschappelijk onderbouwde methode om cognitieve en motorische vaardigheden te stimuleren via multisensorische prikkels op basis van muziek. 
 
-Om te voorkomen dat deze ziekte verder ontwikkeld, werd **CYR** ontworpen. **C**reate **Y**our **R**ithm is een interactief muziekspel dat helpt bij het verbeteren van de motorische -en de cognitieve vaardigheden. Deze oplossing biedt de mogelijkheid om zelfstandig muziek te maken met behulp van twee geïntegreerde modules: een **touchbox**  en een **Boombox**. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
+Om te voorkomen dat deze ziekte verder ontwikkeld, werd **CYR** ontworpen. **C**reate **Y**our **R**ithm is een interactief muziekspel dat helpt bij het verbeteren van de motorische -en de cognitieve vaardigheden. Deze oplossing biedt de mogelijkheid om zelfstandig muziek te maken met behulp van twee geïntegreerde modules: een **touchbox**  en een **boombox**. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
 
 > [!NOTE]
 > Linken naar protocollen, rapporteringen en diepgaand onderzoek zijn te vinden in de sectie [Bijlagen](#Bijlagen)
