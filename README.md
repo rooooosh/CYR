@@ -203,8 +203,10 @@ Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal
 > _"Hoe meer knoppen hoe verwarrender"_
 
 **Boombox**
+De verschillende iteraties op de boombox bevatten interfaces die elk op een andere manier worden gebruikt.
 
-**1.** De verschillende iteraties op de boombox bevatten interfaces die elk op een andere manier worden gebruikt. Het originele prototype dat 4 keuzeknoppen bevatte voor het selecteren van een liedje, werd opnieuw gebouwd met een viertal kleinere knoppen waarbij een extra respons wordt toegepast na indrukken van een knop. 
+
+**1.** Het originele prototype dat 4 keuzeknoppen bevatte voor het selecteren van een liedje, werd opnieuw gebouwd met een viertal kleinere knoppen waarbij een extra respons wordt toegepast na indrukken van een knop. 
 
 **2.** De interface met 2 knoppen dient op gelijkaardige wijze gebruikt te worden. De interface bestaat uit een lijst van liedjes die voorgeprogrammeerd zijn en bevat ook de optie om eigen liedjes up te loaden binnen de software.
 
