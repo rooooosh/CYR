@@ -20,7 +20,7 @@ Om te voorkomen dat deze ziekte verder ontwikkeld, werd **CYR** ontworpen. **C**
 
 De ziekte van Parkinson is een aandoening die het vaakst voorkomt bij mensen rond 50-60 jaar. Afhankelijk van persoon tot persoon is de ontwikkelingssnelheid van de ziekte in de hersenen verschillend. Naast het innemen van medicatie staat de familie ook in voor de zorg, al is dit vaak niet evident. Naarmate de ziekte vordert, wordt het voor de familie steeds moeilijker om de benodigde zorg te bieden, waarvoor uiteindelijk wordt gekozen voor een geschikte zorginstelling om de intensieve zorg over te nemen.
 
-Het doel van dit project is om mensen met een _vroege_ diagnose van Parkinson te begeleiden, zodanig dat de ziekte niet verergerd. De bewuste keuze om niet verder te gaan met mensen met een langere diagnose ligt aan het feit dat interactie met dagdagelijkse gebruiksvoorwerpen voor hen ingewikkelder worden. **CYR** heeft als doel om de gebruiker multisensorisch te prikkelen zodat hun cognitieve vaardigheden niet verloren gaan. De nadruk op het ontwerp ligt op het zelfstandig gebruiken van het product om de effectiviteit van de werking te garanderen. Het bestaat uit twee geïntegreerde onderdelen: een touchbox waarop muziek wordt gecreëerd en een Boombox waar de gebruiker een keuze kan maken uit verschillende sets van voorgeprogrammeerde liedjes. Het ontwerp kan ook gebruikt worden in verschillende omgevingen.
+Het doel van dit project is om mensen met een _vroege_ diagnose van Parkinson te begeleiden, zodanig dat de ziekte niet verergerd. De bewuste keuze om niet verder te gaan met mensen met een langere diagnose ligt aan het feit dat interactie met dagdagelijkse gebruiksvoorwerpen voor hen ingewikkelder worden. **CYR** heeft als doel om de gebruiker multisensorisch te prikkelen zodat hun cognitieve vaardigheden niet verloren gaan. De nadruk op het ontwerp ligt op het zelfstandig gebruiken van het product om de effectiviteit van de werking te garanderen. Het bestaat uit twee geïntegreerde onderdelen: een touchbox waarop muziek wordt gecreëerd en een boombox waar de gebruiker een keuze kan maken uit verschillende sets van voorgeprogrammeerde liedjes. Het ontwerp kan ook gebruikt worden in verschillende omgevingen.
 
 We streven naar een gebruiksvriendelijk product die de gebruiker uitdaagt, maar alsnog het plezier behoudt. 
 
@@ -75,7 +75,7 @@ Vanuit het vooropgestelde onderzoek bouwden we een prototype die het ritme van m
 ### Materiaal & methoden
 De gebruikstesten zullen plaats vinden in 2 waves. De eerste wave legt de focus op de interactie tussen het prototype (zowel touchbox als boombox) en de gebruiker. Hierbij was de bedoeling om enige ongemakken tijdens het gebruik op te sporen en de interactie zo goed mogelijk te optimaliseren. Er werd getest met drukknoppen (verschillende groottes) en hendels waarvan de functies later worden besproken. Wat getest zal worden in wave 2 is afhankelijk van de feedback uit wave 1. Voor het prototypen werd er gebruik gemaakt van mdf, karton, metalen plaatjes en Makey Makey. 
 
-Er zijn twee prototypes van de boombox in verschillende formaten gemaakt om de voorkeuren weer te geven die in elk van de waves naar voren kwamen. De Boombox heeft als doel om een liedje te selecteren en biedt de keuze om dit met of zonder percussie te doen via een keuzehendel of aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de knop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide boomboxen werden grote knoppen gemonteerd die de keuze liet geven uit een aantal liedjes. 
+Er zijn twee prototypes van de boombox in verschillende formaten gemaakt om de voorkeuren weer te geven die in elk van de waves naar voren kwamen. De boombox heeft als doel om een liedje te selecteren en biedt de keuze om dit met of zonder percussie te doen via een keuzehendel of aan-/uitknop. Het grotere prototype kreeg aan de zijkant de hendel, het kleinere prototype de knop. Deze keuze was onbewust en kon uiteraard aangepast worden indien nodig. Op beide boomboxen werden grote knoppen gemonteerd die de keuze liet geven uit een aantal liedjes. 
 
 Vooraf aan de bouw van het touchbox werden de dimensies zodanig gekozen dat er genoeg plaats voor de elektronica en de plaatjes die moeten bevestigd worden. In totaal werden 9 gelijke metalen plaatjes gemonteerd, 3 plaatjes per 3 rijen. In het verdere verloop van dit project zou kunnen gewerkt worden met minder of meer plaatjes, deze keuze kan nog verandert worden in de loop van de tijd. 
 
@@ -142,12 +142,12 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 
 #### Prototypes
 - Een spel op basis van muziek zou de motivatie verhogen om hun conditie beter te onderhouden.
-- De groottes van beide Boomboxen en de touchbox zijn optimaal alsook voor de groottes van de toetsen.
+- De groottes van beide boomboxen en de touchbox zijn optimaal alsook voor de groottes van de toetsen.
 - De vorm van drukknoppen op de touchbox zijn optimaal en groot genoeg van dimensies.
 - Een extra uitdaging zoals meerdere spelvormen zouden het plezier nog meer naar boven halen.
 - De delay op het indrukken van de toetsen was een vaak voorkomende storende factor.
 - Aanduiding op de toetsen welk geluid welke toets maakte, zorgde voor een beter begrip.
-- Het ritme kon iets beter nagevolgd worden m.b.v. de Ipad die werd gemonteerd aan de Boombox.
+- Het ritme kon iets beter nagevolgd worden m.b.v. de Ipad die werd gemonteerd aan de boombox.
 - De toetsen, verbonden met Makey Makey, waren tè responsief. M.a.w. als de toets voor langere tijd werd ingedrukt, kreeg je een rare vervorming van het geluid.
 
 #### Gebruikers
@@ -194,7 +194,7 @@ De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verd
 ### Materiaal & methoden
 Om de interfaces van de touchbox en de boombox vast te leggen werden een aantal iteraties gebouwd:
 - De touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
-- De Boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
+- De boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 
 **1.** De verschillende iteraties op de boombox bevatten interfaces die elk op een andere manier worden gebruikt. Het originele prototype dat 4 keuzeknoppen bevatte voor het selecteren van een liedje, werd opnieuw gebouwd met een viertal kleinere knoppen waarbij een extra respons wordt toegepast na indrukken van een knop. 
 
@@ -272,7 +272,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 
 > [!IMPORTANT]
 > Design requirements
->  - 1.2 De touchbox en Boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
+>  - 1.2 De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
 >  - 1.3 Het product is zo klein mogelijk
 >  - 2.4 De interface van de boombox is zodanig ontworpen zodat de interactie
 >  - 2.5 Voor elke gebruiker is er een uitdagend niveau beschikbaar
@@ -282,7 +282,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 >  - 3.6 De touchbox is responsief en heeft een lage latency
 >  - 4.3 De knoppen van de touchbox hebben een gepaste grootte
 >  - 4.4 Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch
->  - 4.5 De interactie met de Boombox gebeurt aan de hand van fysieke knoppen
+>  - 4.5 De interactie met de boombox gebeurt aan de hand van fysieke knoppen
 
 ## Bijlagen
 
