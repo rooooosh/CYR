@@ -198,7 +198,7 @@ Om de interfaces van de touchbox en de boombox vast te leggen, werden een aantal
   
 **Touchbox**
 
-Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal toetsen. Het origineel bevatte teveel knoppen waardoor een groot aantal niet werden gebruikt tijdens een gebruikstest. Deze bevinding stamde af van de definition fase. Ook is het moeilijk om elke knop een ander icoon aan te linken aangezien dat een drumstel soms overlappende elementen bevat. 
+Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal toetsen. Het origineel bevatte teveel knoppen waardoor een groot aantal niet werden gebruikt tijdens een gebruikstest. Deze bevinding stamde af van de definition fase. Ook is het moeilijk om aan elke knop een ander icoon aan te linken aangezien dat een drumstel soms overlappende elementen bevat. 
 
 > _"Hoe meer knoppen hoe verwarrender"_
 
