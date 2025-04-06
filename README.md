@@ -186,7 +186,7 @@ Naar aanleiding van de eerste test binnen wave 1 werd besloten om de daaropvolge
 
 Deze korte tegenslagen terzijde, verliep de samenwerking en de vooruitgang die werd gemaakt in het proces goed. Na het voltooien van de waves kan het project naar de volgende fase. De waves hebben een grote impact gehad op het project en hebben de nodige motivatie gegeven om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te willen staan, wegens de grootte interesse in het concept. In de toekomst zullen deze mensen de mogelijkheid krijgen om als eersten het volmaakt prototype te testen.
 
-## Develop 1 (N = 3)
+## Develop 1 (N=3)
 
 ### Doelstellingen
 De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
@@ -296,6 +296,24 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 >  - 4.4 Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch
 >  - 4.5 De interactie met de boombox gebeurt aan de hand van fysieke knoppen
 
+## Develop 2 (N=4)
+
+### Doelstellingen
+
+yapa yapa
+
+### Materiaal & methoden
+
+yapa yapa
+
+### Resultaten
+
+yapa yapa
+
+### Conclusies en implicaties
+
+yapa yapa
+
 ## Bijlagen
 
 **D1: Discovery**
@@ -312,6 +330,10 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 **D3: Develop 1**
 - [Protocol develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EVEtEksqdJJBhZXit1Fg1yQBjQquEJI503QhC8J9cvlPyg?e=fhjMhS)
 - [Rapport develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ES3WNbN0WClOn1nJESBFn6IBWB74uhWHl6Zd6KmwXddXkg?e=pNfeQX)
+
+**D4: Develop 2**
+- [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EU_6rTA0xLNAif_-g8QjNWkBcila4Qp8DFvM6UZk4YTpxg?e=hxLTQE)
+- [Rapport develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ESmI_AUUn49GgIqkPFp2I3wBmfKqKCH67thOzXqvPDNyrQ?e=HhFiGH)
 
 ## Bronnen
 
