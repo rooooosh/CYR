@@ -286,7 +286,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 > Design requirements
 >  - 1.2 De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
 >  - 1.3 Het product is zo klein mogelijk
->  - 2.4 De interface van de boombox is zodanig ontworpen zodat de interactie
+>  - 2.4 De interface van de boombox is zodanig ontworpen zodat de interactie hiermee geen overbodige elementen bevat
 >  - 2.5 Voor elke gebruiker is er een uitdagend niveau beschikbaar
 >  - 2.6 De display is simplistisch en makkelijk om te begrijpen
 >  - 3.4 Het product geeft duidelijk aan met welke elementen in interactie gegaan kan worden
