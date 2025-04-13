@@ -204,7 +204,6 @@ Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal
 
 **Boombox**
 
-
 De verschillende iteraties op de boombox bevatten interfaces die elk op een andere manier worden gebruikt.
 
 
@@ -309,11 +308,11 @@ Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voo
 
 ### Resultaten
 
-yapa yapa
+...
 
 ### Conclusies en implicaties
 
-yapa yapa
+...
 
 ## Bijlagen
 
