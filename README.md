@@ -318,25 +318,29 @@ Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voo
 
 | ID | Design requirement | Source | Date |
 | ------------- | ------------- | ------------- | ------------- |
-| **D1**  | **Opberg mogelijkheden** |  |  |
-| D1.1 | De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen. | Definition | 18/02/2025 |
-| D1.2 | Het product is zo klein mogelijk. | Definition | 18/02/2025 |
+| **D1**  | **Algemeen** |  |  |
+| D1.1 | De touchbox bevat een minimale hoogte om elektronica te bewaren. | Discovery | 14/11/2024 |
+| D1.2 | De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen. | Definition | 18/02/2025 |
+| D1.3 | Het product is zo klein mogelijk. | Definition | 18/02/2025 |
 | **D2**  | **Gebruiksgemak** |  |  |
-| D2.1 | Elke toets wordt afgebeeld met een ander symbool. | Wave 2 | 5/12/2024 |
-| D2.1 | De toetsen zijn groot genoeg om eenvoudig en comfortabel deze aan te tikken. | Wave 1 | 26/11/2024 |
-| D2.1 | De boomboxinterface is ontworpen zonder overbodige elementen, zodat de interactie eenvoudig blijft. | Develop 1 | 18/02/2025 |
-| D2.2 | Voor elke gebruiker is een uitdagend niveau beschikbaar. | Definition | 18/02/2025 |
+| D2.1 | De touchbox produceert geluid door een enkele aanraking met één van de toetsen. | Wave 2 | 14/11/2024 |
+| D2.2 | De toetsen zijn groot genoeg om eenvoudig en comfortabel deze aan te tikken. | Wave 1 | 26/11/2024 |
+| D2.3 | Elke toets wordt afgebeeld met een ander symbool. | Wave 2 | 5/12/2024 |
+| D2.4 | De boomboxinterface is ontworpen zonder overbodige elementen, zodat de interactie eenvoudig blijft. | Definition | 18/02/2025 |
+| D2.5 | Voor elke gebruiker is een uitdagend niveau beschikbaar. | Definition | 18/02/2025 |
 | **D3** | **Interactiviteit** |  |  |
-| D3.1 | Het product geeft duidelijk aan met welke elementen in interactie gegaan kan worden. | Develop 1 | 18/02/2025 |
-| D3.2 | De producthiërarchie geeft duidelijk weer welke elementen de belangrijkste rol spelen in de interactie met het product. | Develop 1 | 18/02/2025 |
-| D3.3 | De touchbox is responsief en heeft een lage latency. | Definition | 18/02/2025 |
+| D3.1 | De Boombox bevat een minimale grootte voor het ondersteunen van een scherm. | Wave 2 | 5/12/2025 |
+| D3.2 | De Boombox heeft een functieknop aan de zijkant om het ritme van muziek aan/uit te schakelen. | Discovery | 24/10/2024 |
+| D3.3 | De Boombox bevat verschillende knoppen om een keuze te maken uit verschillende liedjes. | Discovery | 24/10/2024 |
+| D3.4 | Het product geeft duidelijk aan met welke elementen in interactie gegaan kan worden. | Definition | 18/02/2025 |
+| D3.5 | De producthiërarchie geeft duidelijk weer welke elementen de belangrijkste rol spelen in de interactie met het product. | Develop 1 | 18/02/2025 |
+| D3.6 | De touchbox is responsief en heeft een lage latency. | Definition | 18/02/2025 |
 | **D4** | **Ergonomie** |  |  |
 | D4.1 | De draaiknoppen hebben een minimale diameter (4-6cm) om een keuze uit liedjes te maken. | Discovery | 24/10/2024 |
 | D4.2 | De toetsen bevinden zich in een dicht gestapeld raster (2x2, 3x2, 3x3) om multi-touch mogelijk te maken. | Discovery | 24/10/2024 |
-| D4.1 | De knoppen van de touchbox hebben een gepaste grootte. | Develop 1 | 18/02/2025 |
-| D4.2 | Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch. | Develop 1 | 18/02/2025 |
-| D4.3 | De interactie met de boombox gebeurt aan de hand van fysieke knoppen. | Develop 1 | 18/02/2025 |
-
+| D4.3 | De knoppen van de touchbox hebben een gepaste grootte. | Develop 1 | 18/02/2025 |
+| D4.4 | Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch. | Definition | 18/02/2025 |
+| D4.5 | De interactie met de boombox gebeurt aan de hand van fysieke knoppen. | Definition | 18/02/2025 |
 
 ## Bijlagen
 
