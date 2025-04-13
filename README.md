@@ -298,7 +298,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 ## Develop 2 (N=4)
 
 ### Doelstellingen
-Uit deelopdracht 3 werd de interfaces voor zowel de touchbox als boombox vastgelegd. Het doel van deelopdracht 4 (develop 2) is nadruk leggen op de usability en user experience van CYR. 
+Uit deelopdracht 3 werden de interfaces voor zowel de touchbox als boombox vastgelegd. Het doel van deelopdracht 4 (develop 2) is nadruk leggen op de usability en user experience van CYR. 
 
 ### Materiaal & methoden
 Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voorzien zijn van textuur en tactiele feedback. Een sensorial board wordt gemaakt om de gebruiker een keuze te bieden uit een aantal van deze texturen. Een ander soort bordje wordt opgesteld om de grootte van de draaiknop te bestuderen. Gelijkaardig aan het sensorial board, worden een zestal draaiknoppen met verschillende groottes voorgesteld aan de gebruiker. Hun taak om een voorkeur te kiezen waarop verder gewerkt zal worden in een volende deelopdracht. 
