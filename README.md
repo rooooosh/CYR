@@ -314,7 +314,7 @@ Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voo
 
 ...
 
-## Design Requirements
+### Design requirements
 
 | ID | Design requirement | Source | Date |
 | ------------- | ------------- | ------------- | ------------- |
