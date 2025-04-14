@@ -372,6 +372,8 @@ bool isMetalTouched() {
 }
 ```
 
+> code gedeelte zal Rösh nog verder schrijven
+
 ### Resultaten
 
 ...
