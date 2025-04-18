@@ -37,9 +37,9 @@ De define fase vond pas plaats in de tweede helft van het eerste semester (week 
 **Develop: |**
 Bij aanvang van het tweede semester (week 13) wordt de derde en laatste diamond betreden. Dit volledige tweede semester zal er gefocust worden op de develop fase. Deze fase wordt opgesplitst in 3 grote deelopdrachten elk met een bepaald doel te bereiken. 
 
-De eerste deelopdracht heeft als doel om de fysieke, cognitieve en sensoriële ergonomie van het product te optimaliseren aan de hand van theorie, prototyping en testing. De gebouwde prototypes in wave 2 van semester 1 zullen verder verfijnd worden a.d.h.v. meerdere iteraties op beide componenten van het concept. De gebruiker zal opnieuw een keuze maken uit de verschillende iteraties waarop deze worden vastgezet tot het eind van het semester. Hierbij wordt een stap teruggenomen in het proces om zo tot voldoende feedback te komen rond de vormgeving van het product.
+> De eerste deelopdracht heeft als doel om de fysieke, cognitieve en sensoriële ergonomie van het product te optimaliseren aan de hand van theorie, prototyping en testing. De gebouwde prototypes in wave 2 van semester 1 zullen verder verfijnd worden a.d.h.v. meerdere iteraties op beide componenten van het concept. De gebruiker zal opnieuw een keuze maken uit de verschillende iteraties waarop deze worden vastgezet tot het eind van het semester. Hierbij wordt een stap teruggenomen in het proces om zo tot voldoende feedback te komen rond de vormgeving van het product.
 
-In develop 2 wordt de nadruk gelegd de user experience en usability van CYR. Concreet worden de oplossingen in develop 1 verder verfijnd waarbij opnieuw gebruikstests worden uitgevoerd om zo voldoende feedback te verzamelen. 
+> In develop 2 wordt de nadruk gelegd de user experience en usability van CYR. Concreet worden de oplossingen in develop 1 verder verfijnd waarbij opnieuw gebruikstests worden uitgevoerd om zo voldoende feedback te verzamelen. 
 
 <p align="left">
   <img src="Extra/TIJDLIJN2.jpg" width="100%"> 
