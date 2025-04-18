@@ -400,7 +400,8 @@ bool isMetalTouched() {
 ```
 
 Om te voldoen aan design requirement 1.3,
-> Het product is zo compact mogelijk 
+> Het product is zo compact mogelijk
+
 Ondergaat de boombox opnieuw een vormvariant. Bij deze variant wordt de boombox rechtstreeks verbonden met de touchbox waardoor deze wordt opgeborgen als één grote "doos". 
 
 
