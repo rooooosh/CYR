@@ -420,6 +420,8 @@ Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit de feed
 ### Resultaten
 
 ...
+<p align="left">
+  <img src="CYR PICS/TEST3.jpeg" width="32%">
 
 ### Conclusies en implicaties
 
