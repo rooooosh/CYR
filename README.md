@@ -163,9 +163,9 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 >  - 2.1 De touchbox produceert geluid door een enkele aanraking met één van de toetsen
 >  - 2.2 De toetsen zijn groot genoeg om eenvoudig en comfortabel deze aan te tikken
 >  - 2.3 Elke toets wordt afgebeeld met een ander symbool
->  - 3.1 De Boombox bevat een minimale grootte voor het ondersteunen van een scherm 
->  - 3.2 De Boombox heeft een functieknop aan de zijkant om het ritme van muziek aan/uit te schakelen
->  - 3.3 De Boombox bevat verschillende knoppen om een keuze te maken uit verschillende liedjes
+>  - 3.1 De noombox bevat een minimale grootte voor het ondersteunen van een scherm 
+>  - 3.2 De noombox heeft een functieknop aan de zijkant om het ritme van muziek aan/uit te schakelen
+>  - 3.3 De boombox bevat verschillende knoppen om een keuze te maken uit verschillende liedjes
 >  - 4.1 De toetsen bevinden zich in een dicht gestapeld raster (2x2, 3x2, 3x3) om multi-touch mogelijk te maken
 
 ## Bill of materials
