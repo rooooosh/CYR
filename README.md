@@ -284,7 +284,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 > [!IMPORTANT]
 > Design requirements
 >  - 1.2 De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
->  - 1.3 Het product is zo klein mogelijk
+>  - 1.3 Het product is zo compact mogelijk
 >  - 2.4 De interface van de boombox is zodanig ontworpen zodat de interactie hiermee geen overbodige elementen bevat
 >  - 2.5 Voor elke gebruiker is er een uitdagend niveau beschikbaar
 >  - 2.6 De display is simplistisch en makkelijk om te begrijpen
@@ -399,6 +399,11 @@ bool isMetalTouched() {
 }
 ```
 
+Om te voldoen aan design requirement 1.3,
+> Het product is zo compact mogelijk 
+Ondergaat de boombox opnieuw een vormvariant. Bij deze variant wordt de boombox rechtstreeks verbonden met de touchbox waardoor deze wordt opgeborgen als één grote "doos". 
+
+
 ### Resultaten
 
 ...
@@ -414,7 +419,7 @@ bool isMetalTouched() {
 | **D1**  | **Algemeen** |  |  |
 | D1.1 | De touchbox bevat een minimale hoogte om elektronica te bewaren. | Discovery | 14/11/2024 |
 | D1.2 | De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen. | Definition | 18/02/2025 |
-| D1.3 | Het product is zo klein mogelijk. | Definition | 18/02/2025 |
+| D1.3 | Het product is zo compact mogelijk. | Definition | 18/02/2025 |
 | **D2**  | **Gebruiksgemak** |  |  |
 | D2.1 | De touchbox produceert geluid door een enkele aanraking met één van de toetsen. | Wave 2 | 14/11/2024 |
 | D2.2 | De toetsen zijn groot genoeg om eenvoudig en comfortabel deze aan te tikken. | Wave 1 | 26/11/2024 |
