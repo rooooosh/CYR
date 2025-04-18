@@ -80,8 +80,8 @@ Er zijn twee prototypes van de boombox in verschillende formaten gemaakt om de v
 Vooraf aan de bouw van het touchbox werden de dimensies zodanig gekozen dat er genoeg plaats voor de elektronica en de plaatjes die moeten bevestigd worden. In totaal werden 9 gelijke metalen plaatjes gemonteerd, 3 plaatjes per 3 rijen. In het verdere verloop van dit project zou kunnen gewerkt worden met minder of meer plaatjes, deze keuze kan nog verandert worden in de loop van de tijd. 
 
 _Foto 1: Touchbox_;
-_Foto 2: Kleine Boombox_;
-_Foto 3: Grote Boombox_
+_Foto 2: Kleine boombox_;
+_Foto 3: Grote boombox_
 
 <p align="left">
   <img src="CYR PICS/Touchbox2.jpg" width="32%">
@@ -97,7 +97,7 @@ In wave 1 werden de verschillende toetsen van de touchbox aangeduid met hun bijh
 #### Inspiratie
 Het idee om een muziekspel te maken stamde af op het idee dat leek op Guitar Hero, een spel waarbij de gebruiker wordt opgedragen om te tikken op de volgorde van toetsen die worden gegeven. Wanneer de speler op een verkeerde toets drukte, of deze te laat indrukte heeft de speler verloren en moet deze proberen het level opnieuw te spelen. 
 
-In wave 2 werd een spel geprogrammeerd waarin **CYR** op een vergelijkbare manier functioneert. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de boombox die corresponderen met de icoontjes op de touchbox. In dit geval werd er gebruik gemaakt van een Ipad als scherm.
+In wave 2 werd een spel geprogrammeerd waarin **CYR** op een vergelijkbare manier functioneert. Het spel werd gemaakt met Protopie waarbij eenvoudig verschillende layouts werden gemaakt. De gebruiker krijgt aan het begin van een liedje een opeenvolging van voorgeprogrameerde "pictogrammen" te zien op het scherm van de boombox die corresponderen met de icoontjes op de touchbox. In dit geval werd er gebruik gemaakt van een Ipad als scherm.
 
 Het doel is om op het juiste moment deze toetsen in te drukken die vervolgens mooi aansluiten op het ritme van de afspelende muziek. Wanneer de gebruiker een foute toets indrukt of te laat indrukt wordt er niet opnieuw gestart, maar wordt er simpel weg aangegeven dat de handeling niet correct werd uitgevoerd. Om op deze manier een spel te creëren dat de uitdaging blijft behouden met de gebruiker, slaagt **CYR** erin om zowel cognitie als motoriek te blijven trainen.
 
@@ -126,7 +126,7 @@ In wave 1 kreeg het concept positieve feedback. Gebruikers vonden het een leuk e
 
 Het grootste resultaat uit wave 2 was de goede ervaring met het gemaakte spel. De gebruikers vertelden dat het een leuke uitdaging was waarbij ze een duidelijke verbetering merkten bij het meermaals spelen van het spel. De moeilijkheid werd door elke gebruiker anders ervaren, dit is dan ook een persoonlijke kwestie van muziekvaardigheden. Dit is iets wat verwacht werd bij het starten van deze wave en niet als probleem werd gezien omdat het plan was om dit spel in verschillende moeilijkheden/niveaus te maken. 
 
-Gebruikers hadden wel kritiek op de kwaliteit van het spel. De icoontjes waren niet altijd perfect getimed en vielen soms buiten het ritme. Dit kwam door de beperkingen van ProtoPie, waardoor het lastig was om de beweging van de icoontjes nauwkeurig te programmeren.
+Een aantal gebruikers hadden wel kritiek op de kwaliteit van het spel. De icoontjes waren niet altijd perfect getimed en vielen soms buiten het ritme. Dit kwam door de beperkingen van ProtoPie, waardoor het lastig was om de beweging van de icoontjes nauwkeurig te programmeren.
 
 > [!NOTE]
 > De gebruikstests werden uitgevoerd volgens de **Wizard of Oz** methode. _"De Wizard of Oz methode is een gemodereerde onderzoeksmethode waarbij een gebruiker interageert met een interface die autonoom lijkt te zijn, maar (geheel of gedeeltelijk) bestuurd wordt door een mens."_[^2]
@@ -414,6 +414,8 @@ Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit de feed
   <img src="CYR PICS/CloseupDraaiknop.jpeg" width="32%">
   <img src="CYR PICS/BoomboxMetDraaiknop1.jpeg" width="32%">
   <img src="CYR PICS/BoomboxMetDraaiknop2.jpeg" width="18%">
+
+> nog deel raspberry pi schrijven + foto's scherm apart 
 
 ### Resultaten
 
