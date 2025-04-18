@@ -202,6 +202,8 @@ Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal
 
 > _"Hoe meer knoppen hoe verwarrender"_
 
+Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het horen van het geluid na het indrukken van een toets is voor de meeste gebruikers nog steeds te groot. Om te zien of dit aan de software of hardware ligt zal dit probleem in vrijwel elke deelopdracht worden aangekaart. Bij deze deeldpdracht ligt de focus bij het veranderen van de **software**: het eenvoudige programma scratch wordt hierbij vervangen door Protopie als poging om deze latency te doen verminderen.
+
 **Boombox**
 
 De verschillende iteraties op de boombox bevatten interfaces die elk op een andere manier worden gebruikt.
