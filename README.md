@@ -318,11 +318,13 @@ _Foto 1: Arduino Nano met DF player mini en speaker;
 Foto 2: I2C Touch Sensor met krokodillenklemmen; 
 Foto 3: Volledige opstelling_
 <p align="left">
-  <img src="CYR PICS/Arduino1.jpeg" width="27%">
-  <img src="CYR PICS/ArduinoMPR121.jpg" width="27%">
-  <img src="CYR PICS/ArduinoVolledig.jpeg" width="32%">
+  <img src="CYR PICS/Arduino1.jpeg" width="26.6%">
+  <img src="CYR PICS/ArduinoMPR121.jpg" width="26.6%">
+  <img src="CYR PICS/" width="32%">
 
-Via een breadbord worden de verschillende componenten met _jumper wires_ met elkaar verbonden. De DF player mini bevat een micro SD kaart met een aantal geluiden. De speaker die is verbonden met deze mini player zet de aanraking van één van de toetsen om in geluid. Hieronder staat de code die wordt gebruikt om de aanraking om te zetten in geluid:
+Via een breadbord worden de verschillende componenten met _jumper wires_ met elkaar verbonden. De DF player mini bevat een micro SD kaart met een aantal geluiden. De speaker die is verbonden met deze mini player zet de aanraking van één van de toetsen om in geluid. De krokodillenklemmen aan de touch sensor zijn verbonden met metalenplaatjes. 
+
+Hieronder staat de code die wordt gebruikt om de aanraking om te zetten in geluid:
 
 
 ```c++
