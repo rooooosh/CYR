@@ -405,9 +405,15 @@ Om te voldoen aan design requirement 1.3;
 Ondergaat de boombox opnieuw een vormvariant. Bij deze variant wordt de boombox rechtstreeks verbonden met de touchbox waardoor deze wordt opgeborgen als één grote "doos". 
 
 <p align="left">
-  <img src="CYR PICS/BoomboxAanElkaar1.jpeg" width="32%">
-  <img src="CYR PICS/BoomboxAanElkaar2.jpeg" width="32%">
+  <img src="CYR PICS/BoomboxAanElkaar1.jpeg" width="40%">
+  <img src="CYR PICS/BoomboxAanElkaar2.jpeg" width="40%">
 
+Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit de feedback van deelopdracht 3 werd besloten dat de enkele draaiknop de beste manier was om liedjes te selecteren en te laten afspelen. Voor deze deelopdracht (4) wordt nog gewerkt met de originele boombox waar het scherm in zal geïntegreerd worden. Op de interface van de boombox zal de draaiknop (met voorlopige textuur en grootte) bevestigd worden en zal deze vorm variant gebruikt worden voor de eerst volgende testen. De keuze om verder te werken met de compactere iteratie ligt al vast en zal bij de finale deelopdracht gepresenteerd worden aan de gebruikers. Juist naar haalbaarheid en gebrek aan tijd wordt daarvoor nog de oudere  variant van de boombox gebruikt voor deze testen. 
+
+<p align="left">
+  <img src="CYR PICS/CloseupDraaiknop.jpeg" width="40%">
+  <img src="CYR PICS/BoomboxMetDraaiknop1.jpeg" width="40%">
+  <img src="CYR PICS/BoomboxMetDraaiknop2.jpeg" width="40%">
 
 ### Resultaten
 
