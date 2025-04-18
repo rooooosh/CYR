@@ -303,6 +303,12 @@ Uit deelopdracht 3 werden de interfaces voor zowel de touchbox als boombox vastg
 ### Materiaal & methoden
 Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voorzien zijn van textuur en tactiele feedback. Een sensorial board wordt gemaakt om de gebruiker een keuze te bieden uit een aantal van deze texturen. Een ander soort bordje wordt opgesteld om de grootte van de draaiknop te bestuderen. Gelijkaardig aan het sensorial board, worden een zestal draaiknoppen met verschillende groottes voorgesteld aan de gebruiker. Hun taak om een voorkeur te kiezen waarop verder gewerkt zal worden in een volende deelopdracht. 
 
+_Foto 1: Textuurbord; 
+Foto 2: Bord met draaiknoppen van verschillende groottes;_
+<p align="left">
+  <img src="CYR PICS/Textuurbord.jpeg" width="32%">
+  <img src="CYR PICS/Draaiknopbord" width="32%">
+
 > [!IMPORTANT]
 > Verdere ontwerpkeuzes worden aangekaart in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EU_6rTA0xLNAif_-g8QjNWkBcila4Qp8DFvM6UZk4YTpxg?e=iIEPJe)
 
