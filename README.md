@@ -309,10 +309,20 @@ Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voo
 #### Hardware switch
 Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. Er wordt gewerkt met een aantal Arduino componenten:
 
+- Arduino Nano
 - 12 Key Capacitive I2C Touch Sensor (MPR121)
 - MP3-TF-16P V3.0 (DF player mini)
 - Speaker
 
+_Foto 1: Arduino Nano met DF player mini en speaker; 
+Foto 2: I2C Touch Sensor met krokodillenklemmen; 
+Foto 3: Volledige opstelling_
+<p align="left">
+  <img src="CYR PICS/Arduino1.jpeg" width="32%">
+  <img src="CYR PICS/ArduinoMPR121.jpg" width="32%">
+  <img src="CYR PICS/ArduinoVolledig.jpeg" width="32%">
+
+Via een breadbord worden de verschillende componenten met _jumper wires_ met elkaar verbonden. De DF player mini bevat een micro SD kaart met een aantal geluiden. De speaker die is verbonden met deze mini player zet de aanraking van één van de toetsen om in geluid. Hieronder staat de code die wordt gebruikt om de aanraking om te zetten in geluid:
 
 
 ```c++
