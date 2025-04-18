@@ -404,6 +404,10 @@ Om te voldoen aan design requirement 1.3;
 
 Ondergaat de boombox opnieuw een vormvariant. Bij deze variant wordt de boombox rechtstreeks verbonden met de touchbox waardoor deze wordt opgeborgen als één grote "doos". 
 
+<p align="left">
+  <img src="CYR PICS/BoomboxAanElkaar1.jpeg" width="32%">
+  <img src="CYR PICS/BoomboxAanElkaar2.jpeg" width="32%">
+
 
 ### Resultaten
 
