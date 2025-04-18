@@ -306,6 +306,15 @@ Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voo
 > [!IMPORTANT]
 > Verdere ontwerpkeuzes worden aangekaart in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EU_6rTA0xLNAif_-g8QjNWkBcila4Qp8DFvM6UZk4YTpxg?e=iIEPJe)
 
+#### Hardware switch
+Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. Er wordt gewerkt met een aantal Arduino componenten:
+
+- 12 Key Capacitive I2C Touch Sensor (MPR121)
+- MP3-TF-16P V3.0 (DF player mini)
+- Speaker
+
+
+
 ```c++
 #include <Wire.h>
 #include <Adafruit_MPR121.h>
