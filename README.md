@@ -301,10 +301,10 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 Uit deelopdracht 3 werden de interfaces voor zowel de touchbox als boombox vastgelegd. Het doel van deelopdracht 4 (develop 2) is nadruk leggen op de usability en user experience van CYR. 
 
 ### Materiaal & methoden
-Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voorzien zijn van textuur en tactiele feedback. Een sensorial board wordt gemaakt om de gebruiker een keuze te bieden uit een aantal van deze texturen. Een ander soort bordje wordt opgesteld om de grootte van de draaiknop te bestuderen. Gelijkaardig aan het sensorial board, worden een zestal draaiknoppen met verschillende groottes voorgesteld aan de gebruiker. Hun taak om een voorkeur te kiezen waarop verder gewerkt zal worden in een volende deelopdracht. 
+Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voorzien zijn van textuur en tactiele feedback. Een sensorial board wordt gemaakt om de gebruiker een keuze te bieden uit een aantal texturen. Een ander soort bordje wordt opgesteld om de grootte van de draaiknop te bestuderen. Gelijkaardig aan het sensorial board, worden een zestal draaiknoppen met verschillende groottes voorgesteld aan de gebruiker. Hun taak om een voorkeur te kiezen waarop verder gewerkt zal worden in DE volgende deelopdracht. 
 
 _Foto 1: Textuurbord; 
-Foto 2: Bord met draaiknoppen van verschillende groottes;_
+Foto 2: Bord met draaiknoppen van verschillende groottes_
 <p align="left">
   <img src="CYR PICS/Textuurbord.jpeg" width="32%">
   <img src="CYR PICS/Draaiknopbord.jpeg" width="34%">
@@ -328,7 +328,7 @@ Foto 3: Volledige opstelling_
   <img src="CYR PICS/ArduinoMPR121.jpg" width="32%">
   <img src="CYR PICS/ArduinoVolledig2.jpeg" width="32%">
 
-Via een breadbord worden de verschillende componenten met _jumper wires_ met elkaar verbonden. De DF player mini bevat een micro SD kaart met een aantal geluiden. De speaker die is verbonden met deze mini player zet de aanraking van één van de toetsen om in geluid. De krokodillenklemmen aan de touch sensor zijn verbonden met metalenplaatjes. 
+Via een breadbord (groot wit bordje) worden de verschillende componenten met _jumper wires_ met elkaar verbonden. De DF player mini bevat een micro SD kaart met een aantal geluiden. De krokodillenklemmen aan de touch sensor zijn verbonden met de metalenplaatjes. De speaker die is verbonden met deze mini player zet de aanraking van één van de toetsen om in geluid. Ook deze touch sensor bevat capacitive touch waardoor een enkele aanraking met de plaatjes al volstaat om geluid te creëren.
 
 Hieronder staat de code die wordt gebruikt om de aanraking om te zetten in geluid:
 
@@ -398,8 +398,6 @@ bool isMetalTouched() {
     return secondCheck != 0;
 }
 ```
-
-> code gedeelte zal Rösh nog verder schrijven
 
 ### Resultaten
 
