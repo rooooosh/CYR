@@ -305,10 +305,10 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 Uit deelopdracht 3 werden de interfaces voor zowel de touchbox als boombox vastgelegd. Het doel van deelopdracht 4 (develop 2) is nadruk leggen op de usability en user experience van CYR. 
 
 ### Materiaal & methoden
-Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voorzien zijn van textuur en tactiele feedback. Een sensorial board wordt gemaakt om de gebruiker een keuze te bieden uit een aantal texturen. Een ander soort bordje wordt opgesteld om de grootte van de draaiknop te bestuderen. Gelijkaardig aan het sensorial board, worden een zestal draaiknoppen met verschillende groottes voorgesteld aan de gebruiker. Hun taak om een voorkeur te kiezen waarop verder gewerkt zal worden in DE volgende deelopdracht. 
+Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voorzien zijn van textuur en tactiele feedback. Een sensorial board wordt gemaakt om de gebruiker een keuze te bieden uit een aantal texturen. Een ander soort bordje wordt opgesteld om de grootte van de draaiknop te bestuderen. Gelijkaardig aan het sensorial board, worden een zestal draaiknoppen met verschillende diameters voorgesteld aan de gebruiker. Hun taak om een voorkeur te kiezen waarop verder gewerkt zal worden in de volgende deelopdracht. 
 
 _Foto 1: Textuurbord; 
-Foto 2: Bord met draaiknoppen van verschillende groottes_
+Foto 2: Bord met draaiknoppen van verschillende diameters: 30mm; 35mm; 40mm; 45mm; 50mm; 55mm_
 <p align="left">
   <img src="CYR PICS/Textuurbord.jpeg" width="32%">
   <img src="CYR PICS/Draaiknopbord.jpeg" width="34%">
@@ -316,8 +316,8 @@ Foto 2: Bord met draaiknoppen van verschillende groottes_
 > [!IMPORTANT]
 > Verdere ontwerpkeuzes worden aangekaart in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EU_6rTA0xLNAif_-g8QjNWkBcila4Qp8DFvM6UZk4YTpxg?e=iIEPJe)
 
-#### Hardware switch
-Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. Er wordt gewerkt met een aantal Arduino componenten:
+Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Bij deze deeldpdracht ligt de focus bij het veranderen van de **hardware**: als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. 
+Er wordt gewerkt met een aantal Arduino componenten:
 
 - Arduino Nano
 - 12 Key Capacitive I2C Touch Sensor (MPR121)
