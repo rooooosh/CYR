@@ -413,7 +413,7 @@ Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit de feed
 <p align="left">
   <img src="CYR PICS/CloseupDraaiknop.jpeg" width="32%">
   <img src="CYR PICS/BoomboxMetDraaiknop1.jpeg" width="32%">
-  <img src="CYR PICS/BoomboxMetDraaiknop2.jpeg" width="20%">
+  <img src="CYR PICS/BoomboxMetDraaiknop2.jpeg" width="18%">
 
 ### Resultaten
 
