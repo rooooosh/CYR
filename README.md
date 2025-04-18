@@ -158,7 +158,7 @@ Op basis van de resultaten tijdens de discovery fase en uit de definition fase k
 - Gebruikers met duidelijkere symptomen (vb. tremor hand) hadden meer moeite om op een toets te drukken.
 
 > [!IMPORTANT]
-> Design requirements
+> **Design requirements**
 >  - 1.1 De touchbox bevat een minimale hoogte om elektronica te bewaren
 >  - 2.1 De touchbox produceert geluid door een enkele aanraking met één van de toetsen
 >  - 2.2 De toetsen zijn groot genoeg om eenvoudig en comfortabel deze aan te tikken
@@ -286,7 +286,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 
 
 > [!IMPORTANT]
-> Design requirements
+> **Design requirements**
 >  - 1.2 De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen
 >  - 1.3 Het product is zo compact mogelijk
 >  - 2.4 De interface van de boombox is zodanig ontworpen zodat de interactie hiermee geen overbodige elementen bevat
