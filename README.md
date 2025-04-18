@@ -399,10 +399,10 @@ bool isMetalTouched() {
 }
 ```
 
-Om te voldoen aan design requirement 1.3;
+Om te voldoen aan **design requirement 1.3**
 > Het product is zo compact mogelijk
 
-Ondergaat de boombox opnieuw een vormvariant. Bij deze variant wordt de boombox rechtstreeks verbonden met de touchbox waardoor deze wordt opgeborgen als één grote "doos". 
+Ondergaat de boombox opnieuw een vormvariant. Bij deze variant wordt de boombox rechtstreeks verbonden met de touchbox waardoor deze wordt opgeborgen als één grote "doos". De boombox wordt verbonden met scharnieren waardoor deze makkelijk open en dicht kan. Ook zorgt deze variant voor een extra laag bescherming voor de touchbox, waardoor een langere productlevensduur kan gegarandeerd worden.
 
 <p align="left">
   <img src="CYR PICS/BoomboxAanElkaar1.jpeg" width="40%">
