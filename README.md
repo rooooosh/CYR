@@ -307,7 +307,7 @@ _Foto 1: Textuurbord;
 Foto 2: Bord met draaiknoppen van verschillende groottes;_
 <p align="left">
   <img src="CYR PICS/Textuurbord.jpeg" width="32%">
-  <img src="CYR PICS/Draaiknopbord.jpeg" width="32%">
+  <img src="CYR PICS/Draaiknopbord.jpeg" width="34%">
 
 > [!IMPORTANT]
 > Verdere ontwerpkeuzes worden aangekaart in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EU_6rTA0xLNAif_-g8QjNWkBcila4Qp8DFvM6UZk4YTpxg?e=iIEPJe)
