@@ -195,6 +195,7 @@ De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verd
 Voor deze deelopdracht wordt een stap teruggenomen waarbij er opnieuw wordt getest op de layout van de interfaces van zowel de boombox en de touchbox. Om de interfaces van de touchbox en de boombox vast te leggen, werden een aantal iteraties gebouwd:
 - De touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
+
   
 **Touchbox**
 
@@ -202,7 +203,8 @@ Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal
 
 > _"Hoe meer knoppen hoe verwarrender"_
 
-Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het horen van het geluid na het indrukken van een toets is voor de meeste gebruikers nog steeds te groot. Om te zien of dit aan de software of hardware ligt zal dit probleem in vrijwel elke deelopdracht worden aangekaart. Bij deze deeldpdracht ligt de focus bij het veranderen van de **software**: het eenvoudige programma scratch wordt hierbij vervangen door Protopie als poging om deze latency te doen verminderen.  
+Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het horen van het geluid na het indrukken van een toets is voor de meeste gebruikers nog steeds te groot. Om te zien of dit aan de software of hardware ligt zal dit probleem in vrijwel elke deelopdracht worden aangekaart. Bij deze deeldpdracht ligt de focus bij het veranderen van de **software**: het eenvoudige programma scratch wordt hierbij vervangen door Protopie als poging om deze latency te doen verminderen.
+
 
 **Boombox**
 
@@ -420,7 +422,7 @@ Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit de feed
 > nog deel raspberry pi schrijven + foto's scherm apart 
 
 ### Resultaten
-
+De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort toegelicht worden.
 ...
 <p align="left">
   <img src="CYR PICS/TEST3.jpeg" width="32%">
