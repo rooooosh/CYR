@@ -435,7 +435,7 @@ Het scherm en de interactie hiermee werden vervaardigd aan de hand van volgende 
     - Protopie Connect
     - Arduino IDE
     
-Zoals eerder aangehaald zal het voor deze testfase het scherm geïntegreerd worden in de originele boombox. Het scherm is verbonden aan een Raspberry pi 4, waarbij als operating system Raspberry pi OS wordt gebruikt.
+Zoals eerder aangehaald zal voor deze testfase het scherm geïntegreerd worden in de originele boombox. Het scherm is verbonden aan een Raspberry pi 4, waarbij als operating system Raspberry pi OS wordt gebruikt.
 
 In Protopie wordt het spel aangepast zodanig dat er verschillende varianten zijn op de huidige layout van het spel, hierbij wordt gevarieërd op de lay-out, kleurenhiërarchie en look van het spel. 
 In onderstaande fotos staan illustraties van de 4 verschillende varianten op het spel.
@@ -453,9 +453,11 @@ Deze knop moest een aantal functies hebben, de nodige interacties zijn:
   - Enkele klik
   - Dubbele klik
   - Draaibeweging
+
 Deze interacties zouden ervoor dienen het bediendingsscherm van het spel te besturen, elke van deze interacties zou dus in verbinding moeten staan met elkaar. De code werd dusdanig geschreven zodat er bijgehouden wordt hoeveel keer er wordt gedraaid naar links/rechts, of er een signaal mag worden doorgestuurd (dubbele klik om bedieningsscherm te activeren), aantal keer dat er gedraaid is voordat er een signaal mag gestuurd worden,...
 De code die hiervoor geschreven is, is terug te vinden in de map 'Code', onder 'Code_Rotary_Enconder'.
 
+De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopie Connect. Door het verbinden van de laptop en de raspberry pi aan hetzelfde netwerk, kan er in de webbrowser van de raspberry pi gezocht worden naar de juiste URL. Hierbij dient rekening gehouden te worden met het correcte ip-adres in de URL.
   
 ### Resultaten
 De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort toegelicht worden.
