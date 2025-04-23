@@ -438,13 +438,13 @@ Zoals eerder aangehaald zal het voor deze testfase het scherm geïntegreerd word
 
 In Protopie wordt het spel aangepast zodanig dat er verschillende varianten zijn op de huidige layout van het spel, hierbij wordt gevarieërd op de lay-out, kleurenhiërarchie en look van het spel. 
 In onderstaande fotos staan illustraties van de 4 verschillende varianten op het spel.
-<p align="left">
-  <img src="CYR PICS/Interface1.jpg" width="32%">
-  <img src="CYR PICS/Interface2.jpg" width="32%">
+<p align="middle">
+  <img src="CYR PICS/Interface1.png" width="32%">
+  <img src="CYR PICS/Interface2.png" width="32%">
  
-<p align="left">
-  <img src="CYR PICS/Interface3.jpg" width="32%">
-  <img src="CYR PICS/Interface4.jpg" width="32%">
+<p align="middle">
+  <img src="CYR PICS/Interface3.png" width="32%">
+  <img src="CYR PICS/Interface4.png" width="32%">
 
   
 ### Resultaten
