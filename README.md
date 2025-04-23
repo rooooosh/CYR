@@ -423,7 +423,22 @@ Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit de feed
   <img src="CYR PICS/BoomboxMetDraaiknop1.jpeg" width="32%">
   <img src="CYR PICS/BoomboxMetDraaiknop2.jpeg" width="18%">
 
-> nog deel raspberry pi schrijven + foto's scherm apart 
+
+Het scherm en de interactie hiermee werden vervaardigd aan de hand van volgende onderdelen:
+  - Raspberry pi 4
+  - Raspberry Pi 7" DSI Touchscreen display (800 x 480 px)
+  - Arduino Nano
+  - Rotary encoder
+  - gebruikte software:
+    - Protopie
+    - Protopie Connect
+    - Arduino IDE
+    
+Zoals eerder aangehaald zal het voor deze testfase het scherm geïntegreerd worden in de originele boombox. Het scherm is verbonden aan een Raspberry pi 4, waarbij als operating system Raspberry pi OS wordt gebruikt.
+
+In Protopie wordt het spel aangepast zodanig dat er verschillende varianten zijn op de huidige layout van het spel, hierbij wordt gevarieërd op de lay-out, kleurenhiërarchie en look van het spel. 
+In onderstaande fotos staan illustraties van de 4 verschillende varianten op het spel.
+
 
 ### Resultaten
 De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort toegelicht worden.
