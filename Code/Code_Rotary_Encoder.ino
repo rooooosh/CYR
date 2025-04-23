@@ -1,4 +1,3 @@
-```C++
 /*
  * PIN AANSLUITINGEN
  * GND --> GND (zwart)
@@ -126,4 +125,4 @@ void update() {
 
   pinAStateLast = pinAstateCurrent;
 }
-```
+
