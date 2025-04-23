@@ -309,7 +309,8 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 Uit deelopdracht 3 werden de interfaces voor zowel de touchbox als boombox vastgelegd. Het doel van deelopdracht 4 (develop 2) is nadruk leggen op de usability en user experience van CYR. 
 
 ### Materiaal & methoden
-Om een betere user experience te bieden voor de gebruikers, zal de draaiknop voorzien zijn van textuur en tactiele feedback. Een sensorial board wordt gemaakt om de gebruiker een keuze te bieden uit een aantal texturen. Een ander soort bordje wordt opgesteld om de grootte van de draaiknop te bestuderen. Gelijkaardig aan het sensorial board, worden een zestal draaiknoppen met verschillende diameters voorgesteld aan de gebruiker. Hun taak om een voorkeur te kiezen waarop verder gewerkt zal worden in de volgende deelopdracht. 
+Er zal voor deze test een scherm, een draai/drukknop en nieuwe elektronica worden voorzien voor het afnemen van de tests en om een betere user experience te bieden voor de gebruikers. De draaiknop zal voorzien zijn van textuur en tactiele feedback. Een sensorial board wordt gemaakt om de gebruiker een keuze te bieden uit een aantal texturen. Een ander soort paneel wordt opgesteld om de grootte van de draaiknop te bestuderen. Gelijkaardig aan het sensorial board, worden een zestal draaiknoppen met verschillende diameters voorgesteld aan de gebruiker. Hun taak om een voorkeur te kiezen waarop verder gewerkt zal worden in de volgende deelopdracht. 
+
 
 _Foto 1: Textuurbord; 
 Foto 2: Bord met draaiknoppen van verschillende diameters: 30mm; 35mm; 40mm; 45mm; 50mm; 55mm_
@@ -438,6 +439,7 @@ Zoals eerder aangehaald zal het voor deze testfase het scherm geïntegreerd word
 
 In Protopie wordt het spel aangepast zodanig dat er verschillende varianten zijn op de huidige layout van het spel, hierbij wordt gevarieërd op de lay-out, kleurenhiërarchie en look van het spel. 
 In onderstaande fotos staan illustraties van de 4 verschillende varianten op het spel.
+
 <p align="middle">
   <img src="CYR PICS/Interface1.png" width="32%">
   <img src="CYR PICS/Interface2.png" width="32%">
@@ -445,6 +447,14 @@ In onderstaande fotos staan illustraties van de 4 verschillende varianten op het
 <p align="middle">
   <img src="CYR PICS/Interface3.png" width="32%">
   <img src="CYR PICS/Interface4.png" width="32%">
+
+Het idee van de draai/drukknop is vervaardigd aan de hand van een rotary encoder, deze hebben we aangesloten aan een Arduino Nano. 
+Deze knop moest een aantal functies hebben, de nodige interacties zijn:
+  - Enkele klik
+  - Dubbele klik
+  - Draaibeweging
+Deze interacties zouden ervoor dienen het bediendingsscherm van het spel te besturen, elke van deze interacties zou dus in verbinding moeten staan met elkaar. De code werd dusdanig geschreven zodat er bijgehouden wordt hoeveel keer er wordt gedraaid naar links/rechts, of er een signaal mag worden doorgestuurd (dubbele klik om bedieningsscherm te activeren), aantal keer dat er gedraaid is voordat er een signaal mag gestuurd worden,...
+De code die hiervoor geschreven is, is terug te vinden in de map 'Code', onder 'Code_Rotary_Enconder'.
 
   
 ### Resultaten
