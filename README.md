@@ -508,7 +508,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 
 - #### **Design van het spel** 
 
-    |       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
+    |       | **2 clicks (1/8<sup>ste</sup> click)** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
   |-|:---:|:---:|:---:|:---:|
   | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
   | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
