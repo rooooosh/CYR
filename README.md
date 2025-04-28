@@ -476,18 +476,15 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 
 **<sub>Door omstandigheden werd de latency op de touchbox niet getest, hierdoor kon geen score/uitspraak gegeven worden.</sub>*
 
-<div align="center">
-
 - #### **Texturen** 
 
   |       | **Textuur 1** | **Textuur 2** | **Textuur 3** | **Textuur 4** | **Textuur 5** | **Textuur 6** |
-  |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+  |-|:---:|:---:|:---:|:---:|:---:|:---:|
   | Anne Mestdag    |      |      |   X    |    X   |      |   **<ins>X</ins>**   |
   | Marie-Paule Defever    |  |      |   X    |       |   X   |   **<ins>X</ins>**   |
   | Jacques Vander Oost |        |      |   X    |       |   X   |  **<ins>X</ins>**   |
   | Pieter Jan |    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
 
-</div>
 
 - #### **Grootte van de draaiknoppen** 
 
