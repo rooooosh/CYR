@@ -463,8 +463,63 @@ De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopi
 ### Resultaten
 De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort toegelicht worden.
 
+- #### **Touchbox MOS Test**
 
-...
+  |**Gebruiker**               | **Score** | **Beperking**|
+  |-|-|-|
+  | Anne Mestdag    | 4      | Licht Storend   | 
+  | Marie-Paule Defever     | 4-5    | Niet storend tot perfect|
+  | Jacques Vander Oost | 4-5 | Niet storend tot perfect  |
+  | Pieter Jan Lernout | /* | Geen mogelijke uitspraak  |
+  | | *Gem.: 4* ||
+
+> [!NOTE]
+> *Door omstandigheden werd de latency op de touchbox niet getest, hierdoor kon geen score/uitspraak gegeven worden.
+
+
+- #### **Texturen** 
+  *1 - meest voorkeur*
+  
+  *3 - minst voorkeur*
+  |       | **9 toetsen** | **6 toetsen**| **4 toetsen** |
+  |-|-|-|-|
+  | Anne Mestdag    | 2      | 1   | 3|
+  | Sofie Vanhoutte    | 2    | 1 | 3|
+  | Pieter Jan Lernout | 3 | 1  |  2|
+  | || *Favoriet* 
+
+- #### **Grootte van de draaiknoppen** 
+  *1 - meest voorkeur*
+  
+  *4 - minst voorkeur*
+  |       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
+  |-|-|-|-|-|
+  | Anne Mestdag    | 1      | 2| 4   | 3|
+  | Sofie Vanhoutte    | 2  |4  | 3 | 1|
+  | Pieter Jan Lernout |1| 3 | 4  |  2|
+  | | *Favoriet*
+
+  - #### **Draaien van de knop** 
+  *1 - meest voorkeur*
+  
+  *4 - minst voorkeur*
+  |       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
+  |-|-|-|-|-|
+  | Anne Mestdag    | 1      | 2| 4   | 3|
+  | Sofie Vanhoutte    | 2  |4  | 3 | 1|
+  | Pieter Jan Lernout |1| 3 | 4  |  2|
+  | | *Favoriet*
+
+  - #### **Design van het spel** 
+  *1 - meest voorkeur*
+  
+  *4 - minst voorkeur*
+  |       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
+  |-|-|-|-|-|
+  | Anne Mestdag    | 1      | 2| 4   | 3|
+  | Sofie Vanhoutte    | 2  |4  | 3 | 1|
+  | Pieter Jan Lernout |1| 3 | 4  |  2|
+  | | *Favoriet* 
 
 
 <p align="left">
