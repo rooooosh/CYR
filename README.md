@@ -565,7 +565,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 | D4.5 | De interactie met de boombox gebeurt aan de hand van fysieke knoppen. | Definition: Wave 2 | 18/02/2025 |
 | D4.6 | De draaiknoppen bevatten textuur voor een betere gevoelservaring. | Develop 2 | 16/04/2025 |
 
- ***__Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na develop 2_!!!***
+ ***__Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na develop 2__!!!***
 
 ## Bijlagen
 
