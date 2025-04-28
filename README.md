@@ -488,34 +488,32 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 
 - #### **Grootte van de draaiknoppen** 
 
-  |       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
-  |-|-|-|-|-|
-  | Anne Mestdag    | 1      | 2| 4   | 3|
-  | Sofie Vanhoutte    | 2  |4  | 3 | 1|
-  | Pieter Jan Lernout |1| 3 | 4  |  2|
-  | | *Favoriet*
+  |       | **30mm** | **35mm** | **40mm** | **45mm** | **50mm** | **55mm** |
+  |-|:---:|:---:|:---:|:---:|:---:|:---:|
+  | Anne Mestdag    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
+  | Marie-Paule Defever    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
+  | Jacques Vander Oost |        |   **<ins>X</ins>**   |   X    |   X    |      |     |
+  | Pieter Jan |   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
+
 
   - #### **Draaien van de knop** 
-  *1 - meest voorkeur*
-  
-  *4 - minst voorkeur*
-  |       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
-  |-|-|-|-|-|
-  | Anne Mestdag    | 1      | 2| 4   | 3|
-  | Sofie Vanhoutte    | 2  |4  | 3 | 1|
-  | Pieter Jan Lernout |1| 3 | 4  |  2|
-  | | *Favoriet*
+
+  |       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
+  |-|:---:|:---:|:---:|:---:|
+  | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
+  | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
+  | Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
+  | Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
+
 
   - #### **Design van het spel** 
-  *1 - meest voorkeur*
-  
-  *4 - minst voorkeur*
-  |       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
-  |-|-|-|-|-|
-  | Anne Mestdag    | 1      | 2| 4   | 3|
-  | Sofie Vanhoutte    | 2  |4  | 3 | 1|
-  | Pieter Jan Lernout |1| 3 | 4  |  2|
-  | | *Favoriet* 
+
+    |       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
+  |-|:---:|:---:|:---:|:---:|
+  | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
+  | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
+  | Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
+  | Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
 
 
 <p align="left">
