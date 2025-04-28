@@ -230,11 +230,11 @@ De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop 
 Hierbij een [link](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5) naar de verschillende gebouwde iteraties.
 
 > [!IMPORTANT]
-> Verdere ontwerpkeuzes worden aangekaart in [Protocol develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EVEtEksqdJJBhZXit1Fg1yQBjQquEJI503QhC8J9cvlPyg?e=adsysK)
+> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EVEtEksqdJJBhZXit1Fg1yQBjQquEJI503QhC8J9cvlPyg?e=adsysK)
 
 ### Resultaten
 
-De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort toegelicht worden.
+De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ES3WNbN0WClOn1nJESBFn6IBWB74uhWHl6Zd6KmwXddXkg?e=63dOV4) en zullen hier kort toegelicht worden.
 
 - #### **Touchbox MOS Test**
 
@@ -319,7 +319,7 @@ Foto 2: Bord met draaiknoppen van verschillende diameters: 30mm; 35mm; 40mm; 45m
   <img src="CYR PICS/Draaiknopbord.jpeg" width="34%">
 
 > [!IMPORTANT]
-> Verdere ontwerpkeuzes worden aangekaart in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ESYnVXe4J2lLmc8ceF5xz1ABjPSFqg71RiO5Fj4zxXOxBw?e=alCsvv)
+> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ESYnVXe4J2lLmc8ceF5xz1ABjPSFqg71RiO5Fj4zxXOxBw?e=alCsvv)
 
 Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Bij deze deeldpdracht ligt de focus bij het veranderen van de **hardware**: als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. 
 Er wordt gewerkt met een aantal Arduino componenten:
@@ -462,7 +462,7 @@ De code die hiervoor geschreven is, is terug te vinden in de map 'Code', onder '
 De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopie Connect. Door het verbinden van de laptop en de raspberry pi aan hetzelfde netwerk, kan er in de webbrowser van de raspberry pi gezocht worden naar de juiste URL. Hierbij dient rekening gehouden te worden met het correcte ip-adres in de URL.
   
 ### Resultaten
-De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort toegelicht worden.
+De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ESmI_AUUn49GgIqkPFp2I3wBmfKqKCH67thOzXqvPDNyrQ?e=yjoOcF) en zullen hier kort toegelicht worden.
 
 - #### **Touchbox MOS Test**
 
