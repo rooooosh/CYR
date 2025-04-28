@@ -123,7 +123,7 @@ Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door 
 Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald, geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten. Dit kan voor de gebruiker een grotere uitdaging vormen. Om de touchbox te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
 > [!IMPORTANT]
-> Makey Makey maakt gebruik van haptic touch waardoor een simpele aanraking met één van de toetsen al een geluid creëert. 
+> Makey Makey maakt gebruik van capacitive touch waardoor een simpele aanraking met één van de toetsen al een geluid creëert. 
 
 ### Resultaten
 In wave 1 kreeg het concept positieve feedback. Gebruikers vonden het een leuk en uitdagend product, zeker voor mensen zonder ervaring met muziekspelen. Ze waardeerden de interactie met de touchbox en vonden het prettig dat ze geen knoppen hoefden in te drukken - het aanraken van de plaatjes was voldoende om feedback te krijgen. Voor mensen met Parkinson kon dit een uitdaging zijn, maar één die te overwinnen was. Een verbeterpunt was de lichte vertraging tussen het aanraken van het plaatje en het afspelen van het geluid.
