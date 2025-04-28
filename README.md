@@ -431,7 +431,7 @@ Het scherm en de interactie hiermee werden vervaardigd aan de hand van volgende 
   - Raspberry Pi 7" DSI Touchscreen display (800 x 480 px)
   - Arduino Nano
   - Rotary encoder
-  - gebruikte software:
+  - Gebruikte software:
     - Protopie
     - Protopie Connect
     - Arduino IDE
@@ -451,6 +451,7 @@ In onderstaande fotos staan illustraties van de 4 verschillende varianten op het
 
 Het idee van de draai/drukknop is vervaardigd aan de hand van een rotary encoder, deze hebben we aangesloten aan een Arduino Nano. 
 Deze knop moest een aantal functies hebben, de nodige interacties zijn:
+
   - Enkele klik
   - Dubbele klik
   - Draaibeweging
@@ -478,20 +479,17 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
 
 
 - #### **Texturen** 
-  *1 - meest voorkeur*
-  
-  *3 - minst voorkeur*
-  |       | **9 toetsen** | **6 toetsen**| **4 toetsen** |
+
+  |       | **Textuur 1** | **Textuur 2** | **Textuur 3** | **Textuur 4** | **Textuur 5** | **Textuur 6** |
   |-|-|-|-|
-  | Anne Mestdag    | 2      | 1   | 3|
-  | Sofie Vanhoutte    | 2    | 1 | 3|
-  | Pieter Jan Lernout | 3 | 1  |  2|
-  | || *Favoriet* 
+  | Anne Mestdag    |      |      |   X    |    X   |      |   **__X__**   |
+  | Marie-Paule Defever    |  |      |   X    |       |   X   |   **__X__**   |
+  | Jacques Vander Oost |        |      |   X    |       |   X   |   **__X__**   |
+  | Pieter Jan |    X    |      |   X    |    **__X__**   |      |      |
+
 
 - #### **Grootte van de draaiknoppen** 
-  *1 - meest voorkeur*
-  
-  *4 - minst voorkeur*
+
   |       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
   |-|-|-|-|-|
   | Anne Mestdag    | 1      | 2| 4   | 3|
