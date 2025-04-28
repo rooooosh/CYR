@@ -496,7 +496,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
   | Pieter Jan |   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
 
 
-  - #### **Draaien van de knop** 
+- #### **Draaien van de knop** 
 
   |       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
   |-|:---:|:---:|:---:|:---:|
@@ -506,7 +506,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
   | Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
 
 
-  - #### **Design van het spel** 
+- #### **Design van het spel** 
 
     |       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
   |-|:---:|:---:|:---:|:---:|
