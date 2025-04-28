@@ -485,7 +485,7 @@ De volgende resultaten komen rechtstreeks van het rapport en zullen hier kort to
   | Anne Mestdag    |      |      |   X    |    X   |      |   **__X__**   |
   | Marie-Paule Defever    |  |      |   X    |       |   X   |   **__X__**   |
   | Jacques Vander Oost |        |      |   X    |       |   X   |   **__X__**   |
-  | Pieter Jan |    X    |      |   X    |    **__X__**   |      |      |
+  | Pieter Jan |    X    |      |   X    |    **__X__**   |      |      ||
 
 
 - #### **Grootte van de draaiknoppen** 
