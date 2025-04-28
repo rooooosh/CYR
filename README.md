@@ -516,6 +516,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
   | Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
 
 
+#### Een foto van Marie-Paule en Jacques tijdens een gebruikstest
 <p align="left">
   <img src="CYR PICS/TEST3.jpeg" width="40%">
 
