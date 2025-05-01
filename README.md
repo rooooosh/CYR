@@ -479,6 +479,8 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 **<sub>Door omstandigheden werd de latency op de touchbox niet getest, hierdoor kon geen score/uitspraak gegeven worden.</sub>*
 
+Hieruit kan geconludeerd worden dat zowel een verandering in software als hardware leiden tot een vermindering van de latency op de touchbox. 
+
 - #### **Texturen** 
 
   |       | **Textuur 1** | **Textuur 2** | **Textuur 3** | **Textuur 4** | **Textuur 5** | **Textuur 6** |
