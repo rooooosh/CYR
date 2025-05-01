@@ -211,7 +211,7 @@ Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal
 
 > _"Hoe meer knoppen hoe verwarrender"_
 
-Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het horen van het geluid na het indrukken van een toets is voor de meeste gebruikers nog steeds te groot. Om te zien of dit aan de software of hardware ligt zal dit probleem in vrijwel elke deelopdracht worden aangekaart. Bij deze deeldpdracht ligt de focus bij het veranderen van de **software**: het eenvoudige programma scratch wordt hierbij vervangen door Protopie als poging om deze latency te doen verminderen.
+Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het horen van het geluid na het indrukken van een toets is voor de meeste gebruikers nog steeds te groot. Om te zien of dit aan de software of hardware ligt zal dit probleem in vrijwel elke deelopdracht worden aangekaart. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>software</ins>**: het eenvoudige programma scratch wordt hierbij vervangen door Protopie als poging om deze latency te doen verminderen.
 
 
 **Boombox**
@@ -324,7 +324,7 @@ Foto 2: Bord met draaiknoppen van verschillende diameters: 30mm; 35mm; 40mm; 45m
 > [!IMPORTANT]
 > Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ESYnVXe4J2lLmc8ceF5xz1ABjPSFqg71RiO5Fj4zxXOxBw?e=alCsvv)
 
-Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Bij deze deeldpdracht ligt de focus bij het veranderen van de **hardware**: als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. 
+Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>hardware</ins>**: als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. 
 Er wordt gewerkt met een aantal Arduino componenten:
 
 - Arduino Nano
