@@ -203,6 +203,7 @@ Voor deze deelopdracht wordt een stap teruggenomen waarbij er opnieuw wordt gete
 - De touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 
+Hierbij een [link](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5) naar de verschillende gebouwde iteraties.
   
 **Touchbox**
 
@@ -230,7 +231,6 @@ De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop 
 
 **4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de interne schijf ook meedraaien volgens de beweging van het draaiwiel. Binnen de mogelijkheden eindigde deze interface op de tweede plaats.
 
-Hierbij een [link](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5) naar de verschillende gebouwde iteraties.
 
 > [!IMPORTANT]
 > Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EVEtEksqdJJBhZXit1Fg1yQBjQquEJI503QhC8J9cvlPyg?e=adsysK)
