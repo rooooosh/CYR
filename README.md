@@ -471,6 +471,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 - #### **Touchbox MOS Test**
   *1 - zeer slecht*
+  
   *5 - uitstekend*
 
   |**Gebruiker**               | **Score** | **Beperking**|
@@ -487,6 +488,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 - #### **Texturen** 
   ***<ins>X</ins>** - hoofdvoorkeur*
+  
   *X - overige top 3*
 
   |       | **Textuur 1** | **Textuur 2** | **Textuur 3** | **Textuur 4** | **Textuur 5** | **Textuur 6** |
@@ -499,6 +501,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 - #### **Grootte van de draaiknoppen**
   ***<ins>X</ins>** - hoofdvoorkeur*
+  
   *X - overige top 3*
 
   |       | **30mm** | **35mm** | **40mm** | **45mm** | **50mm** | **55mm** |
