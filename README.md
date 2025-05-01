@@ -227,9 +227,9 @@ De verschillende iteraties op de boombox bevatten interfaces die elk op een ande
 
 De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop zorgt voor de navigatie naar boven. Om een keuze te maken uit een liedje worden simultaan beide knoppen ingedrukt. 
 
-**3.** De draaiknop heeft als mogelijkheid om opnieuw uit een lijst van liedjes te scrollen via een draaibeweging naar links of naar rechts. Om een liedje te selecteren wordt dan op de knop gedrukt. Na het uitvoeren van de gebruikstests kan geconcludeerd worden dat deze interface het meest gunstige is binnen de 4 mogelijkheden.
+**3.** De draaiknop heeft als mogelijkheid om opnieuw uit een lijst van liedjes te scrollen via een draaibeweging naar links of naar rechts. Om een liedje te selecteren wordt dan op de knop gedrukt. 
 
-**4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de interne schijf ook meedraaien volgens de beweging van het draaiwiel. Binnen de mogelijkheden eindigde deze interface op de tweede plaats.
+**4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de interne schijf ook meedraaien volgens de beweging van het draaiwiel. 
 
 
 > [!IMPORTANT]
