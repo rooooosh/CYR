@@ -421,7 +421,7 @@ Ondergaat de boombox opnieuw een vormvariant. Bij deze variant wordt de boombox 
   <img src="CYR PICS/BoomboxAanElkaar1.jpeg" width="40%">
   <img src="CYR PICS/BoomboxAanElkaar2.jpeg" width="40%">
 
-Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit de feedback van deelopdracht 3 werd besloten dat de enkele draaiknop de beste manier was om liedjes te selecteren en te laten afspelen. Voor deze deelopdracht (4) wordt nog gewerkt met de originele boombox waar het scherm in zal geïntegreerd worden. Op de interface van de boombox zal de draaiknop (met voorlopige textuur en grootte) bevestigd worden en zal deze vorm variant gebruikt worden voor de eerst volgende testen. De keuze om verder te werken met de compactere iteratie ligt al vast en zal bij de finale deelopdracht gepresenteerd worden aan de gebruikers. Juist naar haalbaarheid en gebrek aan tijd wordt daarvoor nog de oudere  variant van de boombox gebruikt voor deze testen. 
+Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit het rapport van [deelopdracht 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ES3WNbN0WClOn1nJESBFn6IBWB74uhWHl6Zd6KmwXddXkg?e=pNfeQX) werd besloten dat de enkele draaiknop de beste manier was om liedjes te selecteren en te laten afspelen. Voor deze deelopdracht (4) wordt nog gewerkt met de originele boombox waar het scherm in zal geïntegreerd worden. Op de interface van de boombox zal de draaiknop (met voorlopige textuur en grootte) bevestigd worden en zal deze vorm variant gebruikt worden voor de eerst volgende testen. De keuze om verder te werken met de compactere iteratie ligt al vast en zal bij de finale deelopdracht gepresenteerd worden aan de gebruikers. Juist naar haalbaarheid en gebrek aan tijd wordt daarvoor nog de oudere variant van de boombox gebruikt voor deze testen. 
 
 <p align="left">
   <img src="CYR PICS/CloseupDraaiknop.jpeg" width="32%">
@@ -430,7 +430,7 @@ Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit de feed
 
 
 Het scherm en de interactie hiermee werden vervaardigd aan de hand van volgende onderdelen:
-  - Raspberry pi 4
+  - Raspberry Pi 4
   - Raspberry Pi 7" DSI Touchscreen display (800 x 480 px)
   - Arduino Nano
   - Rotary encoder
@@ -439,10 +439,9 @@ Het scherm en de interactie hiermee werden vervaardigd aan de hand van volgende 
     - Protopie Connect
     - Arduino IDE
     
-Zoals eerder aangehaald zal voor deze testfase het scherm geïntegreerd worden in de originele boombox. Het scherm is verbonden aan een Raspberry pi 4, waarbij als operating system Raspberry pi OS wordt gebruikt.
+Zoals eerder aangehaald zal voor deze testfase het scherm geïntegreerd worden in de originele boombox. Het scherm is verbonden aan een Raspberry Pi 4, waarbij als operating system Raspberry Pi OS wordt gebruikt.
 
-In Protopie wordt het spel aangepast zodanig dat er verschillende varianten zijn op de huidige layout van het spel, hierbij wordt gevarieërd op de lay-out, kleurenhiërarchie en look van het spel. 
-In onderstaande fotos staan illustraties van de 4 verschillende varianten op het spel.
+In Protopie wordt het spel aangepast zodanig dat er verschillende varianten zijn op de huidige layout van het spel. Er zal getest worden op de verschillende variaties van lay-out, de kleurenhiërarchie en look van het spel. Onderstaande foto's illustreren de 4 verschillende varianten op het spel.
 
 <p align="middle">
   <img src="CYR PICS/Interface1.png" width="32%">
@@ -452,15 +451,16 @@ In onderstaande fotos staan illustraties van de 4 verschillende varianten op het
   <img src="CYR PICS/Interface3.png" width="32%">
   <img src="CYR PICS/Interface4.png" width="32%">
 
-Het idee van de draai/drukknop is vervaardigd aan de hand van een rotary encoder, deze hebben we aangesloten aan een Arduino Nano. 
-Deze knop moest een aantal functies hebben, de nodige interacties zijn:
+Het idee van de draai/drukknop is vervaardigd aan de hand van een rotary encoder, deze werd aangesloten aan een Arduino Nano. Deze knop moest een aantal functies hebben, de nodige interacties zijn:
 
   - Enkele klik
   - Dubbele klik
   - Draaibeweging
 
-Deze interacties zouden ervoor dienen het bediendingsscherm van het spel te besturen, elke van deze interacties zou dus in verbinding moeten staan met elkaar. De code werd dusdanig geschreven zodat er bijgehouden wordt hoeveel keer er wordt gedraaid naar links/rechts, of er een signaal mag worden doorgestuurd (dubbele klik om bedieningsscherm te activeren), aantal keer dat er gedraaid is voordat er een signaal mag gestuurd worden,...
-De code die hiervoor geschreven is, is terug te vinden in de map 'Code', onder 'Code_Rotary_Enconder'.
+Deze interacties dienen voor het besturen van het bediendingsscherm van het spel , elke van deze interacties staat in verbinding met elkaar. De code wordt geschreven zodat er wordt bijgehouden hoeveel keer wordt gedraaid naar links/rechts, of er een signaal mag worden doorgestuurd (dubbele klik om bedieningsscherm te activeren), aantal keer dat er gedraaid is voordat er een signaal mag gestuurd worden, ...
+
+> [!NOTE]
+> De code die hiervoor geschreven is, is terug te vinden in de map 'Code', onder 'Code_Rotary_Enconder'.
 
 De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopie Connect. Door het verbinden van de laptop en de raspberry pi aan hetzelfde netwerk, kan er in de webbrowser van de raspberry pi gezocht worden naar de juiste URL. Hierbij dient rekening gehouden te worden met het correcte ip-adres in de URL.
   
