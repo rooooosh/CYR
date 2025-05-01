@@ -272,8 +272,12 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
   | Pieter Jan Lernout |1| 3 | 4  |  2|
   | | *Favoriet* 
 
+
+
+
+
 - #### **Meningen Hendel**
-  De hendel werd doorgaans opgemerkt met een iets negatievere indruk wanneer ernaar werd gevraagd. De locatie was volgens hen te verschuild en het uitsteken van de hendel vormde een miniem probleem
+  De hendel werd doorgaans opgemerkt met een iets negatievere indruk wanneer ernaar werd gevraagd. De locatie was volgens hen te verschuild en het uitsteken van de hendel vormde een probleem
 
 - #### **Voordelen en nadelen verbinding touch- en boombox**
   |**Voordelen**|**Nadelen**|
