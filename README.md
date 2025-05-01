@@ -275,7 +275,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 Als poging om de compactheid van CYR te bewaren, werd volgende onderzoeksvraag gesteld aan de gebruikers:
 
-> -	Zou u beide onderdelen (touchbox en boombox) liever aan elkaar verwerkt hebben of toch aparte modules?
+> "Zou u beide onderdelen (touchbox en boombox) liever aan elkaar verwerkt hebben of toch aparte modules?"
 
 Na een aantal interessante standpunten werden zowel de meest voorkomende voor - en nadelen gerangschikt in een tabel. 
   |**Voordelen**|**Nadelen**|
