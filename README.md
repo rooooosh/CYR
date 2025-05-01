@@ -229,7 +229,7 @@ De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop 
 
 **3.** De draaiknop heeft als mogelijkheid om opnieuw uit een lijst van liedjes te scrollen via een draaibeweging naar links of naar rechts. Om een liedje te selecteren wordt dan op de knop gedrukt. 
 
-**4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de interne schijf ook meedraaien volgens de beweging van het draaiwiel. 
+**4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel op het iPad scherm verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de digitale schijf ook meedraaien volgens de beweging van het draaiwiel. 
 
 
 > [!IMPORTANT]
