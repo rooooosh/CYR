@@ -240,6 +240,8 @@ De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop 
 De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ES3WNbN0WClOn1nJESBFn6IBWB74uhWHl6Zd6KmwXddXkg?e=63dOV4) en zullen hier kort toegelicht worden.
 
 - #### **Touchbox MOS Test**
+  *1 - zeer slecht*
+  *5 - uitstekend*
 
   |**Gebruiker**               | **Score** | **Beperking**|
   |-|-|-|
@@ -468,6 +470,8 @@ De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopi
 De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ESmI_AUUn49GgIqkPFp2I3wBmfKqKCH67thOzXqvPDNyrQ?e=yjoOcF) en zullen hier kort toegelicht worden.
 
 - #### **Touchbox MOS Test**
+  *1 - zeer slecht*
+  *5 - uitstekend*
 
   |**Gebruiker**               | **Score** | **Beperking**|
   |-|-|-|
@@ -482,6 +486,8 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 Hieruit kan geconludeerd worden dat zowel een verandering in software als hardware leiden tot een vermindering van de latency op de touchbox. 
 
 - #### **Texturen** 
+  ***<ins>X</ins>** - hoofdvoorkeur*
+  *X - overige top 3*
 
   |       | **Textuur 1** | **Textuur 2** | **Textuur 3** | **Textuur 4** | **Textuur 5** | **Textuur 6** |
   |-|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -491,7 +497,9 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
   | Pieter Jan |    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
 
 
-- #### **Grootte van de draaiknoppen** 
+- #### **Grootte van de draaiknoppen**
+  ***<ins>X</ins>** - hoofdvoorkeur*
+  *X - overige top 3*
 
   |       | **30mm** | **35mm** | **40mm** | **45mm** | **50mm** | **55mm** |
   |-|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -502,6 +510,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 
 - #### **Draaien van de knop** 
+  ***<ins>X</ins>** - hoofdvoorkeur*
 
   |       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
   |-|:---:|:---:|:---:|:---:|
@@ -512,6 +521,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 
 - #### **Design van het spel** 
+  ***<ins>X</ins>** - hoofdvoorkeur*
 
     |       | **2 clicks (1/8<sup>ste</sup> click)** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
   |-|:---:|:---:|:---:|:---:|
