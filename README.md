@@ -546,7 +546,9 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 - Textuur 6 is de duidelijke winnaar voor de textuur die in de volgende deelopdracht zal geïntegreerd worden.
 - Uit de tests blijkt dat elke gebruiker een voorkeur heeft voor de kleinere draaiknoppen. De draaiknop met een diameter van 30mm kreeg de hoofdvoorkeur.
 - De tactiele feedback van de knop zal, volgens het rapport, verandert worden naar 2 clicks. Een groot deel van de gebruikers vond de _micro_ feedback na het aandraaien en fijn gevoel.
-- Design 1 van de interface van de boombox werd unaniem verkozen als hoofdvoorkeur. 
+- Design 1 van de interface van de boombox werd unaniem verkozen als hoofdvoorkeur.
+
+> ***__Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteuning voor arm doordat touchbox misschien te hoog is***
 
 > [!IMPORTANT]
 > **Design requirements**
@@ -587,7 +589,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 | D4.5 | De interactie met de boombox gebeurt aan de hand van fysieke knoppen. | Definition: Wave 2 | 18/02/2025 |
 | D4.6 | De draaiknoppen bevatten textuur voor een betere gevoelservaring. | Develop 2 | 16/04/2025 |
 
- ***__Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na develop 2__!!!***
+ > ***__Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na develop 2__!!!***
 
 ## Bijlagen
 
