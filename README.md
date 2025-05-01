@@ -542,7 +542,11 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 ### Conclusies en implicaties
 
-...
+- De integratie van Arduino (in zijn geheel) als vervanger voor Makey Makey lijkt een positiever effect te hebben op de latency
+- Textuur 6 is de duidelijke winnaar voor de textuur die in de volgende deelopdracht zal geïntegreerd worden.
+- Uit de tests blijkt dat elke gebruiker een voorkeur heeft voor de kleinere draaiknoppen. De draaiknop met een diameter van 30mm kreeg de hoofdvoorkeur.
+- De tactiele feedback van de knop zal, volgens het rapport, verandert worden naar 2 clicks. Een groot deel van de gebruikers vond de _micro_ feedback na het aandraaien en fijn gevoel.
+- Design 1 van de interface van de boombox werd unaniem verkozen als hoofdvoorkeur. 
 
 > [!IMPORTANT]
 > **Design requirements**
