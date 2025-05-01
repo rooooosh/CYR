@@ -273,18 +273,17 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
   | | *Favoriet* 
 
 
+Als poging om de compactheid van CYR te bewaren, werd volgende onderzoeksvraag gesteld aan de gebruikers:
 
+> -	Zou u beide onderdelen (touchbox en boombox) liever aan elkaar verwerkt hebben of toch aparte modules?
 
-
-- #### **Meningen Hendel**
-  De hendel werd doorgaans opgemerkt met een iets negatievere indruk wanneer ernaar werd gevraagd. De locatie was volgens hen te verschuild en het uitsteken van de hendel vormde een probleem
-
-- #### **Voordelen en nadelen verbinding touch- en boombox**
+Na een aantal interessante standpunten werden zowel de meest voorkomende voor - en nadelen gerangschikt in een tabel. 
   |**Voordelen**|**Nadelen**|
   |-|-|
   |"Zo lijkt het wat logischer, het product voelt meer aan als 1 geheel"| "Het is mogelijks moeilijker om op te bergen" |
   |"Voelt ergonomischer aan (scherm zit automatisch op een goede positie)"| "Aangezien het 1 geheel is, is het zwaarder"|
   |"Verbinding tussen elektronica zal eenvoudiger zijn"||
+
 
 ### Conclusies en implicaties
 - Er kan gesteld worden dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
