@@ -26,6 +26,10 @@ We streven naar een gebruiksvriendelijk product die de gebruiker uitdaagt, maar 
 
 ## Methodologie
 
+```
+Nog aanpassen richting deelopdracht 5!
+```
+
 Er werd in dit project gewerkt rond het 'Triple Diamond' model. Dit model bestaat uit 3 grote fasen: discover, define en develop. Het eerste semester omslaat de eerste 2 fasen. 
 
 **Discover: |** 
@@ -589,28 +593,38 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 | D4.5 | De interactie met de boombox gebeurt aan de hand van fysieke knoppen. | Definition: Wave 2 | 18/02/2025 |
 | D4.6 | De draaiknoppen bevatten textuur voor een betere gevoelservaring. | Develop 2 | 16/04/2025 |
 
- > ***__Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na develop 2__!!!***
+```
+Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na develop 2!
+```
 
 ## Bijlagen
 
-**D1: Discovery**
+**Deelopdracht 1: Discovery**
 - [Protocol interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ESJYqHmrCHZLsC0qj__VXJ0BjyDkQe4iN9FXYPPxXNy2uQ?e=tfqRws)
 - [Rapport interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EYnefagKg3FOtLsMqfEdwcMBIqPX8TSfu_CDAfIlTkcXZQ?e=Ka2ge1)
 - [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EXIrXCpz-dFAuOz6OB77Z0QBnIgQqzJ2xosTrCaE54sqkw?e=Ui9HQr)
 - [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ETgJmnygez1KvILyP5yb4owB2Ubt0oamoWoxb60TCJ8oPQ?e=Qta01t)
 
-**D2: Definition**
+**Deelopdracht 2: Definition**
 - [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EZP574aSoAhFl09WsWrbi8UBA5_1NxcKcqAjORO0SBlqww?e=72MF4B)
 - [Rapport gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EdqZbkmwm4NGiZS6KD74P3EBFJ-uTSXOdE_JABqfQalWkQ?e=12LJiF)
 - [Storyboard](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EWE_Iul9T3BOiqSTV3mQHsABdU0qXvV47XVcKRbxtR9C3w?e=RbmGrt)
 
-**D3: Develop 1**
+**Deelopdracht 3: Develop 1**
 - [Protocol develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EVEtEksqdJJBhZXit1Fg1yQBjQquEJI503QhC8J9cvlPyg?e=fhjMhS)
 - [Rapport develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ES3WNbN0WClOn1nJESBFn6IBWB74uhWHl6Zd6KmwXddXkg?e=pNfeQX)
 
-**D4: Develop 2**
+**Deelopdracht 4: Develop 2**
 - [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EU_6rTA0xLNAif_-g8QjNWkBcila4Qp8DFvM6UZk4YTpxg?e=hxLTQE)
 - [Rapport develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ESmI_AUUn49GgIqkPFp2I3wBmfKqKCH67thOzXqvPDNyrQ?e=HhFiGH)
+
+**Deelopdracht 5: Develop 3**
+- [Protocol develop 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ETku8FozyeFLmPm-d5jATJcBghfogwGAoZyBspIWuDcpFA?e=2Re5Rq)
+- [Rapport develop 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EZ6Ca5gPKdZLnsn6Pu--u6wBNfypHAhgFaumMIhdSTbotA?e=k6OJ5k)
+
+```
+word documenten aanpassen naar PDF documenten!
+```
 
 ## Bronnen
 
