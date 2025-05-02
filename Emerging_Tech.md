@@ -203,8 +203,8 @@ void update() {
 
 Connectieschema Momenteel:
 <p align="left">
-  <img src="Pictures/Schema Boombox 1.png" width="33%">
-  <img src="Pictures/Schema Touchbox 1.png" width="33%">
+  <img src="CYR PICS/Schema Boombox 1.png" width="33%">
+  <img src="CYR PICS/Schema Touchbox 1.png" width="33%">
 
 
 Nadeel:
@@ -212,7 +212,7 @@ Nadeel:
 -     Wifi vereist
  
 <p align="left">
-  <img src="Pictures/Schema Boombox 2.png" width="50%">
+  <img src="CYR PICS/Schema Boombox 2.png" width="50%">
 
 
   Nieuwe code, python pygame, 
