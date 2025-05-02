@@ -552,7 +552,9 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 - De tactiele feedback van de knop zal, volgens het rapport, verandert worden naar 2 clicks. Een groot deel van de gebruikers vond de _micro_ feedback na het aandraaien en fijn gevoel.
 - Design 1 van de interface van de boombox werd unaniem verkozen als hoofdvoorkeur.
 
-> ***__Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteuning voor arm doordat touchbox misschien te hoog is***
+```
+Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteuning voor arm doordat touchbox misschien te hoog is
+```
 
 > [!IMPORTANT]
 > **Design requirements**
