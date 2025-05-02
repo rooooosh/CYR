@@ -468,7 +468,7 @@ Deze interacties dienen voor het besturen van het bediendingsscherm van het spel
 > [!NOTE]
 > De code die hiervoor geschreven is, is terug te vinden in de map 'Code', onder 'Code_Rotary_Enconder'.
 
-De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopie Connect. Door het verbinden van de laptop en de raspberry pi aan hetzelfde netwerk, kan er in de webbrowser van de raspberry pi gezocht worden naar de juiste URL. Hierbij dient rekening gehouden te worden met het correcte ip-adres in de URL.
+De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopie Connect. Door het verbinden van de laptop en de Raspberry Pi aan hetzelfde netwerk, kan in de webbrowser van de Raspberry Pi gezocht worden naar de juiste URL. Hierbij dient rekening gehouden te worden met het correcte IP-adres in de URL.
   
 ### Resultaten
 De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ESmI_AUUn49GgIqkPFp2I3wBmfKqKCH67thOzXqvPDNyrQ?e=yjoOcF) en zullen hier kort toegelicht worden.
