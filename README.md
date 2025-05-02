@@ -530,7 +530,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 - #### **Design van het spel** 
   ***<ins>X</ins>** - hoofdvoorkeur*
 
-    |       | **2 clicks (1/8<sup>ste</sup> click)** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
+    |       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
   |-|:---:|:---:|:---:|:---:|
   | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
   | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
