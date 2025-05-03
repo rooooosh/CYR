@@ -207,7 +207,7 @@ Voor deze deelopdracht wordt een stap teruggenomen waarbij er opnieuw wordt gete
 - De touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 
-Hierbij een [link](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EX9zUukzIiRMriMEYqTozIYBu-ja_H_BCRZ7edhv2Yo20w?e=A8jbA5) naar de verschillende gebouwde iteraties.
+Hierbij een [link](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ESzoJt0uUKFPix8NiuIq9UwB1rFYqgzaACvnkszGeQzHig?e=FOSjTT) naar de verschillende gebouwde iteraties.
   
 **Touchbox**
 
@@ -237,11 +237,11 @@ De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop 
 
 
 > [!IMPORTANT]
-> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EVEtEksqdJJBhZXit1Fg1yQBjQquEJI503QhC8J9cvlPyg?e=adsysK)
+> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Ef-Jx4u8DrxKobl6wH9LT_MB-3BKxZd3QPGiVYVcsvnEpA?e=vg338t)
 
 ### Resultaten
 
-De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ES3WNbN0WClOn1nJESBFn6IBWB74uhWHl6Zd6KmwXddXkg?e=63dOV4) en zullen hier kort toegelicht worden.
+De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EX_XzP8L6FtBkRUCISZFwz4BOvOWTQQrmbYDrsEiPr_Zvg?e=JmFZUc) en zullen hier kort toegelicht worden.
 
 - #### **Touchbox MOS Test**
   *1 - zeer slecht*
@@ -328,7 +328,7 @@ Foto 2: Bord met draaiknoppen van verschillende diameters: 30mm; 35mm; 40mm; 45m
   <img src="CYR PICS/Draaiknopbord.jpeg" width="34%">
 
 > [!IMPORTANT]
-> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ESYnVXe4J2lLmc8ceF5xz1ABjPSFqg71RiO5Fj4zxXOxBw?e=alCsvv)
+> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EY4RsNhAT09MhBzFrJt8T2EBgDTnh7Z6XE_9QIZMoXZBuA?e=64ha5K)
 
 Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>hardware</ins>**: als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. 
 Er wordt gewerkt met een aantal Arduino componenten:
@@ -427,7 +427,7 @@ Ondergaat de boombox opnieuw een vormvariant. Bij deze variant wordt de boombox 
   <img src="CYR PICS/BoomboxAanElkaar1.jpeg" width="40%">
   <img src="CYR PICS/BoomboxAanElkaar2.jpeg" width="40%">
 
-Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit het rapport van [deelopdracht 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ES3WNbN0WClOn1nJESBFn6IBWB74uhWHl6Zd6KmwXddXkg?e=pNfeQX) werd besloten dat de enkele draaiknop de beste manier was om liedjes te selecteren en te laten afspelen. Voor deze deelopdracht (4) wordt nog gewerkt met de originele boombox waar het scherm in zal geïntegreerd worden. Op de interface van de boombox zal de draaiknop (met voorlopige textuur en grootte) bevestigd worden en zal deze vorm variant gebruikt worden voor de eerst volgende testen. De keuze om verder te werken met de compactere iteratie ligt al vast en zal bij de finale deelopdracht gepresenteerd worden aan de gebruikers. Juist naar haalbaarheid en gebrek aan tijd wordt daarvoor nog de oudere variant van de boombox gebruikt voor deze testen. 
+Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit het rapport van [deelopdracht 3](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EX_XzP8L6FtBkRUCISZFwz4BOvOWTQQrmbYDrsEiPr_Zvg?e=JmFZUc) werd besloten dat de enkele draaiknop de beste manier was om liedjes te selecteren en te laten afspelen. Voor deze deelopdracht (4) wordt nog gewerkt met de originele boombox waar het scherm in zal geïntegreerd worden. Op de interface van de boombox zal de draaiknop (met voorlopige textuur en grootte) bevestigd worden en zal deze vorm variant gebruikt worden voor de eerst volgende testen. De keuze om verder te werken met de compactere iteratie ligt al vast en zal bij de finale deelopdracht gepresenteerd worden aan de gebruikers. Juist naar haalbaarheid en gebrek aan tijd wordt daarvoor nog de oudere variant van de boombox gebruikt voor deze testen. 
 
 <p align="left">
   <img src="CYR PICS/CloseupDraaiknop.jpeg" width="32%">
@@ -471,7 +471,7 @@ Deze interacties dienen voor het besturen van het bediendingsscherm van het spel
 De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopie Connect. Door het verbinden van de laptop en de Raspberry Pi aan hetzelfde netwerk, kan in de webbrowser van de Raspberry Pi gezocht worden naar de juiste URL. Hierbij dient rekening gehouden te worden met het correcte IP-adres in de URL.
   
 ### Resultaten
-De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ESmI_AUUn49GgIqkPFp2I3wBmfKqKCH67thOzXqvPDNyrQ?e=yjoOcF) en zullen hier kort toegelicht worden.
+De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUyL6RXrejNNj-BuYbZ-XYsB2sTODGO9es0Rk96KhLGcqw?e=BbOjiY) en zullen hier kort toegelicht worden.
 
 - #### **Touchbox MOS Test**
   *1 - zeer slecht*
@@ -602,31 +602,28 @@ Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na dev
 ## Bijlagen
 
 **Deelopdracht 1: Discovery**
-- [Protocol interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ESJYqHmrCHZLsC0qj__VXJ0BjyDkQe4iN9FXYPPxXNy2uQ?e=tfqRws)
-- [Rapport interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EYnefagKg3FOtLsMqfEdwcMBIqPX8TSfu_CDAfIlTkcXZQ?e=Ka2ge1)
-- [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EXIrXCpz-dFAuOz6OB77Z0QBnIgQqzJ2xosTrCaE54sqkw?e=Ui9HQr)
-- [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/ETgJmnygez1KvILyP5yb4owB2Ubt0oamoWoxb60TCJ8oPQ?e=Qta01t)
+- [Protocol interviews](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXGoSoI_BYBHiOZ96LzlSBwB5gM0qXr1GE8oYzcJFk6CYw?e=mkYRZP)
+- [Rapport interviews](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ETdejhvoyotFuao6uBth85ABFABfkicwH41QeaxU5wRqyA?e=1Cs3Zx)
+- [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUMP51xwNn1DnFOSbXOD3XsBc_Xv7pupSD2HXpPGx8XwGA?e=qHWobr)
+- [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUMP51xwNn1DnFOSbXOD3XsBc_Xv7pupSD2HXpPGx8XwGA?e=S0mhDd)
 
 **Deelopdracht 2: Definition**
-- [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EZP574aSoAhFl09WsWrbi8UBA5_1NxcKcqAjORO0SBlqww?e=72MF4B)
-- [Rapport gebruikstests](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EdqZbkmwm4NGiZS6KD74P3EBFJ-uTSXOdE_JABqfQalWkQ?e=12LJiF)
-- [Storyboard](https://ugentbe-my.sharepoint.com/:w:/g/personal/aldo_vanhese_ugent_be/EWE_Iul9T3BOiqSTV3mQHsABdU0qXvV47XVcKRbxtR9C3w?e=RbmGrt)
+- [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EfYsEPusgHZDknqgxVsSiI4Bk3swYG4U9OKNML6nAnSQgA?e=eirQ0T)
+- [Rapport gebruikstests](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ESqMSPj6JH9EkgovozWsvk0BrcmUu38XugnNlbRuico7Xw?e=7ZXyju)
+- [Storyboard](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EfTjkxJC3xRCkSqb8jPT_foBEXMmrpIbkWgbYjXi74KN9g?e=U8EAA4)
 
 **Deelopdracht 3: Develop 1**
-- [Protocol develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EVEtEksqdJJBhZXit1Fg1yQBjQquEJI503QhC8J9cvlPyg?e=fhjMhS)
-- [Rapport develop 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ES3WNbN0WClOn1nJESBFn6IBWB74uhWHl6Zd6KmwXddXkg?e=pNfeQX)
+- [Protocol develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Ef-Jx4u8DrxKobl6wH9LT_MB-3BKxZd3QPGiVYVcsvnEpA?e=vg338t)
+- [Rapport develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EX_XzP8L6FtBkRUCISZFwz4BOvOWTQQrmbYDrsEiPr_Zvg?e=JmFZUc)
 
 **Deelopdracht 4: Develop 2**
-- [Protocol develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EU_6rTA0xLNAif_-g8QjNWkBcila4Qp8DFvM6UZk4YTpxg?e=hxLTQE)
-- [Rapport develop 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ESmI_AUUn49GgIqkPFp2I3wBmfKqKCH67thOzXqvPDNyrQ?e=HhFiGH)
+- [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EY4RsNhAT09MhBzFrJt8T2EBgDTnh7Z6XE_9QIZMoXZBuA?e=64ha5K)
+- [Rapport develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUyL6RXrejNNj-BuYbZ-XYsB2sTODGO9es0Rk96KhLGcqw?e=BbOjiY)
 
 **Deelopdracht 5: Develop 3**
-- [Protocol develop 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ETku8FozyeFLmPm-d5jATJcBghfogwGAoZyBspIWuDcpFA?e=2Re5Rq)
-- [Rapport develop 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EZ6Ca5gPKdZLnsn6Pu--u6wBNfypHAhgFaumMIhdSTbotA?e=k6OJ5k)
+- nog toevoegen
+- nog toevoegen
 
-```
-word documenten aanpassen naar PDF documenten!
-```
 
 ## Bronnen
 
