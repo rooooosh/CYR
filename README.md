@@ -241,7 +241,7 @@ De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop 
 
 ### Resultaten
 
-De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EX_XzP8L6FtBkRUCISZFwz4BOvOWTQQrmbYDrsEiPr_Zvg?e=JmFZUc) en zullen hier kort toegelicht worden.
+De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXa1SWmz3rtNq0juiNflwVgBcp4HpYg-doC8XI3W3c-IYA?e=KgWKnf) en zullen hier kort toegelicht worden.
 
 - #### **Touchbox MOS Test**
   *1 - zeer slecht*
@@ -427,7 +427,7 @@ Ondergaat de boombox opnieuw een vormvariant. Bij deze variant wordt de boombox 
   <img src="CYR PICS/BoomboxAanElkaar1.jpeg" width="40%">
   <img src="CYR PICS/BoomboxAanElkaar2.jpeg" width="40%">
 
-Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit het rapport van [develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EX_XzP8L6FtBkRUCISZFwz4BOvOWTQQrmbYDrsEiPr_Zvg?e=JmFZUc) werd besloten dat de enkele draaiknop de beste manier was om liedjes te selecteren en te laten afspelen. Voor deze deelopdracht (4) wordt nog gewerkt met de originele boombox waar het scherm in zal geïntegreerd worden. Op de interface van de boombox zal de draaiknop (met voorlopige textuur en grootte) bevestigd worden en zal deze vorm variant gebruikt worden voor de eerst volgende testen. De keuze om verder te werken met de compactere iteratie ligt al vast en zal bij de finale deelopdracht gepresenteerd worden aan de gebruikers. Juist naar haalbaarheid en gebrek aan tijd wordt daarvoor nog de oudere variant van de boombox gebruikt voor deze testen. 
+Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit het rapport van [develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXa1SWmz3rtNq0juiNflwVgBcp4HpYg-doC8XI3W3c-IYA?e=KgWKnf) werd besloten dat de enkele draaiknop de beste manier was om liedjes te selecteren en te laten afspelen. Voor deze deelopdracht (4) wordt nog gewerkt met de originele boombox waar het scherm in zal geïntegreerd worden. Op de interface van de boombox zal de draaiknop (met voorlopige textuur en grootte) bevestigd worden en zal deze vorm variant gebruikt worden voor de eerst volgende testen. De keuze om verder te werken met de compactere iteratie ligt al vast en zal bij de finale deelopdracht gepresenteerd worden aan de gebruikers. Juist naar haalbaarheid en gebrek aan tijd wordt daarvoor nog de oudere variant van de boombox gebruikt voor deze testen. 
 
 <p align="left">
   <img src="CYR PICS/CloseupDraaiknop.jpeg" width="32%">
@@ -471,7 +471,7 @@ Deze interacties dienen voor het besturen van het bediendingsscherm van het spel
 De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopie Connect. Door het verbinden van de laptop en de Raspberry Pi aan hetzelfde netwerk, kan in de webbrowser van de Raspberry Pi gezocht worden naar de juiste URL. Hierbij dient rekening gehouden te worden met het correcte IP-adres in de URL.
   
 ### Resultaten
-De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUyL6RXrejNNj-BuYbZ-XYsB2sTODGO9es0Rk96KhLGcqw?e=BbOjiY) en zullen hier kort toegelicht worden.
+De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EaTjAdEoeb1OvMWYhekQ-UUBKD4sYoQhgimR-fXanDQq6w?e=uEBNJM) en zullen hier kort toegelicht worden.
 
 - #### **Touchbox MOS Test**
   *1 - zeer slecht*
@@ -614,11 +614,11 @@ Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na dev
 
 **Deelopdracht 3: Develop 1**
 - [Protocol develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Ef-Jx4u8DrxKobl6wH9LT_MB-3BKxZd3QPGiVYVcsvnEpA?e=vg338t)
-- [Rapport develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EX_XzP8L6FtBkRUCISZFwz4BOvOWTQQrmbYDrsEiPr_Zvg?e=JmFZUc)
+- [Rapport develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXa1SWmz3rtNq0juiNflwVgBcp4HpYg-doC8XI3W3c-IYA?e=KgWKnf)
 
 **Deelopdracht 4: Develop 2**
 - [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EY4RsNhAT09MhBzFrJt8T2EBgDTnh7Z6XE_9QIZMoXZBuA?e=64ha5K)
-- [Rapport develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUyL6RXrejNNj-BuYbZ-XYsB2sTODGO9es0Rk96KhLGcqw?e=BbOjiY)
+- [Rapport develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EaTjAdEoeb1OvMWYhekQ-UUBKD4sYoQhgimR-fXanDQq6w?e=uEBNJM)
 
 **Deelopdracht 5: Develop 3**
 - nog toevoegen
