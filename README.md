@@ -328,7 +328,7 @@ Foto 2: Bord met draaiknoppen van verschillende diameters: 30mm; 35mm; 40mm; 45m
   <img src="CYR PICS/Draaiknopbord.jpeg" width="34%">
 
 > [!IMPORTANT]
-> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EY4RsNhAT09MhBzFrJt8T2EBgDTnh7Z6XE_9QIZMoXZBuA?e=64ha5K)
+> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ET58L9_3ncxGjeRmmjITrpsBCLRzOilYrJblk-kPCa3XHw?e=aQ1FlY)
 
 Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>hardware</ins>**: als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. 
 Er wordt gewerkt met een aantal Arduino componenten:
@@ -617,7 +617,7 @@ Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na dev
 - [Rapport develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXa1SWmz3rtNq0juiNflwVgBcp4HpYg-doC8XI3W3c-IYA?e=KgWKnf)
 
 **Deelopdracht 4: Develop 2**
-- [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EY4RsNhAT09MhBzFrJt8T2EBgDTnh7Z6XE_9QIZMoXZBuA?e=64ha5K)
+- [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ET58L9_3ncxGjeRmmjITrpsBCLRzOilYrJblk-kPCa3XHw?e=aQ1FlY)
 - [Rapport develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EaTjAdEoeb1OvMWYhekQ-UUBKD4sYoQhgimR-fXanDQq6w?e=uEBNJM)
 
 **Deelopdracht 5: Develop 3**
