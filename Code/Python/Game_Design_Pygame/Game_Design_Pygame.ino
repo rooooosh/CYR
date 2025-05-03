@@ -66,97 +66,7 @@ menu_opties = [
     "Have You Ever Seen The Rain\n- Creedence Clearwater",
     "Angels\n- Robbie Williams",
     "Come Together\n- The Beatles",
-    "Iris\n- Goo Goo Dolls",
-    "ALDOCOOL"
-]
-geselecteerde_index = 0
-
-# --- SeriÃ«le data lezen ---
-def lees_serial():
-    global start_signaal, menu_actief, geselecteerde_index, ritme
-    if ser is None:
-        return
-    while True:
-        if ser.in_waiting > 0:
-            lijn = ser.readline().decode('utf-8').strip()
-            print(f"SeriÃ«le input: {lijn}")
-            if lijn == "dubbelSchakelaarIngedrukt":
-                menu_actief = not menu_actief
-            elif menu_actief:
-                if lijn == "Rechts":
-                    geselecteerde_index = min(len(menu_opties) - 1, geselecteerde_index + 1)
-                elif lijn == "Links":
-                    geselecteerde_index = max(0, geselecteerde_index - 1)
-import pygame
-import serial
-import threading
-import time
-import sys
-
-# --- SeriÃ«le poort instellen ---
-seriele_poort = '/dev/ttyUSB0'
-baudrate = 115200
-
-try:
-    ser = serial.Serial(seriele_poort, baudrate, timeout=1)
-except serial.serialutil.SerialException:
-    print(f"Kan seriÃ«le poort {seriele_poort} niet openen.")
-    ser = None
-
-# Vierkanten instellingen
-vierkant_grootte = 120
-snelheid = 5
-
-# --- Pygame setup ---
-pygame.init()
-breedte, hoogte = 800, 480
-scherm = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
-pygame.display.set_caption("CYR")
-klok = pygame.time.Clock()
-
-try:
-    afbeeldingen = {
-        "sticks": pygame.transform.scale(pygame.image.load("sticks.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
-        "hi-hat": pygame.transform.scale(pygame.image.load("hi-hat.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
-        "Snaredrum": pygame.transform.scale(pygame.image.load("Snaredrum.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
-        "2 Snaredrum": pygame.transform.scale(pygame.image.load("2 Snaredrum.png").convert_alpha(), (vierkant_grootte, vierkant_grootte))
-    }
-except pygame.error as e:
-    print(f"Fout bij laden afbeelding: {e}")
-    pygame.quit()
-    exit()
-
-# Kleuren
-GRIJS = (200, 200, 200)
-DONKERGRIJS = (80, 80, 80)
-ZWART = (0, 0, 0)
-WIT = (255, 255, 255)
-
-# Spelstatus
-spel_gestart = False
-starttijd = 0
-
-# Stroken
-strook_hoogte = 20
-ruimte_tussen_stroken = 160
-strook_y_posities = list(range(60, hoogte, ruimte_tussen_stroken))
-
-# Vierkanten
-vierkanten = []
-
-# Ritme voorbeeld (tijd in ms, index van strook, en afbeelding)
-ritme = []
-huidige_noot_index = 0
-start_signaal = False
-
-# Menu instellingen
-menu_actief = False
-menu_opties = [
-    "Have You Ever Seen The Rain\n- Creedence Clearwater",
-    "Angels\n- Robbie Williams",
-    "Come Together\n- The Beatles",
-    "Iris\n- Goo Goo Dolls",
-    "ALDOCOOL"
+    "Iris\n- Goo Goo Dolls"
 ]
 geselecteerde_index = 0
 
@@ -226,9 +136,6 @@ def lees_serial():
                         {"tijd": 10000, "strook": 0, "afbeelding": "sticks"},
                     ]
                     start_signaal = True
-
-# (rest blijft ongewijzigd)
-
 
 # Functies om muziek af te spelen
 def speel_liedje_1():
