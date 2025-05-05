@@ -1,6 +1,6 @@
 # CYR-Code
 
-Code voor Touchbox:
+Code Touchbox:
 
 ```C++
 #include <Wire.h>
@@ -10,61 +10,62 @@ Code voor Touchbox:
 
 Adafruit_MPR121 cap = Adafruit_MPR121();
 
-// Let op: DFPlayer TX → pin 11, RX ← pin 10
-SoftwareSerial mySerial(10, 11); // RX, TX
+// DFPlayer TX → pin 11, RX ← pin 10
+SoftwareSerial mySerial(10, 11);
 DFRobotDFPlayerMini myDFPlayer;
 bool dfPlayerOk = false;
 
-uint16_t previousState = 0; // Houdt vorige aanraakstatus bij
+uint16_t previousState = 0;
 
 void setup() {
-    Serial.begin(9600);
-    mySerial.begin(9600);
+  Serial.begin(9600);
+  mySerial.begin(9600);
 
-    if (!cap.begin(0x5B)) { // Controleer het I2C-adres (kan ook 0x5A of 0x5C zijn)
-        Serial.println("MPR121 niet gevonden!");
-        while (1);
-    }
-    Serial.println("MPR121 gestart 🤖");
+  Serial.println("Start systeem... ⚙️");
 
-    dfPlayerOk = myDFPlayer.begin(mySerial);
-    if (!dfPlayerOk) {
-        Serial.println("DFPlayer Mini niet gevonden!");
-    } else {
-        myDFPlayer.volume(25);  // Volume 0–30
-        Serial.println("DFPlayer gestart 🤖");
-    }
+  if (!cap.begin(0x5B)) {
+    Serial.println("MPR121 niet gevonden op 0x5B. Controleer adres.");
+    while (1);
+  }
+  Serial.println("TOUCH SENSOR Online");
+
+  if (!myDFPlayer.begin(mySerial)) {
+    Serial.println("DFPlayer niet gevonden! Check bedrading, GND & 5V.");
+  } else {
+    dfPlayerOk = true;
+    Serial.println("MP3 Online");
+    myDFPlayer.volume(30); // 0–30
+  }
 }
 
 void loop() {
-    uint16_t currentState = cap.touched(); // Lees de huidige status
+  uint16_t currentState = cap.touched();
 
-    for (uint8_t i = 0; i < 12; i++) {
-        bool previousTouch = (previousState & (1 << i));
-        bool currentTouch = (currentState & (1 << i));
+  for (uint8_t i = 0; i < 7; i++) {
+    bool previousTouch = (previousState & (1 << i));
+    bool currentTouch = (currentState & (1 << i));
 
-        if (currentTouch && !previousTouch) { // Alleen een nieuwe aanraking registreren als de toets nu wordt aangeraakt maar eerder niet
-            if (isMetalTouched()) {
-                Serial.print("TOUCH_");
-                Serial.println(i);
+    if (currentTouch && !previousTouch) {
+      if (isMetalTouched()) {
+        Serial.print("TOUCH_");
+        Serial.println(i);
 
-                if (dfPlayerOk) {
-                    myDFPlayer.play(i + 1);  // Speel bestand 0001.mp3 t/m 0012.mp3
-                } else {
-                    Serial.println("DFPlayer niet actief, geen geluid afgespeeld.");
-                }
-            }
+        if (dfPlayerOk) {
+          myDFPlayer.play(i + 1);  // Speel 0001.mp3 t/m 0012.mp3
+        } else {
+          Serial.println("404 systeem fout");
         }
+      }
     }
+  }
 
-    previousState = currentState; // Update vorige status
-    //delay(100); // Optioneel: afvlakken van input
+  previousState = currentState;
 }
 
 bool isMetalTouched() {
-    delay(5);  // Stabilisatie
-    uint16_t secondCheck = cap.touched();
-    return secondCheck != 0;
+  delay(5);
+  uint16_t secondCheck = cap.touched();
+  return secondCheck != 0;
 }
 ```
 
@@ -215,8 +216,8 @@ Nadeel:
   <img src="CYR PICS/Schema Boombox 2.png" width="50%">
 
 
-  Nieuwe code, python pygame, 
-  geen laptop en wifi vereist, Arduino verbonden aan raspberry pi via USB en uitgelezen in seriële monitor
+  Nieuwe code: python pygame, 
+  geen laptop en wifi vereist -> Arduino verbonden aan raspberry pi via USB en uitgelezen in seriële monitor
 
 ```python
 import pygame
