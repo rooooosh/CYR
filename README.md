@@ -197,7 +197,7 @@ Naar aanleiding van de eerste test binnen wave 1 werd besloten om de daaropvolge
 
 Deze korte tegenslagen terzijde, verliep de samenwerking en de vooruitgang die werd gemaakt in het proces goed. Na het voltooien van de waves kan het project naar de volgende fase. De waves hebben een grote impact gehad op het project en hebben de nodige motivatie gegeven om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te willen staan, wegens de grootte interesse in het concept. In de toekomst zullen deze mensen de mogelijkheid krijgen om als eersten het volmaakt prototype te testen.
 
-## Develop 1: Taking a step back (N=3)
+## Develop 1: Taking a step back (N=3) (protocol klopt niet meer!)
 
 ### Doelstellingen
 De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
