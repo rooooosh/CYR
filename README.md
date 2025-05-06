@@ -349,7 +349,7 @@ Foto 3: Volledige opstelling_
 Via een breadbord (groot wit bordje) worden de verschillende componenten met _jumper wires_ met elkaar verbonden. De DF player mini bevat een micro SD kaart met een aantal geluiden. De krokodillenklemmen aan de touch sensor zijn verbonden met de metalenplaatjes. De speaker die is verbonden met deze mini player zet de aanraking van één van de toetsen om in geluid. Ook deze touch sensor bevat capacitive touch waardoor een enkele aanraking met de plaatjes al volstaat om geluid te creëren.
 
 > [!NOTE]
-> De code die wordt gebruikt om de aanraking om te zetten in geluid, is terug te vinden in de map 'Code' -> 'Arduino' -> 'Code_Rotary_Enconder'.
+> De code die wordt gebruikt om de aanraking om te zetten in geluid, is terug te vinden in de map 'Code' -> 'Arduino' -> 'I2C_Touch_Sensor'.
 
 
 Om te voldoen aan **design requirement 1.4**:
@@ -400,7 +400,7 @@ Het idee van de draai/drukknop is vervaardigd aan de hand van een rotary encoder
 Deze interacties dienen voor het besturen van het bediendingsscherm van het spel , elke van deze interacties staat in verbinding met elkaar. De code wordt geschreven zodat er wordt bijgehouden hoeveel keer wordt gedraaid naar links/rechts, of er een signaal mag worden doorgestuurd (dubbele klik om bedieningsscherm te activeren), aantal keer dat er gedraaid is voordat er een signaal mag gestuurd worden, ...
 
 > [!NOTE]
-> De code die hiervoor geschreven is, is terug te vinden in de map 'Code' -> 'Arduino' -> 'I2C_Touch_Sensor'.
+> De code die hiervoor geschreven is, is terug te vinden in de map 'Code' -> 'Arduino' -> 'Code_Rotary_Enconder'.
 
 De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopie Connect. Door het verbinden van de laptop en de Raspberry Pi aan hetzelfde netwerk, kan in de webbrowser van de Raspberry Pi gezocht worden naar de juiste URL. Hierbij dient rekening gehouden te worden met het correcte IP-adres in de URL.
   
