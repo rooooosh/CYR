@@ -348,75 +348,9 @@ Foto 3: Volledige opstelling_
 
 Via een breadbord (groot wit bordje) worden de verschillende componenten met _jumper wires_ met elkaar verbonden. De DF player mini bevat een micro SD kaart met een aantal geluiden. De krokodillenklemmen aan de touch sensor zijn verbonden met de metalenplaatjes. De speaker die is verbonden met deze mini player zet de aanraking van één van de toetsen om in geluid. Ook deze touch sensor bevat capacitive touch waardoor een enkele aanraking met de plaatjes al volstaat om geluid te creëren.
 
-Hieronder staat de code die wordt gebruikt om de aanraking om te zetten in geluid:
+> [!NOTE]
+> De code die wordt gebruikt om de aanraking om te zetten in geluid, is terug te vinden in de map 'Code' -> 'Arduino' -> 'Code_Rotary_Enconder'.
 
-
-```C++
-#include <Wire.h>
-#include <Adafruit_MPR121.h>
-#include <SoftwareSerial.h>
-#include <DFRobotDFPlayerMini.h>
-
-Adafruit_MPR121 cap = Adafruit_MPR121();
-
-// DFPlayer TX → pin 11, RX ← pin 10
-SoftwareSerial mySerial(10, 11);
-DFRobotDFPlayerMini myDFPlayer;
-bool dfPlayerOk = false;
-
-uint16_t previousState = 0;
-
-void setup() {
-  Serial.begin(9600);
-  mySerial.begin(9600);
-
-  Serial.println("Start systeem... ⚙️");
-
-  if (!cap.begin(0x5B)) {
-    Serial.println("MPR121 niet gevonden op 0x5B. Controleer adres.");
-    while (1);
-  }
-  Serial.println("TOUCH SENSOR Online");
-
-  if (!myDFPlayer.begin(mySerial)) {
-    Serial.println("DFPlayer niet gevonden! Check bedrading, GND & 5V.");
-  } else {
-    dfPlayerOk = true;
-    Serial.println("MP3 Online");
-    myDFPlayer.volume(18); // 0–30
-  }
-}
-
-void loop() {
-  uint16_t currentState = cap.touched();
-
-  for (uint8_t i = 0; i < 7; i++) {
-    bool previousTouch = (previousState & (1 << i));
-    bool currentTouch = (currentState & (1 << i));
-
-    if (currentTouch && !previousTouch) {
-      if (isMetalTouched()) {
-        Serial.print("TOUCH_");
-        Serial.println(i);
-
-        if (dfPlayerOk) {
-          myDFPlayer.play(i + 1);  // Speel 0001.mp3 t/m 0012.mp3
-        } else {
-          Serial.println("404 systeem fout");
-        }
-      }
-    }
-  }
-
-  previousState = currentState;
-}
-
-bool isMetalTouched() {
-  delay(5);
-  uint16_t secondCheck = cap.touched();
-  return secondCheck != 0;
-}
-```
 
 Om te voldoen aan **design requirement 1.4**:
 > Het product is zo compact mogelijk
@@ -466,7 +400,7 @@ Het idee van de draai/drukknop is vervaardigd aan de hand van een rotary encoder
 Deze interacties dienen voor het besturen van het bediendingsscherm van het spel , elke van deze interacties staat in verbinding met elkaar. De code wordt geschreven zodat er wordt bijgehouden hoeveel keer wordt gedraaid naar links/rechts, of er een signaal mag worden doorgestuurd (dubbele klik om bedieningsscherm te activeren), aantal keer dat er gedraaid is voordat er een signaal mag gestuurd worden, ...
 
 > [!NOTE]
-> De code die hiervoor geschreven is, is terug te vinden in de map 'Code', onder 'Code_Rotary_Enconder'.
+> De code die hiervoor geschreven is, is terug te vinden in de map 'Code' -> 'Arduino' -> 'Code_Rotary_Enconder'.
 
 De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopie Connect. Door het verbinden van de laptop en de Raspberry Pi aan hetzelfde netwerk, kan in de webbrowser van de Raspberry Pi gezocht worden naar de juiste URL. Hierbij dient rekening gehouden te worden met het correcte IP-adres in de URL.
   
