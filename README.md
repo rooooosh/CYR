@@ -500,12 +500,16 @@ Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteun
 ## Develop 3: Finishing touches (N=4)
 
 ### Doelstellingen
+...
 
 ### Materialen & methoden
+...
 
 ### Resultaten
+...
 
 ### Conclusies en implicaties
+...
 
 
 ### Design requirements
