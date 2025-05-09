@@ -223,17 +223,17 @@ Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het hore
 De verschillende iteraties op de boombox bevatten interfaces die elk op een andere manier worden gebruikt.
 
 
-**1.** Het originele prototype dat 4 keuzeknoppen bevatte voor het selecteren van een liedje, werd opnieuw gebouwd met een viertal kleinere knoppen waarbij een extra respons wordt toegepast na indrukken van een knop. 
+- **1.** Het originele prototype dat 4 keuzeknoppen bevatte voor het selecteren van een liedje, werd opnieuw gebouwd met een viertal kleinere knoppen waarbij een extra respons wordt toegepast na indrukken van een knop. 
 
-**2.** De interface met 2 knoppen dient op gelijkaardige wijze gebruikt te worden. De interface bestaat uit een lijst van liedjes die voorgeprogrammeerd zijn en bevat ook de optie om eigen liedjes up te loaden binnen de software.
+- **2.** De interface met 2 knoppen dient op gelijkaardige wijze gebruikt te worden. De interface bestaat uit een lijst van liedjes die voorgeprogrammeerd zijn en bevat ook de optie om eigen liedjes up te loaden binnen de software.
 
 > _"Na mum van tijd zul je die voorgeprogrammeerde liedjes zat zijn"_
 
-De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop zorgt voor de navigatie naar boven. Om een keuze te maken uit een liedje worden simultaan beide knoppen ingedrukt. 
+  De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop zorgt voor de navigatie naar boven. Om een keuze te maken uit een liedje worden simultaan beide knoppen ingedrukt. 
 
-**3.** De draaiknop heeft als mogelijkheid om opnieuw uit een lijst van liedjes te scrollen via een draaibeweging naar links of naar rechts. Om een liedje te selecteren wordt dan op de knop gedrukt. 
+- **3.** De draaiknop heeft als mogelijkheid om opnieuw uit een lijst van liedjes te scrollen via een draaibeweging naar links of naar rechts. Om een liedje te selecteren wordt dan op de knop gedrukt. 
 
-**4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel in het iPad scherm verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de digitale schijf ook meedraaien volgens de beweging van het draaiwiel. 
+- **4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel in het iPad scherm verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de digitale schijf ook           meedraaien volgens de beweging van het draaiwiel. 
 
 
 > [!IMPORTANT]
