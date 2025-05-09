@@ -217,8 +217,8 @@ Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal
 Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het horen van het geluid na het indrukken van een toets is voor de meeste gebruikers nog steeds te groot. Om te zien of dit aan de software of hardware ligt zal dit probleem in vrijwel elke deelopdracht worden aangekaart. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>software</ins>**: het eenvoudige programma scratch wordt hierbij vervangen door Protopie als poging om deze latency te doen verminderen.
 
 <p align="left">
-  <img src="CYR PICS/Touchbox met 9 toetsen (origineel).jpeg" width="20%">
-  <img src="CYR PICS/Touchbox met 6 toetsen.jpeg" width="40%">
+  <img src="CYR PICS/Touchbox met 9 toetsen (origineel).jpeg" width="25%">
+  <img src="CYR PICS/Touchbox met 6 toetsen.jpeg" width="45%">
   <img src="CYR PICS/Touchbox met 4 toetsen.jpg" width="32%">
 
 
