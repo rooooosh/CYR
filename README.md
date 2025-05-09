@@ -207,7 +207,6 @@ Voor deze deelopdracht wordt een stap teruggenomen waarbij er opnieuw wordt gete
 - De touchbox bevat variaties met 4, 6, en 9 (origineel) toetsen
 - De boombox bestaat uit 4 mogelijke varianten: 4 kleinere knoppen met extra respons, 2 kleinere knoppen, een draaiknop en een draaiwiel
 
-Hierbij een [link](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ESzoJt0uUKFPix8NiuIq9UwB1rFYqgzaACvnkszGeQzHig?e=FOSjTT) naar de verschillende gebouwde iteraties.
   
 **Touchbox**
 
@@ -216,6 +215,11 @@ Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal
 > _"Hoe meer knoppen hoe verwarrender"_
 
 Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het horen van het geluid na het indrukken van een toets is voor de meeste gebruikers nog steeds te groot. Om te zien of dit aan de software of hardware ligt zal dit probleem in vrijwel elke deelopdracht worden aangekaart. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>software</ins>**: het eenvoudige programma scratch wordt hierbij vervangen door Protopie als poging om deze latency te doen verminderen.
+
+<p align="left">
+  <img src="CYR PICS/Toucbox met 9 toetsen (origineel).jpeg" width="44.5%">
+  <img src="CYR PICS/Touchbox met 6 toetsen.jpeg" width="32%">
+  <img src="CYR PICS/Touchbox met 4 toetsen.jpeg" width="32%">
 
 
 **Boombox**
@@ -232,7 +236,10 @@ De verschillende iteraties op de boombox bevatten interfaces die elk op een ande
 
 - **3.** De draaiknop heeft als mogelijkheid om opnieuw uit een lijst van liedjes te scrollen via een draaibeweging naar links of naar rechts. Om een liedje te selecteren wordt dan op de knop gedrukt. 
 
-- **4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel in het iPad scherm verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de digitale schijf ook           meedraaien volgens de beweging van het draaiwiel. 
+- **4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel in het iPad scherm verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de digitale schijf ook           meedraaien volgens de beweging van het draaiwiel.
+
+
+FOTO HIER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 > [!IMPORTANT]
