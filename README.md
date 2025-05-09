@@ -218,8 +218,8 @@ Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het hore
 
 <p align="left">
   <img src="CYR PICS/Touchbox met 9 toetsen (origineel).jpeg" width="25%">
-  <img src="CYR PICS/Touchbox met 6 toetsen.jpeg" width="45%">
-  <img src="CYR PICS/Touchbox met 4 toetsen.jpg" width="32%">
+  <img src="CYR PICS/Touchbox met 6 toetsen.jpeg" width="35%">
+  <img src="CYR PICS/Touchbox met 4 toetsen.jpg" width="26%">
 
 
 **Boombox**
