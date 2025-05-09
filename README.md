@@ -245,7 +245,6 @@ _Foto 1: Originele boombox; Foto 2: Boombox met 4 drukknoppen; Foto 3: Boombox m
   <img src="CYR PICS/Originele boombox.jpeg" width="32%">
   <img src="CYR PICS/Boombox met 4 drukknoppen.jpeg" width="32%">
   <img src="CYR PICS/Boombox met draaiwiel.jpeg" width="32%">
-
 <p align="left">
   <img src="CYR PICS/Boombox met 2 drukknoppen.jpeg" width="32%">
   <img src="CYR PICS/Boombox met draaiknop.jpeg" width="32%">
