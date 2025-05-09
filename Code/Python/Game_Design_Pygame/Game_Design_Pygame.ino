@@ -55,7 +55,7 @@ strook_y_posities = list(range(60, hoogte, ruimte_tussen_stroken))
 # Vierkanten
 vierkanten = []
 
-# Ritme voorbeeld (tijd in ms, index van strook, en afbeelding)
+# Ritme (tijd in ms, index van strook, en afbeelding)
 ritme = []
 huidige_noot_index = 0
 start_signaal = False
@@ -187,13 +187,32 @@ def teken_vierkanten():
     for vierkant in vierkanten:
         scherm.blit(vierkant['afbeelding'], (vierkant['x'], vierkant['y']))
 
-# Menu tekenen
 def teken_menu():
     menu_breedte = 320
     menu_hoogte = hoogte
+
+    # Maak een surface met alpha (transparantie) en teken afgeronde achtergrond
     menu_oppervlak = pygame.Surface((menu_breedte, menu_hoogte), pygame.SRCALPHA)
-    menu_oppervlak.fill(WIT)
-    scherm.blit(menu_oppervlak, (0, 0))
+    pygame.draw.rect(menu_oppervlak, WIT, (0, 0, menu_breedte, menu_hoogte), border_radius=20)
+
+    # Positie op het scherm
+    menu_x = 0
+    menu_y = 0
+
+    # Blit eerst het oppervlak
+    scherm.blit(menu_oppervlak, (menu_x, menu_y))
+
+    # Teken een rand rond het menu met een geldige rect en afgeronde hoeken
+    menu_rect = pygame.Rect(menu_x, menu_y, menu_breedte, menu_hoogte,
+        border_top_left_radius=0,
+        border_top_right_radius=20,
+        border_bottom_left_radius=0,
+        border_bottom_right_radius=20)
+    pygame.draw.rect(scherm, ZWART, menu_rect, width=3, 
+        border_top_left_radius=0,
+        border_top_right_radius=20,
+        border_bottom_left_radius=0,
+        border_bottom_right_radius=20)
 
     font = pygame.font.SysFont(None, 26)
     y_offset = 40
@@ -214,7 +233,6 @@ def teken_menu():
             scherm.blit(tekst, tekst_rect)
 
         y_offset += optie_hoogte + 10
-
 # Main loop
 running = True
 while running:
