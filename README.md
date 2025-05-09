@@ -243,7 +243,7 @@ De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop 
 
 De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXa1SWmz3rtNq0juiNflwVgBcp4HpYg-doC8XI3W3c-IYA?e=KgWKnf) en zullen hier kort toegelicht worden.
 
-- #### **Touchbox MOS Test**
+#### **Touchbox MOS Test**
   *1 - zeer slecht*
   *5 - uitstekend*
 
@@ -256,7 +256,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
   
   De testpersonen ervaarden de latency op de touchbox gemiddeld gezien nog als licht storend.
 
-- #### **Varianten Touchbox** 
+#### **Varianten Touchbox** 
   *1 - meest voorkeur*
   
   *3 - minst voorkeur*
@@ -267,7 +267,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
   | Pieter Jan Lernout | 3 | 1  |  2|
   | || *Favoriet* 
 
-- #### **Varianten Boombox** 
+#### **Varianten Boombox** 
   *1 - meest voorkeur*
   
   *4 - minst voorkeur*
