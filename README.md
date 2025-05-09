@@ -216,6 +216,7 @@ Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal
 
 Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het horen van het geluid na het indrukken van een toets is voor de meeste gebruikers nog steeds te groot. Om te zien of dit aan de software of hardware ligt zal dit probleem in vrijwel elke deelopdracht worden aangekaart. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>software</ins>**: het eenvoudige programma scratch wordt hierbij vervangen door Protopie als poging om deze latency te doen verminderen.
 
+_Foto 1: Touchbox met 9 toetsen (origineel); Foto 2: Touchbox met 6 toetsen; Foto 3: Touchbox met 4 toetsen_
 <p align="left">
   <img src="CYR PICS/Touchbox met 9 toetsen (origineel).jpeg" width="19.8%">
   <img src="CYR PICS/Touchbox met 6 toetsen.jpeg" width="35%">
@@ -239,8 +240,16 @@ De verschillende iteraties op de boombox bevatten interfaces die elk op een ande
 - **4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel in het iPad scherm verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de digitale schijf ook           meedraaien volgens de beweging van het draaiwiel.
 
 
-FOTO HIER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+_Foto 1: Originele boombox; Foto 2: Boombox met 4 drukknoppen; Foto 3: Boombox met draaiwiel; Foto 4: Boombox met 2 drukknoppen; Foto 5: Boombox met draaiknop; Foto 6: Bird's-eye view interfaces_
+<p align="left">
+  <img src="CYR PICS/Originele boombox.jpeg" width="32%">
+  <img src="CYR PICS/Boombox met 4 drukknoppen.jpeg" width="32%">
+  <img src="CYR PICS/Boombox met draaiwiel.jpeg" width="32%">
 
+<p align="left">
+  <img src="CYR PICS/Boombox met 2 drukknoppen.jpeg" width="32%">
+  <img src="CYR PICS/Boombox met draaiknop.jpeg" width="32%">
+  <img src="CYR PICS/Bird's-eye view interfaces.jpeg" width="32%">
 
 > [!IMPORTANT]
 > Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Ef-Jx4u8DrxKobl6wH9LT_MB-3BKxZd3QPGiVYVcsvnEpA?e=vg338t)
