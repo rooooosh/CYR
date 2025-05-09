@@ -197,7 +197,7 @@ Naar aanleiding van de eerste test binnen wave 1 werd besloten om de daaropvolge
 
 Deze korte tegenslagen terzijde, verliep de samenwerking en de vooruitgang die werd gemaakt in het proces goed. Na het voltooien van de waves kan het project naar de volgende fase. De waves hebben een grote impact gehad op het project en hebben de nodige motivatie gegeven om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te willen staan, wegens de grootte interesse in het concept. In de toekomst zullen deze mensen de mogelijkheid krijgen om als eersten het volmaakt prototype te testen.
 
-## Develop 1: Taking a step back (N=3) (protocol klopt niet meer!)
+## Develop 1: Taking a step back (N=3) 
 
 ### Doelstellingen
 De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
@@ -496,6 +496,16 @@ Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteun
 >  - 1.6 De verbinding tussen de touchbox en boombox maakt het mogelijk deze op te bergen in één module.
 >  - 2.6 De touchbox heeft een minimale hoogte, zodat de gebruiker het spel comfortabel kan blijven spelen zonder dat de arm vermoeid raakt.
 >  - 4.6 De draaiknoppen bevatten textuur voor een betere gevoelservaring.
+
+## Develop 3: Finishing touches (N=4)
+
+### Doelstellingen
+
+### Materialen & methoden
+
+### Resultaten
+
+### Conclusies en implicaties
 
 
 ### Design requirements
