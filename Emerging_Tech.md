@@ -19,7 +19,8 @@ Volgend schema toont aan hoe de Arduino Nano verbonden is aan de rotary encoder:
 
 Deze Arduino is via USB-A verbonden aan de raspberry Pi 4. De raspberry pi 4 is verbonden aan het scherm volgens volgend schema:
 
-  - **NOG FOTO VAN VERBINDING SCHERM EN RASPPI**
+<p align="left">
+  <img src="CYR_Pics/Connectieschema_Scherm-Rasppi4.jpeg" width="50%">
 
 
 
