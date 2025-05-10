@@ -15,12 +15,12 @@ Om een idee te krijgen van de opbouw van dit project te krijgen, worden deze sne
 ## Opbouw Boombox
 Volgend schema toont aan hoe de Arduino Nano verbonden is aan de rotary encoder:
 <p align="left">
-  <img src="CYR PICS/Schema Boombox 2.png" width="50%">
+  <img src="CYR PICS/Schema Boombox 2.png" width="100%">
 
 Deze Arduino is via USB-A verbonden aan de raspberry Pi 4. De raspberry pi 4 is verbonden aan het scherm volgens volgend schema:
 
 <p align="left">
-  <img src="CYR PICS/Connectieschema_Scherm-Rasppi4.jpg" width="50%">
+  <img src="CYR PICS/Connectieschema_Scherm-Rasppi4.jpg" width="100%">
 
 
 
