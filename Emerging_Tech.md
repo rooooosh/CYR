@@ -7,20 +7,21 @@ Het project bestaat uit twee onderdelen met afzonderlijke elektronische componen
 
 Het tweede onderdeel, de touchbox, omvat een Arduino Nano, een I2C capacitieve touchsensor, een DF Player en een speaker met versterker. Dit systeem speelt een specifiek geluid af bij aanraking. Deze geluiden worden dienen afgespeeld te worden wanneer het bijbehorende icoon verschijnt op het scherm van de boombox.
 
-Algemeene connectieschemas Momenteel:
+Om een idee te krijgen van de opbouw van dit project te krijgen, worden deze snel voorgesteld op volgende schema's:
 <p align="left">
   <img src="CYR PICS/Schema Boombox 1.png" width="33%">
   <img src="CYR PICS/Schema Touchbox 1.png" width="33%">
 
-
-Nadeel:
--     Laptop vereist
--     Wifi vereist
- 
+## Opbouw Boombox
+Volgend schema toont aan hoe de Arduino Nano verbonden is aan de rotary encoder:
 <p align="left">
   <img src="CYR PICS/Schema Boombox 2.png" width="50%">
 
+Deze Arduino is via USB-A verbonden aan de raspberry Pi 4. De raspberry pi 4 is verbonden aan het scherm volgens volgend schema:
 
-  Nieuwe code: python pygame, 
-  geen laptop en wifi vereist -> Arduino verbonden aan raspberry pi via USB en uitgelezen in seriële monitor
+  - **NOG FOTO VAN VERBINDING SCHERM EN RASPPI**
+
+
+
+## Opbouw Touchbox
 
