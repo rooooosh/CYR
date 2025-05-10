@@ -383,7 +383,7 @@ Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit het rap
   <img src="CYR PICS/BoomboxMetDraaiknop2.jpeg" width="18%">
 
 
-Het scherm en de interactie hiermee werden vervaardigd aan de hand van volgende onderdelen:
+Het scherm en de interactie hiermee werden vervaardigd aan de hand van volgende technische componenten:
   - Raspberry Pi 4
   - Raspberry Pi 7" DSI Touchscreen display (800 x 480 px)
   - Arduino Nano
@@ -393,9 +393,9 @@ Het scherm en de interactie hiermee werden vervaardigd aan de hand van volgende 
     - Protopie Connect
     - Arduino IDE
     
-Zoals eerder aangehaald zal voor deze testfase het scherm geïntegreerd worden in de originele boombox. Het scherm is verbonden aan een Raspberry Pi 4, waarbij als operating system Raspberry Pi OS wordt gebruikt.
+Zoals eerder vermeld, wordt het scherm in deze testfase geïntegreerd in de originele boombox. Het scherm is gekoppeld aan een Raspberry Pi 4 waarop Raspberry Pi OS als besturingssysteem draait.
 
-In Protopie wordt het spel aangepast zodanig dat er verschillende varianten zijn op de huidige layout van het spel. Er zal getest worden op de verschillende variaties van lay-out, de kleurenhiërarchie en look van het spel. Onderstaande foto's illustreren de 4 verschillende varianten op het spel.
+Binnen Protopie werd het spel aangepast om verschillende varianten van de huidige layout te testen. Hierbij wordt geëxperimenteerd met verschillende lay-outs en de algemene uitstraling van het spel. Onderstaande foto's tonen de vier verschillende spelvarianten.
 
 <p align="middle">
   <img src="CYR PICS/Interface1.png" width="32%">
@@ -405,13 +405,12 @@ In Protopie wordt het spel aangepast zodanig dat er verschillende varianten zijn
   <img src="CYR PICS/Interface3.png" width="32%">
   <img src="CYR PICS/Interface4.png" width="32%">
 
-Het idee van de draai/drukknop is vervaardigd aan de hand van een rotary encoder, deze werd aangesloten aan een Arduino Nano. Deze knop moest een aantal functies hebben, de nodige interacties zijn:
+De draai-/drukknop werd gerealiseerd met behulp van een rotary encoder, die aangesloten is op een Arduino Nano. Deze knop is ontworpen om meerdere interactiemogelijkheden te ondersteunen, namelijk:
+- Een enkele klik
+- Een dubbele klik
+- Een draaibeweging (links:rechts)
 
-  - Enkele klik
-  - Dubbele klik
-  - Draaibeweging
-
-Deze interacties dienen voor het besturen van het bediendingsscherm van het spel , elk van deze interacties staan in verbinding met elkaar. De code wordt geschreven zodat er wordt bijgehouden hoeveel keer wordt gedraaid naar links/rechts, of er een signaal mag worden doorgestuurd (dubbele klik om bedieningsscherm te activeren), aantal keer dat er gedraaid is voordat er een signaal mag gestuurd worden enzovoort.
+Deze interacties worden gebruikt om het bedieningsscherm van het spel aan te sturen en staan functioneel met elkaar in verband. De achterliggende code registreert het aantal rotaties naar links of rechts en bepaalt wanneer er een signaal mag worden verstuurd. Bijvoorbeeld: een dubbele klik activeert het bedieningsscherm, waarna pas draaibewegingen effectief commando’s doorgeven. Daarnaast wordt ook bijgehouden hoeveel keer er is gedraaid vóór een interactie wordt toegestaan. Zo ontstaat een gecontroleerde en intuïtieve besturing van het systeem.
 
 > [!NOTE]
 > De code die hiervoor geschreven is, is terug te vinden in de map 'Code' -> 'Arduino' -> 'Code_Rotary_Enconder'.
