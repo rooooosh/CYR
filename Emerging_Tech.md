@@ -3,7 +3,8 @@
 - Arduino scripts kan je vinden in [Code/Arduino](./Code/Arduino/)
 - Python scripts kan je vinden in [Code/Python](./Code/Python/)
 
-
+Ons project bestaat uit 2 onderdelen met aparte elektronica. Het onderdeel 'boombox' bestaat uit een scherm, een raspberry pi 4 en een Rotary encoder, verbonden aan een Arduino Nano. 
+Het doel van dit onderdeel is het laten afspelen van een spel op het scherm, aan de hand van de input gegeven door de rotary encoder. Het script voor dit scherm is geschreven in python, met gebruik van pygame. 
 Connectieschema Momenteel:
 <p align="left">
   <img src="CYR PICS/Schema Boombox 1.png" width="33%">
