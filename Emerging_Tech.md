@@ -1,7 +1,7 @@
 # Eindopdracht Emerging Technologies
 
-- Arduino scripts kan je vinden in [Code/Arduino](./Code/arduino/)
-- Python scripts kan je vinden in [Code/Python](./Code/python/)
+- Arduino scripts kan je vinden in [Code/Arduino](./Code/Arduino/)
+- Python scripts kan je vinden in [Code/Python](./Code/Python/)
 
 
 Connectieschema Momenteel:
