@@ -480,7 +480,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 #### **Design van het spel** 
   ***<ins>X</ins>** - hoofdvoorkeur*
 
-    |       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
+  |       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
   |-|:---:|:---:|:---:|:---:|
   | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
   | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
