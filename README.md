@@ -383,7 +383,7 @@ Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit het rap
   <img src="CYR PICS/BoomboxMetDraaiknop2.jpeg" width="18%">
 
 
-Het scherm en de interactie hiermee werden vervaardigd aan de hand van volgende technische componenten:
+Het scherm en de interactie hiermee zijn gerealiseerd met de volgende technische componenten:
   - Raspberry Pi 4
   - Raspberry Pi 7" DSI Touchscreen display (800 x 480 px)
   - Arduino Nano
@@ -392,31 +392,30 @@ Het scherm en de interactie hiermee werden vervaardigd aan de hand van volgende 
     - Protopie
     - Protopie Connect
     - Arduino IDE
-    
+
 Zoals eerder vermeld, wordt het scherm in deze testfase geïntegreerd in de originele boombox. Het scherm is gekoppeld aan een Raspberry Pi 4 waarop Raspberry Pi OS als besturingssysteem draait.
 
-Binnen Protopie werd het spel aangepast om verschillende varianten van de huidige layout te testen. Hierbij wordt geëxperimenteerd met verschillende lay-outs en de algemene uitstraling van het spel. Onderstaande foto's tonen de vier verschillende spelvarianten.
+Binnen Protopie is het spel aangepast om verschillende varianten van de huidige layout te testen. Hierbij wordt geëxperimenteerd met diverse lay-outs en de algemene uitstraling van het spel. Onderstaande foto's tonen vier verschillende spelvarianten.
 
 <p align="middle">
   <img src="CYR PICS/Interface1.png" width="32%">
   <img src="CYR PICS/Interface2.png" width="32%">
- 
+
 <p align="middle">
   <img src="CYR PICS/Interface3.png" width="32%">
   <img src="CYR PICS/Interface4.png" width="32%">
 
-De draai-/drukknop werd gerealiseerd met behulp van een rotary encoder, die aangesloten is op een Arduino Nano. Deze knop is ontworpen om meerdere interactiemogelijkheden te ondersteunen, namelijk:
+De draai-/drukknop is gerealiseerd met behulp van een rotary encoder, aangesloten op een Arduino Nano. Deze knop ondersteunt meerdere interactiemogelijkheden:
 - Een enkele klik
 - Een dubbele klik
 - Een draaibeweging (links:rechts)
 
-Deze interacties worden gebruikt om het bedieningsscherm van het spel aan te sturen en staan functioneel met elkaar in verband. De achterliggende code registreert het aantal rotaties naar links of rechts en bepaalt wanneer er een signaal mag worden verstuurd. Bijvoorbeeld: een dubbele klik activeert het bedieningsscherm, waarna pas draaibewegingen effectief commando’s doorgeven. Daarnaast wordt ook bijgehouden hoeveel keer er is gedraaid vóór een interactie wordt toegestaan. Zo ontstaat een gecontroleerde en intuïtieve besturing van het systeem.
+Deze interacties sturen het bedieningsscherm van het spel aan en staan functioneel met elkaar in verband. De achterliggende code registreert het aantal rotaties naar links of rechts en bepaalt wanneer een signaal mag worden verstuurd. Bijvoorbeeld: een dubbele klik activeert het bedieningsscherm. Daarnaast wordt bijgehouden hoeveel keer er is gedraaid vóór een interactie wordt toegestaan. Zo ontstaat een gecontroleerde en intuïtieve besturing van het systeem.
 
 > [!NOTE]
 > De code die hiervoor geschreven is, is terug te vinden in de map 'Code' -> 'Arduino' -> 'Code_Rotary_Enconder'.
 
-De verbinding tussen de Arduino Nano en Protopie gebeurt aan de hand van Protopie Connect. Door het verbinden van de laptop en de Raspberry Pi aan hetzelfde netwerk, kan in de webbrowser van de Raspberry Pi gezocht worden naar de juiste URL. Hierbij dient rekening gehouden te worden met het correcte IP-adres in de URL.
-  
+De verbinding tussen de Arduino Nano en Protopie verloopt via Protopie Connect. Door de laptop en de Raspberry Pi met hetzelfde netwerk te verbinden, kan in de webbrowser van de Raspberry Pi naar de juiste URL worden genavigeerd. Hierbij dient rekening gehouden te worden met het correcte IP-adres in de URL.
 ### Resultaten
 De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EaTjAdEoeb1OvMWYhekQ-UUBKD4sYoQhgimR-fXanDQq6w?e=uEBNJM) en zullen hier kort toegelicht worden.
 
