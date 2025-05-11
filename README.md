@@ -316,7 +316,7 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 
 
 > [!IMPORTANT]
-> **Design requirements**
+> **Design requirements** (draaiknop nog insteken)
 >  - 1.3 De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen.
 >  - 1.4 Het product is zo compact mogelijk.
 >  - 2.4 De interface van de boombox is zodanig ontworpen zodat de interactie hiermee geen overbodige elementen bevat.
