@@ -257,6 +257,8 @@ _Foto 1: Originele boombox; Foto 2: Boombox met 4 drukknoppen; Foto 3: Boombox m
 
 De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXa1SWmz3rtNq0juiNflwVgBcp4HpYg-doC8XI3W3c-IYA?e=KgWKnf) en zullen hier kort toegelicht worden.
 
+---
+
 #### **Touchbox MOS Test**
   *1 - zeer slecht*
   *5 - uitstekend*
@@ -419,7 +421,9 @@ De verbinding tussen de Arduino Nano en Protopie verloopt via Protopie Connect. 
 ### Resultaten
 De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EaTjAdEoeb1OvMWYhekQ-UUBKD4sYoQhgimR-fXanDQq6w?e=uEBNJM) en zullen hier kort toegelicht worden.
 
-- #### **Touchbox MOS Test**
+---
+
+#### **Touchbox MOS Test**
   *1 - zeer slecht*
   
   *5 - uitstekend*
@@ -436,7 +440,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 Hieruit kan geconludeerd worden dat zowel een verandering in software als hardware leiden tot een vermindering van de latency op de touchbox. 
 
-- #### **Texturen** 
+#### **Texturen** 
   ***<ins>X</ins>** - hoofdvoorkeur*
   
   *X - overige top 3*
@@ -449,7 +453,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
   | Pieter Jan |    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
 
 
-- #### **Grootte van de draaiknoppen**
+#### **Grootte van de draaiknoppen**
   ***<ins>X</ins>** - hoofdvoorkeur*
   
   *X - overige top 3*
@@ -462,7 +466,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
   | Pieter Jan |   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
 
 
-- #### **Draaien van de knop** 
+#### **Draaien van de knop** 
   ***<ins>X</ins>** - hoofdvoorkeur*
 
   |       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
@@ -473,7 +477,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
   | Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
 
 
-- #### **Design van het spel** 
+#### **Design van het spel** 
   ***<ins>X</ins>** - hoofdvoorkeur*
 
     |       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
