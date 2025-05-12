@@ -25,4 +25,4 @@ Deze Arduino is via USB-A verbonden aan de Raspberry Pi 4. De Raspberry Pi 4 is 
 ## Opbouw Touchbox
 Onderstaand schema geeft weer hoe de technische componenten van de touchbox met elkaar verbonden zijn.
 <p align="left">
-  <img src="CYR PICS/Connectieschema_Touchbox.jpg" width="70%">
+  <img src="CYR PICS/Connectieschema_Touchbox.png" width="70%">
