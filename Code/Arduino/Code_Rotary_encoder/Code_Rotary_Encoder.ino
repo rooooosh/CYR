@@ -6,9 +6,9 @@
  * DT  --> 3   (groen, data)
  * CLK --> 2   (blauw, clock)
  */
-
-int aantalClicks = 3;
-int i = 1;
+// Variabele om bij te houden of long press al is gedetecteerd
+bool longPressGedetecteerd = false;
+int aantalClicks = 2;
 
 // Rotary encoder pinnen
 const int pinA = 2;
@@ -17,20 +17,21 @@ volatile int pinAstateCurrent = LOW;
 volatile int pinAStateLast = LOW;
 int countLinks = 0;
 int countRechts = 0;
+int i = 1;
 
 // Schakelaar
 const int switchPin = 12;
 int switchState = HIGH;
+int vorigeSwitchState = HIGH;
+unsigned long switchIngedruktTijd = 0;
+const int longPressTijd = 1500;  // 1.5 seconden
 
-// Double-click detectie variabelen
-unsigned long lastClickTime = 0;
-bool wachtOpTweedeKlik = false;
-const int doubleClickTijd = 250;  // Strengere double-click tijd (ms)
+// Debounce
 bool debounceActief = false;
 unsigned long debounceTimer = 0;
 const int debounceTijd = 50;
 
-// Toggle vlag: als deze true is, worden schakelaarIngedrukt én encoder (Links/Rechts) geactiveerd
+// Toggle vlag
 bool enkeleKlikActief = false;
 
 void setup() {
@@ -40,7 +41,6 @@ void setup() {
   pinMode(pinA, INPUT);
   pinMode(pinB, INPUT);
 
-  // Interrupt aan encoder PinA
   attachInterrupt(digitalPinToInterrupt(pinA), update, CHANGE);
 }
 
@@ -48,46 +48,42 @@ void loop() {
   switchState = digitalRead(switchPin);
   unsigned long huidigeTijd = millis();
 
-  // Schakelaar-debounce
+  // Debounce
   if (debounceActief && (huidigeTijd - debounceTimer > debounceTijd)) {
     debounceActief = false;
   }
 
-  if (switchState == LOW && !debounceActief) {
+  // Check op long press
+  if (switchState == LOW && vorigeSwitchState == HIGH) {
+    // Knop net ingedrukt
+    switchIngedruktTijd = huidigeTijd;
     debounceActief = true;
     debounceTimer = huidigeTijd;
-
-    if (!wachtOpTweedeKlik) {
-      // Eerste klik: start timer
-      wachtOpTweedeKlik = true;
-      lastClickTime = huidigeTijd;
-    } else {
-      // Tweede klik binnen doubleClickTijd → toggle modus
-      if (huidigeTijd - lastClickTime <= doubleClickTijd) {
-        // Toggle de actieve modus; als deze true is, worden encoder- en schakelaarhandelingen uitgevoerd
-        enkeleKlikActief = !enkeleKlikActief;
-        Serial.println("dubbelSchakelaarIngedrukt");
-        wachtOpTweedeKlik = false;
-      }
-    }
-    // Wacht tot de schakelaar weer losgelaten is
-    while (digitalRead(switchPin) == LOW)
-      ;
+    longPressGedetecteerd = false;
   }
 
-  // Als er een enkele klik is gedetecteerd en de doubleclick tijd verstreken is
-  if (wachtOpTweedeKlik && (huidigeTijd - lastClickTime > doubleClickTijd)) {
-    // Voer de actie alleen uit als de modus actief is
-    if (enkeleKlikActief) {
+  // Detecteer long press terwijl knop ingedrukt blijft
+  if (switchState == LOW && !longPressGedetecteerd && (huidigeTijd - switchIngedruktTijd >= longPressTijd)) {
+    // Long press gedetecteerd
+    enkeleKlikActief = !enkeleKlikActief;
+    Serial.println("dubbelSchakelaarIngedrukt");
+    longPressGedetecteerd = true;
+  }
+
+  if (switchState == HIGH && vorigeSwitchState == LOW) {
+    // Knop net losgelaten
+    if (!debounceActief && !longPressGedetecteerd && (huidigeTijd - switchIngedruktTijd < longPressTijd) && enkeleKlikActief) {
+      // Enkele korte klik
       switch (i) {
         case 1: Serial.println("schakelaarIngedrukt1"); break;
         case 2: Serial.println("schakelaarIngedrukt2"); break;
         case 3: Serial.println("schakelaarIngedrukt3"); break;
         case 4: Serial.println("schakelaarIngedrukt4"); break;
+        case 5: Serial.println("toggleHendel"); break;
       }
     }
-    wachtOpTweedeKlik = false;
   }
+  vorigeSwitchState = switchState;
 }
 
 void update() {
@@ -100,9 +96,7 @@ void update() {
       countRechts++;
     }
 
-    // Als voldoende linker pulsen geteld zijn
     if (countLinks >= aantalClicks) {
-      // Alleen verwerken als toggle actief is en er binnen de grenzen gegaan kan worden
       if (enkeleKlikActief && (i > 1)) {
         i--;
         Serial.println("Links");
@@ -111,10 +105,8 @@ void update() {
       countRechts = 0;
     }
 
-    // Als voldoende rechter pulsen geteld zijn
     if (countRechts >= aantalClicks) {
-      // Alleen verwerken als toggle actief is en er binnen de grenzen gegaan kan worden
-      if (enkeleKlikActief && (i < 4)) {
+      if (enkeleKlikActief && (i < 5)) {
         i++;
         Serial.println("Rechts");
       }
@@ -125,4 +117,3 @@ void update() {
 
   pinAStateLast = pinAstateCurrent;
 }
-
