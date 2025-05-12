@@ -42,6 +42,9 @@ GRIJS = (200, 200, 200)
 DONKERGRIJS = (80, 80, 80)
 ZWART = (0, 0, 0)
 WIT = (255, 255, 255)
+BLAUW = (0, 0, 255)
+ROOD = (255, 0, 0)
+GROEN = (0, 255, 0)
 
 # Spelstatus
 spel_gestart = False
@@ -63,7 +66,7 @@ start_signaal = False
 # Menu instellingen
 menu_actief = False
 menu_opties = [
-    "Have You Ever Seen The Rain\n- Creedence Clearwater",
+    "Have You Ever Seen The Rain\n- Creedence Clerawater",
     "Angels\n- Robbie Williams",
     "Come Together\n- The Beatles",
     "Iris\n- Goo Goo Dolls"
