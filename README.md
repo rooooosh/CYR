@@ -525,7 +525,7 @@ Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteun
 ## Develop 3: Finishing touches (N=4)
 
 ### Doelstellingen
-...
+Deelopdracht 5 is de laatste opdracht van semester 2. Het doel is om 
 
 ### Materialen & methoden
 ...
