@@ -429,13 +429,14 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 - 1 - zeer slecht
 - 5 - uitstekend
 
-  |**Gebruiker**               | **Score** | **Beperking**|
-  |-|-|-|
-  | Anne Mestdag    | 4      | Licht Storend   | 
-  | Marie-Paule Defever     | 4-5    | Niet storend tot perfect|
-  | Jacques Vander Oost | 4-5 | Niet storend tot perfect  |
-  | Pieter Jan Lernout | /* | Geen mogelijke uitspraak  |
-  | | *Gem.: 4* ||
+
+|**Gebruiker**               | **Score** | **Beperking**|
+|-|-|-|
+| Anne Mestdag    | 4      | Licht Storend   | 
+| Marie-Paule Defever     | 4-5    | Niet storend tot perfect|
+| Jacques Vander Oost | 4-5 | Niet storend tot perfect  |
+| Pieter Jan Lernout | /* | Geen mogelijke uitspraak  |
+| | *Gem.: 4* ||
 
 **<sub>Door omstandigheden werd de latency op de touchbox niet getest, hierdoor kon geen score/uitspraak gegeven worden.</sub>*
 
@@ -445,46 +446,50 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 - **<ins>X</ins>** - hoofdvoorkeur
 - X - overige top 3
 
-  |       | **Textuur 1** | **Textuur 2** | **Textuur 3** | **Textuur 4** | **Textuur 5** | **Textuur 6** |
-  |-|:---:|:---:|:---:|:---:|:---:|:---:|
-  | Anne Mestdag    |      |      |   X    |    X   |      |   **<ins>X</ins>**   |
-  | Marie-Paule Defever    |  |      |   X    |       |   X   |   **<ins>X</ins>**   |
-  | Jacques Vander Oost |        |      |   X    |       |   X   |  **<ins>X</ins>**   |
-  | Pieter Jan |    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
+
+|       | **Textuur 1** | **Textuur 2** | **Textuur 3** | **Textuur 4** | **Textuur 5** | **Textuur 6** |
+|-|:---:|:---:|:---:|:---:|:---:|:---:|
+| Anne Mestdag    |      |      |   X    |    X   |      |   **<ins>X</ins>**   |
+| Marie-Paule Defever    |  |      |   X    |       |   X   |   **<ins>X</ins>**   |
+| Jacques Vander Oost |        |      |   X    |       |   X   |  **<ins>X</ins>**   |
+| Pieter Jan |    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
 
 
 #### **Grootte van de draaiknoppen**
 - **<ins>X</ins>** - hoofdvoorkeur
 - X - overige top 3
 
-  |       | **30mm** | **35mm** | **40mm** | **45mm** | **50mm** | **55mm** |
-  |-|:---:|:---:|:---:|:---:|:---:|:---:|
-  | Anne Mestdag    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
-  | Marie-Paule Defever    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
-  | Jacques Vander Oost |        |   **<ins>X</ins>**   |   X    |   X    |      |     |
-  | Pieter Jan |   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
+
+|       | **30mm** | **35mm** | **40mm** | **45mm** | **50mm** | **55mm** |
+|-|:---:|:---:|:---:|:---:|:---:|:---:|
+| Anne Mestdag    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
+| Marie-Paule Defever    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
+| Jacques Vander Oost |        |   **<ins>X</ins>**   |   X    |   X    |      |     |
+| Pieter Jan |   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
 
 
 #### **Draaien van de knop** 
 - **<ins>X</ins>** - hoofdvoorkeur
 
-  |       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
-  |-|:---:|:---:|:---:|:---:|
-  | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
-  | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
-  | Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
-  | Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
 
+|       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
+|-|:---:|:---:|:---:|:---:|
+| Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
+| Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
+| Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
+| Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
+  
 
 #### **Design van het spel** 
 - **<ins>X</ins>** - hoofdvoorkeur
 
-  |       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
-  |-|:---:|:---:|:---:|:---:|
-  | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
-  | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
-  | Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
-  | Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
+
+|       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
+|-|:---:|:---:|:---:|:---:|
+| Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
+| Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
+| Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
+| Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
 
 
 
