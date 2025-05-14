@@ -525,10 +525,10 @@ Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteun
 ## Develop 3: Finishing touches (N=4)
 
 ### Doelstellingen
-Deelopdracht 5 is de laatste opdracht van semester 2. Het doel is om yapayapayapa
+Deelopdracht 5 is de laatste opdracht van semester 2. Het doel is om de finale vormgeving van het prototype vast te leggen a.d.h.v. een aantal functionele/esthetische veranderingen
 
 ### Materialen & methoden
-criss cross apple sauce
+
 
 ### Resultaten
 ...
