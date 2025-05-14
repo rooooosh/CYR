@@ -528,7 +528,7 @@ Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteun
 Deelopdracht 5 is de laatste opdracht van semester 2. Het doel is om de finale vormgeving van het prototype vast te leggen a.d.h.v. een aantal functionele/esthetische veranderingen
 
 ### Materialen & methoden
-
+Het prototype zal een aantal kleine veranderingen ondergaan die extra functionaliteit zouden moeten leveren bij het spelen van het spel. Er zal aan de touch -en boombox ...
 
 ### Resultaten
 ...
