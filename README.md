@@ -197,7 +197,7 @@ Naar aanleiding van de eerste test binnen wave 1 werd besloten om de daaropvolge
 
 Deze korte tegenslagen terzijde, verliep de samenwerking en de vooruitgang die werd gemaakt in het proces goed. Na het voltooien van de waves kan het project naar de volgende fase. De waves hebben een grote impact gehad op het project en hebben de nodige motivatie gegeven om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te willen staan, wegens de grootte interesse in het concept. In de toekomst zullen deze mensen de mogelijkheid krijgen om als eersten het volmaakt prototype te testen.
 
-## Develop 1: Taking a step back (N=3) 
+## Develop 1: Definiëren van gebruiksinterfaces (N=3) 
 
 ### Doelstellingen
 De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
@@ -335,7 +335,7 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 >  - 4.4 De knoppen van de touchbox bevatten een grootte van 6x6cm.
 >  - 4.5 De interactie met de boombox gebeurt aan de hand van fysieke knoppen.
 
-## Develop 2: Adding detail (N=4)
+## Develop 2: Focus op ergonomie (N=4)
 
 ### Doelstellingen
 Uit deelopdracht 3 werden de interfaces voor zowel de touchbox als boombox vastgelegd. Het doel van deelopdracht 4 (develop 2) is nadruk leggen op de usability en user experience van CYR. 
@@ -522,7 +522,7 @@ Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteun
 >  - 2.6 De touchbox heeft een minimale hoogte, zodat de gebruiker het spel comfortabel kan blijven spelen zonder dat de arm vermoeid raakt.
 >  - 4.6 De draaiknoppen bevatten textuur voor een betere gevoelservaring.
 
-## Develop 3: Finishing touches (N=4)
+## Develop 3: Esthetische vormgeving (N=4)
 
 ### Doelstellingen
 Deelopdracht 5 is de laatste opdracht van semester 2. Het doel is om de finale vormgeving van het prototype vast te leggen a.d.h.v. een aantal functionele/esthetische veranderingen
