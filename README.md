@@ -541,8 +541,8 @@ In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstart
 ### Conclusies en implicaties
 ...
 
-
-### Design requirements
+## Algemene conclusie
+### Finale design requirements
 
 | ID | Design requirement | Source | Date |
 | ------------- | ------------- | ------------- | ------------- |
@@ -576,6 +576,10 @@ In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstart
 ```
 Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na develop 2!
 ```
+
+## Kritische reflectie
+
+## Technische beschrijving
 
 ## Bijlagen
 
