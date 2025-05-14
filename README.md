@@ -536,12 +536,17 @@ In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstart
 > Uitleg Pygame hier insteken
 
 ### Resultaten
+
 ...
 
 ### Conclusies en implicaties
+
 ...
 
 ## Algemene conclusie
+
+### Slotbevindingen
+
 ### Finale design requirements
 
 | ID | Design requirement | Source | Date |
@@ -578,8 +583,18 @@ Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na dev
 ```
 
 ## Kritische reflectie
+*Rösh*
+
+"Ik vond dat semester 1 vooral zoeken was naar een goede methodologie die we konden volgen voor de rest van het jaar. Tijdens de presentatie op het eind van semester 1 werden een aantal zaken aangehaald die we beter konden uitvoeren zoals het opstellen van functionele design requirements. Deze kritiek hebben we geprobeerd om te buigen naar een meer positievere aanpak bij aanvang van het tweede semester. Een groot struikelblok bleek toch het contacteren van mensen die pasten binnen onze doelgroep. Een aantal van onze contactpersonen waarmee wij getest hadden, werden opeens moeilijker te contacteren waarbij dit uiteindelijke resulteerde in het contacteren van nieuwe testpersonen. Dit was iets dat wij niet op voorzien waren, dus was dit een extra uitdaging om nieuwe gebruikers aan te trekken. 
+
+Wat betreft het prototype is er veel progressie gemaakt. De stappen die werden genomen naar aanleiding van het eindprototype zijn kritisch onderbouwd en ook goed gecommuniceerd met de gebruikers. Het spel kreeg voortdurend positieve feedback en de gebruikers bleven enthousiast bij de volgende progressie die werd gemaakt. Als conclusie kan ik zeggen dat het project geslaagd is. Natuurlijk is er véél ruimte om het prototype te verbeteren, maar voor de tijd die wij ter beschikking kregen, vind ik dat we het maximale eruit gehaald hebben."
+
+*Aldo*
+
 
 ## Technische beschrijving
+
+...
 
 ## Bijlagen
 
