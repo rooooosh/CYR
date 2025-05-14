@@ -528,7 +528,12 @@ Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteun
 Deelopdracht 5 is de laatste opdracht van semester 2. Het doel is om de finale vormgeving van het prototype vast te leggen a.d.h.v. een aantal functionele/esthetische veranderingen
 
 ### Materialen & methoden
-Het prototype zal een aantal kleine veranderingen ondergaan die extra functionaliteit zouden moeten leveren bij het spelen van het spel. Er zal aan de touch -en boombox ...
+Het prototype zal een aantal kleine veranderingen ondergaan die extra functionaliteit zouden moeten leveren bij het spelen van het spel. 
+
+In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop.
+
+> [!NOTE]
+> <Uitleg Pygame hier insteken>
 
 ### Resultaten
 ...
