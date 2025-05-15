@@ -359,7 +359,8 @@ Er wordt gewerkt met een aantal Arduino componenten:
 - Arduino Nano
 - 12 Key Capacitive I2C Touch Sensor (MPR121)
 - MP3-TF-16P V3.0 (DF player mini)
-- Speaker
+- Weerstand 1,2kΩ
+- Speaker 3W - 5Ω
 
 _Foto 1: Arduino Nano met DF player mini en speaker; 
 Foto 2: I2C Touch Sensor met krokodillenklemmen; 
@@ -605,15 +606,43 @@ Het prototype bevat een aantal standaardmaterialen waarbij deze na een aantal na
 
 Het design van de touchbox en boombox doos stamt af van een online ontwerp afkomstig van volgende website: [Boxes.py | Hackaday.io](https://hackaday.io/project/10649-boxespy)
 
-
 De afmetingen van beide dozen bedragen:
 
 - **Toucbox**: 255mm x 176mm x 6mm
 - **Boombox**: ...mm x ...mm x ...mm
 
+Volgende dimensies kunnen ingevoerd worden in bovenstaande vermelde website en kunnen vervolgens gedownload worden in volgende formaten: (svg, dxf, gcode, lbrn2, pdf, plt, ps, svg, svg_Ponoko)
+Via een lasercut programma (dit geval [Lightburn](https://lightburnsoftware.com/)) kan volgend bestand in een workspace upgeload worden en vervolgens gesneden worden volgens de ingevoerde dimensies van de doos.
+
 ---
 
 ### Elektronica en Arduino componenten
+De volgende elektronica/Arduino componenten worden gebruikt om de huidige communicatie van het spel te realiseren. Deze worden opgesplits per gebruikte componenten voor touchbox en boombox:
+
+**Touchbox**
+
+- Arduino Nano 
+- 12 Key Capacitive I2C Touch Sensor (MPR121)
+- MP3-TF-16P V3.0 (DF player mini)
+- Weerstand 1,2kΩ
+- Speaker 3W - 5Ω
+
+Extra onderdelen die werden aangekocht, maar uiteindelijk niet verwerkt in het eindprototype:
+
+- [PAM8403](https://www.amazon.com.be/dp/B07DJWGQVY?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- [Speaker 5W - 8Ω](https://www.amazon.com.be/dp/B0C7PJ5XZZ?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- [TPA 3110](https://www.amazon.com.be/dp/B07DK51R75?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+> [!NOTE]
+> De **PAM8403** en **TPA3110** worden beide gelabeld als geluidsversterkende componenten (EN: amplifiers), maar door de complexiteit van de bedrading en minder resultaat na aansluiting met de Arduino werden deze niet meer geïntegreerd in het ontwerp
+
+**Boombox**
+
+-
+-
+-
+...
+
 
 ## Bijlagen
 
