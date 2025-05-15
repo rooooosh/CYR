@@ -6,6 +6,7 @@
  * DT  --> 3   (groen, data)
  * CLK --> 2   (blauw, clock)
  */
+
 // Variabele om bij te houden of long press al is gedetecteerd
 bool longPressGedetecteerd = false;
 int aantalClicks = 2;
@@ -33,6 +34,9 @@ const int debounceTijd = 50;
 
 // Toggle vlag
 bool enkeleKlikActief = false;
+
+// Blokkering zodat na korte klik niks meer wordt gestuurd tot long press
+bool wachtOpDubbelSchakelaar = false;
 
 void setup() {
   Serial.begin(115200);
@@ -65,21 +69,29 @@ void loop() {
   // Detecteer long press terwijl knop ingedrukt blijft
   if (switchState == LOW && !longPressGedetecteerd && (huidigeTijd - switchIngedruktTijd >= longPressTijd)) {
     // Long press gedetecteerd
-    enkeleKlikActief = !enkeleKlikActief;
+    enkeleKlikActief = true;  // Zet altijd op true bij long press
     Serial.println("dubbelSchakelaarIngedrukt");
     longPressGedetecteerd = true;
+
+    // Reset blokkeringsvlag zodat input weer mag
+    wachtOpDubbelSchakelaar = false;
   }
 
   if (switchState == HIGH && vorigeSwitchState == LOW) {
     // Knop net losgelaten
     if (!debounceActief && !longPressGedetecteerd && (huidigeTijd - switchIngedruktTijd < longPressTijd) && enkeleKlikActief) {
       // Enkele korte klik
-      switch (i) {
-        case 1: Serial.println("schakelaarIngedrukt1"); break;
-        case 2: Serial.println("schakelaarIngedrukt2"); break;
-        case 3: Serial.println("schakelaarIngedrukt3"); break;
-        case 4: Serial.println("schakelaarIngedrukt4"); break;
-        case 5: Serial.println("toggleHendel"); break;
+      if (!wachtOpDubbelSchakelaar) {
+        switch (i) {
+          case 1: Serial.println("schakelaarIngedrukt1"); break;
+          case 2: Serial.println("schakelaarIngedrukt2"); break;
+          case 3: Serial.println("schakelaarIngedrukt3"); break;
+          case 4: Serial.println("schakelaarIngedrukt4"); break;
+          case 5: Serial.println("toggleHendel"); break;
+        }
+        // Blokkeer verdere input tot een long press
+        wachtOpDubbelSchakelaar = true;
+        enkeleKlikActief = false;  // Zet uit om geen toggling te triggeren
       }
     }
   }
@@ -97,7 +109,7 @@ void update() {
     }
 
     if (countLinks >= aantalClicks) {
-      if (enkeleKlikActief && (i > 1)) {
+      if (enkeleKlikActief && (i > 1) && !wachtOpDubbelSchakelaar) {
         i--;
         Serial.println("Links");
       }
@@ -106,7 +118,7 @@ void update() {
     }
 
     if (countRechts >= aantalClicks) {
-      if (enkeleKlikActief && (i < 4)) {
+      if (enkeleKlikActief && (i < 4) && !wachtOpDubbelSchakelaar) {
         i++;
         Serial.println("Rechts");
       }

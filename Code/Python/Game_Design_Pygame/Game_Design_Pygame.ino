@@ -4,14 +4,14 @@ import threading
 import time
 import sys
 
-# --- SeriÃ«le poort instellen ---
+# --- Seriële poort instellen ---
 seriele_poort = '/dev/ttyUSB0'
 baudrate = 115200
 
 try:
     ser = serial.Serial(seriele_poort, baudrate, timeout=1)
 except serial.serialutil.SerialException:
-    print(f"Kan seriÃ«le poort {seriele_poort} niet openen.")
+    print(f"Kan seriële poort {seriele_poort} niet openen.")
     ser = None
 
 # Vierkanten instellingen
@@ -38,6 +38,10 @@ except pygame.error as e:
     print(f"Fout bij laden afbeelding: {e}")
     pygame.quit()
     exit()
+
+# Liedjes duur
+liedje_starttijd = None
+max_liedje_duur = 60000 # =1min,liefst te lang dan te kort
 
 # Kleuren
 GRIJS = (200, 200, 200)
@@ -72,7 +76,7 @@ menu_opties = [
 ]
 geselecteerde_index = 0
 
-# --- SeriÃ«le data lezen ---
+# --- Seriële data lezen ---
 def lees_serial():
     global start_signaal, menu_actief, geselecteerde_index, ritme
     if ser is None:
@@ -80,7 +84,7 @@ def lees_serial():
     while True:
         if ser.in_waiting > 0:
             lijn = ser.readline().decode('utf-8').strip()
-            print(f"SeriÃ«le input: {lijn}")
+            print(f"Seriële input: {lijn}")
             if lijn == "dubbelSchakelaarIngedrukt":
                 menu_actief = not menu_actief
             elif menu_actief:
@@ -177,38 +181,47 @@ def lees_serial():
 					{"tijd": 54700, "strook": 2, "afbeelding": "Drum Pedal"},
 					{"tijd": 55800, "strook": 0, "afbeelding": "sticks"},
                     ]
+
                     start_signaal = True
 
 # Functies om muziek af te spelen
 def speel_liedje_1():
+    global liedje_starttijd
     try:
         pygame.mixer.music.load("Have_You_Ever_Seen_The_Rain.mp3")
         pygame.mixer.music.play(loops=0, start=0.0)
+        liedje_starttijd = pygame.time.get_ticks()
     except pygame.error as e:
         print(f"Fout bij laden of afspelen van muziek: {e}")
 
 def speel_liedje_2():
+    global liedje_starttijd
     try:
         pygame.mixer.music.load("Angels.mp3")
         pygame.mixer.music.play(loops=0, start=0.0)
+        liedje_starttijd = pygame.time.get_ticks()
     except pygame.error as e:
         print(f"Fout bij laden of afspelen van muziek: {e}")
 
 def speel_liedje_3():
+    global liedje_starttijd    
     try:
         pygame.mixer.music.load("Come_Together.mp3")
         pygame.mixer.music.play(loops=0, start=0.0)
+        liedje_starttijd = pygame.time.get_ticks()
     except pygame.error as e:
         print(f"Fout bij laden of afspelen van muziek: {e}")
 
 def speel_liedje_4():
+    global liedje_starttijd
     try:
         pygame.mixer.music.load("Iris.mp3")
         pygame.mixer.music.play(loops=0, start=0.0)
+        liedje_starttijd = pygame.time.get_ticks()
     except pygame.error as e:
         print(f"Fout bij laden of afspelen van muziek: {e}")
 
-# Start seriÃ«le thread
+# Start seriële thread
 if ser is not None:
     serial_thread = threading.Thread(target=lees_serial, daemon=True)
     serial_thread.start()
@@ -281,7 +294,7 @@ while running:
             elif event.key == pygame.K_a:
                 scherm = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
 
-    if start_signaal and not spel_gestart:
+    if start_signaal:
         spel_gestart = True
         starttijd = pygame.time.get_ticks()
         menu_actief = False
@@ -303,12 +316,18 @@ while running:
         for vierkant in vierkanten:
             vierkant['x'] += snelheid
         vierkanten = [v for v in vierkanten if v['x'] < breedte]
-
+            
     teken_achtergrond()
     if menu_actief:
         teken_menu()
     elif spel_gestart:
         teken_vierkanten()
+    if pygame.mixer.music.get_busy() and liedje_starttijd is not None:
+        tijd_nu = pygame.time.get_ticks()  
+        #print(f"tijd sinds start: {tijd_nu - liedje_starttijd}")
+        if tijd_nu - liedje_starttijd > max_liedje_duur:
+            pygame.mixer.music.stop()
+            liedje_starttijd = None
 
     pygame.display.flip()
     klok.tick(60)
