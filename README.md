@@ -595,8 +595,18 @@ Wat betreft het prototype is er veel progressie gemaakt. De stappen die werden g
 
 
 ## Technische beschrijving
+Het prototype bevat een aantal standaardmaterialen waarbij deze na een aantal nabewerkingsstappen werden omgevormd tot de finale vormgeving van CYR. De hoofdmaterialen die zijn gebruikt:
 
-...
+- MDF met dikte 3mm
+- Aluminiumplaten met dikte ...
+- ...
+
+---
+
+
+
+  
+
 
 ## Bijlagen
 
