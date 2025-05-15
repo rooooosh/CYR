@@ -25,26 +25,30 @@ scherm = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
 pygame.display.set_caption("CYR")
 klok = pygame.time.Clock()
 
-try:
-    afbeeldingen = {
-        "sticks": pygame.transform.scale(pygame.image.load("sticks.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
-        "hi-hat": pygame.transform.scale(pygame.image.load("hi-hat.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
-        "Snaredrum": pygame.transform.scale(pygame.image.load("Snaredrum.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
-        "2 Snaredrum": pygame.transform.scale(pygame.image.load("2 Snaredrum.png").convert_alpha(), (vierkant_grootte, vierkant_grootte))
-    }
-except pygame.error as e:
-    print(f"Fout bij laden afbeelding: {e}")
-    pygame.quit()
-    exit()
+# Afbeeldingen laden
+def laad_afbeeldingen():
+    try:
+        return {
+            "sticks": pygame.transform.scale(pygame.image.load("sticks.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
+            "hi-hat": pygame.transform.scale(pygame.image.load("hi-hat.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
+            "Snaredrum": pygame.transform.scale(pygame.image.load("Snaredrum.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
+            "2 Snaredrum": pygame.transform.scale(pygame.image.load("2 Snaredrum.png").convert_alpha(), (vierkant_grootte, vierkant_grootte))
+        }
+    except pygame.error as e:
+        print(f"Fout bij laden afbeelding: {e}")
+        pygame.quit()
+        exit()
+
+afbeeldingen = laad_afbeeldingen()
 
 # Kleuren
 GRIJS = (200, 200, 200)
 DONKERGRIJS = (80, 80, 80)
 ZWART = (0, 0, 0)
 WIT = (255, 255, 255)
-BLAUW = (0, 0, 255)
-ROOD = (255, 0, 0)
-GROEN = (0, 255, 0)
+green = (0, 255, 0)
+black = (0, 0, 0)
+
 
 # Spelstatus
 spel_gestart = False
@@ -57,6 +61,10 @@ strook_y_posities = list(range(60, hoogte, ruimte_tussen_stroken))
 
 # Vierkanten
 vierkanten = []
+
+#Switch instellingen
+x = 200  # X-positie van de switch
+y = 300  # Y-positie van de switch
 
 # Ritme (tijd in ms, index van strook, en afbeelding)
 ritme = []
@@ -91,83 +99,78 @@ def lees_serial():
                     geselecteerde_index = max(0, geselecteerde_index - 1)
                 elif lijn == "schakelaarIngedrukt1":
                     menu_actief = False
-                    
-                    speel_liedje_1()
-                    ritme = [
-                        {"tijd": 1000, "strook": 0, "afbeelding": "sticks"},
-                        {"tijd": 1600, "strook": 1, "afbeelding": "hi-hat"},
-                        {"tijd": 2200, "strook": 2, "afbeelding": "Snaredrum"},
-                        {"tijd": 2800, "strook": 0, "afbeelding": "2 Snaredrum"},
-                        {"tijd": 3400, "strook": 1, "afbeelding": "hi-hat"},
-                        {"tijd": 4000, "strook": 2, "afbeelding": "Snaredrum"},
-                        {"tijd": 4600, "strook": 0, "afbeelding": "sticks"},
-                    ]
-                    start_signaal = True
+                    speel_liedje(0)
+                    stel_ritme_1()
                 elif lijn == "schakelaarIngedrukt2":
-                    speel_liedje_2()
-                    ritme = [
-                        {"tijd": 1000, "strook": 0, "afbeelding": "sticks"},
-                        {"tijd": 1800, "strook": 1, "afbeelding": "hi-hat"},
-                        {"tijd": 2600, "strook": 2, "afbeelding": "Snaredrum"},
-                        {"tijd": 3400, "strook": 0, "afbeelding": "2 Snaredrum"},
-                        {"tijd": 4200, "strook": 1, "afbeelding": "hi-hat"},
-                        {"tijd": 5000, "strook": 2, "afbeelding": "Snaredrum"},
-                        {"tijd": 5800, "strook": 0, "afbeelding": "sticks"},
-                    ]
-                    start_signaal = True
+                    speel_liedje(1)
+                    stel_ritme_2()
                 elif lijn == "schakelaarIngedrukt3":
-                    speel_liedje_3()
-                    ritme = [
-                        {"tijd": 1000, "strook": 1, "afbeelding": "hi-hat"},
-                        {"tijd": 1700, "strook": 0, "afbeelding": "sticks"},
-                        {"tijd": 2400, "strook": 2, "afbeelding": "Snaredrum"},
-                        {"tijd": 3100, "strook": 1, "afbeelding": "hi-hat"},
-                        {"tijd": 3800, "strook": 0, "afbeelding": "sticks"},
-                        {"tijd": 4500, "strook": 2, "afbeelding": "2 Snaredrum"},
-                        {"tijd": 5200, "strook": 1, "afbeelding": "hi-hat"},
-                    ]
-                    start_signaal = True
+                    speel_liedje(2)
+                    stel_ritme_3()
                 elif lijn == "schakelaarIngedrukt4":
-                    speel_liedje_4()
-                    ritme = [
-                        {"tijd": 1000, "strook": 0, "afbeelding": "sticks"},
-                        {"tijd": 2500, "strook": 1, "afbeelding": "hi-hat"},
-                        {"tijd": 4000, "strook": 2, "afbeelding": "Snaredrum"},
-                        {"tijd": 5500, "strook": 0, "afbeelding": "2 Snaredrum"},
-                        {"tijd": 7000, "strook": 1, "afbeelding": "hi-hat"},
-                        {"tijd": 8500, "strook": 2, "afbeelding": "Snaredrum"},
-                        {"tijd": 10000, "strook": 0, "afbeelding": "sticks"},
-                    ]
-                    start_signaal = True
+                    speel_liedje(3)
+                    stel_ritme_4()
 
-# Functies om muziek af te spelen
-def speel_liedje_1():
+def speel_liedje(index):
+    liedjes = [
+        "Have_You_Ever_Seen_The_Rain.mp3",
+        "Angels.mp3",
+        "Come_Together.mp3",
+        "Iris.mp3"
+    ]
     try:
-        pygame.mixer.music.load("Have_You_Ever_Seen_The_Rain.mp3")
+        pygame.mixer.music.load(liedjes[index])
         pygame.mixer.music.play(loops=0, start=0.0)
     except pygame.error as e:
         print(f"Fout bij laden of afspelen van muziek: {e}")
 
-def speel_liedje_2():
-    try:
-        pygame.mixer.music.load("Angels.mp3")
-        pygame.mixer.music.play(loops=0, start=0.0)
-    except pygame.error as e:
-        print(f"Fout bij laden of afspelen van muziek: {e}")
+def stel_ritme_1():
+    global ritme
+    ritme = [
+        {"tijd": 1000, "strook": 0, "afbeelding": "sticks"},
+        {"tijd": 1600, "strook": 1, "afbeelding": "hi-hat"},
+        {"tijd": 2200, "strook": 2, "afbeelding": "Snaredrum"},
+        {"tijd": 2800, "strook": 0, "afbeelding": "2 Snaredrum"},
+        {"tijd": 3400, "strook": 1, "afbeelding": "hi-hat"},
+        {"tijd": 4000, "strook": 2, "afbeelding": "Snaredrum"},
+        {"tijd": 4600, "strook": 0, "afbeelding": "sticks"},
+    ]
 
-def speel_liedje_3():
-    try:
-        pygame.mixer.music.load("Come_Together.mp3")
-        pygame.mixer.music.play(loops=0, start=0.0)
-    except pygame.error as e:
-        print(f"Fout bij laden of afspelen van muziek: {e}")
+def stel_ritme_2():
+    global ritme
+    ritme = [
+        {"tijd": 1000, "strook": 0, "afbeelding": "sticks"},
+        {"tijd": 1800, "strook": 1, "afbeelding": "hi-hat"},
+        {"tijd": 2600, "strook": 2, "afbeelding": "Snaredrum"},
+        {"tijd": 3400, "strook": 0, "afbeelding": "2 Snaredrum"},
+        {"tijd": 4200, "strook": 1, "afbeelding": "hi-hat"},
+        {"tijd": 5000, "strook": 2, "afbeelding": "Snaredrum"},
+        {"tijd": 5800, "strook": 0, "afbeelding": "sticks"},
+    ]
 
-def speel_liedje_4():
-    try:
-        pygame.mixer.music.load("Iris.mp3")
-        pygame.mixer.music.play(loops=0, start=0.0)
-    except pygame.error as e:
-        print(f"Fout bij laden of afspelen van muziek: {e}")
+def stel_ritme_3():
+    global ritme
+    ritme = [
+        {"tijd": 1000, "strook": 1, "afbeelding": "hi-hat"},
+        {"tijd": 1700, "strook": 0, "afbeelding": "sticks"},
+        {"tijd": 2400, "strook": 2, "afbeelding": "Snaredrum"},
+        {"tijd": 3100, "strook": 1, "afbeelding": "hi-hat"},
+        {"tijd": 3800, "strook": 0, "afbeelding": "sticks"},
+        {"tijd": 4500, "strook": 2, "afbeelding": "2 Snaredrum"},
+        {"tijd": 5200, "strook": 1, "afbeelding": "hi-hat"},
+    ]
+
+def stel_ritme_4():
+    global ritme
+    ritme = [
+        {"tijd": 1000, "strook": 0, "afbeelding": "sticks"},
+        {"tijd": 2500, "strook": 1, "afbeelding": "hi-hat"},
+        {"tijd": 4000, "strook": 2, "afbeelding": "Snaredrum"},
+        {"tijd": 5500, "strook": 0, "afbeelding": "2 Snaredrum"},
+        {"tijd": 7000, "strook": 1, "afbeelding": "hi-hat"},
+        {"tijd": 8500, "strook": 2, "afbeelding": "Snaredrum"},
+        {"tijd": 10000, "strook": 0, "afbeelding": "sticks"},
+    ]
 
 # Start seriÃ«le thread
 if ser is not None:
@@ -193,7 +196,6 @@ def teken_vierkanten():
 def teken_menu():
     menu_breedte = 320
     menu_hoogte = hoogte
-
     # Maak een surface met alpha (transparantie) en teken afgeronde achtergrond
     menu_oppervlak = pygame.Surface((menu_breedte, menu_hoogte), pygame.SRCALPHA)
     pygame.draw.rect(menu_oppervlak, WIT, (0, 0, menu_breedte, menu_hoogte), border_radius=20)
@@ -201,21 +203,14 @@ def teken_menu():
     # Positie op het scherm
     menu_x = 0
     menu_y = 0
-
-    # Blit eerst het oppervlak
     scherm.blit(menu_oppervlak, (menu_x, menu_y))
 
-    # Teken een rand rond het menu met een geldige rect en afgeronde hoeken
     menu_rect = pygame.Rect(menu_x, menu_y, menu_breedte, menu_hoogte,
-        border_top_left_radius=0,
-        border_top_right_radius=20,
-        border_bottom_left_radius=0,
-        border_bottom_right_radius=20)
+                            border_top_left_radius=0, border_top_right_radius=20,
+                            border_bottom_left_radius=0, border_bottom_right_radius=20)
     pygame.draw.rect(scherm, ZWART, menu_rect, width=3, 
-        border_top_left_radius=0,
-        border_top_right_radius=20,
-        border_bottom_left_radius=0,
-        border_bottom_right_radius=20)
+                     border_top_left_radius=0, border_top_right_radius=20,
+                     border_bottom_left_radius=0, border_bottom_right_radius=20)
 
     font = pygame.font.SysFont(None, 26)
     y_offset = 40
@@ -236,6 +231,10 @@ def teken_menu():
             scherm.blit(tekst, tekst_rect)
 
         y_offset += optie_hoogte + 10
+
+    # Hier teken je de switch
+    draw_switch(200, 300)  # pas de x en y aan zoals gewenst
+
 # Main loop
 running = True
 while running:

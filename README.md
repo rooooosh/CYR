@@ -197,7 +197,7 @@ Naar aanleiding van de eerste test binnen wave 1 werd besloten om de daaropvolge
 
 Deze korte tegenslagen terzijde, verliep de samenwerking en de vooruitgang die werd gemaakt in het proces goed. Na het voltooien van de waves kan het project naar de volgende fase. De waves hebben een grote impact gehad op het project en hebben de nodige motivatie gegeven om verder te werken aan het project. De gebruikers gaven ook aan nog in contact te willen staan, wegens de grootte interesse in het concept. In de toekomst zullen deze mensen de mogelijkheid krijgen om als eersten het volmaakt prototype te testen.
 
-## Develop 1: Definiëren van gebruiksinterfaces (N=3) 
+## Develop 1: Taking a step back (N=3) 
 
 ### Doelstellingen
 De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
@@ -213,8 +213,6 @@ Voor deze deelopdracht wordt een stap teruggenomen waarbij er opnieuw wordt gete
 Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal toetsen. Het origineel bevatte teveel knoppen waardoor een groot aantal niet werden gebruikt tijdens een gebruikstest. Deze bevinding stamde af van de definition fase. Ook is het moeilijk om aan elke knop een ander icoon aan te linken aangezien dat een drumstel soms overlappende elementen bevat. 
 
 > _"Hoe meer knoppen hoe verwarrender"_
-> 
-> _- Anne_
 
 Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het horen van het geluid na het indrukken van een toets is voor de meeste gebruikers nog steeds te groot. Om te zien of dit aan de software of hardware ligt zal dit probleem in vrijwel elke deelopdracht worden aangekaart. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>software</ins>**: het eenvoudige programma scratch wordt hierbij vervangen door Protopie als poging om deze latency te doen verminderen.
 
@@ -234,8 +232,6 @@ De verschillende iteraties op de boombox bevatten interfaces die elk op een ande
 
 - **2.** De interface met 2 knoppen dient op gelijkaardige wijze gebruikt te worden. De interface bestaat uit een lijst van liedjes die voorgeprogrammeerd zijn en bevat ook de optie om eigen liedjes up te loaden binnen de software.
   > _"Na mum van tijd zul je die voorgeprogrammeerde liedjes zat zijn"_
-  > 
-  > _- Sofie_
   
   De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop zorgt voor de navigatie naar boven. Om een keuze te maken uit een liedje worden simultaan beide knoppen ingedrukt. 
 
@@ -255,56 +251,51 @@ _Foto 1: Originele boombox; Foto 2: Boombox met 4 drukknoppen; Foto 3: Boombox m
   <img src="CYR PICS/Bird's-eye view interfaces.jpeg" width="32%">
 
 > [!IMPORTANT]
-> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUWucV8nd2JCocoDvDCEdN8BqlOKiPYavjQe4zDcFAmVPg?e=naGTG8)
+> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Ef-Jx4u8DrxKobl6wH9LT_MB-3BKxZd3QPGiVYVcsvnEpA?e=vg338t)
 
 ### Resultaten
 
-De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EaIrzb2x2SdHvrxGe1xpRpQBvYr01msQBARhkwaR6CORMA?e=9nf7K4) en zullen hier kort toegelicht worden.
-
----
+De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXa1SWmz3rtNq0juiNflwVgBcp4HpYg-doC8XI3W3c-IYA?e=KgWKnf) en zullen hier kort toegelicht worden.
 
 #### **Touchbox MOS Test**
-- 1 - zeer slecht
-- 5 - uitstekend
+  *1 - zeer slecht*
+  *5 - uitstekend*
 
-
-|**Gebruiker**               | **Score** | **Beperking**|
-|-|-|-|
-| Anne Mestdag    | 3      | Licht Storend   | 
-| Sofie Vanhoutte    | 2    | Storend|
-| Pieter Jan Lernout | 4 | Waarneembaar, maar niet storend  |
-| | *Gem.: 3* ||
+  |**Gebruiker**               | **Score** | **Beperking**|
+  |-|-|-|
+  | Anne Mestdag    | 3      | Licht Storend   | 
+  | Sofie Vanhoutte    | 2    | Storend|
+  | Pieter Jan Lernout | 4 | Waarneembaar, maar niet storend  |
+  | | *Gem.: 3* ||
   
   De testpersonen ervaarden de latency op de touchbox gemiddeld gezien nog als licht storend.
 
 #### **Varianten Touchbox** 
-- 1 - meest voorkeur
-- 3 - minst voorkeur
-
+  *1 - meest voorkeur*
   
-|       | **9 toetsen** | **6 toetsen**| **4 toetsen** |
-|-|-|-|-|
-| Anne Mestdag    | 2      | 1   | 3|
-| Sofie Vanhoutte    | 2    | 1 | 3|
-| Pieter Jan Lernout | 3 | 1  |  2|
-| || *Favoriet* 
+  *3 - minst voorkeur*
+  |       | **9 toetsen** | **6 toetsen**| **4 toetsen** |
+  |-|-|-|-|
+  | Anne Mestdag    | 2      | 1   | 3|
+  | Sofie Vanhoutte    | 2    | 1 | 3|
+  | Pieter Jan Lernout | 3 | 1  |  2|
+  | || *Favoriet* 
 
 #### **Varianten Boombox** 
-- 1 - meest voorkeur
-- 4 - minst voorkeur
-
+  *1 - meest voorkeur*
   
-|       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
-|-|-|-|-|-|
-| Anne Mestdag    | 1      | 2| 4   | 3|
-| Sofie Vanhoutte    | 2  |4  | 3 | 1|
-| Pieter Jan Lernout |1| 3 | 4  |  2|
-| | *Favoriet* 
+  *4 - minst voorkeur*
+  |       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
+  |-|-|-|-|-|
+  | Anne Mestdag    | 1      | 2| 4   | 3|
+  | Sofie Vanhoutte    | 2  |4  | 3 | 1|
+  | Pieter Jan Lernout |1| 3 | 4  |  2|
+  | | *Favoriet* 
 
 
 Als poging om de compactheid van CYR te bewaren, werd volgende onderzoeksvraag gesteld aan de gebruikers:
 
-> "Zou u beide onderdelen (touchbox en boombox) liever aan elkaar verwerkt hebben of toch eerder als aparte modules?"
+> "Zou u beide onderdelen (touchbox en boombox) liever aan elkaar verwerkt hebben of toch aparte modules?"
 
 Na een aantal interessante standpunten werden zowel de meest voorkomende voor - en nadelen gerangschikt in een tabel. 
   |**Voordelen**|**Nadelen**|
@@ -325,7 +316,7 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 
 
 > [!IMPORTANT]
-> **Design requirements** (draaiknop nog insteken)
+> **Design requirements**
 >  - 1.3 De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen.
 >  - 1.4 Het product is zo compact mogelijk.
 >  - 2.4 De interface van de boombox is zodanig ontworpen zodat de interactie hiermee geen overbodige elementen bevat.
@@ -335,7 +326,7 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 >  - 4.4 De knoppen van de touchbox bevatten een grootte van 6x6cm.
 >  - 4.5 De interactie met de boombox gebeurt aan de hand van fysieke knoppen.
 
-## Develop 2: Focus op ergonomie (N=4)
+## Develop 2: Adding detail (N=4)
 
 ### Doelstellingen
 Uit deelopdracht 3 werden de interfaces voor zowel de touchbox als boombox vastgelegd. Het doel van deelopdracht 4 (develop 2) is nadruk leggen op de usability en user experience van CYR. 
@@ -351,7 +342,7 @@ Foto 2: Bord met draaiknoppen van verschillende diameters: 30mm; 35mm; 40mm; 45m
   <img src="CYR PICS/Draaiknopbord.jpeg" width="34%">
 
 > [!IMPORTANT]
-> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Eaq4TpKEV3pIjAAZ8JPLQPwBMikxN2yz2l3hM0sNV7V9Ww?e=hjrGCD)
+> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ET58L9_3ncxGjeRmmjITrpsBCLRzOilYrJblk-kPCa3XHw?e=aQ1FlY)
 
 Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>hardware</ins>**: als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. 
 Er wordt gewerkt met een aantal Arduino componenten:
@@ -359,8 +350,7 @@ Er wordt gewerkt met een aantal Arduino componenten:
 - Arduino Nano
 - 12 Key Capacitive I2C Touch Sensor (MPR121)
 - MP3-TF-16P V3.0 (DF player mini)
-- Weerstand 1,2kΩ
-- Speaker 3W - 5Ω
+- Speaker
 
 _Foto 1: Arduino Nano met DF player mini en speaker; 
 Foto 2: I2C Touch Sensor met krokodillenklemmen; 
@@ -385,7 +375,7 @@ Ondergaat de boombox opnieuw een vormvariant. Bij deze variant wordt de boombox 
   <img src="CYR PICS/BoomboxAanElkaar1.jpeg" width="40%">
   <img src="CYR PICS/BoomboxAanElkaar2.jpeg" width="40%">
 
-Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit het rapport van [develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EaIrzb2x2SdHvrxGe1xpRpQBvYr01msQBARhkwaR6CORMA?e=FyWg5a) werd besloten dat de enkele draaiknop de beste manier was om liedjes te selecteren en te laten afspelen. Voor deze deelopdracht (4) wordt nog gewerkt met de originele boombox waar het scherm in zal geïntegreerd worden. Op de interface van de boombox zal de draaiknop (met voorlopige textuur en grootte) bevestigd worden en zal deze vorm variant gebruikt worden voor de eerst volgende testen. De keuze om verder te werken met de compactere iteratie ligt al vast en zal bij de finale deelopdracht gepresenteerd worden aan de gebruikers. Juist naar haalbaarheid en gebrek aan tijd wordt daarvoor nog de oudere variant van de boombox gebruikt voor deze testen. 
+Binnen de boombox zal het scherm komen waar CYR kan gespeeld worden. Uit het rapport van [develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXa1SWmz3rtNq0juiNflwVgBcp4HpYg-doC8XI3W3c-IYA?e=KgWKnf) werd besloten dat de enkele draaiknop de beste manier was om liedjes te selecteren en te laten afspelen. Voor deze deelopdracht (4) wordt nog gewerkt met de originele boombox waar het scherm in zal geïntegreerd worden. Op de interface van de boombox zal de draaiknop (met voorlopige textuur en grootte) bevestigd worden en zal deze vorm variant gebruikt worden voor de eerst volgende testen. De keuze om verder te werken met de compactere iteratie ligt al vast en zal bij de finale deelopdracht gepresenteerd worden aan de gebruikers. Juist naar haalbaarheid en gebrek aan tijd wordt daarvoor nog de oudere variant van de boombox gebruikt voor deze testen. 
 
 <p align="left">
   <img src="CYR PICS/CloseupDraaiknop.jpeg" width="32%">
@@ -427,75 +417,71 @@ Deze interacties sturen het bedieningsscherm van het spel aan en staan functione
 
 De verbinding tussen de Arduino Nano en Protopie verloopt via Protopie Connect. Door de laptop en de Raspberry Pi met hetzelfde netwerk te verbinden, kan in de webbrowser van de Raspberry Pi naar de juiste URL worden genavigeerd. Hierbij dient rekening gehouden te worden met het correcte IP-adres in de URL.
 ### Resultaten
-De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ERiFmCMgHXVIuPnMKZxjZWYBBUmyXXKu85sNaZgyvl4gpg?e=v8PCAi) en zullen hier kort toegelicht worden.
+De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EaTjAdEoeb1OvMWYhekQ-UUBKD4sYoQhgimR-fXanDQq6w?e=uEBNJM) en zullen hier kort toegelicht worden.
 
----
+- #### **Touchbox MOS Test**
+  *1 - zeer slecht*
+  
+  *5 - uitstekend*
 
-#### **Touchbox MOS Test**
-- 1 - zeer slecht
-- 5 - uitstekend
-
-
-|**Gebruiker**               | **Score** | **Beperking**|
-|-|-|-|
-| Anne Mestdag    | 4      | Licht Storend   | 
-| Marie-Paule Defever     | 4-5    | Niet storend tot perfect|
-| Jacques Vander Oost | 4-5 | Niet storend tot perfect  |
-| Pieter Jan Lernout | /* | Geen mogelijke uitspraak  |
-| | *Gem.: 4* ||
+  |**Gebruiker**               | **Score** | **Beperking**|
+  |-|-|-|
+  | Anne Mestdag    | 4      | Licht Storend   | 
+  | Marie-Paule Defever     | 4-5    | Niet storend tot perfect|
+  | Jacques Vander Oost | 4-5 | Niet storend tot perfect  |
+  | Pieter Jan Lernout | /* | Geen mogelijke uitspraak  |
+  | | *Gem.: 4* ||
 
 **<sub>Door omstandigheden werd de latency op de touchbox niet getest, hierdoor kon geen score/uitspraak gegeven worden.</sub>*
 
 Hieruit kan geconludeerd worden dat zowel een verandering in software als hardware leiden tot een vermindering van de latency op de touchbox. 
 
-#### **Texturen** 
-- **<ins>X</ins>** - hoofdvoorkeur
-- X - overige top 3
-
-
-|       | **Textuur 1** | **Textuur 2** | **Textuur 3** | **Textuur 4** | **Textuur 5** | **Textuur 6** |
-|-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Anne Mestdag    |      |      |   X    |    X   |      |   **<ins>X</ins>**   |
-| Marie-Paule Defever    |  |      |   X    |       |   X   |   **<ins>X</ins>**   |
-| Jacques Vander Oost |        |      |   X    |       |   X   |  **<ins>X</ins>**   |
-| Pieter Jan |    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
-
-
-#### **Grootte van de draaiknoppen**
-- **<ins>X</ins>** - hoofdvoorkeur
-- X - overige top 3
-
-
-|       | **30mm** | **35mm** | **40mm** | **45mm** | **50mm** | **55mm** |
-|-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Anne Mestdag    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
-| Marie-Paule Defever    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
-| Jacques Vander Oost |        |   **<ins>X</ins>**   |   X    |   X    |      |     |
-| Pieter Jan |   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
-
-
-#### **Draaien van de knop** 
-- **<ins>X</ins>** - hoofdvoorkeur
-
-
-|       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
-|-|:---:|:---:|:---:|:---:|
-| Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
-| Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
-| Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
-| Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
+- #### **Texturen** 
+  ***<ins>X</ins>** - hoofdvoorkeur*
   
+  *X - overige top 3*
 
-#### **Design van het spel** 
-- **<ins>X</ins>** - hoofdvoorkeur
+  |       | **Textuur 1** | **Textuur 2** | **Textuur 3** | **Textuur 4** | **Textuur 5** | **Textuur 6** |
+  |-|:---:|:---:|:---:|:---:|:---:|:---:|
+  | Anne Mestdag    |      |      |   X    |    X   |      |   **<ins>X</ins>**   |
+  | Marie-Paule Defever    |  |      |   X    |       |   X   |   **<ins>X</ins>**   |
+  | Jacques Vander Oost |        |      |   X    |       |   X   |  **<ins>X</ins>**   |
+  | Pieter Jan |    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
 
 
-|       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
-|-|:---:|:---:|:---:|:---:|
-| Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
-| Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
-| Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
-| Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
+- #### **Grootte van de draaiknoppen**
+  ***<ins>X</ins>** - hoofdvoorkeur*
+  
+  *X - overige top 3*
+
+  |       | **30mm** | **35mm** | **40mm** | **45mm** | **50mm** | **55mm** |
+  |-|:---:|:---:|:---:|:---:|:---:|:---:|
+  | Anne Mestdag    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
+  | Marie-Paule Defever    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
+  | Jacques Vander Oost |        |   **<ins>X</ins>**   |   X    |   X    |      |     |
+  | Pieter Jan |   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
+
+
+- #### **Draaien van de knop** 
+  ***<ins>X</ins>** - hoofdvoorkeur*
+
+  |       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
+  |-|:---:|:---:|:---:|:---:|
+  | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
+  | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
+  | Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
+  | Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
+
+
+- #### **Design van het spel** 
+  ***<ins>X</ins>** - hoofdvoorkeur*
+
+    |       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
+  |-|:---:|:---:|:---:|:---:|
+  | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
+  | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
+  | Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
+  | Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
 
 
 
@@ -506,10 +492,10 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 ### Conclusies en implicaties
 
-- De integratie van Arduino (in zijn geheel) als vervanger voor Makey Makey lijkt een positiever effect te hebben op de latency.
+- De integratie van Arduino (in zijn geheel) als vervanger voor Makey Makey lijkt een positiever effect te hebben op de latency
 - Textuur 6 is de duidelijke winnaar voor de textuur die in de volgende deelopdracht zal geïntegreerd worden.
 - Uit de tests blijkt dat elke gebruiker een voorkeur heeft voor de kleinere draaiknoppen. De draaiknop met een diameter van 30mm kreeg de hoofdvoorkeur.
-- De tactiele feedback van de knop zal, volgens het rapport, verandert worden naar 2 clicks. Een groot deel van de gebruikers vond de _micro_ feedback na het aandraaien een fijn gevoel.
+- De tactiele feedback van de knop zal, volgens het rapport, verandert worden naar 2 clicks. Een groot deel van de gebruikers vond de _micro_ feedback na het aandraaien en fijn gevoel.
 - Design 1 van de interface van de boombox werd unaniem verkozen als hoofdvoorkeur.
 
 ```
@@ -523,34 +509,22 @@ Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteun
 >  - 2.6 De touchbox heeft een minimale hoogte, zodat de gebruiker het spel comfortabel kan blijven spelen zonder dat de arm vermoeid raakt.
 >  - 4.6 De draaiknoppen bevatten textuur voor een betere gevoelservaring.
 
-## Develop 3: Esthetische vormgeving (N=4)
+## Develop 3: Finishing touches (N=4)
 
 ### Doelstellingen
-Deelopdracht 5 is de laatste opdracht van semester 2. Het doel is om de finale vormgeving van het prototype vast te leggen a.d.h.v. een aantal functionele/esthetische veranderingen
+...
 
 ### Materialen & methoden
-Het prototype zal een aantal kleine veranderingen ondergaan die extra functionaliteit zouden moeten leveren bij het spelen van het spel. 
-
-In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop.
-
-> [!NOTE]
-> Uitleg Pygame hier insteken
+...
 
 ### Resultaten
-
 ...
 
 ### Conclusies en implicaties
-
 ...
 
-## Algemene conclusie
 
-### Slotbevindingen
-
-...
-
-### Finale design requirements
+### Design requirements
 
 | ID | Design requirement | Source | Date |
 | ------------- | ------------- | ------------- | ------------- |
@@ -585,65 +559,6 @@ In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstart
 Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na develop 2!
 ```
 
-## Kritische reflectie
-*Rösh*
-
-"Ik vond dat semester 1 vooral zoeken was naar een goede methodologie die we konden volgen voor de rest van het jaar. Tijdens de presentatie op het eind van semester 1 werden een aantal zaken aangehaald die we beter konden uitvoeren zoals het opstellen van functionele design requirements. Deze kritiek hebben we geprobeerd om te buigen naar een meer positievere aanpak bij aanvang van het tweede semester. Een groot struikelblok bleek toch het contacteren van mensen die pasten binnen onze doelgroep. Een aantal van onze contactpersonen waarmee wij getest hadden, werden opeens moeilijker te contacteren waarbij dit uiteindelijke resulteerde in het contacteren van nieuwe testpersonen. Dit was iets dat wij niet op voorzien waren, dus was dit een extra uitdaging om nieuwe gebruikers aan te trekken. 
-
-Wat betreft het prototype is er veel progressie gemaakt. De stappen die werden genomen naar aanleiding van het eindprototype zijn kritisch onderbouwd en ook goed gecommuniceerd met de gebruikers. Het spel kreeg voortdurend positieve feedback en de gebruikers bleven enthousiast bij de volgende progressie die werd gemaakt. Als conclusie kan ik zeggen dat het project geslaagd is. Natuurlijk is er véél ruimte om het prototype te verbeteren, maar voor de tijd die wij ter beschikking kregen, vind ik dat we het maximale eruit gehaald hebben."
-
-*Aldo*
-
-
-## Technische beschrijving
-### Bouwmaterialen
-
-Het prototype bevat een aantal standaardmaterialen waarbij deze na een aantal nabewerkingsstappen werden omgevormd tot de finale vormgeving van CYR. De hoofdmaterialen die zijn gebruikt:
-
-- MDF met dikte 3mm
-- Aluminiumplaten met dikte 2-3mm
-- ...
-
-Het design van de touchbox en boombox doos stamt af van een online ontwerp afkomstig van volgende website: [Boxes.py | Hackaday.io](https://hackaday.io/project/10649-boxespy)
-
-De afmetingen van beide dozen bedragen:
-
-- **Toucbox**: 255mm x 176mm x 6mm
-- **Boombox**: ...mm x ...mm x ...mm
-
-Volgende dimensies kunnen ingevoerd worden in bovenstaande vermelde website en kunnen vervolgens gedownload worden in volgende formaten: (svg, dxf, gcode, lbrn2, pdf, plt, ps, svg, svg_Ponoko)
-Via een lasercut programma (dit geval [Lightburn](https://lightburnsoftware.com/)) kan volgend bestand in een workspace upgeload worden en vervolgens gesneden worden volgens de ingevoerde dimensies van de doos.
-
----
-
-### Elektronica en Arduino componenten
-De volgende elektronica/Arduino componenten worden gebruikt om de huidige communicatie van het spel te realiseren. Deze worden opgesplits per gebruikte componenten voor touchbox en boombox:
-
-**Touchbox**
-
-- Arduino Nano 
-- 12 Key Capacitive I2C Touch Sensor (MPR121)
-- MP3-TF-16P V3.0 (DF player mini)
-- Weerstand 1,2kΩ
-- Speaker 3W - 5Ω
-
-Extra onderdelen die werden aangekocht, maar uiteindelijk niet verwerkt in het eindprototype:
-
-- [PAM8403](https://www.amazon.com.be/dp/B07DJWGQVY?ref=ppx_yo2ov_dt_b_fed_asin_title)
-- [Speaker 5W - 8Ω](https://www.amazon.com.be/dp/B0C7PJ5XZZ?ref=ppx_yo2ov_dt_b_fed_asin_title)
-- [TPA 3110](https://www.amazon.com.be/dp/B07DK51R75?ref=ppx_yo2ov_dt_b_fed_asin_title)
-
-> [!NOTE]
-> De **PAM8403** en **TPA3110** worden beiden gelabeld als geluidsversterkende componenten (EN: amplifiers), maar door de complexiteit van de bedrading en minder resultaat na aansluiting met de Arduino werden deze niet meer geïntegreerd in het ontwerp
-
-**Boombox**
-
--
--
--
-...
-
-
 ## Bijlagen
 
 **Deelopdracht 1: Discovery**
@@ -658,12 +573,12 @@ Extra onderdelen die werden aangekocht, maar uiteindelijk niet verwerkt in het e
 - [Storyboard](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EfTjkxJC3xRCkSqb8jPT_foBEXMmrpIbkWgbYjXi74KN9g?e=U8EAA4)
 
 **Deelopdracht 3: Develop 1**
-- [Protocol develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUWucV8nd2JCocoDvDCEdN8BqlOKiPYavjQe4zDcFAmVPg?e=5JqeJH)
-- [Rapport develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EaIrzb2x2SdHvrxGe1xpRpQBvYr01msQBARhkwaR6CORMA?e=J8ERBk)
+- [Protocol develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Ef-Jx4u8DrxKobl6wH9LT_MB-3BKxZd3QPGiVYVcsvnEpA?e=vg338t)
+- [Rapport develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXa1SWmz3rtNq0juiNflwVgBcp4HpYg-doC8XI3W3c-IYA?e=KgWKnf)
 
 **Deelopdracht 4: Develop 2**
-- [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Eaq4TpKEV3pIjAAZ8JPLQPwBMikxN2yz2l3hM0sNV7V9Ww?e=7mjgqw)
-- [Rapport develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ERiFmCMgHXVIuPnMKZxjZWYBBUmyXXKu85sNaZgyvl4gpg?e=FCE83t)
+- [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ET58L9_3ncxGjeRmmjITrpsBCLRzOilYrJblk-kPCa3XHw?e=aQ1FlY)
+- [Rapport develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EaTjAdEoeb1OvMWYhekQ-UUBKD4sYoQhgimR-fXanDQq6w?e=uEBNJM)
 
 **Deelopdracht 5: Develop 3**
 - nog toevoegen
