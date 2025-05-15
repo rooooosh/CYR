@@ -91,9 +91,9 @@ void update() {
 
   if ((pinAStateLast == LOW) && (pinAstateCurrent == HIGH)) {
     if (digitalRead(pinB) == HIGH) {
-      countLinks++;
-    } else {
       countRechts++;
+    } else {
+      countLinks++;
     }
 
     if (countLinks >= aantalClicks) {
@@ -106,7 +106,7 @@ void update() {
     }
 
     if (countRechts >= aantalClicks) {
-      if (enkeleKlikActief && (i < 5)) {
+      if (enkeleKlikActief && (i < 4)) {
         i++;
         Serial.println("Rechts");
       }
