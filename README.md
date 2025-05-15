@@ -601,7 +601,7 @@ Wat betreft het prototype is er veel progressie gemaakt. De stappen die werden g
 Het prototype bevat een aantal standaardmaterialen waarbij deze na een aantal nabewerkingsstappen werden omgevormd tot de finale vormgeving van CYR. De hoofdmaterialen die zijn gebruikt:
 
 - MDF met dikte 3mm
-- Aluminiumplaten met dikte ...
+- Aluminiumplaten met dikte 2-3mm
 - ...
 
 Het design van de touchbox en boombox doos stamt af van een online ontwerp afkomstig van volgende website: [Boxes.py | Hackaday.io](https://hackaday.io/project/10649-boxespy)
