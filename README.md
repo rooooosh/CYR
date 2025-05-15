@@ -604,6 +604,8 @@ Het prototype bevat een aantal standaardmaterialen waarbij deze na een aantal na
 - ...
 
 Het design van de touchbox en boombox doos stamt af van een online ontwerp afkomstig van volgende website: [Boxes.py | Hackaday.io](https://hackaday.io/project/10649-boxespy)
+
+
 De afmetingen van beide dozen bedragen:
 
 - **Toucbox**: 255mm x 176mm x 6mm
