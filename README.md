@@ -634,7 +634,7 @@ Extra onderdelen die werden aangekocht, maar uiteindelijk niet verwerkt in het e
 - [TPA 3110](https://www.amazon.com.be/dp/B07DK51R75?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
 > [!NOTE]
-> De **PAM8403** en **TPA3110** worden beide gelabeld als geluidsversterkende componenten (EN: amplifiers), maar door de complexiteit van de bedrading en minder resultaat na aansluiting met de Arduino werden deze niet meer geïntegreerd in het ontwerp
+> De **PAM8403** en **TPA3110** worden beiden gelabeld als geluidsversterkende componenten (EN: amplifiers), maar door de complexiteit van de bedrading en minder resultaat na aansluiting met de Arduino werden deze niet meer geïntegreerd in het ontwerp
 
 **Boombox**
 
