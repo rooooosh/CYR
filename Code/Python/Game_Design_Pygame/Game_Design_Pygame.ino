@@ -30,7 +30,9 @@ try:
         "sticks": pygame.transform.scale(pygame.image.load("sticks.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
         "hi-hat": pygame.transform.scale(pygame.image.load("hi-hat.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
         "Snaredrum": pygame.transform.scale(pygame.image.load("Snaredrum.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
-        "2 Snaredrum": pygame.transform.scale(pygame.image.load("2 Snaredrum.png").convert_alpha(), (vierkant_grootte, vierkant_grootte))
+        "2 Snaredrum": pygame.transform.scale(pygame.image.load("2 Snaredrum.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
+        "hihat2": pygame.transform.scale(pygame.image.load("hihat2.png").convert_alpha(), (vierkant_grootte, vierkant_grootte)),
+        "Drum Pedal": pygame.transform.scale(pygame.image.load("Drum Pedal.png").convert_alpha(), (vierkant_grootte, vierkant_grootte))
     }
 except pygame.error as e:
     print(f"Fout bij laden afbeelding: {e}")
@@ -128,41 +130,53 @@ def lees_serial():
                     # halve bpm = 78. 1300ms per beat
                     speel_liedje_4()
                     ritme = [
-    {"tijd": 1000, "strook": 0, "afbeelding": "sticks"},
-    {"tijd": 2300, "strook": 1, "afbeelding": "hi-hat"},
-    {"tijd": 3600, "strook": 2, "afbeelding": "Snaredrum"},
-    {"tijd": 4900, "strook": 0, "afbeelding": "2 Snaredrum"},
-    {"tijd": 6200, "strook": 1, "afbeelding": "hi-hat"},
-    {"tijd": 7500, "strook": 2, "afbeelding": "Snaredrum"},
+					{"tijd": 1000, "strook": 0, "afbeelding": "sticks"},
+					{"tijd": 2300, "strook": 1, "afbeelding": "hi-hat"},
+					{"tijd": 3600, "strook": 2, "afbeelding": "Snaredrum"},
+					{"tijd": 4900, "strook": 0, "afbeelding": "2 Snaredrum"},
+					{"tijd": 6200, "strook": 1, "afbeelding": "hi-hat"},
+					{"tijd": 7500, "strook": 2, "afbeelding": "Snaredrum"},
 
+					{"tijd": 10100, "strook": 0, "afbeelding": "sticks"},
+					{"tijd": 11400, "strook": 1, "afbeelding": "sticks"},
+					{"tijd": 12700, "strook": 2, "afbeelding": "sticks"},
+					{"tijd": 14000, "strook": 1, "afbeelding": "2 Snaredrum"},
+					{"tijd": 15300, "strook": 2, "afbeelding": "sticks"},
+					{"tijd": 16600, "strook": 1, "afbeelding": "sticks"},
+					{"tijd": 17900, "strook": 0, "afbeelding": "sticks"},
 
-    {"tijd": 10100, "strook": 0, "afbeelding": "sticks"},
-    {"tijd": 11400, "strook": 1, "afbeelding": "sticks"},
-    {"tijd": 12700, "strook": 2, "afbeelding": "sticks"},
-    {"tijd": 14000, "strook": 1, "afbeelding": "2 Snaredrum"},
-    {"tijd": 15300, "strook": 2, "afbeelding": "sticks"},
-    {"tijd": 16600, "strook": 1, "afbeelding": "sticks"},
-    {"tijd": 17900, "strook": 0, "afbeelding": "sticks"},
+					{"tijd": 19400, "strook": 1, "afbeelding": "sticks"},
+					{"tijd": 20700, "strook": 2, "afbeelding": "hi-hat"},
+					{"tijd": 22000, "strook": 1, "afbeelding": "sticks"},
 
+					{"tijd": 24600, "strook": 2, "afbeelding": "hi-hat"},
+					{"tijd": 25900, "strook": 1, "afbeelding": "sticks"},
+					{"tijd": 27200, "strook": 2, "afbeelding": "hi-hat"},
 
-    {"tijd": 19400, "strook": 1, "afbeelding": "sticks"},
-    {"tijd": 20700, "strook": 2, "afbeelding": "hi-hat"},
-    {"tijd": 22000, "strook": 1, "afbeelding": "sticks"},
+					{"tijd": 28700, "strook": 0, "afbeelding": "hi-hat"},
+					{"tijd": 30000, "strook": 1, "afbeelding": "Snaredrum"},
+					{"tijd": 31300, "strook": 0, "afbeelding": "hi-hat"},
 
-    {"tijd": 24600, "strook": 2, "afbeelding": "hi-hat"},
-    {"tijd": 25900, "strook": 1, "afbeelding": "sticks"},
-    {"tijd": 27200, "strook": 2, "afbeelding": "hi-hat"},
+					{"tijd": 33900, "strook": 2, "afbeelding": "2 Snaredrum"},
+					{"tijd": 35200, "strook": 0, "afbeelding": "hi-hat"},
+					{"tijd": 36500, "strook": 2, "afbeelding": "2 Snaredrum"},
 
+					{"tijd": 38000, "strook": 0, "afbeelding": "Drum Pedal"},
+					{"tijd": 39300, "strook": 1, "afbeelding": "hihat2"},
+					{"tijd": 40600, "strook": 2, "afbeelding": "Drum Pedal"},
 
-    {"tijd": 28700, "strook": 0, "afbeelding": "hi-hat"},
-    {"tijd": 30000, "strook": 1, "afbeelding": "Snaredrum"},
-    {"tijd": 31300, "strook": 0, "afbeelding": "hi-hat"},
+					{"tijd": 43200, "strook": 0, "afbeelding": "Drum Pedal"},
+					{"tijd": 44500, "strook": 1, "afbeelding": "hihat 2"},
+					{"tijd": 45800, "strook": 2, "afbeelding": "Drum Pedal"},
 
-    {"tijd": 33900, "strook": 2, "afbeelding": "2 Snaredrum"},
-    {"tijd": 35200, "strook": 0, "afbeelding": "hi-hat"},
-    {"tijd": 36500, "strook": , "afbeelding": "2 Snaredrum"}
-]
+					{"tijd": 48200, "strook": 1, "afbeelding": "Drum Pedal"},
+					{"tijd": 49500, "strook": 2, "afbeelding": "Drum Pedal"},
+					{"tijd": 50800, "strook": 0, "afbeelding": "Sticks"},
 
+					{"tijd": 53400, "strook": 1, "afbeelding": "Drum Pedal"},
+					{"tijd": 54700, "strook": 2, "afbeelding": "Drum Pedal"},
+					{"tijd": 55800, "strook": 0, "afbeelding": "sticks"},
+                    ]
                     start_signaal = True
 
 # Functies om muziek af te spelen
