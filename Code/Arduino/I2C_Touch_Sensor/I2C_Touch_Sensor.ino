@@ -49,7 +49,7 @@ void loop() {
         Serial.println(i);
 
         if (dfPlayerOk) {
-          myDFPlayer.play(i + 1);  // Speel 0001.mp3 t/m 0012.mp3
+          myDFPlayer.play(i + 1);  // Speel 0001.mp3 t/m 0006.mp3
         } else {
           Serial.println("404 systeem fout");
         }
