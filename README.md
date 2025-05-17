@@ -423,7 +423,7 @@ De draai-/drukknop is gerealiseerd met behulp van een rotary encoder, aangeslote
 Deze interacties sturen het bedieningsscherm van het spel aan en staan functioneel met elkaar in verband. De achterliggende code registreert het aantal rotaties naar links of rechts en bepaalt wanneer een signaal mag worden verstuurd. Bijvoorbeeld: een dubbele klik activeert het bedieningsscherm. Daarnaast wordt bijgehouden hoeveel keer er is gedraaid vóór een interactie wordt toegestaan. Zo ontstaat een gecontroleerde en intuïtieve besturing van het systeem.
 
 > [!NOTE]
-> De code die hiervoor geschreven is, is [hier](./Code/Arduino/) terug te vinden.
+> De code die hiervoor geschreven is, is [hier](./Code/Arduino/Code_Rotary_encoder) terug te vinden.
 
 De verbinding tussen de Arduino Nano en Protopie verloopt via Protopie Connect. Door de laptop en de Raspberry Pi met hetzelfde netwerk te verbinden, kan in de webbrowser van de Raspberry Pi naar de juiste URL worden genavigeerd. Hierbij dient rekening gehouden te worden met het correcte IP-adres in de URL.
 ### Resultaten
