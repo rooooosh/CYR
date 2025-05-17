@@ -20,7 +20,7 @@ Onderstaand schema toont hoe de Arduino Nano verbonden is aan de rotary encoder.
 #### Verificatie Input
 Om te verifiëren of de rotary encoder nog volledig werkt en het juiste signaal doorgeeft, wordt het signaal geprint. Om dit te testen is het eenvoudgste om in Arduino IDE de seriële monitor te openen en te verifiëren of alle inputs correct worden doorgegeven.
 
-### Raspberry pi 4 + Scherm
+### Raspberry Pi 4 + Scherm
 Deze Arduino is via USB-A verbonden aan de Raspberry Pi 4. De Raspberry Pi 4 is verbonden aan het scherm volgens onderstaand schema:
 
 
