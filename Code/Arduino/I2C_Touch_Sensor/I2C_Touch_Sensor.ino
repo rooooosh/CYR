@@ -36,7 +36,10 @@ void setup() {
 void loop() {
   uint16_t currentState = cap.touched();
 
-  for (uint8_t i = 0; i < 7; i++) {
+  uint8_t activeChannels[] = {0, 1, 2, 3, 4, 5};
+  for (uint8_t j = 0; j < sizeof(activeChannels) / sizeof(activeChannels[0]); j++) {
+    uint8_t i = activeChannels[j];
+
     bool previousTouch = (previousState & (1 << i));
     bool currentTouch = (currentState & (1 << i));
 
