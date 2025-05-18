@@ -353,7 +353,7 @@ Foto 2: Bord met draaiknoppen van verschillende diameters: 30mm; 35mm; 40mm; 45m
 > [!IMPORTANT]
 > Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Eaq4TpKEV3pIjAAZ8JPLQPwBMikxN2yz2l3hM0sNV7V9Ww?e=hjrGCD)
 
-Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>hardware</ins>**: als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. 
+Zoals in vorige deelopdrachten wordt vermeld, is het latentieverschil tussen het aanraken van het metalenplaatje en het horen van het geluid nog een te grote kloof voor onze gebruikers. Bij deze deelopdracht ligt de focus bij het veranderen van de **<ins>hardware</ins>**: als poging om de latency te verminderen, zal de Makey Makey nu worden vervangen door Arduino. 
 Er wordt gewerkt met een aantal Arduino componenten:
 
 - Arduino Nano
@@ -371,6 +371,10 @@ Foto 3: Volledige opstelling_
   <img src="CYR PICS/ArduinoVolledig2.jpeg" width="32%">
 
 Via een breadbord (groot wit bordje) worden de verschillende componenten met _jumper wires_ met elkaar verbonden. De DF player mini bevat een micro SD kaart met een aantal geluiden. De krokodillenklemmen aan de touch sensor zijn verbonden met de metalenplaatjes. De speaker die is verbonden met deze mini player zet de aanraking van één van de toetsen om in geluid. Ook deze touch sensor bevat capacitive touch waardoor een enkele aanraking met de plaatjes al volstaat om geluid te creëren.
+
+```
+Bedradingsschema nog insteken!!!
+```
 
 > [!NOTE]
 > De code die wordt gebruikt om de aanraking om te zetten in geluid, is is [hier](./Code/Arduino/I2C_Touch_Sensor) terug te vinden.
