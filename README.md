@@ -537,6 +537,10 @@ Het prototype zal een aantal kleine veranderingen ondergaan die extra functional
 
 In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop. Ook zorgt het gebruik van Pygame ervoor dat er geen verbinding nodig is met een netwerk, een extra hulpmiddel om de tests soepeler te laten  verlopen. Het python script kan lokaal worden opgestart, de applicatie gebruikt om code te schrijven en uit te voeren op de Raspberry Pi: 'Geanny Programmer's Editor'. 
 
+```
+hier moet nog veel meer shiii instaan, foto's aanvullen blablabla
+```
+
 > [!NOTE]
 > Uitleg Pygame hier insteken
 
