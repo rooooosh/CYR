@@ -596,8 +596,12 @@ Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na dev
 
 Wat betreft het prototype is er veel progressie gemaakt. De stappen die werden genomen naar aanleiding van het eindprototype zijn kritisch onderbouwd en ook goed gecommuniceerd met de gebruikers. Het spel kreeg voortdurend positieve feedback en de gebruikers bleven enthousiast bij de volgende progressie die werd gemaakt. Als conclusie kan ik zeggen dat het project geslaagd is. Natuurlijk is er véél ruimte om het prototype te verbeteren, maar voor de tijd die wij ter beschikking kregen, vind ik dat we het maximale eruit gehaald hebben."
 
+
 *Aldo*
 
+"Semester 1 was vooral een zoektocht naar de juiste aanpak voor ons project. We hebben verschillende methodes uitgeprobeerd, wat soms leidde tot een wat chaotische werkwijze, bijvoorbeeld bij het contacteren van gebruikers en het vastleggen van het concept. Toch leverde deze fase veelbelovende resultaten op en bevestigde het de waarde van ons idee. Dit gaf ons de motivatie om in semester 2 met een meer gestructureerde aanpak verder te werken aan het project.
+
+In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, zoals het tijdig contacteren van alle testpersonen. Door de specifieke doelgroep bleef dit echter een uitdaging, waardoor we in één van de develop-fases met één testpersoon minder moesten werken dan gepland. Nadien hebben we gelukkig nieuwe testpersonen gevonden die bereid waren om meerdere keren deel te nemen aan de tests. Over het algemeen ben ik tevreden over onze aanpak en inzet binnen het project. We hebben goed samengewerkt en zijn erin geslaagd om tot een werkend prototype en concept te komen."
 
 ## Technische beschrijving
 ### Bouwmaterialen
