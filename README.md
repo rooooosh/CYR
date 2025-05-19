@@ -535,8 +535,9 @@ Deelopdracht 5 is de laatste opdracht van semester 2. Het doel is om de finale v
 ### Materialen & methoden
 Het prototype zal een aantal kleine veranderingen ondergaan die extra functionaliteit zouden moeten leveren bij het spelen van het spel. 
 
-In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop.
-
+In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop. 
+Ook zorgt het gebruik van pygame ervoor dat er geen verbinding nodig is met een netwerk, voor de interactie met gebruikers zorgt dit dus dat er minder variabelen zijn voor het mislukken van een test.
+Het python script kan lokaal worden opgestart, de applicatie gebruikt om code te schrijven en uit te voeren op de raspberry Pi is 'Geanny Programmer's Editor'. 
 > [!NOTE]
 > Uitleg Pygame hier insteken
 
