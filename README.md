@@ -557,6 +557,38 @@ De volgende resultaten komen rechtstreeks van het [rapport](link nog insteken oo
 | Jacques Vander Oost|    **<ins>X</ins>**    |      |       |      ||
 
 
+#### **Kleurenthema's en look product** 
+
+[SAM testen hierin steken]
+
+
+#### **integratie hendel in spelinterface** 
+- 1 - meest voorkeur
+- 4 - minst voorkeur
+
+
+|       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
+|-|:---:|:---:|:---:|:---:|
+| Pieter Jan Lernout    |  2    |  4    |   3    |   1    |      
+| Anne Mestdag    |  2 |  3    |  4     |    1   |      
+| Marie-Paule Defever |   3    |      |   1    |  4     |  2    | 
+| Jacques Vander Oost|    2   |   4   |    1   |    3  ||
+
+#### **Toevoeging ondersteuningselement**
+[yapieyapiedabie]
+
+#### **Ranking**
+- **<ins>X</ins>** - hoofdvoorkeur
+- X - overige top 3
+
+
+|       | **Systeem 1** | **Systeem 2** | **Systeem 3** | **Systeem 4** | **Systeem 5 (standaard)** | 
+|-|:---:|:---:|:---:|:---:|:---:|
+| Pieter Jan Lernout    |      |      |       |       |  **<ins>X</ins>**  |   
+| Anne Mestdag    |   |      |  X     |    **<ins>X</ins>**   |  X  |   
+| Marie-Paule Defever |   X    |   X   |   **<ins>X</ins>**    |       |      | | 
+| Jacques Vander Oost|    X   |   X   |    **<ins>X</ins>**   |      |       | |
+
 ### Conclusies en implicaties
 
 ...
