@@ -571,7 +571,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](link nog insteken oo
 |-|:---:|:---:|:---:|:---:|
 | Pieter Jan Lernout    |  2    |  4    |   3    |   1    |      
 | Anne Mestdag    |  2 |  3    |  4     |    1   |      
-| Marie-Paule Defever |   3    |      |   1    |  4     |  2    | 
+| Marie-Paule Defever |   3    |  2    |   1    |  4     | 
 | Jacques Vander Oost|    2   |   4   |    1   |    3  ||
 
 #### **Toevoeging ondersteuningselement**
