@@ -462,7 +462,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 | Anne Mestdag    |      |      |   X    |    X   |      |   **<ins>X</ins>**   |
 | Marie-Paule Defever    |  |      |   X    |       |   X   |   **<ins>X</ins>**   |
 | Jacques Vander Oost |        |      |   X    |       |   X   |  **<ins>X</ins>**   |
-| Pieter Jan |    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
+| Pieter Jan Lernout|    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
 
 
 #### **Grootte van de draaiknoppen**
@@ -475,7 +475,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 | Anne Mestdag    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
 | Marie-Paule Defever    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
 | Jacques Vander Oost |        |   **<ins>X</ins>**   |   X    |   X    |      |     |
-| Pieter Jan |   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
+| Pieter Jan Lernout|   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
 
 
 #### **Draaien van de knop** 
@@ -487,7 +487,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
 | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
 | Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
-| Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
+| Pieter Jan Lernout|   **<ins>X</ins>**    |      |       |      |      ||
   
 
 #### **Design van het spel** 
@@ -499,7 +499,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 | Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
 | Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
 | Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
-| Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
+| Pieter Jan Lernout|   **<ins>X</ins>**    |      |       |      |      ||
 
 
 
@@ -541,8 +541,21 @@ In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstart
 > Uitleg Pygame hier insteken
 
 ### Resultaten
+De volgende resultaten komen rechtstreeks van het [rapport](link nog insteken oopiedoopie) en zullen hier kort toegelicht worden.
 
-...
+---
+
+#### **Long press voor selectiescherm** 
+- **<ins>X</ins>** - hoofdvoorkeur
+
+
+|       | **750ms** | **1000ms** | **1500ms (standaard)** | **Eigen voorstel? (optioneel)** | 
+|-|:---:|:---:|:---:|:---:|
+| Pieter Jan Lernout    |  **<ins>X</ins>**    |      |       |       |      
+| Anne Mestdag    |  **<ins>X</ins>**|      |       |       |      
+| Marie-Paule Defever |   **<ins>X</ins>**     |      |       |       |      | 
+| Jacques Vander Oost|    **<ins>X</ins>**    |      |       |      ||
+
 
 ### Conclusies en implicaties
 
