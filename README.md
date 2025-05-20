@@ -556,7 +556,7 @@ Aan de hand van [dit document](https://ugentbe-my.sharepoint.com/:b:/g/personal/
 Gebruikers werden gevraagd om elk ontwerp te beoordelen met een score van 1 (meest voorkeur) tot 4 (minst voorkeur). Tijdens de test werd actief doorgevraagd naar de motivatie achter hun keuzes, zodat niet alleen de voorkeuren, maar ook de onderliggende redenen en eventuele suggesties voor verbetering werden vastgelegd. Dit leverde waardevolle kwalitatieve feedback op over aspecten zoals begrijpelijkheid, gebruiksgemak, visuele hiërarchie en de mate waarin het ontwerp aansluit bij de behoeften van de doelgroep.
 
 ```
-hier moet nog veel meer shiii instaan, foto's aanvullen blablabla
+Hier nog Ondersteuningselement, ranking kliksysteem en foto's aanvullen blablabla
 ```
 ### Resultaten
 De volgende resultaten komen rechtstreeks van het [rapport](link nog insteken oopiedoopie) en zullen hier kort toegelicht worden.
@@ -578,7 +578,8 @@ De meningen over de duur van de drukknop waren verdeeld. Alle gebruikers vonden 
 
 #### **Kleurenthema's en look product** 
 
-De resultaten van de SAM-test zijn [hier](LINK NOG INVOEGEN) terug te vinden. De belangrijkste gegevens worden hieronder nog even bij elkaar gezet.
+De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EVC1BHvYk0pLt7RclKCJMEIB6Pc4BeH628hsrbDKr_4vAQ?e=tcYJv0) terug te vinden. De belangrijkste gegevens worden hieronder nog even bij elkaar gezet.
+
   - Piano Tiles
     - Piano Tiles werd qua gevoel eerder neutraal tot cheerful geëvalueerd
     - Op vlak van drukheid werd er een neutrale score gegeven
@@ -613,11 +614,14 @@ De resultaten van de SAM-test zijn [hier](LINK NOG INVOEGEN) terug te vinden. De
 | Anne Mestdag    |  2 |  3    |  4     |    1   |      
 | Marie-Paule Defever |   3    |  2    |   1    |  4     | 
 | Jacques Vander Oost|    2   |   4   |    1   |    3  |
+| ***Gemiddelde***|    *2,25*   |  *3,25*    |   *2,25*    |   *2,25*   |
+
+[Nog tekst bij toevoegen]
 
 #### **Toevoeging ondersteuningselement**
 [yapieyapiedabie]
 
-#### **Ranking**
+#### **Ranking Kliksysteem**
 - **<ins>X</ins>** - hoofdvoorkeur
 - X - overige top 3
 
