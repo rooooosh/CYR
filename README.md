@@ -46,7 +46,7 @@ De eerste deelopdracht heeft als doel om de fysieke, cognitieve en sensoriële e
 In develop 2 wordt de nadruk gelegd de user experience en usability van CYR. Concreet worden de oplossingen in develop 1 verder verfijnd waarbij opnieuw gebruikstests worden uitgevoerd om zo voldoende feedback te verzamelen. 
 
 <p align="left">
-  <img src="Extra/TIJDLIJN2.jpg" width="100%"> 
+  <img src="CYR PICS/TIJDLIJN2.jpg" width="100%"> 
 
 ## Discovery
 
@@ -121,8 +121,8 @@ Het doel is om op het juiste moment deze toetsen in te drukken die vervolgens mo
 Het afspelen van geluid na indrukken van de toetsen wordt mogelijk gemaakt door [Makey Makey](https://makeymakey.com/). 
 
 <p align="left">
-  <img src="Extra/Makey Makey 1.png" width="32%">
-  <img src="Extra/Makey Makey 2.png" width="32%">
+  <img src="CYR PICS/Makey Makey 1.png" width="32%">
+  <img src="CYR PICS/Makey Makey 2.png" width="32%">
 
 Om muziek te imiteren wordt gekozen om verder te werken op drumpercussie. Elk van de toetsen wordt gelinkt met een andere component van een drumstel. De hendel of aan-/uitknop die eerder werd aangehaald, geeft de mogelijkheid om de percussie van het afspelende lied aan of uit te zetten. Dit kan voor de gebruiker een grotere uitdaging vormen. Om de touchbox te kunnen gebruiken werd voor het uitvoeren van de test gevraagd aan de gebruiker om een polsbandje om te doen zodat er directe verbinding is met de Makey Makey, die op zijn beurt is verbonden met een laptop. 
 
@@ -138,7 +138,7 @@ Een aantal gebruikers hadden wel kritiek op de kwaliteit van het spel. De icoont
 
 > [!NOTE]
 > De gebruikstests werden uitgevoerd volgens de **Wizard of Oz** methode. _"De Wizard of Oz methode is een gemodereerde onderzoeksmethode waarbij een gebruiker interageert met een interface die autonoom lijkt te zijn, maar (geheel of gedeeltelijk) bestuurd wordt door een mens."_[^2]
-<img src="Extra/The Wizard of Oz.png" width="32%">
+<img src="CYR PICS/The Wizard of Oz.png" width="32%">
 
 #### Enkele foto's met de gebruikers
 <p align="left">
