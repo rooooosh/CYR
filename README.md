@@ -582,7 +582,7 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
 
   - Piano Tiles
     - Piano Tiles werd qua gevoel eerder neutraal tot cheerful geëvalueerd
-    - Op vlak van drukheid werd er een neutrale score gegeven
+    - Op vlak van drukte werd er een neutrale score gegeven
     - Op vlak van dependent/independent werd er ook een neutrale score gegeven
   - Guitar Hero
     - Guitar Hero kreeg een eerder 'cheerful', dus positievere score
@@ -591,14 +591,14 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
   - Jewel Saga
     - Deze kreeg een zeer verdeelde verdeling qua gevoel, dit komt mogelijks doordat ze dit spel al kenden, waardoor sommige gebruikers meer/minder fan zijn van het ontwerp, en zo een bias ontwikkelen.
     - Jewel Saga kreeg een neutrale-quiet evaluatie
-    - Er werd op vlak van independent/depedent een redelijk hoge 'dependent' score gegeven
-  - just Dance
+    - Er werd op vlak van independent/dependent een redelijk hoge 'dependent' score gegeven
+  - Just Dance
     - Just Dance kreeg een zeer cheerful score
-    - Op vlak van drukheid kreeg deze een zeer drukke score
+    - Op vlak van drukte kreeg deze een zeer drukke score
     - Op 1 uitzondering na, kreeg deze een vrij hoge score op vlak van onafhankelijkheid
-  - Eigen Ontwerp*
-    - Het eigen ontwerp kreeg een zeer hoge score op vlak van emotie, door de eerder neutrale tonen van het ontwerp, zijn deze resulaten waarschijnlijk weer ten gevolge van een bias
-    - Het kreeg qua drukheid een eerder neutrale score
+  - Eigen Ontwerp
+    - Het eigen ontwerp kreeg een zeer hoge score op vlak van emotie, door de eerder neutrale tonen van het ontwerp, zijn deze resultaten waarschijnlijk weer ten gevolge van een bias
+    - Het kreeg qua drukte een eerder neutrale score
     - Op vlak van independent/dependent kreeg deze een zeer hoge 'dependent' score.
  
 
