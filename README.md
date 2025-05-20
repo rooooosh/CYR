@@ -372,12 +372,11 @@ Foto 3: Volledige opstelling_
 
 Via een breadbord (groot wit bordje) worden de verschillende componenten met _jumper wires_ met elkaar verbonden. De DF player mini bevat een micro SD kaart met een aantal geluiden. De krokodillenklemmen aan de touch sensor zijn verbonden met de metalenplaatjes. De speaker die is verbonden met deze mini player zet de aanraking van één van de toetsen om in geluid. Ook deze touch sensor bevat capacitive touch waardoor een enkele aanraking met de plaatjes al volstaat om geluid te creëren.
 
-```
-Bedradingsschema nog insteken!!!
-```
 
 > [!NOTE]
-> De code die wordt gebruikt om de aanraking om te zetten in geluid, is is [hier](./Code/Arduino/I2C_Touch_Sensor) terug te vinden.
+> De code die wordt gebruikt om de aanraking om te zetten in geluid, is is [hier](./Code/Arduino/I2C_Touch_Sensor) terug te vinden. 
+De bedradingsschema's hiervoor kan u [hier](https://github.com/rooooosh/CYR/blob/Aging-Young/Emerging_Tech.md#opbouw-touchbox) terugvinden.
+ 
 
 
 Om te voldoen aan **design requirement 1.4**:
@@ -430,6 +429,7 @@ Deze interacties sturen het bedieningsscherm van het spel aan en staan functione
 > De code die hiervoor geschreven is, is [hier](./Code/Arduino/Code_Rotary_encoder) terug te vinden.
 
 De verbinding tussen de Arduino Nano en Protopie verloopt via Protopie Connect. Door de laptop en de Raspberry Pi met hetzelfde netwerk te verbinden, kan in de webbrowser van de Raspberry Pi naar de juiste URL worden genavigeerd. Hierbij dient rekening gehouden te worden met het correcte IP-adres in de URL.
+
 ### Resultaten
 De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Ed8DPdIo2ZRFovkzM6mTZcQBQyfquAvjYD2CioEDKJAeWw?e=hRhbL3) en zullen hier kort toegelicht worden.
 
@@ -515,10 +515,8 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 - Uit de tests blijkt dat elke gebruiker een voorkeur heeft voor de kleinere draaiknoppen. De draaiknop met een diameter van 30mm kreeg de hoofdvoorkeur.
 - De tactiele feedback van de knop zal, volgens het rapport, verandert worden naar 2 clicks. Een groot deel van de gebruikers vond de _micro_ feedback na het aandraaien een fijn gevoel.
 - Design 1 van de interface van de boombox werd unaniem verkozen als hoofdvoorkeur.
+- Het uitvoeren van een dubbele klik werd door de gebruikers als lastig ervaren, deze handeling mislukte vaak tijdens de tests. Uit de feedback kwam naar voren dat een lange druk op de knop een gebruiksvriendelijker alternatief zou zijn. Dit aspect zal verder onderzocht worden in Develop 3.
 
-```
-Vermelden naar moeilijkheid indrukken draaiknop voor opstarten spel + ondersteuning voor arm doordat touchbox misschien te hoog is
-```
 
 > [!IMPORTANT]
 > **Design requirements**
