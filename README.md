@@ -528,20 +528,25 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 ## Develop 3: Esthetische vormgeving (N=4)
 
 ### Doelstellingen
-Deelopdracht 5 is de laatste opdracht van semester 2. Het doel is om de finale vormgeving van het prototype vast te leggen a.d.h.v. een aantal functionele/esthetische veranderingen.
+Deelopdracht 5 vormt de afsluitende fase van semester 2. In deze opdracht wordt de definitieve vormgeving van het prototype bepaald op basis van zowel functionele als esthetische optimalisaties. Er wordt een finaal gebruikersonderzoek uitgevoerd naar de interactie met de drukknop, waarbij onder andere de ergonomie en feedback van de knop centraal staan. Daarnaast wordt de look & feel van het spel verder geëvalueerd, met specifieke aandacht voor de gebruikerservaring en visuele aantrekkelijkheid. Ook wordt de integratie van de drumfunctie in het bedieningsscherm getest, zodat gebruikers deze eenvoudig kunnen aan- of uitzetten tijdens het spelen. Tot slot wordt het ondersteuningselement, dat ook gebruikt kan worden als handvat, beoordeeld op gebruiksgemak en functionaliteit en wordt het kliksysteem van het prototype onderworpen aan een praktische test.
 
-### Materialen & methoden
-Het prototype zal een aantal kleine veranderingen ondergaan die extra functionaliteit zouden moeten leveren bij het spelen van het spel. 
 
-In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop. Ook zorgt het gebruik van Pygame ervoor dat er geen verbinding nodig is met een netwerk, een extra hulpmiddel om de tests soepeler te laten  verlopen. Het python script kan lokaal worden opgestart, de applicatie gebruikt om code te schrijven en uit te voeren op de Raspberry Pi: 'Geanny Programmer's Editor'. 
+### Materialen & methoden 
+#### Boombox
+In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop. Ook zorgt het gebruik van Pygame ervoor dat er geen verbinding nodig is met een netwerk, een extra hulpmiddel om de tests soepeler te laten  verlopen. Het python script kan lokaal worden opgestart, de applicatie gebruikt om code te schrijven en uit te voeren op de Raspberry Pi is 'Geanny Programmer's Editor'.
+
+> [!NOTE]
+> De python code, geschreven voor het ontwerp van het spel [hier](Code/Python/Game_Design_Pygame/Game_Design_Pygame.ino) terugvinden. De benodigde bedradingsschema's zijn [hier](https://github.com/rooooosh/CYR/blob/Aging-Young/Emerging_Tech.md#opbouw-boombox) terug te vinden.
+
+Verder is getest naar de kleurenthema's en look & feel van het spel. Om een algemeen beeld te krijgen van het thema waarin CYR ontworpen zou moeten worden, is aan de hand van bestaande spellen een SAM-test uitgevoerd volgens volgende figuur:
+<p align="left">
+  <img src="CYR PICS/SAM.png" width="33%">
+
+  Aan de hand van [dit document](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EVDMd7EUdrlCk-C4Unt3p5UB0JONvln66VZ0HEWbj5Tr2g?e=aeasx8) werd onderzocht welk ontwerp door gebruikers als het duidelijkst en meest overzichtelijk werd ervaren voor gebruik in CYR. Gebruikers gaven elk ontwerp een score van 1 tot 4. Deze methode maakte het mogelijk om door te vragen naar de motivatie achter hun keuze, zodat er een goed onderbouwde reden is voor het uiteindelijke ontwerpvoorkeur.
 
 ```
 hier moet nog veel meer shiii instaan, foto's aanvullen blablabla
 ```
-
-> [!NOTE]
-> Uitleg Pygame hier insteken
-
 ### Resultaten
 De volgende resultaten komen rechtstreeks van het [rapport](link nog insteken oopiedoopie) en zullen hier kort toegelicht worden.
 
@@ -565,8 +570,8 @@ De volgende resultaten komen rechtstreeks van het [rapport](link nog insteken oo
 
 
 #### **integratie hendel in spelinterface** 
-- 1 - meest voorkeur
-- 4 - minst voorkeur
+- **1 - meest voorkeur**
+- **4 - minst voorkeur**
 
 
 |       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
