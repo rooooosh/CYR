@@ -679,8 +679,8 @@ Het design van de touchbox en boombox doos stamt af van een online ontwerp afkom
 
 De afmetingen van beide dozen bedragen:
 
-- **Toucbox**: 255mm x 176mm x 6mm
-- **Boombox**: ...mm x ...mm x ...mm
+- **Toucbox**: 255mm x 176mm x 60mm
+- **Boombox**: 255mm x 176mm x 75mm
 
 Volgende dimensies kunnen ingevoerd worden in bovenstaande vermelde website en kunnen vervolgens gedownload worden in volgende formaten: svg, dxf, gcode, lbrn2, pdf, plt, ps, svg, svg_Ponoko
 
@@ -690,7 +690,8 @@ Via een lasercut programma (dit geval [Lightburn](https://lightburnsoftware.com/
 ---
 
 ### Elektronica en Arduino componenten
-De volgende elektronica/Arduino componenten worden gebruikt om de huidige communicatie van het spel te realiseren. Deze worden opgesplits per gebruikte componenten voor touchbox en boombox:
+De volgende elektronica/Arduino componenten worden gebruikt om de huidige communicatie van het spel te realiseren. Meer informatie hierover is [hier](https://github.com/rooooosh/CYR/blob/Aging-Young/Emerging_Tech.md#eindopdracht-emerging-technologies) terug te vinden.
+ Deze worden opgesplitst per gebruikte componenten voor touchbox en boombox:
 
 **Touchbox**
 
@@ -711,10 +712,13 @@ Extra onderdelen die werden aangekocht, maar uiteindelijk niet verwerkt in het e
 
 **Boombox**
 
--
--
--
-...
+- Raspberry Pi 4
+- Raspberry Pi 7" DSI Touchscreen display (800 x 480 px)
+- Rotary Encoder
+- Arduino Nano
+- Bluetooth Speaker
+
+De gebruiker bedient het scherm via de rotary encoder, waarbij seriële communicatie plaatsvindt tussen de Raspberry Pi en Arduino. Hoewel directe aansluiting van de rotary encoder op de Raspberry Pi mogelijk is, was de Arduino-code al geschreven voordat werd gekozen om met Python te werken, door tijdsgebrek (en volledig functionele werking), is deze aanpassing niet gebeurt.
 
 
 ## Bijlagen
