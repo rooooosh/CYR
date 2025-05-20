@@ -547,7 +547,7 @@ Er is aanvullend onderzoek gedaan naar de kleurenthema’s en de algemene look &
 <p align="left">
   <img src="CYR PICS/SAM.png" width="33%">
 
-Gebruikers kregen de opdracht om dit format in te vullen aan de hand van verschillende voorgestelde thema’s, die te vinden zijn in [dit document](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EdQPWi8zvNRBgMj3hKxmxuMBOw8owCZfiqNZCp9YBQC1kw?e=dz6N5S). Op deze manier werd inzicht verkregen in de voorkeuren met betrekking tot kleurgebruik, sfeer en visuele aantrekkelijkheid van het spel. De resultaten van deze test vormen een belangrijke leidraad voor de verdere uitwerking van het visuele ontwerp van CYR, zodat het eindproduct optimaal aansluit bij de beleving en verwachtingen van de doelgroep.
+Gebruikers kregen de opdracht om dit format in te vullen aan de hand van verschillende voorgestelde thema’s, die te vinden zijn in [dit document](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EdQPWi8zvNRBgMj3hKxmxuMBOw8owCZfiqNZCp9YBQC1kw?e=dz6N5S). Item 3 op de SAM-test (dependent/independent) was voor veel gebruikers niet direct duidelijk, hiermee werd bedoeld hoe goed het spel op zichzelf staat, in welke mate is het spel een kwalitatief, volledig spel. Op deze manier werd inzicht verkregen in de voorkeuren met betrekking tot kleurgebruik, sfeer en visuele aantrekkelijkheid van het spel. De resultaten van deze test vormen een belangrijke leidraad voor de verdere uitwerking van het visuele ontwerp van CYR, zodat het eindproduct optimaal aansluit bij de beleving en verwachtingen van de doelgroep.
 
 *Design van integratie hendel in spel*
 
@@ -569,15 +569,37 @@ De volgende resultaten komen rechtstreeks van het [rapport](link nog insteken oo
 
 |       | **750ms** | **1000ms** | **1500ms (standaard)** | **Eigen voorstel? (optioneel)** | 
 |-|:---:|:---:|:---:|:---:|
-| Pieter Jan Lernout    |  **<ins>X</ins>**    |      |       |       |      
-| Anne Mestdag    |  **<ins>X</ins>**|      |       |       |      
-| Marie-Paule Defever |   **<ins>X</ins>**     |      |       |       |      | 
-| Jacques Vander Oost|    **<ins>X</ins>**    |      |       |      ||
+| Pieter Jan Lernout    |  **<ins>X</ins>**    |   X   |    x   |       |      
+| Anne Mestdag    |  **<ins>X</ins>**|      |    X   |       |      
+| Marie-Paule Defever |   X     |      |       |  500: **<ins>X</ins>**   |
+| Jacques Vander Oost|    X    |      |       |  500 **<ins>X</ins>**   |
 
+De meningen over de duur van de drukknop waren verdeeld. Alle gebruikers vonden 1500 ms te lang, dit gaf snel de indruk dat er iets mis was of dat het apparaat niet reageerde. Een duur van 750 ms werd over het algemeen als beter ervaren, al gaven Marie-Paule en Jacques aan dat het voor hen nog iets korter mocht (500 ms). Tijdens de tests bleek er soms verwarring te ontstaan tussen een enkele klik en een lange klik bij 500ms. Daarom is gekozen om 750 ms als standaard te integreren in het product.
 
 #### **Kleurenthema's en look product** 
 
-[SAM testen hierin steken]
+De resultaten van de SAM-test zijn [hier](LINK NOG INVOEGEN) terug te vinden. De belangrijkste gegevens worden hieronder nog even bij elkaar gezet.
+  - Piano Tiles
+    - Piano Tiles werd qua gevoel eerder neutraal tot cheerful geëvalueerd
+    - Op vlak van drukheid werd er een neutrale score gegeven
+    - Op vlak van dependent/independent werd er ook een neutrale score gegeven
+  - Guitar Hero
+    - Guitar Hero kreeg een eerder 'cheerful', dus positievere score
+    - Voor velen werd dit ontwerp als vrij druk geëvalueerd
+    - Op vlak van dependent/independent werd er ook een neutrale-cheerful score gegeven
+  - Jewel Saga
+    - Deze kreeg een zeer verdeelde verdeling qua gevoel, dit komt mogelijks doordat ze dit spel al kenden, waardoor sommige gebruikers meer/minder fan zijn van het ontwerp, en zo een bias ontwikkelen.
+    - Jewel Saga kreeg een neutrale-quiet evaluatie
+    - Er werd op vlak van independent/depedent een redelijk hoge 'dependent' score gegeven
+  - just Dance
+    - Just Dance kreeg een zeer cheerful score
+    - Op vlak van drukheid kreeg deze een zeer drukke score
+    - Op 1 uitzondering na, kreeg deze een vrij hoge score op vlak van onafhankelijkheid
+  - Eigen Ontwerp*
+    - Het eigen ontwerp kreeg een zeer hoge score op vlak van emotie, door de eerder neutrale tonen van het ontwerp, zijn deze resulaten waarschijnlijk weer ten gevolge van een bias
+    - Het kreeg qua drukheid een eerder neutrale score
+    - Op vlak van independent/dependent kreeg deze een zeer hoge 'dependent' score.
+ 
 
 
 #### **integratie hendel in spelinterface** 
@@ -590,7 +612,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](link nog insteken oo
 | Pieter Jan Lernout    |  2    |  4    |   3    |   1    |      
 | Anne Mestdag    |  2 |  3    |  4     |    1   |      
 | Marie-Paule Defever |   3    |  2    |   1    |  4     | 
-| Jacques Vander Oost|    2   |   4   |    1   |    3  ||
+| Jacques Vander Oost|    2   |   4   |    1   |    3  |
 
 #### **Toevoeging ondersteuningselement**
 [yapieyapiedabie]
