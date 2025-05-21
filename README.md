@@ -808,6 +808,8 @@ De gebruiker bedient het scherm via de rotary encoder, waarbij seriële communic
 
 ## Bijlagen
 
+De verzamelde respondentgegevens zijn enkel toegankelijk voor personen binnen de UGent, om hun privacy zo goed mogelijk te beschermen.
+
 **Deelopdracht 1: Discovery**
 - [Protocol interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ERUtZ3-igvBKqZPZnaZ0NtkBg0LwWM27S0it1dNNafc9GA?e=swQQA0)
 - [Rapport interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EdLjPG8jZbNDmENYNZyzGhMBiLnvY1_2IQ1uCwe33hgFXw?e=g2ptKY)
