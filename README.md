@@ -582,8 +582,14 @@ Door toegenomen gewicht van het prototype (medemogelijk door integratie Raspberr
 #### Kliksysteem
  Een kliksysteem wordt geïntroduceerd aan het prototype zodat deze niet opeens zou openspringen, dit zal onderworpen worden aan een praktische test. Ook worden een aantal verschillende variaties op dit kliksysteem voorgelegd aan de gebruiker. Bij deze een keuze te maken welk kliksysteem volgens hun vermoeden een beter of slechter alternatief kan zijn dan het standaard gemonteerde systeem.
 
+_Foto 1: Standaard kliksysteem; Foto 2: Kliksysteem variant 1; Foto 3: Kliksysteem variant 2; Foto 4: Kliksysteem variant 3; Foto 5: Kliksysteem variant 4_
 <p align="left">
   <img src="CYR PICS/Sluiting.jpg" width="33%">
+  <img src="CYR PICS/Klik1.jpg" width="33%">
+  <img src="CYR PICS/Klik2.jpg" width="33%">
+<p align="left">
+  <img src="CYR PICS/Klik3.jpg" width="33%">
+  <img src="CYR PICS/Klik4.jpg" width="33%">
   
 
 > [!IMPORTANT]
@@ -609,10 +615,10 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 |       | **750ms** | **1000ms** | **1500ms (standaard)** | **Eigen voorstel? (optioneel)** | 
 |-|:---:|:---:|:---:|:---:|
-| Pieter Jan     |  **<ins>X</ins>**    |   X   |    x   |       |      
-| Anne   |  **<ins>X</ins>**|      |    X   |       |      
-| Marie-Paule  |   **<ins>X</ins>**    |      |       |  500   |
-| Jacques |    **<ins>X</ins>**    |      |       |  500  |
+| Pieter Jan     |  **<ins>X</ins>**    |      |       |       |      
+| Anne   |  **<ins>X</ins>**|      |       |       |      
+| Marie-Paule  |   **<ins>X</ins>**    |      |       |  500ms   |
+| Jacques |    **<ins>X</ins>**    |      |       |  500ms  |
 
 De meningen over de duur van de drukknop waren verdeeld. Alle gebruikers vonden 1500ms te lang, dit gaf snel de indruk dat er iets mis was of dat het apparaat niet reageerde. Een duur van 750ms werd over het algemeen als beter ervaren, al gaven Marie-Paule en Jacques aan dat het voor hen nog iets korter mocht (500ms). Tijdens de tests bleek er soms verwarring te ontstaan tussen een enkele klik en een lange klik bij 500ms. Daarom is gekozen om 750ms als standaard indruktijd te integreren in het product.
 
