@@ -609,7 +609,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 ---
 
-#### **Long press voor selectiescherm** 
+#### Long press voor selectiescherm 
 - **<ins>X</ins>** - hoofdvoorkeur
 
 
@@ -622,7 +622,7 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 De meningen over de duur van de drukknop waren verdeeld. Alle gebruikers vonden 1500ms te lang, dit gaf snel de indruk dat er iets mis was of dat het apparaat niet reageerde. Een duur van 750ms werd over het algemeen als beter ervaren, al gaven Marie-Paule en Jacques aan dat het voor hen nog iets korter mocht (500ms). Tijdens de tests bleek er soms verwarring te ontstaan tussen een enkele klik en een lange klik bij 500ms. Daarom is gekozen om 750ms als standaard indruktijd te integreren in het product.
 
-#### **Kleurenthema's en look product** 
+#### Kleurenthema's en look product 
 
 De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EVC1BHvYk0pLt7RclKCJMEIB6Pc4BeH628hsrbDKr_4vAQ?e=tcYJv0) terug te vinden. De belangrijkste gegevens worden hieronder nog even bij elkaar gezet. Item 3 op de SAM-test (dependent/independent) was voor veel gebruikers niet direct duidelijk. Hiermee werd bedoeld hoe goed het spel op zichzelf staat, m.a.w. in welke mate is dit een kwalitatief, volledig spel.
 
@@ -649,7 +649,7 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
  
 
 
-#### ** Design van integratie hendel in spelinterface** 
+#### Design van integratie hendel in spelinterface
 - 1 - meest voorkeur
 - 4 - minst voorkeur
 
@@ -661,10 +661,10 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
 | Marie-Paule  |   3    |  2    |   1    |  4     | 
 | Jacques |    2   |   4   |    1   |    3  |
 
-#### **Toevoeging ondersteuningselement**
+#### Toevoeging ondersteuningselement
 De algemene mening rond de toevoeging van het ondersteuningselement leek een logiche zaak. Er werd vol begrip akkoord gegaan met het integreren van deze functie in het prototype om het plotseling omvallen te voorkomen. De dubbelfunctie rond het gebruik van deze ondersteuning als handvat werd gezien als mooie ingeving. De gebruikers kunnen op hun beurt gemakkelijk het prototype verplaatsen van A naar B via dit _handvat_. In de toekomst kan ingestemd worden voor een verdeelde keuze rond het design van dit element, maar conceptueel gezien is dit een positieve toevoeging aan het prototype.
 
-#### **Ranking Kliksysteem**
+#### Ranking Kliksysteem
 - **<ins>X</ins>** - hoofdvoorkeur
 - X - overige top 3
 
