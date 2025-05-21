@@ -693,7 +693,7 @@ De algemene mening rond de toevoeging van het ondersteuningselement leek een log
 
 ### Slotbevindingen
 
-De verschillende deelopdrachten (3, 4 en 5) brachten telkens nieuwe frisse ontwerpuitdagingen aan het licht na de introductie van de verbeterde prototype. Er werd telkens positieve progressie gemaakt richting het eindontwerp waarbij de gebruikers zeer nuttige en goed onderbouwde feedback gaven. Zelfs naar einde van het project werden opnieuw nieuwe zaken aan het licht gebracht die het prototype kunnen brengen naar een volgend niveau. Deze zaken zullen uiteraard niet meer behandeld worden (wegens tijdsgebrek), maar zullen hieronder weergegeven worden als een bullet list met zaken die in de toekomst kunnen toegevoegd worden:
+De verschillende deelopdrachten (3, 4 en 5) brachten telkens nieuwe frisse ontwerpuitdagingen aan het licht na de introductie van de verbeterde prototypes. Er werd telkens positieve progressie gemaakt richting het eindontwerp waarbij de gebruikers zeer nuttige en goed onderbouwde feedback gaven. Zelfs naar einde van het project werden opnieuw nieuwe zaken aan het licht gebracht die het prototype kunnen brengen naar een volgend niveau. Deze zaken zullen uiteraard niet meer behandeld worden (wegens tijdsgebrek), maar zullen hieronder weergegeven worden als een bullet list met zaken die in de toekomst kunnen toegevoegd worden:
 
 - Programmeren van hendel in spelinterface
 - Toetsen van touchbox laten oplichten in verschillend kleur voor extra moeilijkheid
