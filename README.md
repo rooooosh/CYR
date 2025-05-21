@@ -584,12 +584,12 @@ Door toegenomen gewicht van het prototype (medemogelijk door integratie Raspberr
 
 _Foto 1: Standaard kliksysteem; Foto 2: Kliksysteem variant 1; Foto 3: Kliksysteem variant 2; Foto 4: Kliksysteem variant 3; Foto 5: Kliksysteem variant 4_
 <p align="left">
-  <img src="CYR PICS/Sluiting.jpg" width="33%">
-  <img src="CYR PICS/Klik1.jpg" width="28%">
+  <img src="CYR PICS/Sluiting.jpg" width="28%">
+  <img src="CYR PICS/Klik1.jpg" width="23%">
 <p align="left">
-  <img src="CYR PICS/Klik2.jpg" width="28%">
-  <img src="CYR PICS/Klik3.jpg" width="28%">
-  <img src="CYR PICS/Klik4.jpg" width="28%">
+  <img src="CYR PICS/Klik2.jpg" width="23%">
+  <img src="CYR PICS/Klik3.jpg" width="23%">
+  <img src="CYR PICS/Klik4.jpg" width="23%">
   
 
 > [!IMPORTANT]
