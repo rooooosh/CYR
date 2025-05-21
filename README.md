@@ -566,14 +566,18 @@ De gebruikers krijgen de opdracht om dit format in te vullen aan de hand van ver
 
 #### Design van integratie hendel in spel
 
-Aan de hand van [dit document](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXEy8T2KiR9CukrFr04W8asBibGEKA7jPmabWV9tvZJqBQ?e=i9hcNO) werd onderzocht welk ontwerp van de integratie van de hendel in de spelinterface door gebruikers als het duidelijkst en meest overzichtelijk werd ervaren voor gebruik in CYR. In deze gebruikerstest kregen de deelnemers vier verschillende ontwerpvoorstellen te zien, elk met een unieke visuele en functionele benadering van de hendel-integratie.
+Aan de hand van volgend [document](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXEy8T2KiR9CukrFr04W8asBibGEKA7jPmabWV9tvZJqBQ?e=i9hcNO) zal worden onderzocht welk ontwerp van de integratie van de hendel in de spelinterface door gebruikers als het duidelijkst en meest overzichtelijk wordt ervaren. In deze gebruikstest krijgen de deelnemers vier verschillende ontwerpvoorstellen te zien, elk met een unieke visuele en functionele benadering van de hendelintegratie.
 
-Gebruikers werden gevraagd om elk ontwerp te beoordelen met een score van 1 (meest voorkeur) tot 4 (minst voorkeur). Tijdens de test werd actief doorgevraagd naar de motivatie achter hun keuzes, zodat niet alleen de voorkeuren, maar ook de onderliggende redenen en eventuele suggesties voor verbetering werden vastgelegd. Dit leverde waardevolle kwalitatieve feedback op over aspecten zoals begrijpelijkheid, gebruiksgemak, visuele hiërarchie en de mate waarin het ontwerp aansluit bij de behoeften van de doelgroep.
+Vervolgens worden de gebruikers gevraagd om elk ontwerp te beoordelen met een score van 1 (meest voorkeur) tot 4 (minst voorkeur). Tijdens de test zal actief worden gevraagd naar de motivatie achter hun keuzes om onderliggende redenen en eventuele suggesties voor verbetering te noteren. Na afloop van de test zal de feedback omgebuigd worden naar de behoeften van de doelgroep om aspecten zoals duidelijkheid, gebruiksgemak en visuele hiërarchie grondig vast te leggen in het eindontwerp van CYR.
+
+
+> [!IMPORTANT]
+> Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 3](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXTqkAN2p1pOgIOTG9bTYhYB0weaJiqkyBv4y06PXGTpgw?e=Fwo1SD)
 
 ...
 
 ### Resultaten
-De volgende resultaten komen rechtstreeks van het [rapport]() en zullen hier kort toegelicht worden.
+De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EfC592EW2ZVPsl3D-SPsxN4BTB7b4cqZrUNqIZX2eIkBWg?e=Yw5fJm) en zullen hier kort toegelicht worden.
 
 ---
 
@@ -592,32 +596,32 @@ De volgende resultaten komen rechtstreeks van het [rapport]() en zullen hier kor
 |-|:---:|:---:|:---:|:---:|
 | Pieter Jan     |  **<ins>X</ins>**    |   X   |    x   |       |      
 | Anne   |  **<ins>X</ins>**|      |    X   |       |      
-| Marie-Paule  |   X     |      |       |  500: **<ins>X</ins>**   |
-| Jacques |    X    |      |       |  500: **<ins>X</ins>**   |
+| Marie-Paule  |   **<ins>X</ins>**    |      |       |  500   |
+| Jacques |    **<ins>X</ins>**    |      |       |  500  |
 
-De meningen over de duur van de drukknop waren verdeeld. Alle gebruikers vonden 1500ms te lang, dit gaf snel de indruk dat er iets mis was of dat het apparaat niet reageerde. Een duur van 750ms werd over het algemeen als beter ervaren, al gaven Marie-Paule en Jacques aan dat het voor hen nog iets korter mocht (500ms). Tijdens de tests bleek er soms verwarring te ontstaan tussen een enkele klik en een lange klik bij 500ms. Daarom is gekozen om 750ms als standaard te integreren in het product.
+De meningen over de duur van de drukknop waren verdeeld. Alle gebruikers vonden 1500ms te lang, dit gaf snel de indruk dat er iets mis was of dat het apparaat niet reageerde. Een duur van 750ms werd over het algemeen als beter ervaren, al gaven Marie-Paule en Jacques aan dat het voor hen nog iets korter mocht (500ms). Tijdens de tests bleek er soms verwarring te ontstaan tussen een enkele klik en een lange klik bij 500ms. Daarom is gekozen om 750ms als standaard indruktijd te integreren in het product.
 
 #### **Kleurenthema's en look product** 
 
 De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EVC1BHvYk0pLt7RclKCJMEIB6Pc4BeH628hsrbDKr_4vAQ?e=tcYJv0) terug te vinden. De belangrijkste gegevens worden hieronder nog even bij elkaar gezet. Item 3 op de SAM-test (dependent/independent) was voor veel gebruikers niet direct duidelijk. Hiermee werd bedoeld hoe goed het spel op zichzelf staat, m.a.w. in welke mate is dit een kwalitatief, volledig spel.
 
-  - Piano Tiles
+  - **Piano Tiles**
     - Piano Tiles werd op basis van gevoel eerder neutraal tot cheerful geëvalueerd.
     - Op vlak van drukte werd er een neutrale score gegeven.
     - Op vlak van dependent/independent werd er een neutrale score gegeven.
-  - Guitar Hero
+  - **Guitar Hero**
     - Guitar Hero kreeg een eerder 'cheerful', dus positievere score.
     - Voor velen werd dit ontwerp als vrij druk geëvalueerd.
     - Op vlak van dependent/independent werd er een neutrale-cheerful score gegeven.
-  - Jewel Saga
+  - **Jewel Saga**
     - De meningen over dit thema waren sterk verdeeld. Mogelijk komt dit doordat sommige gebruikers het spel al kenden, waardoor zij al dan niet een voorkeur hadden voor het ontwerp en er dus sprake was van een zekere bias.
     - Jewel Saga kreeg een neutrale-quiet evaluatie.
     - Er werd op vlak van independent/dependent een redelijk hoge 'dependent' score gegeven.
-  - Just Dance
+  - **Just Dance**
     - Just Dance kreeg een zeer cheerful score.
     - Op vlak van drukte kreeg deze een zeer drukke score.
     - Op één uitzondering na, kreeg deze een vrij hoge score op vlak van onafhankelijkheid.
-  - Eigen Ontwerp
+  - **Eigen Ontwerp**
     - Het eigen ontwerp kreeg een zeer hoge score op vlak van emotie. 
     - Het kreeg op basis van drukte een eerder neutrale score.
     - Op vlak van independent/dependent kreeg deze een zeer hoge 'dependent' score.
@@ -790,8 +794,8 @@ De gebruiker bedient het scherm via de rotary encoder, waarbij seriële communic
 - [Rapport develop 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/Ed8DPdIo2ZRFovkzM6mTZcQBQyfquAvjYD2CioEDKJAeWw?e=hRhbL3)
 
 **Deelopdracht 5: Develop 3**
-- nog toevoegen
-- nog toevoegen
+- [Protocol develop 3](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXTqkAN2p1pOgIOTG9bTYhYB0weaJiqkyBv4y06PXGTpgw?e=uRHD9b)
+- [Rapport develop 3](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EfC592EW2ZVPsl3D-SPsxN4BTB7b4cqZrUNqIZX2eIkBWg?e=Yw5fJm)
 
 
 ## Bronnen
