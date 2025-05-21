@@ -65,7 +65,7 @@ Op basis van de interviews worden hier de belangrijkste zaken aangehaald.
 |-------------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Gaston Vermeulen**    | Patiënt (68 jaar)      | - Parkinson sinds zijn 45ste.<br>- Kan nog stappen, maar fijne motoriek is moeilijk<br>- Heeft moeten stoppen met muziek spelen (saxofoon, fluiten), wat hij pijnlijk vond<br>- Open voor nieuwe producten, vooral met muzikale en ritmische aspecten                                  | - Interesse in ritme/melodie-gebaseerde producten<br>- Voelt zich ongemakkelijk bij groepsactiviteiten<br>- Vond het voorgesteld concept leuk, ziet uitdaging als motivatie                                       |
 | **Monique Deurinck**    | Partner van patiënt    | - Mantelzorger van echtgenoot Marcel (10 jaar Parkinson)<br>- Marcel kan niet meer zelfstandig bewegen, woont in een woonzorgcentrum<br>- Merkte de symptomen op in fijne motoriek<br>- Medicatie wisselde vaak, niet altijd effectief                                                | - Marcel vindt zingen in de woonzorgactiviteiten plezierig, minder schaamte in de sociale setting<br>- Skeptisch over effectiviteit van een product, maar ziet potentieel in motivatie en muziek              |
-| **Annabelle Vermeulen** | Zus van patiënt        | - Mantelzorger van Gaston (23 jaar Parkinson)<br>- Helpt met dagelijkse taken, voelt emotionele impact van zijn achteruitgang<br>- Gaston heeft mentale en fysieke moeilijkheden, confronterend voor beiden<br>- Positief over nieuwe oplossingen                                   | - Gaston heeft muzikale achtergrond, voelt geluk bij het spelen van muziek<br>- Gelooft dat muzikale en fysieke acties effectief kunnen zijn, vooral met een motiverende insteek                         |
+| **Annabelle Vermeulen** | Zus van Gaston        | - Mantelzorger van Gaston (23 jaar Parkinson)<br>- Helpt met dagelijkse taken, voelt emotionele impact van zijn achteruitgang<br>- Gaston heeft mentale en fysieke moeilijkheden, confronterend voor beiden<br>- Positief over nieuwe oplossingen                                   | - Gaston heeft muzikale achtergrond, voelt geluk bij het spelen van muziek<br>- Gelooft dat muzikale en fysieke acties effectief kunnen zijn, vooral met een motiverende insteek                         |
 
 #### Literatuuronderzoek (N=10)
 Literatuuronderzoek uitvoeren is cruciaal om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte. Via een internet research werd tal van relevante informatie gevonden die het project verder kon helpen bij het opstellen van een goede onderzoeksvraag. De literatuurstudie wees uit dat muziek het meest prominente focuspunt vormt voor verdere ontwikkeling binnen dit onderzoek. Het is bewezen dat muziek en ritme een positieve invloed hebben op mensen met Parkinson.
@@ -214,7 +214,7 @@ Verschillende iteraties van de touchbox werden gemaakt met een verminderd aantal
 
 > _"Hoe meer knoppen hoe verwarrender"_
 > 
-> _- Anne_
+> _- Een gebruiker_
 
 Er werd ook onderzocht naar de latency van de touchbox. De kloof tussen het horen van het geluid na het indrukken van een toets is voor de meeste gebruikers nog steeds te groot. Om te zien of dit aan de software of hardware ligt zal dit probleem in vrijwel elke deelopdracht worden aangekaart. Bij deze deeldpdracht ligt de focus bij het veranderen van de **<ins>software</ins>**: het eenvoudige programma scratch wordt hierbij vervangen door Protopie als poging om deze latency te doen verminderen.
 
@@ -235,7 +235,7 @@ De verschillende iteraties op de boombox bevatten interfaces die elk op een ande
 - **2.** De interface met 2 knoppen dient op gelijkaardige wijze gebruikt te worden. De interface bestaat uit een lijst van liedjes die voorgeprogrammeerd zijn en bevat ook de optie om eigen liedjes up te loaden binnen de software.
   > _"Na mum van tijd zul je die voorgeprogrammeerde liedjes zat zijn"_
   > 
-  > _- Sofie_
+  > _- Een gebruiker_
   
   De linkerknop zorgt voor het "scrollen" van de lijst naar onder, de rechterknop zorgt voor de navigatie naar boven. Om een keuze te maken uit een liedje worden simultaan beide knoppen ingedrukt. 
 
