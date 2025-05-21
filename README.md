@@ -199,6 +199,15 @@ Deze korte tegenslagen terzijde, verliep de samenwerking en de vooruitgang die w
 
 ## Develop 1: Definiëren van gebruiksinterfaces (N=3) 
 
+```
+Testpersonen Develop 1
+
+Gebruiker 1: Anne
+Gebruiker 2: Sofie
+Gebruiker 3: Pieter Jan
+```
+
+
 ### Doelstellingen
 De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
 
@@ -270,9 +279,9 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 |**Gebruiker**               | **Score** | **Beperking**|
 |-|-|-|
-| Anne Mestdag    | 3      | Licht Storend   | 
-| Sofie Vanhoutte    | 2    | Storend|
-| Pieter Jan Lernout | 4 | Waarneembaar, maar niet storend  |
+| Anne     | 3      | Licht Storend   | 
+| Sofie     | 2    | Storend|
+| Pieter Jan  | 4 | Waarneembaar, maar niet storend  |
 | | *Gem.: 3* ||
   
   De testpersonen ervaarden de latency op de touchbox gemiddeld gezien nog als licht storend.
@@ -284,9 +293,9 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
   
 |       | **9 toetsen** | **6 toetsen**| **4 toetsen** |
 |-|-|-|-|
-| Anne Mestdag    | 2      | 1   | 3|
-| Sofie Vanhoutte    | 2    | 1 | 3|
-| Pieter Jan Lernout | 3 | 1  |  2|
+| Anne     | 2      | 1   | 3|
+| Sofie     | 2    | 1 | 3|
+| Pieter Jan  | 3 | 1  |  2|
 | || *Favoriet* 
 
 #### **Varianten Boombox** 
@@ -296,15 +305,15 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
   
 |       | **Draaiknop** | **2 drukknoppen**| **4 drukknoppen** | **Draaiwiel**|
 |-|-|-|-|-|
-| Anne Mestdag    | 1      | 2| 4   | 3|
-| Sofie Vanhoutte    | 2  |4  | 3 | 1|
-| Pieter Jan Lernout |1| 3 | 4  |  2|
+| Anne     | 1      | 2| 4   | 3|
+| Sofie     | 2  |4  | 3 | 1|
+| Pieter Jan  |1| 3 | 4  |  2|
 | | *Favoriet* 
 
 
 Als poging om de compactheid van CYR te bewaren, werd volgende onderzoeksvraag gesteld aan de gebruikers:
 
-> "Zou u beide onderdelen (touchbox en boombox) liever aan elkaar verwerkt hebben of toch eerder als aparte modules?"
+> "Zou u beide onderdelen (touchbox en boombox) liever aan elkaar verwerkt hebben of toch eerder als aparte modules behouden?"
 
 Na een aantal interessante standpunten werden zowel de meest voorkomende voor - en nadelen gerangschikt in een tabel. 
   |**Voordelen**|**Nadelen**|
