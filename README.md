@@ -513,10 +513,10 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 |       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
 |-|:---:|:---:|:---:|:---:|
-| Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
-| Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
-| Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
-| Pieter Jan Lernout|   **<ins>X</ins>**    |      |       |      |      ||
+| Anne     |   **<ins>X</ins>**    |      |      |      | 
+| Marie-Paule     |   **<ins>X</ins>**    |      |       |      |     
+| Jacques  |     **<ins>X</ins>**   |      |       |       |     
+| Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
 
 
 
@@ -554,8 +554,10 @@ Gebruiker 4: Pieter Jan
 ```
 
 ### Doelstellingen
-Deelopdracht 5 is de laatste deelopdracht van semester 2. In deze opdracht wordt de definitieve vormgeving van het prototype bepaald op basis van functionele en esthetische aanpassingen. Er wordt een finaal gebruikersonderzoek uitgevoerd naar de interactie met de drukknop, waarbij onder andere de ergonomie en feedback van de knop centraal staan. Daarnaast wordt de look & feel van het spel verder geëvalueerd, met specifieke aandacht voor de gebruikerservaring en visuele aantrekkelijkheid. Ook wordt de integratie van de drumfunctie in het bedieningsscherm getest, zodat gebruikers deze eenvoudig kunnen aan- of uitzetten tijdens het spelen. Tot slot wordt het ondersteuningselement, dat ook gebruikt kan worden als handvat, beoordeeld op gebruiksgemak en functionaliteit en wordt het kliksysteem van het prototype onderworpen aan een praktische test.
+Deelopdracht 5 is de laatste deelopdracht van semester 2. In deze opdracht wordt de definitieve vormgeving van het prototype bepaald op basis van enkele functionele en esthetische aanpassingen. 
 
+
+Er wordt een finaal gebruikersonderzoek uitgevoerd naar de interactie met de drukknop, waarbij onder andere de ergonomie en feedback van de knop centraal staan. Daarnaast wordt de look & feel van het spel verder geëvalueerd, met specifieke aandacht voor de gebruikerservaring en visuele aantrekkelijkheid. Ook wordt de integratie van de drumfunctie in het bedieningsscherm getest, zodat gebruikers deze eenvoudig kunnen aan- of uitzetten tijdens het spelen. Tot slot wordt het ondersteuningselement, dat ook gebruikt kan worden als handvat, beoordeeld op gebruiksgemak en functionaliteit en wordt het kliksysteem van het prototype onderworpen aan een praktische test.
 
 ### Materialen & methoden 
 #### Boombox
@@ -564,7 +566,7 @@ Deelopdracht 5 is de laatste deelopdracht van semester 2. In deze opdracht wordt
 In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop. Ook zorgt het gebruik van Pygame ervoor dat er geen verbinding nodig is met een netwerk, een extra hulpmiddel om de tests soepeler te laten  verlopen. Het python script kan lokaal worden opgestart, de applicatie gebruikt om code te schrijven en uit te voeren op de Raspberry Pi is 'Geanny Programmer's Editor'.
 
 > [!NOTE]
-> De python code, geschreven voor het ontwerp van het spel [hier](Code/Python/Game_Design_Pygame/Game_Design_Pygame.ino) terugvinden. De benodigde bedradingsschema's zijn [hier](https://github.com/rooooosh/CYR/blob/Aging-Young/Emerging_Tech.md#opbouw-boombox) terug te vinden.
+> De Python-code die werd geschreven voor het spelontwerp is [hier](Code/Python/Game_Design_Pygame/Game_Design_Pygame.ino) te raadplegen. Het bijhorende bedradingsschema vind je via deze [link](https://github.com/rooooosh/CYR/blob/Aging-Young/Emerging_Tech.md#opbouw-boombox).
 
 *Kleurenthema's en look & feel van het product*
 
