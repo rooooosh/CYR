@@ -374,8 +374,7 @@ Via een breadbord (groot wit bordje) worden de verschillende componenten met _ju
 
 
 > [!NOTE]
-> De code die wordt gebruikt om de aanraking om te zetten in geluid, is is [hier](./Code/Arduino/I2C_Touch_Sensor) terug te vinden. 
-De bedradingsschema's hiervoor kan u [hier](https://github.com/rooooosh/CYR/blob/Aging-Young/Emerging_Tech.md#opbouw-touchbox) terugvinden.
+>  De bijhorende code om een aanraking om te zetten naar een geluidsfragment, is te raadplegen via volgende [link](./Code/Arduino/I2C_Touch_Sensor). 
  
 
 
