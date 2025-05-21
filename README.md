@@ -561,12 +561,12 @@ Er is aanvullend onderzoek gedaan naar de kleurenthema’s en de algemene look &
   <img src="CYR PICS/SAM.png" width="33%">
   
 
-De gebruikers krijgen de opdracht om dit format in te vullen aan de hand van verschillende voorgestelde [thema’s](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EdQPWi8zvNRBgMj3hKxmxuMBOw8owCZfiqNZCp9YBQC1kw?e=dz6N5S). Op deze manier werd inzicht verkregen in de voorkeuren met betrekking tot kleurgebruik, sfeer en visuele aantrekkelijkheid van het spel. De resultaten van deze test vormen een belangrijke leidraad voor de verdere uitwerking van het visuele ontwerp van CYR, zodat het eindproduct optimaal aansluit bij de beleving en verwachtingen van de doelgroep.
+De gebruikers krijgen de opdracht om dit format in te vullen aan de hand van verschillende voorgestelde [thema’s](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EddukDsqnMFEonWV6gk9_9QBDJll5ITeB9r375OCDEYBWA?e=NUGDbU). Op deze manier werd inzicht verkregen in de voorkeuren met betrekking tot kleurgebruik, sfeer en visuele aantrekkelijkheid van het spel. De resultaten van deze test vormen een belangrijke leidraad voor de verdere uitwerking van het visuele ontwerp van CYR, zodat het eindproduct optimaal aansluit bij de beleving en verwachtingen van de doelgroep.
 
 
 #### Design van integratie hendel in spel
 
-Aan de hand van [dit document](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EVDMd7EUdrlCk-C4Unt3p5UB0JONvln66VZ0HEWbj5Tr2g?e=aeasx8) werd onderzocht welk ontwerp van de integratie van de hendel in de spelinterface door gebruikers als het duidelijkst en meest overzichtelijk werd ervaren voor gebruik in CYR. In deze gebruikerstest kregen de deelnemers vier verschillende ontwerpvoorstellen te zien, elk met een unieke visuele en functionele benadering van de hendel-integratie.
+Aan de hand van [dit document](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXEy8T2KiR9CukrFr04W8asBibGEKA7jPmabWV9tvZJqBQ?e=i9hcNO) werd onderzocht welk ontwerp van de integratie van de hendel in de spelinterface door gebruikers als het duidelijkst en meest overzichtelijk werd ervaren voor gebruik in CYR. In deze gebruikerstest kregen de deelnemers vier verschillende ontwerpvoorstellen te zien, elk met een unieke visuele en functionele benadering van de hendel-integratie.
 
 Gebruikers werden gevraagd om elk ontwerp te beoordelen met een score van 1 (meest voorkeur) tot 4 (minst voorkeur). Tijdens de test werd actief doorgevraagd naar de motivatie achter hun keuzes, zodat niet alleen de voorkeuren, maar ook de onderliggende redenen en eventuele suggesties voor verbetering werden vastgelegd. Dit leverde waardevolle kwalitatieve feedback op over aspecten zoals begrijpelijkheid, gebruiksgemak, visuele hiërarchie en de mate waarin het ontwerp aansluit bij de behoeften van de doelgroep.
 
@@ -593,9 +593,9 @@ De volgende resultaten komen rechtstreeks van het [rapport]() en zullen hier kor
 | Pieter Jan     |  **<ins>X</ins>**    |   X   |    x   |       |      
 | Anne   |  **<ins>X</ins>**|      |    X   |       |      
 | Marie-Paule  |   X     |      |       |  500: **<ins>X</ins>**   |
-| Jacques |    X    |      |       |  500 **<ins>X</ins>**   |
+| Jacques |    X    |      |       |  500: **<ins>X</ins>**   |
 
-De meningen over de duur van de drukknop waren verdeeld. Alle gebruikers vonden 1500 ms te lang, dit gaf snel de indruk dat er iets mis was of dat het apparaat niet reageerde. Een duur van 750 ms werd over het algemeen als beter ervaren, al gaven Marie-Paule en Jacques aan dat het voor hen nog iets korter mocht (500 ms). Tijdens de tests bleek er soms verwarring te ontstaan tussen een enkele klik en een lange klik bij 500ms. Daarom is gekozen om 750 ms als standaard te integreren in het product.
+De meningen over de duur van de drukknop waren verdeeld. Alle gebruikers vonden 1500ms te lang, dit gaf snel de indruk dat er iets mis was of dat het apparaat niet reageerde. Een duur van 750ms werd over het algemeen als beter ervaren, al gaven Marie-Paule en Jacques aan dat het voor hen nog iets korter mocht (500ms). Tijdens de tests bleek er soms verwarring te ontstaan tussen een enkele klik en een lange klik bij 500ms. Daarom is gekozen om 750ms als standaard te integreren in het product.
 
 #### **Kleurenthema's en look product** 
 
