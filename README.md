@@ -560,24 +560,25 @@ Deelopdracht 5 is de laatste deelopdracht van semester 2. In deze opdracht wordt
 Er wordt een finaal gebruikersonderzoek uitgevoerd naar de interactie met de drukknop, waarbij onder andere de ergonomie en feedback van de knop centraal staan. Daarnaast wordt de look & feel van het spel verder geëvalueerd, met specifieke aandacht voor de gebruikerservaring en visuele aantrekkelijkheid. Ook wordt de integratie van de drumfunctie in het bedieningsscherm getest, zodat gebruikers deze eenvoudig kunnen aan- of uitzetten tijdens het spelen. Tot slot wordt het ondersteuningselement, dat ook gebruikt kan worden als handvat, beoordeeld op gebruiksgemak en functionaliteit en wordt het kliksysteem van het prototype onderworpen aan een praktische test.
 
 ### Materialen & methoden 
-#### Boombox
-*Pygame* 
+#### Pygame
 
-In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop. Ook zorgt het gebruik van Pygame ervoor dat er geen verbinding nodig is met een netwerk, een extra hulpmiddel om de tests soepeler te laten  verlopen. Het python script kan lokaal worden opgestart, de applicatie gebruikt om code te schrijven en uit te voeren op de Raspberry Pi is 'Geanny Programmer's Editor'.
+In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht, was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop. Ook zorgt het gebruik van Pygame ervoor dat er geen verbinding nodig is met een netwerk, een extra hulpmiddel om de tests soepeler te laten  verlopen. Het python script kan lokaal worden opgestart. De ontwikkeling en uitvoering van de code op de Raspberry Pi gebeurde met behulp van 'Geany Programmer's Editor'
 
 > [!NOTE]
 > De Python-code die werd geschreven voor het spelontwerp is [hier](Code/Python/Game_Design_Pygame/Game_Design_Pygame.ino) te raadplegen. Het bijhorende bedradingsschema vind je via deze [link](https://github.com/rooooosh/CYR/blob/Aging-Young/Emerging_Tech.md#opbouw-boombox).
 
-*Kleurenthema's en look & feel van het product*
+#### Kleurenthema's en look & feel van het product
 
-Er is aanvullend onderzoek gedaan naar de kleurenthema’s en de algemene look & feel van het spel. Om een representatief beeld te krijgen van het gewenste thema voor CYR, werd een SAM-test uitgevoerd op basis van bestaande spellen. Hierbij werd gebruikgemaakt van onderstaand format:
+Er is aanvullend onderzoek gedaan naar de kleurenthema’s en de algemene look & feel van het spel. Om een representatief beeld te krijgen van het gewenste thema voor CYR, zal een SAM-test worden uitgevoerd op basis van enkele bestaande populaire spellen. Hierbij werd gebruikgemaakt van onderstaand format:
 
 <p align="left">
   <img src="CYR PICS/SAM.png" width="33%">
+  
 
-Gebruikers kregen de opdracht om dit format in te vullen aan de hand van verschillende voorgestelde thema’s, die te vinden zijn in [dit document](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EdQPWi8zvNRBgMj3hKxmxuMBOw8owCZfiqNZCp9YBQC1kw?e=dz6N5S). Item 3 op de SAM-test (dependent/independent) was voor veel gebruikers niet direct duidelijk, hiermee werd bedoeld hoe goed het spel op zichzelf staat, in welke mate is het spel een kwalitatief, volledig spel. Op deze manier werd inzicht verkregen in de voorkeuren met betrekking tot kleurgebruik, sfeer en visuele aantrekkelijkheid van het spel. De resultaten van deze test vormen een belangrijke leidraad voor de verdere uitwerking van het visuele ontwerp van CYR, zodat het eindproduct optimaal aansluit bij de beleving en verwachtingen van de doelgroep.
+De gebruikers krijgen de opdracht om dit format in te vullen aan de hand van verschillende voorgestelde [thema’s](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EdQPWi8zvNRBgMj3hKxmxuMBOw8owCZfiqNZCp9YBQC1kw?e=dz6N5S). Item 3 op de SAM-test (dependent/independent) was voor veel gebruikers niet direct duidelijk, hiermee werd bedoeld hoe goed het spel op zichzelf staat, in welke mate is het spel een kwalitatief, volledig spel. Op deze manier werd inzicht verkregen in de voorkeuren met betrekking tot kleurgebruik, sfeer en visuele aantrekkelijkheid van het spel. De resultaten van deze test vormen een belangrijke leidraad voor de verdere uitwerking van het visuele ontwerp van CYR, zodat het eindproduct optimaal aansluit bij de beleving en verwachtingen van de doelgroep.
 
-*Design van integratie hendel in spel*
+
+#### Design van integratie hendel in spel
 
 Aan de hand van [dit document](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EVDMd7EUdrlCk-C4Unt3p5UB0JONvln66VZ0HEWbj5Tr2g?e=aeasx8) werd onderzocht welk ontwerp van de integratie van de hendel in de spelinterface door gebruikers als het duidelijkst en meest overzichtelijk werd ervaren voor gebruik in CYR. In deze gebruikerstest kregen de deelnemers vier verschillende ontwerpvoorstellen te zien, elk met een unieke visuele en functionele benadering van de hendel-integratie.
 
