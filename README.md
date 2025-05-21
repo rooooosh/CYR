@@ -815,9 +815,9 @@ De gebruiker bedient het scherm via de rotary encoder, waarbij seriële communic
 - [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUMP51xwNn1DnFOSbXOD3XsBc_Xv7pupSD2HXpPGx8XwGA?e=S0mhDd)
 
 **Deelopdracht 2: Definition**
-- [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EfYsEPusgHZDknqgxVsSiI4Bk3swYG4U9OKNML6nAnSQgA?e=eirQ0T)
-- [Rapport gebruikstests](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ESqMSPj6JH9EkgovozWsvk0BrcmUu38XugnNlbRuico7Xw?e=7ZXyju)
-- [Storyboard](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EfTjkxJC3xRCkSqb8jPT_foBEXMmrpIbkWgbYjXi74KN9g?e=U8EAA4)
+- [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EYI-YyfVlQNGoJw3irhUr8IB6O55q5miOOceDfL1jvSvsQ?e=XUQ8OB)
+- [Rapport gebruikstests](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ERjb5wzzgyhHkkviu3xgs4kBmaqyodQ1J_chhb6J3ZUipA?e=c03grF)
+- [Storyboard](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EfTjkxJC3xRCkSqb8jPT_foBEXMmrpIbkWgbYjXi74KN9g?e=jgLBna)
 
 **Deelopdracht 3: Develop 1**
 - [Protocol develop 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EYnQ5_UpWrZMqZonUhhwbUYB3qiD7yPpWkR4IYsoJCzTBQ?e=y792ep)
