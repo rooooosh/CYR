@@ -4,7 +4,7 @@
 - Python-scripts zijn te vinden in [Code/Python](./Code/Python/)
 Het project bestaat uit twee onderdelen met afzonderlijke elektronische componenten. Het eerste onderdeel, de boombox, bevat een Raspberry Pi 7" DSI Touchscreen display (800 x 480 px), een Raspberry Pi 4 en een rotary encoder, gekoppeld aan een Arduino Nano. Dit onderdeel is bedoeld voor het weergeven van een spel op het scherm, bestuurd via de input van de rotary encoder. Het script voor deze toepassing is geschreven in Python, met gebruik van de Pygame-bibliotheek.
 
-Het tweede onderdeel, de touchbox, omvat een Arduino Nano, een I2C-capacitieve touchsensor, een DF Player en een speaker met versterker. Dit systeem speelt een specifiek geluid af bij aanraking. Geluiden worden afgespeeld wanneer het bijbehorende icoon verschijnt op het scherm van de boombox.
+Het tweede onderdeel, de touchbox, omvat een Arduino Nano, een I2C Capacitive touch sensor, een MP3-TF-16P en een speaker met versterker. Dit systeem speelt een specifiek geluid af bij aanraking. Geluiden worden afgespeeld wanneer het bijbehorende icoon verschijnt op het scherm van de boombox.
 
 Om een idee te krijgen van de opbouw van het project, worden deze snel voorgesteld op onderstaande schema's:
 <p align="left">
@@ -37,7 +37,7 @@ Onderstaand schema geeft weer hoe de technische componenten van de touchbox met 
   <img src="CYR PICS/Connectieschema_Touchbox.png" width="70%">
 
 #### Verficatie Input
-Om te verzekeren dat de DF Player en de touchsensor correct opstarten, bevat de code een sectie die aangeeft of deze componenten correct zijn gedetecteerd en actief zijn. Deze aanpak biedt waardevolle ondersteuning bij het debuggen van het systeem.
+Om te verzekeren dat de MP3 en de touchsensor correct opstarten, bevat de code een sectie die aangeeft of deze componenten correct zijn gedetecteerd en actief zijn. Deze aanpak biedt waardevolle ondersteuning bij het debuggen van het systeem.
 
 #### Verificatie Output
 Wanneer een signaal van de touchsensor wordt ontvangen, wordt er een geluid afgespeeld via de speaker. Dit dient als auditieve feedback om te bevestigen dat het systeem correct functioneert.
