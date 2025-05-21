@@ -347,7 +347,7 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 ## Develop 2: Focus op ergonomie (N=4)
 
 ```
-Testpersonen Develop 1
+Testpersonen Develop 2
 
 Gebruiker 1: Anne
 Gebruiker 2: Marie-Paule
@@ -545,7 +545,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 ## Develop 3: Esthetische vormgeving (N=4)
 
 ```
-Testpersonen Develop 1
+Testpersonen Develop 3
 
 Gebruiker 1: Anne
 Gebruiker 2: Marie-Paule
@@ -581,11 +581,10 @@ Aan de hand van [dit document](https://ugentbe-my.sharepoint.com/:b:/g/personal/
 
 Gebruikers werden gevraagd om elk ontwerp te beoordelen met een score van 1 (meest voorkeur) tot 4 (minst voorkeur). Tijdens de test werd actief doorgevraagd naar de motivatie achter hun keuzes, zodat niet alleen de voorkeuren, maar ook de onderliggende redenen en eventuele suggesties voor verbetering werden vastgelegd. Dit leverde waardevolle kwalitatieve feedback op over aspecten zoals begrijpelijkheid, gebruiksgemak, visuele hiërarchie en de mate waarin het ontwerp aansluit bij de behoeften van de doelgroep.
 
-```
-Hier nog Ondersteuningselement, ranking kliksysteem en foto's aanvullen blablabla
-```
+...
+
 ### Resultaten
-De volgende resultaten komen rechtstreeks van het [rapport](link nog insteken oopiedoopie) en zullen hier kort toegelicht worden.
+De volgende resultaten komen rechtstreeks van het [rapport]() en zullen hier kort toegelicht worden.
 
 ---
 
