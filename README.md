@@ -543,10 +543,13 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 ### Doelstellingen
 Deelopdracht 5 is de laatste deelopdracht van semester 2. In deze opdracht wordt de definitieve vormgeving van het prototype bepaald op basis van enkele functionele en esthetische aanpassingen. 
 
-
-Er wordt een finaal gebruikersonderzoek uitgevoerd naar de interactie met de drukknop, waarbij onder andere de ergonomie en feedback van de knop centraal staan. Daarnaast wordt de look & feel van het spel verder geëvalueerd, met specifieke aandacht voor de gebruikerservaring en visuele aantrekkelijkheid. Ook wordt de integratie van de drumfunctie in het bedieningsscherm getest, zodat gebruikers deze eenvoudig kunnen aan- of uitzetten tijdens het spelen. Tot slot wordt het ondersteuningselement, dat ook gebruikt kan worden als handvat, beoordeeld op gebruiksgemak en functionaliteit en wordt het kliksysteem van het prototype onderworpen aan een praktische test.
-
 ### Materialen & methoden 
+Er wordt een finaal gebruikersonderzoek uitgevoerd naar de interactie met de drukknop, waarbij de ergonomie en feedback van de knop centraal staat. Daarnaast wordt de look & feel van het spel verder geëvalueerd, met specifieke aandacht voor de gebruikerservaring en visuele aantrekkelijkheid. Het integreren van de hendel (om ritme aan-/uit te zetten) in de spelinterface zal door tijdsgebrek niet meer lukken. Hierbij zal er enkel onderzoek gedaan worden naar het design van de hendel en welke vormgeving het beste toepast bij deze functie. <br>
+
+Door toegenomen gewicht van het prototype (medemogelijk door integratie Raspberry Pi scherm) zal aan de bovenkant van het ontwerp een ondersteuningshendel worden voorzien om dit geheel stabiel te houden. Daarbij aansluitend zal een extra functionaliteit voorzien worden door deze hendel, dit zal in deze deelopdracht getest worden. <br>
+
+Tot slot een kliksysteem geïntroduceerd aan het prototype zodat deze niet opeens zou openspringen, dit zal onderworpen worden aan een praktische test.
+
 #### Pygame
 
 In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstarten van het spel geprogrammeerd werd m.b.v. Protopie. Een limitatie aan deze methode is het connecteren van het Raspberry Pi scherm naar de laptop met het in Protopie gemaakte spel. Een oplossing die hiervoor werd bedacht, was de introductie van Pygame. Dit biedt als voordeel dat het spel, geprogrammeerd in Pygame, kan opgestart worden zonder verbinding met een laptop. Ook zorgt het gebruik van Pygame ervoor dat er geen verbinding nodig is met een netwerk, een extra hulpmiddel om de tests soepeler te laten  verlopen. Het python script kan lokaal worden opgestart. De ontwikkeling en uitvoering van de code op de Raspberry Pi gebeurde met behulp van 'Geany Programmer's Editor'
@@ -665,8 +668,8 @@ De algemene mening rond de toevoeging van het ondersteuningselement leek een log
 
 > [!IMPORTANT]
 > **Design requirements**
->  - 1.7 Het prototype bevat ondersteuning zodat deze niet plotseling omvalt door externe belasting.
->  - 1.8 Het prototype bevat een sluitingsmechanisme zodat deze niet plotseling zou openspringen.
+>  - 1.7 De ondersteuningshendel moet makkelijk inzetbaar zijn.
+>  - 1.8 Het sluitingsmechanisme moet met één hand worden bediend.
 
 ## Algemene conclusie
 
@@ -693,8 +696,8 @@ De verschillende deelopdrachten (3, 4 en 5) brachten telkens nieuwe frisse ontwe
 | D1.4 | Het product is zo compact mogelijk. | Definition: Wave 2 | 18/02/2025 |
 | D1.5 | Het spel kan gespeeld worden zonder het dragen van een polsband. | Develop 2 | 16/04/2025 |
 | D1.6 | De verbinding tussen de touchbox en boombox maakt het mogelijk deze op te bergen in één module. | Develop 2 | 16/04/2025 |
-| D1.7 | Het prototype bevat ondersteuning zodat deze niet plotseling omvalt door externe belasting. | Develop 3 | 19/05/2025 |
-| D1.8 | 1.8 Het prototype bevat een sluitingsmechanisme zodat deze niet plotseling zou openspringen. | Develop 3 | 19/05/2025 |
+| D1.7 | De ondersteuningshendel moet makkelijk inzetbaar zijn. | Develop 3 | 19/05/2025 |
+| D1.8 | Het sluitingsmechanisme moet met één hand worden bediend. | Develop 3 | 19/05/2025 |
 | **D2**  | **Gebruiksgemak** |  |  |
 | D2.1 | De touchbox produceert geluid door een enkele aanraking met één van de toetsen. | Discovery | 14/11/2024 |
 | D2.2 | Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch. | Definition: Wave 1 | 5/12/2025 |
@@ -715,11 +718,6 @@ De verschillende deelopdrachten (3, 4 en 5) brachten telkens nieuwe frisse ontwe
 | D4.5 | De interactie met de boombox gebeurt aan de hand van fysieke knoppen. | Definition: Wave 2 | 18/02/2025 |
 | D4.6 | De draaiknop bevat textuur voor een betere gevoelservaring. | Develop 2 | 16/04/2025 |
 | D4.7 | De draaiknop bevat tactiele feedback tijdens het aandraaien. | Develop 2 | 16/04/2025 |
-
-
-```
-Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na develop 2!
-```
 
 ## Kritische reflectie
 *Rösh*
