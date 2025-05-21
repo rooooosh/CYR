@@ -571,17 +571,25 @@ Aan de hand van volgend [document](https://ugentbe-my.sharepoint.com/:b:/g/perso
 
 Vervolgens worden de gebruikers gevraagd om elk ontwerp te beoordelen met een score van 1 (meest voorkeur) tot 4 (minst voorkeur). Tijdens de test zal actief worden gevraagd naar de motivatie achter hun keuzes om onderliggende redenen en eventuele suggesties voor verbetering te noteren. Na afloop van de test zal de feedback omgebuigd worden naar de behoeften van de doelgroep om aspecten zoals duidelijkheid, gebruiksgemak en visuele hiërarchie grondig vast te leggen in het eindontwerp van CYR.
 
-#### Integratie ondersteuningshendel
+#### Toevoeging ondersteuningshendel
 Door toegenomen gewicht van het prototype (medemogelijk door integratie Raspberry Pi scherm) zal aan de bovenkant van het ontwerp een ondersteuningshendel worden voorzien om dit geheel stabiel te houden. Daarbij aansluitend zal een extra functionaliteit voorzien worden waarbij de hendel fungeert als handvat, dit zal in deze deelopdracht getest worden.
 
+
+<p align="left">
+  <img src="CYR PICS/Hendel1.jpeg" width="33%">
+  <img src="CYR PICS/Hendel2.jpeg" width="33%">
+
 #### Kliksysteem
- Een kliksysteem wordt geïntroduceerd aan het prototype zodat deze niet opeens zou openspringen, dit zal onderworpen worden aan een praktische test.
- 
+ Een kliksysteem wordt geïntroduceerd aan het prototype zodat deze niet opeens zou openspringen, dit zal onderworpen worden aan een praktische test. Ook worden een aantal verschillende variaties op dit kliksysteem voorgelegd aan de gebruiker. Bij deze een keuze te maken welk kliksysteem volgens hun vermoeden een beter of slechter alternatief kan zijn dan het standaard gemonteerde systeem.
+
+<p align="left">
+  <img src="CYR PICS/Sluiting.jpg" width="33%">
+  
 
 > [!IMPORTANT]
 > Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 3](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXTqkAN2p1pOgIOTG9bTYhYB0weaJiqkyBv4y06PXGTpgw?e=Fwo1SD)
 
-...
+
 
 ### Resultaten
 De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EfC592EW2ZVPsl3D-SPsxN4BTB7b4cqZrUNqIZX2eIkBWg?e=Yw5fJm) en zullen hier kort toegelicht worden.
