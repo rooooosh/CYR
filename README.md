@@ -576,8 +576,8 @@ Door toegenomen gewicht van het prototype (medemogelijk door integratie Raspberr
 
 
 <p align="left">
-  <img src="CYR PICS/Hendel1.jpeg" width="33%">
-  <img src="CYR PICS/Hendel2.jpeg" width="33%">
+  <img src="CYR PICS/Hendel1.jpeg" width="30%">
+  <img src="CYR PICS/Hendel2.jpeg" width="30%">
 
 #### Kliksysteem
  Een kliksysteem wordt geïntroduceerd aan het prototype zodat deze niet opeens zou openspringen, dit zal onderworpen worden aan een praktische test. Ook worden een aantal verschillende variaties op dit kliksysteem voorgelegd aan de gebruiker. Bij deze een keuze te maken welk kliksysteem volgens hun vermoeden een beter of slechter alternatief kan zijn dan het standaard gemonteerde systeem.
@@ -585,11 +585,11 @@ Door toegenomen gewicht van het prototype (medemogelijk door integratie Raspberr
 _Foto 1: Standaard kliksysteem; Foto 2: Kliksysteem variant 1; Foto 3: Kliksysteem variant 2; Foto 4: Kliksysteem variant 3; Foto 5: Kliksysteem variant 4_
 <p align="left">
   <img src="CYR PICS/Sluiting.jpg" width="28%">
-  <img src="CYR PICS/Klik1.jpg" width="23%">
+  <img src="CYR PICS/Klik1.jpg" width="23.5%">
 <p align="left">
-  <img src="CYR PICS/Klik2.jpg" width="23%">
-  <img src="CYR PICS/Klik3.jpg" width="23%">
-  <img src="CYR PICS/Klik4.jpg" width="23%">
+  <img src="CYR PICS/Klik2.jpg" width="23.5%">
+  <img src="CYR PICS/Klik3.jpg" width="23.5%">
+  <img src="CYR PICS/Klik4.jpg" width="23.5%">
   
 
 > [!IMPORTANT]
