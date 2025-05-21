@@ -575,7 +575,7 @@ Er is aanvullend onderzoek gedaan naar de kleurenthema’s en de algemene look &
   <img src="CYR PICS/SAM.png" width="33%">
   
 
-De gebruikers krijgen de opdracht om dit format in te vullen aan de hand van verschillende voorgestelde [thema’s](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EdQPWi8zvNRBgMj3hKxmxuMBOw8owCZfiqNZCp9YBQC1kw?e=dz6N5S). Item 3 op de SAM-test (dependent/independent) was voor veel gebruikers niet direct duidelijk, hiermee werd bedoeld hoe goed het spel op zichzelf staat, in welke mate is het spel een kwalitatief, volledig spel. Op deze manier werd inzicht verkregen in de voorkeuren met betrekking tot kleurgebruik, sfeer en visuele aantrekkelijkheid van het spel. De resultaten van deze test vormen een belangrijke leidraad voor de verdere uitwerking van het visuele ontwerp van CYR, zodat het eindproduct optimaal aansluit bij de beleving en verwachtingen van de doelgroep.
+De gebruikers krijgen de opdracht om dit format in te vullen aan de hand van verschillende voorgestelde [thema’s](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EdQPWi8zvNRBgMj3hKxmxuMBOw8owCZfiqNZCp9YBQC1kw?e=dz6N5S). Op deze manier werd inzicht verkregen in de voorkeuren met betrekking tot kleurgebruik, sfeer en visuele aantrekkelijkheid van het spel. De resultaten van deze test vormen een belangrijke leidraad voor de verdere uitwerking van het visuele ontwerp van CYR, zodat het eindproduct optimaal aansluit bij de beleving en verwachtingen van de doelgroep.
 
 
 #### Design van integratie hendel in spel
@@ -606,27 +606,27 @@ De meningen over de duur van de drukknop waren verdeeld. Alle gebruikers vonden 
 
 #### **Kleurenthema's en look product** 
 
-De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EVC1BHvYk0pLt7RclKCJMEIB6Pc4BeH628hsrbDKr_4vAQ?e=tcYJv0) terug te vinden. De belangrijkste gegevens worden hieronder nog even bij elkaar gezet.
+De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EVC1BHvYk0pLt7RclKCJMEIB6Pc4BeH628hsrbDKr_4vAQ?e=tcYJv0) terug te vinden. De belangrijkste gegevens worden hieronder nog even bij elkaar gezet. Item 3 op de SAM-test (dependent/independent) was voor veel gebruikers niet direct duidelijk. Hiermee werd bedoeld hoe goed het spel op zichzelf staat, m.a.w. in welke mate is dit een kwalitatief, volledig spel.
 
   - Piano Tiles
-    - Piano Tiles werd qua gevoel eerder neutraal tot cheerful geëvalueerd
-    - Op vlak van drukte werd er een neutrale score gegeven
-    - Op vlak van dependent/independent werd er ook een neutrale score gegeven
+    - Piano Tiles werd op basis van gevoel eerder neutraal tot cheerful geëvalueerd.
+    - Op vlak van drukte werd er een neutrale score gegeven.
+    - Op vlak van dependent/independent werd er een neutrale score gegeven.
   - Guitar Hero
-    - Guitar Hero kreeg een eerder 'cheerful', dus positievere score
-    - Voor velen werd dit ontwerp als vrij druk geëvalueerd
-    - Op vlak van dependent/independent werd er ook een neutrale-cheerful score gegeven
+    - Guitar Hero kreeg een eerder 'cheerful', dus positievere score.
+    - Voor velen werd dit ontwerp als vrij druk geëvalueerd.
+    - Op vlak van dependent/independent werd er een neutrale-cheerful score gegeven.
   - Jewel Saga
-    - Deze kreeg een zeer verdeelde verdeling qua gevoel, dit komt mogelijks doordat ze dit spel al kenden, waardoor sommige gebruikers meer/minder fan zijn van het ontwerp, en zo een bias ontwikkelen.
-    - Jewel Saga kreeg een neutrale-quiet evaluatie
-    - Er werd op vlak van independent/dependent een redelijk hoge 'dependent' score gegeven
+    - De meningen over dit thema waren sterk verdeeld. Mogelijk komt dit doordat sommige gebruikers het spel al kenden, waardoor zij al dan niet een voorkeur hadden voor het ontwerp en er dus sprake was van een zekere bias.
+    - Jewel Saga kreeg een neutrale-quiet evaluatie.
+    - Er werd op vlak van independent/dependent een redelijk hoge 'dependent' score gegeven.
   - Just Dance
-    - Just Dance kreeg een zeer cheerful score
-    - Op vlak van drukte kreeg deze een zeer drukke score
-    - Op 1 uitzondering na, kreeg deze een vrij hoge score op vlak van onafhankelijkheid
+    - Just Dance kreeg een zeer cheerful score.
+    - Op vlak van drukte kreeg deze een zeer drukke score.
+    - Op één uitzondering na, kreeg deze een vrij hoge score op vlak van onafhankelijkheid.
   - Eigen Ontwerp
-    - Het eigen ontwerp kreeg een zeer hoge score op vlak van emotie, door de eerder neutrale tonen van het ontwerp, zijn deze resultaten waarschijnlijk weer ten gevolge van een bias
-    - Het kreeg qua drukte een eerder neutrale score
+    - Het eigen ontwerp kreeg een zeer hoge score op vlak van emotie. 
+    - Het kreeg op basis van drukte een eerder neutrale score.
     - Op vlak van independent/dependent kreeg deze een zeer hoge 'dependent' score.
  
 
