@@ -199,15 +199,6 @@ Deze korte tegenslagen terzijde, verliep de samenwerking en de vooruitgang die w
 
 ## Develop 1: Definiëren van gebruiksinterfaces (N=3) 
 
-```
-Testpersonen Develop 1
-
-Gebruiker 1: Anne
-Gebruiker 2: Sofie
-Gebruiker 3: Pieter Jan
-```
-
-
 ### Doelstellingen
 De oplossingen die werden gebracht in wave 2 van de definition fase, zullen verder verfijnd worden waarbij opnieuw een aantal gebruikstests worden afgelegd. Het doel is om de centrale interfaces van beide componenten vast te leggen met een aantal gebouwde iteraties.
 
@@ -271,6 +262,10 @@ _Foto 1: Originele boombox; Foto 2: Boombox met 4 drukknoppen; Foto 3: Boombox m
 De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EcLrkE5KQL9KjGkvioypGBIBMkkocPpwzSfuyE07QG-s8w?e=CoKWLz) en zullen hier kort toegelicht worden.
 
 ---
+
+```Gebruiker 1:``` Anne
+```Gebruiker 2:``` Sofie
+```Gebruiker 3:``` Pieter Jan
 
 #### **Touchbox MOS Test**
 - 1 - zeer slecht
@@ -345,15 +340,6 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 >  - 4.5 De interactie met de boombox gebeurt aan de hand van fysieke knoppen.
 
 ## Develop 2: Focus op ergonomie (N=4)
-
-```
-Testpersonen Develop 2
-
-Gebruiker 1: Anne
-Gebruiker 2: Marie-Paule
-Gebruiker 3: Jacques
-Gebruiker 4: Pieter Jan
-```
 
 ### Doelstellingen
 Uit deelopdracht 3 werden de interfaces voor zowel de touchbox als boombox vastgelegd. Het doel van deelopdracht 4 (develop 2) is nadruk leggen op de usability en user experience van CYR. 
@@ -452,6 +438,11 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 ---
 
+```Gebruiker 1:``` Anne
+```Gebruiker 2:``` Marie-Paule
+```Gebruiker 3:``` Jacques
+```Gebruiker 4:``` Pieter Jan
+
 #### **Touchbox MOS Test**
 - 1 - zeer slecht
 - 5 - uitstekend
@@ -544,15 +535,6 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 ## Develop 3: Esthetische vormgeving (N=4)
 
-```
-Testpersonen Develop 3
-
-Gebruiker 1: Anne
-Gebruiker 2: Marie-Paule
-Gebruiker 3: Jacques
-Gebruiker 4: Pieter Jan
-```
-
 ### Doelstellingen
 Deelopdracht 5 is de laatste deelopdracht van semester 2. In deze opdracht wordt de definitieve vormgeving van het prototype bepaald op basis van enkele functionele en esthetische aanpassingen. 
 
@@ -591,16 +573,21 @@ De volgende resultaten komen rechtstreeks van het [rapport]() en zullen hier kor
 
 ---
 
+```Gebruiker 1:``` Pieter Jan
+```Gebruiker 2:``` Anne
+```Gebruiker 3:``` Marie-Paule
+```Gebruiker 4:``` Jacques
+
 #### **Long press voor selectiescherm** 
 - **<ins>X</ins>** - hoofdvoorkeur
 
 
 |       | **750ms** | **1000ms** | **1500ms (standaard)** | **Eigen voorstel? (optioneel)** | 
 |-|:---:|:---:|:---:|:---:|
-| Pieter Jan Lernout    |  **<ins>X</ins>**    |   X   |    x   |       |      
-| Anne Mestdag    |  **<ins>X</ins>**|      |    X   |       |      
-| Marie-Paule Defever |   X     |      |       |  500: **<ins>X</ins>**   |
-| Jacques Vander Oost|    X    |      |       |  500 **<ins>X</ins>**   |
+| Pieter Jan     |  **<ins>X</ins>**    |   X   |    x   |       |      
+| Anne   |  **<ins>X</ins>**|      |    X   |       |      
+| Marie-Paule  |   X     |      |       |  500: **<ins>X</ins>**   |
+| Jacques |    X    |      |       |  500 **<ins>X</ins>**   |
 
 De meningen over de duur van de drukknop waren verdeeld. Alle gebruikers vonden 1500 ms te lang, dit gaf snel de indruk dat er iets mis was of dat het apparaat niet reageerde. Een duur van 750 ms werd over het algemeen als beter ervaren, al gaven Marie-Paule en Jacques aan dat het voor hen nog iets korter mocht (500 ms). Tijdens de tests bleek er soms verwarring te ontstaan tussen een enkele klik en een lange klik bij 500ms. Daarom is gekozen om 750 ms als standaard te integreren in het product.
 
