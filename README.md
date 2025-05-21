@@ -346,6 +346,15 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 
 ## Develop 2: Focus op ergonomie (N=4)
 
+```
+Testpersonen Develop 1
+
+Gebruiker 1: Anne
+Gebruiker 2: Marie-Paule
+Gebruiker 3: Jacques
+Gebruiker 4: Pieter Jan
+```
+
 ### Doelstellingen
 Uit deelopdracht 3 werden de interfaces voor zowel de touchbox als boombox vastgelegd. Het doel van deelopdracht 4 (develop 2) is nadruk leggen op de usability en user experience van CYR. 
 
@@ -450,10 +459,10 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 |**Gebruiker**               | **Score** | **Beperking**|
 |-|-|-|
-| Anne Mestdag    | 4      | Licht Storend   | 
-| Marie-Paule Defever     | 4-5    | Niet storend tot perfect|
-| Jacques Vander Oost | 4-5 | Niet storend tot perfect  |
-| Pieter Jan Lernout | /* | Geen mogelijke uitspraak  |
+| Anne     | 4      | Licht Storend   | 
+| Marie-Paule      | 4-5    | Niet storend tot perfect|
+| Jacques  | 4-5 | Niet storend tot perfect  |
+| Pieter Jan  | /* | Geen mogelijke uitspraak  |
 | | *Gem.: 4* ||
 
 **<sub>Door omstandigheden werd de latency op de touchbox niet getest, hierdoor kon geen score/uitspraak gegeven worden.</sub>*
@@ -467,10 +476,10 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 |       | **Textuur 1** | **Textuur 2** | **Textuur 3** | **Textuur 4** | **Textuur 5** | **Textuur 6** |
 |-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Anne Mestdag    |      |      |   X    |    X   |      |   **<ins>X</ins>**   |
-| Marie-Paule Defever    |  |      |   X    |       |   X   |   **<ins>X</ins>**   |
-| Jacques Vander Oost |        |      |   X    |       |   X   |  **<ins>X</ins>**   |
-| Pieter Jan Lernout|    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
+| Anne     |      |      |   X    |    X   |      |   **<ins>X</ins>**   |
+| Marie-Paule     |  |      |   X    |       |   X   |   **<ins>X</ins>**   |
+| Jacques  |        |      |   X    |       |   X   |  **<ins>X</ins>**   |
+| Pieter Jan |    X    |      |   X    |    **<ins>X</ins>**   |      |      ||
 
 
 #### **Grootte van de draaiknoppen**
@@ -480,10 +489,10 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 |       | **30mm** | **35mm** | **40mm** | **45mm** | **50mm** | **55mm** |
 |-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Anne Mestdag    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
-| Marie-Paule Defever    |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
-| Jacques Vander Oost |        |   **<ins>X</ins>**   |   X    |   X    |      |     |
-| Pieter Jan Lernout|   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
+| Anne     |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
+| Marie-Paule     |   **<ins>X</ins>**    |    X  |   X    |      |      |     |
+| Jacques  |        |   **<ins>X</ins>**   |   X    |   X    |      |     |
+| Pieter Jan |   **<ins>X</ins>**    |    X  |   X    |      |      |     ||
 
 
 #### **Draaien van de knop** 
@@ -492,10 +501,10 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 
 |       | **2 clicks (1/8<sup>ste</sup> click** | **Kwartslag (5 clicks)** | **Halve omwenteling (10 clicks)** | **Volledige omwenteling (20 clicks)** | 
 |-|:---:|:---:|:---:|:---:|
-| Anne Mestdag    |   **<ins>X</ins>**    |      |      |      | 
-| Marie-Paule Defever    |   **<ins>X</ins>**    |      |       |      |     
-| Jacques Vander Oost |     **<ins>X</ins>**   |      |       |       |     
-| Pieter Jan Lernout|   **<ins>X</ins>**    |      |       |      |      ||
+| Anne    |   **<ins>X</ins>**    |      |      |      | 
+| Marie-Paule     |   **<ins>X</ins>**    |      |       |      |     
+| Jacques  |     **<ins>X</ins>**   |      |       |       |     
+| Pieter Jan |   **<ins>X</ins>**    |      |       |      |      ||
   
 
 #### **Design van het spel** 
@@ -534,6 +543,15 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 >  - 4.6 De draaiknoppen bevatten textuur voor een betere gevoelservaring.
 
 ## Develop 3: Esthetische vormgeving (N=4)
+
+```
+Testpersonen Develop 1
+
+Gebruiker 1: Anne
+Gebruiker 2: Marie-Paule
+Gebruiker 3: Jacques
+Gebruiker 4: Pieter Jan
+```
 
 ### Doelstellingen
 Deelopdracht 5 vormt de afsluitende fase van semester 2. In deze opdracht wordt de definitieve vormgeving van het prototype bepaald op basis van zowel functionele als esthetische optimalisaties. Er wordt een finaal gebruikersonderzoek uitgevoerd naar de interactie met de drukknop, waarbij onder andere de ergonomie en feedback van de knop centraal staan. Daarnaast wordt de look & feel van het spel verder geëvalueerd, met specifieke aandacht voor de gebruikerservaring en visuele aantrekkelijkheid. Ook wordt de integratie van de drumfunctie in het bedieningsscherm getest, zodat gebruikers deze eenvoudig kunnen aan- of uitzetten tijdens het spelen. Tot slot wordt het ondersteuningselement, dat ook gebruikt kan worden als handvat, beoordeeld op gebruiksgemak en functionaliteit en wordt het kliksysteem van het prototype onderworpen aan een praktische test.
@@ -612,22 +630,22 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
 
 
 #### **integratie hendel in spelinterface** 
-- **1 - meest voorkeur**
-- **4 - minst voorkeur**
+- 1 - meest voorkeur
+- 4 - minst voorkeur
 
 
 |       | **Design 1** | **Design 2** | **Design 3** | **Design 4** | 
 |-|:---:|:---:|:---:|:---:|
-| Pieter Jan Lernout    |  2    |  4    |   3    |   1    |      
-| Anne Mestdag    |  2 |  3    |  4     |    1   |      
-| Marie-Paule Defever |   3    |  2    |   1    |  4     | 
-| Jacques Vander Oost|    2   |   4   |    1   |    3  |
-| ***Gemiddelde***|    *2,25*   |  *3,25*    |   *2,25*    |   *2,25*   |
+| Pieter Jan     |  2    |  4    |   3    |   1    |      
+| Anne   |  2 |  3    |  4     |    1   |      
+| Marie-Paule  |   3    |  2    |   1    |  4     | 
+| Jacques |    2   |   4   |    1   |    3  |
 
-[Nog tekst bij toevoegen]
+
+...
 
 #### **Toevoeging ondersteuningselement**
-[yapieyapiedabie]
+...
 
 #### **Ranking Kliksysteem**
 - **<ins>X</ins>** - hoofdvoorkeur
@@ -636,10 +654,10 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
 
 |       | **Systeem 1** | **Systeem 2** | **Systeem 3** | **Systeem 4** | **Systeem 5 (standaard)** | 
 |-|:---:|:---:|:---:|:---:|:---:|
-| Pieter Jan Lernout    |      |      |       |       |  **<ins>X</ins>**  |   
-| Anne Mestdag    |   |      |  X     |    **<ins>X</ins>**   |  X  |   
-| Marie-Paule Defever |   X    |   X   |   **<ins>X</ins>**    |       |      | | 
-| Jacques Vander Oost|    X   |   X   |    **<ins>X</ins>**   |      |       | |
+| Pieter Jan     |      |      |       |       |  **<ins>X</ins>**  |   
+| Anne     |   |      |  X     |    **<ins>X</ins>**   |  X  |   
+| Marie-Paule  |   X    |   X   |   **<ins>X</ins>**    |       |      | | 
+| Jacques |    X   |   X   |    **<ins>X</ins>**   |      |       | |
 
 ### Conclusies en implicaties
 
