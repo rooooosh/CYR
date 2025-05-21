@@ -263,9 +263,9 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 ---
 
-```Gebruiker 1:``` Anne
-```Gebruiker 2:``` Sofie
-```Gebruiker 3:``` Pieter Jan
+`Gebruiker 1:` Anne <br>
+`Gebruiker 2:` Sofie <br>
+`Gebruiker 3:` Pieter Jan
 
 #### **Touchbox MOS Test**
 - 1 - zeer slecht
@@ -438,10 +438,10 @@ De volgende resultaten komen rechtstreeks van het [rapport](https://ugentbe-my.s
 
 ---
 
-```Gebruiker 1:``` Anne
-```Gebruiker 2:``` Marie-Paule
-```Gebruiker 3:``` Jacques
-```Gebruiker 4:``` Pieter Jan
+`Gebruiker 1:` Anne  <br>
+`Gebruiker 2:` Marie-Paule <br>
+`Gebruiker 3:` Jacques <br>
+`Gebruiker 4:` Pieter Jan
 
 #### **Touchbox MOS Test**
 - 1 - zeer slecht
@@ -573,10 +573,10 @@ De volgende resultaten komen rechtstreeks van het [rapport]() en zullen hier kor
 
 ---
 
-```Gebruiker 1:``` Pieter Jan
-```Gebruiker 2:``` Anne
-```Gebruiker 3:``` Marie-Paule
-```Gebruiker 4:``` Jacques
+`Gebruiker 1:` Pieter Jan <br>
+`Gebruiker 2:` Anne <br>
+`Gebruiker 3:` Marie-Paule <br>
+`Gebruiker 4:` Jacques
 
 #### **Long press voor selectiescherm** 
 - **<ins>X</ins>** - hoofdvoorkeur
