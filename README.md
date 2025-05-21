@@ -678,10 +678,10 @@ De algemene mening rond de toevoeging van het ondersteuningselement leek een log
 
 ### Conclusies en implicaties
 - Een korte duratie van de long press voor het tevoorschijn halen van het selectiescherm kreeg de voorkeur van alle gebruikers.
-- Verdeelde meningen werden bevonden uit de SAM-testen wat betreft look & feel van het spel. In de toekomst kan in het spelinterface een optie geprogrammeerd worden waarbij de gebruiker een keuze kan maken uit deze designs i.p.v. een enkele keuze
+- Verdeelde meningen werden bevonden uit de SAM-testen wat betreft look & feel van het spel. In de toekomst kan in het spelinterface een optie geprogrammeerd worden waarbij de gebruiker een keuze kan maken uit deze designs i.p.v. een enkele keuze.
 - Rond het design van de hendel werden design 1 en design 4 bij voorkeur genomen. Dit mede door de betere intuïtie ervaren bij dit ontwerp.
 - Het ondersteuningselement is een logisch gegeven en een terechte toevoeging. De extra functie als handvat is een positieve bijzaak en kan ook richting de toekomst veranderen in vormgeving en functionaliteit.
-- De toevoeging van het kliksysteem is een logisch gegeven. Er werd bij alle gebruikers aangekaar dat deze handeling niet te complex mag zijn. Dit mechanisme bedienen met één hand was de hoogste prioriteit tijdens de testen.
+- De toevoeging van het kliksysteem is een logisch gegeven. Er werd bij alle gebruikers aangekaart dat deze handeling niet te complex mag zijn. Dit mechanisme bedienen met één hand was de hoogste prioriteit tijdens de testen.
 
 
 > [!IMPORTANT]
