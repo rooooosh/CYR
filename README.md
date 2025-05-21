@@ -331,7 +331,7 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 
 
 > [!IMPORTANT]
-> **Design requirements** (draaiknop nog insteken)
+> **Design requirements** 
 >  - 1.3 De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen.
 >  - 1.4 Het product is zo compact mogelijk.
 >  - 2.4 De interface van de boombox is zodanig ontworpen zodat de interactie hiermee geen overbodige elementen bevat.
@@ -536,6 +536,7 @@ Hieruit kan geconludeerd worden dat zowel een verandering in software als hardwa
 >  - 1.6 De verbinding tussen de touchbox en boombox maakt het mogelijk deze op te bergen in één module.
 >  - 2.6 De touchbox heeft een minimale hoogte, zodat de gebruiker het spel comfortabel kan blijven spelen zonder dat de arm vermoeid raakt.
 >  - 4.6 De draaiknoppen bevatten textuur voor een betere gevoelservaring.
+>  - 4.7 De draaiknop bevat tactiele feedback tijdens het aandraaien.
 
 ## Develop 3: Esthetische vormgeving (N=4)
 
@@ -640,11 +641,8 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
 | Marie-Paule  |   3    |  2    |   1    |  4     | 
 | Jacques |    2   |   4   |    1   |    3  |
 
-
-...
-
 #### **Toevoeging ondersteuningselement**
-...
+De algemene mening rond de toevoeging van het ondersteuningselement leek een logiche zaak. Er werd vol begrip akkoord gegaan met het integreren van deze functie in het prototype om het plotseling omvallen te voorkomen. De dubbelfunctie rond het gebruik van deze ondersteuning als handvat werd gezien als mooie ingeving. De gebruikers kunnen op hun beurt gemakkelijk het prototype verplaatsen van A naar B via dit _handvat_. In de toekomst kan ingestemd worden voor een verdeelde keuze rond het design van dit element, maar conceptueel gezien is dit een positieve toevoeging aan het prototype.
 
 #### **Ranking Kliksysteem**
 - **<ins>X</ins>** - hoofdvoorkeur
@@ -659,14 +657,30 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
 | Jacques |    X   |   X   |    **<ins>X</ins>**   |      |       | |
 
 ### Conclusies en implicaties
+- Een korte duratie van de long press voor het tevoorschijn halen van het selectiescherm kreeg de voorkeur van alle gebruikers.
+- Verdeelde meningen werden bevonden uit de SAM-testen wat betreft look & feel van het spel. In de toekomst kan in het spelinterface een optie geprogrammeerd worden waarbij de gebruiker een keuze kan maken uit deze designs i.p.v. een enkele keuze
+- Rond het design van de hendel werden design 1 en design 4 bij voorkeur genomen. Dit mede door de betere intuïtie ervaren bij dit ontwerp.
+- Het ondersteuningselement is een logisch gegeven en een terechte toevoeging. De extra functie als handvat is een positieve bijzaak en kan ook richting de toekomst veranderen in vormgeving en functionaliteit.
+- De toevoeging van het kliksysteem is een logisch gegeven. Er werd bij alle gebruikers aangekaar dat deze handeling niet te complex mag zijn. Dit mechanisme bedienen met één hand was de hoogste prioriteit tijdens de testen.
 
-...
+> [!IMPORTANT]
+> **Design requirements**
+>  - 1.7 Het prototype bevat ondersteuning zodat deze niet plotseling omvalt door externe belasting.
+>  - 1.8 Het prototype bevat een sluitingsmechanisme zodat deze niet plotseling zou openspringen.
 
 ## Algemene conclusie
 
 ### Slotbevindingen
 
-...
+De verschillende deelopdrachten (3, 4 en 5) brachten telkens nieuwe frisse ontwerpuitdagingen aan het licht na de introductie van de verbeterde prototype. Er werd telkens positieve progressie gemaakt richting het eindontwerp waarbij de gebruikers zeer nuttige en goed onderbouwde feedback gaven. Zelfs naar einde van het project werden opnieuw nieuwe zaken aan het licht gebracht die het prototype kunnen brengen naar een volgend niveau. Deze zaken zullen uiteraard niet meer behandeld worden (wegens tijdsgebrek), maar zullen hieronder weergegeven worden als een bullet list met zaken die in de toekomst kunnen toegevoegd worden:
+
+- Programmeren van hendel in spelinterface
+- Toetsen van touchbox laten oplichten in verschillend kleur voor extra moeilijkheid
+- Toevoegen van moeilijkheidsniveau's 
+- Nog compacter maken van prototype
+- Spel spelen zonder bedrading en aansluiting met laptop (uiteraard)
+- Eigen liedjes in het spel steken
+
 
 ### Finale design requirements
 
@@ -678,14 +692,16 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
 | D1.3 | De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen. | Definition: Wave 2 | 18/02/2025 |
 | D1.4 | Het product is zo compact mogelijk. | Definition: Wave 2 | 18/02/2025 |
 | D1.5 | Het spel kan gespeeld worden zonder het dragen van een polsband. | Develop 2 | 16/04/2025 |
-| D1.6 | De verbinding tussen de touchbox en boombox maakt het mogelijk deze op te bergen in één module | Develop 2 | 16/04/2025 |
+| D1.6 | De verbinding tussen de touchbox en boombox maakt het mogelijk deze op te bergen in één module. | Develop 2 | 16/04/2025 |
+| D1.7 | Het prototype bevat ondersteuning zodat deze niet plotseling omvalt door externe belasting. | Develop 3 | 19/05/2025 |
+| D1.8 | 1.8 Het prototype bevat een sluitingsmechanisme zodat deze niet plotseling zou openspringen. | Develop 3 | 19/05/2025 |
 | **D2**  | **Gebruiksgemak** |  |  |
 | D2.1 | De touchbox produceert geluid door een enkele aanraking met één van de toetsen. | Discovery | 14/11/2024 |
 | D2.2 | Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch. | Definition: Wave 1 | 5/12/2025 |
 | D2.3 | Elke toets wordt afgebeeld met een ander symbool. | Definition: Wave 1 | 5/12/2024 |
 | D2.4 | De interface van de boombox is ontworpen zonder overbodige elementen, zodat de interactie eenvoudig blijft. | Definition: Wave 2 | 18/02/2025 |
 | D2.5 | Voor elke gebruiker is een uitdagend niveau beschikbaar. | Definition: Wave 2 | 18/02/2025 |
-| D2.6 | De touchbox heeft een minimale hoogte, zodat de gebruiker het spel comfortabel kan blijven spelen zonder dat de arm vermoeid raakt | Develop 2 | 16/04/2025 |
+| D2.6 | De touchbox heeft een minimale hoogte, zodat de gebruiker het spel comfortabel kan blijven spelen zonder dat de arm vermoeid raakt. | Develop 2 | 16/04/2025 |
 | **D3** | **Interactiviteit** |  |  |
 | D3.1 | De boombox heeft een functieknop aan de zijkant om het ritme van muziek aan/uit te schakelen. | Discovery | 24/10/2024 |
 | D3.2 | De boombox bevat verschillende knoppen om een keuze te maken uit verschillende liedjes. | Discovery | 24/10/2024 |
@@ -697,7 +713,9 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
 | D4.3 | De toetsen bevinden zich in een dicht gestapeld raster (2x2, 3x2, 3x3) om multi-touch mogelijk te maken. | Discovery | 24/10/2024 |
 | D4.4 | De knoppen van de touchbox bevatten een grootte van 6x6cm. | Definition: Wave 2 | 18/02/2025 |
 | D4.5 | De interactie met de boombox gebeurt aan de hand van fysieke knoppen. | Definition: Wave 2 | 18/02/2025 |
-| D4.6 | De draaiknoppen bevatten textuur voor een betere gevoelservaring. | Develop 2 | 16/04/2025 |
+| D4.6 | De draaiknop bevat textuur voor een betere gevoelservaring. | Develop 2 | 16/04/2025 |
+| D4.7 | De draaiknop bevat tactiele feedback tijdens het aandraaien. | Develop 2 | 16/04/2025 |
+
 
 ```
 Vermelden duidelijk interactie new design van spel + grootte draaiknoppen na develop 2!
