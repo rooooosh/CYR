@@ -326,7 +326,7 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 - Wanneer op dezelfde wijze de varianten op de interface van de boombox werden voorgelegd, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek de goede oplossing voor dit probleem. Het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om zo te kunnen selecteren via 1 knop. 
 - De grote van het ontworpen scherm blijkt goed te zijn. Het gaat eerder over de grote van de iconen i.p.v. de grote van het scherm.
 - het spel zelf zit goed ineen, er kan mogelijks nog gespeeld worden met het kleurenpalette en een deeltje van de layout.
-- De hendel is onnodig. De functie hiervan kan worden geïntegreerd in de gekozen interface.
+- Een fysieke hendel is onnodig. De functie hiervan kan worden geïntegreerd in de gekozen interface.
 - De algemene mening van de gebruikers geeft weer dat ze liever de touchbox en boombox aan elkaar zouden hebben. Dit haalt een aantal praktische problemen weg en is de voor de hand liggende keuze.
 
 
@@ -338,6 +338,7 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 >  - 2.5 Voor elke gebruiker is er een uitdagend niveau beschikbaar.
 >  - 3.3 Het product maakt duidelijk met welke elementen de gebruiker kan interageren.
 >  - 3.4 De touchbox is responsief en heeft een lage latency.
+>  - 3.5 De hendel moet niet fysiek aanwezig zijn op de boombox.
 >  - 4.4 De knoppen van de touchbox bevatten een grootte van 6x6cm.
 >  - 4.5 De interactie met de boombox gebeurt aan de hand van fysieke knoppen.
 
@@ -728,6 +729,7 @@ De verschillende deelopdrachten (3, 4 en 5) brachten telkens nieuwe frisse ontwe
 | D3.2 | De boombox bevat verschillende knoppen om een keuze te maken uit verschillende liedjes. | Discovery | 24/10/2024 |
 | D3.3 | Het product maakt duidelijk met welke elementen de gebruiker kan interageren. | Definition: Wave 2 | 18/02/2025 |
 | D3.4 | De touchbox is responsief en heeft een lage latency. | Definition: Wave 2 | 18/02/2025 |
+| D3.5 | De hendel moet niet fysiek aanwezig zijn op de boombox. | Definition: Wave 2 | 18/02/2025 |
 | **D4** | **Ergonomie** |  |  |
 | D4.1 | De dimensies van de touchbox (25,5cm x 17,5cm) maken het mogelijk deze makkelijk op te bergen.  | Discovery | 24/10/2024 |
 | D4.2 | De drukknoppen hebben een minimale diameter van 4-6cm om een keuze uit liedjes te maken. | Discovery | 24/10/2024 |
