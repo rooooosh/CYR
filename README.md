@@ -546,9 +546,6 @@ Deelopdracht 5 is de laatste deelopdracht van semester 2. In deze opdracht wordt
 ### Materialen & methoden 
 Er wordt een finaal gebruikersonderzoek uitgevoerd naar de interactie met de drukknop, waarbij de ergonomie en feedback van de knop centraal staat. Daarnaast wordt de look & feel van het spel verder geëvalueerd, met specifieke aandacht voor de gebruikerservaring en visuele aantrekkelijkheid. Het integreren van de hendel (om ritme aan-/uit te zetten) in de spelinterface zal door tijdsgebrek niet meer lukken. Hierbij zal er enkel onderzoek gedaan worden naar het design van de hendel en welke vormgeving het beste toepast bij deze functie. <br>
 
-Door toegenomen gewicht van het prototype (medemogelijk door integratie Raspberry Pi scherm) zal aan de bovenkant van het ontwerp een ondersteuningshendel worden voorzien om dit geheel stabiel te houden. Daarbij aansluitend zal een extra functionaliteit voorzien worden door deze hendel, dit zal in deze deelopdracht getest worden. <br>
-
-Tot slot een kliksysteem geïntroduceerd aan het prototype zodat deze niet opeens zou openspringen, dit zal onderworpen worden aan een praktische test.
 
 #### Pygame
 
@@ -557,7 +554,7 @@ In vorige deelopdrachten werd vermeld dat de gebruikte software voor het opstart
 > [!NOTE]
 > De Python-code die werd geschreven voor het spelontwerp is [hier](Code/Python/Game_Design_Pygame/Game_Design_Pygame.ino) te raadplegen. Het bijhorende bedradingsschema vind je via deze [link](https://github.com/rooooosh/CYR/blob/Aging-Young/Emerging_Tech.md#opbouw-boombox).
 
-#### Kleurenthema's en look & feel van het product
+#### Kleurenthema's en look van het product
 
 Er is aanvullend onderzoek gedaan naar de kleurenthema’s en de algemene look & feel van het spel. Om een representatief beeld te krijgen van het gewenste thema voor CYR, zal een SAM-test worden uitgevoerd op basis van enkele bestaande populaire spellen. Hierbij werd gebruikgemaakt van onderstaand format:
 
@@ -568,12 +565,18 @@ Er is aanvullend onderzoek gedaan naar de kleurenthema’s en de algemene look &
 De gebruikers krijgen de opdracht om dit format in te vullen aan de hand van verschillende voorgestelde [thema’s](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EddukDsqnMFEonWV6gk9_9QBDJll5ITeB9r375OCDEYBWA?e=NUGDbU). Op deze manier werd inzicht verkregen in de voorkeuren met betrekking tot kleurgebruik, sfeer en visuele aantrekkelijkheid van het spel. De resultaten van deze test vormen een belangrijke leidraad voor de verdere uitwerking van het visuele ontwerp van CYR, zodat het eindproduct optimaal aansluit bij de beleving en verwachtingen van de doelgroep.
 
 
-#### Design van integratie hendel in spel
+#### Design van integratie hendel in spelinterface
 
 Aan de hand van volgend [document](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXEy8T2KiR9CukrFr04W8asBibGEKA7jPmabWV9tvZJqBQ?e=i9hcNO) zal worden onderzocht welk ontwerp van de integratie van de hendel in de spelinterface door gebruikers als het duidelijkst en meest overzichtelijk wordt ervaren. In deze gebruikstest krijgen de deelnemers vier verschillende ontwerpvoorstellen te zien, elk met een unieke visuele en functionele benadering van de hendelintegratie.
 
 Vervolgens worden de gebruikers gevraagd om elk ontwerp te beoordelen met een score van 1 (meest voorkeur) tot 4 (minst voorkeur). Tijdens de test zal actief worden gevraagd naar de motivatie achter hun keuzes om onderliggende redenen en eventuele suggesties voor verbetering te noteren. Na afloop van de test zal de feedback omgebuigd worden naar de behoeften van de doelgroep om aspecten zoals duidelijkheid, gebruiksgemak en visuele hiërarchie grondig vast te leggen in het eindontwerp van CYR.
 
+#### Integratie ondersteuningshendel
+Door toegenomen gewicht van het prototype (medemogelijk door integratie Raspberry Pi scherm) zal aan de bovenkant van het ontwerp een ondersteuningshendel worden voorzien om dit geheel stabiel te houden. Daarbij aansluitend zal een extra functionaliteit voorzien worden waarbij de hendel fungeert als handvat, dit zal in deze deelopdracht getest worden.
+
+#### Kliksysteem
+ Een kliksysteem wordt geïntroduceerd aan het prototype zodat deze niet opeens zou openspringen, dit zal onderworpen worden aan een praktische test.
+ 
 
 > [!IMPORTANT]
 > Verdere ontwerpkeuzes worden toegelicht in [Protocol develop 3](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXTqkAN2p1pOgIOTG9bTYhYB0weaJiqkyBv4y06PXGTpgw?e=Fwo1SD)
@@ -632,7 +635,7 @@ De resultaten van de SAM-test zijn [hier](https://ugentbe-my.sharepoint.com/:b:/
  
 
 
-#### **integratie hendel in spelinterface** 
+#### ** Design van integratie hendel in spelinterface** 
 - 1 - meest voorkeur
 - 4 - minst voorkeur
 
@@ -665,6 +668,7 @@ De algemene mening rond de toevoeging van het ondersteuningselement leek een log
 - Rond het design van de hendel werden design 1 en design 4 bij voorkeur genomen. Dit mede door de betere intuïtie ervaren bij dit ontwerp.
 - Het ondersteuningselement is een logisch gegeven en een terechte toevoeging. De extra functie als handvat is een positieve bijzaak en kan ook richting de toekomst veranderen in vormgeving en functionaliteit.
 - De toevoeging van het kliksysteem is een logisch gegeven. Er werd bij alle gebruikers aangekaar dat deze handeling niet te complex mag zijn. Dit mechanisme bedienen met één hand was de hoogste prioriteit tijdens de testen.
+
 
 > [!IMPORTANT]
 > **Design requirements**
