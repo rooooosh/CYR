@@ -809,10 +809,10 @@ De gebruiker bedient het scherm via de rotary encoder, waarbij seriële communic
 ## Bijlagen
 
 **Deelopdracht 1: Discovery**
-- [Protocol interviews](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EXGoSoI_BYBHiOZ96LzlSBwB5gM0qXr1GE8oYzcJFk6CYw?e=mkYRZP)
-- [Rapport interviews](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/ETdejhvoyotFuao6uBth85ABFABfkicwH41QeaxU5wRqyA?e=1Cs3Zx)
-- [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUMP51xwNn1DnFOSbXOD3XsBc_Xv7pupSD2HXpPGx8XwGA?e=qHWobr)
-- [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EUMP51xwNn1DnFOSbXOD3XsBc_Xv7pupSD2HXpPGx8XwGA?e=S0mhDd)
+- [Protocol interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ERUtZ3-igvBKqZPZnaZ0NtkBg0LwWM27S0it1dNNafc9GA?e=swQQA0)
+- [Rapport interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EdLjPG8jZbNDmENYNZyzGhMBiLnvY1_2IQ1uCwe33hgFXw?e=g2ptKY)
+- [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EV9hVFLM17dIv1ATlJXzpm8BY7pXxxL3zrjTS-Yhz_m6kg?e=oYmx1y)
+- [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/Ebdgvv1f3HBKtmoY7qUKnDcBnOMlaMnXfErSAxGrKYr2Vw?e=2puIpj)
 
 **Deelopdracht 2: Definition**
 - [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EYI-YyfVlQNGoJw3irhUr8IB6O55q5miOOceDfL1jvSvsQ?e=XUQ8OB)
