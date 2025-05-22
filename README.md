@@ -702,6 +702,7 @@ De verschillende deelopdrachten (3, 4 en 5) brachten telkens nieuwe frisse ontwe
 - Nog compacter maken van prototype
 - Spel spelen zonder bedrading en aansluiting met laptop (uiteraard)
 - Eigen liedjes in het spel steken
+- Keuze uit verschillende spelthema's tijdens spelen van het spel
 
 
 ### Finale design requirements
