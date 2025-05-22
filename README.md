@@ -575,6 +575,10 @@ Aan de hand van volgend [document](https://ugentbe-my.sharepoint.com/:b:/g/perso
 
 Vervolgens worden de gebruikers gevraagd om elk ontwerp te beoordelen met een score van 1 (meest voorkeur) tot 4 (minst voorkeur). Tijdens de test zal actief worden gevraagd naar de motivatie achter hun keuzes om onderliggende redenen en eventuele suggesties voor verbetering te noteren. Na afloop van de test zal de feedback omgebuigd worden naar de behoeften van de doelgroep om aspecten zoals duidelijkheid, gebruiksgemak en visuele hiërarchie grondig vast te leggen in het eindontwerp van CYR.
 
+#### Esthetische vormverandering
+
+[Toevoegen zwartgespoten doos foto's + waarom het zwart werd gespoten]
+
 #### Toevoeging ondersteuningshendel
 Door toegenomen gewicht van het prototype (medemogelijk door integratie Raspberry Pi scherm) zal aan de bovenkant van het ontwerp een ondersteuningshendel worden voorzien om dit geheel stabiel te houden. Daarbij aansluitend zal een extra functionaliteit voorzien worden waarbij de hendel fungeert als handvat, dit zal in deze deelopdracht getest worden.
 
