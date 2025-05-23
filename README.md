@@ -734,13 +734,28 @@ Zelfs naar einde van het project werden opnieuw nieuwe zaken aan het licht gebra
 
 #### PESTLE-analyse CYR
 
-Een PESTLE-analyse onderzoekt de externe factoren die invloed kunnen hebben op een product of dienst. Voor CYR, een hulpmiddel gericht op bijvoorbeeld Parkinson-patiënten, helpt deze analyse om inzicht te krijgen in de bredere context waarin het ontwerp zich bevindt. Hieronder worden de zes domeinen toegelicht, telkens aan de hand van een relevante vraag:
-  
-- Zijn er overheidsmaatregelen of subsidies die het gebruik van CYR voor Parkinson-patiënten zouden ondersteunen?
-- Zijn er relevante wet- en regelgevingen rond medische hulpmiddelen die van invloed zijn op CYR?
-- Hoe beïnvloeden economische factoren zoals de kostprijs van componenten en productie de haalbaarheid van CYR?
-- Kan het ontwerp aangepast worden om de ecologische voetafdruk te verkleinen?
-- Zijn er privacy- of databeveiligingsaspecten waar rekening mee gehouden moet worden bij het verzamelen van gebruikersdata?
+Een PESTLE-analyse onderzoekt de externe factoren die invloed kunnen hebben op een product of dienst. Voor CYR helpt deze analyse om inzicht te krijgen in de bredere context waarin het ontwerp zich bevindt en waar het eventueel in de toekomst kan bevinden. Hieronder worden de zes domeinen toegelicht, telkens aan de hand van een relevante vraag:
+
+**1. Politiek**
+> Zijn er overheidsmaatregelen of subsidies die het gebruik van CYR voor Parkinson patiënten zouden ondersteunen?
+
+**2. Economisch**
+> Hoe beïnvloeden economische factoren zoals de kostprijs van componenten en productie de haalbaarheid van CYR?
+
+**3. Sociaal**
+> In hoeverre sluit het product aan bij de sociale noden van Parkinson-patiënten en hun omgeving?
+
+**4. Technoloisch**
+> Welke technologische innovaties kunnen de functionaliteit of gebruikerservaring van CYR versterken?
+
+**5. Legaal**
+> Zijn er relevante wet- en regelgevingen rond medische hulpmiddelen die van invloed zijn op CYR?
+
+**6. Ecologisch**
+> Kan het ontwerp aangepast worden om de ecologische voetafdruk te verkleinen?
+
+Door deze factoren van bij het begin in het ontwerp -en ontwikkelproces te integreren, verhoogt de kans dat CYR niet alleen technisch functioneel is, maar ook maatschappelijk relevant, wettelijk conform en duurzaam in gebruik. Deze analyse vormt dan ook een essentiële basis voor verdere besluitvorming en strategische keuzes binnen het project.
+
 
 
 ### Finale design requirements
@@ -820,6 +835,9 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 |$21$|Speaker|1 | 3W - 5Ω|€3,99|
 |$22$|Bleutooth Speaker|1||€5-€20
 |$23$|USB-A Kabels |2|| Inbegrepen bij Nr. $14$
+|$24$|Breadbord en jumper wires |1|| Kan in gezamenlijk pakket aangekocht worden |€5-€10
+
+
 
 
 
