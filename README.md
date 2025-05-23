@@ -745,13 +745,13 @@ Een PESTLE-analyse onderzoekt de externe factoren die invloed kunnen hebben op e
   > Hoe beïnvloeden economische factoren zoals de kostprijs van componenten en productie de haalbaarheid van CYR?
 
 - **3. Sociaal**
-  > In hoeverre sluit het product aan bij de sociale noden van Parkinson-patiënten en hun omgeving?
+  > In hoeverre sluit het product aan bij de sociale noden van Parkinson patiënten en hun omgeving?
 
 - **4. Technoloisch**
   > Welke technologische innovaties kunnen de functionaliteit of gebruikerservaring van CYR versterken?
 
 - **5. Legaal**
-  > Zijn er relevante wet- en regelgevingen rond medische hulpmiddelen die van invloed zijn op CYR?
+  > Zijn er relevante wet -en regelgevingen rond medische hulpmiddelen die van invloed zijn op CYR?
 
 - **6. Ecologisch**
   > Kan het ontwerp aangepast worden om de ecologische voetafdruk te verkleinen?
