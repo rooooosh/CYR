@@ -776,7 +776,7 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 
 | Nr. |  Component  |Aantal|Opmerkingen|
 |-----|-----|-----|-----|
-|$1$|  MDF-platen  |4-5||
+|$1$|  MDF-platen  |5|Gebruikte platen 450x600mm, indien grotere platen ter beschikking ook goed|
 |$2$| Gebogen aluminiumplaten  |6| Basisafmetingen 6x6, extra deel voor verbinding elektronica|
 |$3$|  Scharnieren  |2||
 |$4$| Latch  | 1||
@@ -791,7 +791,7 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 |$13$| 3D-geprinte draai/drukknop|1| PLA|
 |$14$| Arduino Nano| 2 ||
 |$15$| Krokodillenklemmen|6||
-|$16$| Elektriciteitsdraad| 1 set||
+|$16$| Elektriciteitsdraad|1 set||
 |$17$| 12 Key Capacitive I2C Touch Sensor |1|MPR121|
 |$18$|DF player mini|1|MP3-TF-16P V3.0|
 |$19$|Micro-SD kaart|1| Voor DF player mini|
