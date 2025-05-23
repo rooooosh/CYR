@@ -46,7 +46,7 @@ De eerste deelopdracht heeft als doel om de fysieke, cognitieve en sensoriële e
 In develop 2 wordt de nadruk gelegd de user experience en usability van CYR. Concreet worden de oplossingen in develop 1 verder verfijnd waarbij opnieuw gebruikstests worden uitgevoerd om zo voldoende feedback te verzamelen. 
 
 In develop 3 word de focus gelegd op het optimaliseren van de esthetische vormgeving en de interactie-elementen van het prototype. Er werd gestart met het verzamelen van gebruikersfeedback op basis van verschillende ontwerpvoorstellen voor zowel de look & feel van het spel als de fysieke componenten, zoals het kliksysteem en de ondersteuningshendel. Door middel van gerichte SAM-tests en het vergelijken van alternatieve designopties, werden de voorkeuren en behoeften van de doelgroep in kaart gebracht.
-De inzichten uit deze sessies zijn vertaald naar concrete aanpassingen in het eindprototype, met nadruk op gebruiksgemak, visuele aantrekkelijkheid en praktische functionaliteit.
+De inzichten uit deze sessies zijn vertaald naar concrete aanpassingen in het eindprototype. Hier werd nadruk gelegd op gebruiksgemak, visuele aantrekkelijkheid en praktische functionaliteit.
 
 **Deliver: |**
 Na afronding van de develop-fase volgt de deliver-fase. In deze fase worden het finale concept gepresenteerd, het eindprototype vervaardigd, visuele beelden opgesteld en word er een video deliverable gemaakt.
