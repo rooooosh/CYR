@@ -772,6 +772,36 @@ Wat betreft het prototype is er veel progressie gemaakt. De stappen die werden g
 In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, zoals het tijdig contacteren van alle testpersonen. Door de specifieke doelgroep bleef dit echter een uitdaging, waardoor we in één van de develop-fases met één testpersoon minder moesten werken dan gepland. Nadien hebben we gelukkig nieuwe testpersonen gevonden die bereid waren om meerdere keren deel te nemen aan de tests. Over het algemeen ben ik tevreden over onze aanpak en inzet binnen het project. We hebben goed samengewerkt en zijn erin geslaagd om tot een werkend prototype en concept te komen."
 
 ## Technische beschrijving
+### Finale Bill Of Materials (BOM)
+
+| Nr. |  Component  |Aantal|Opmerkingen|
+|-----|-----|-----|-----|
+|$1$|  MDF-platen  |4-5||
+|$2$| Gebogen aluminiumplaten  |6| Basisafmetingen 6x6, extra deel voor verbinding elektronica|
+|$3$|  Scharnieren  |2||
+|$4$| Latch  | 1||
+|$5$| Bouten | 12| Op huidige prototype zitten er ook vijzen in, functionaliteit blijft hetzelfde bij bouten, maar qua kost is dit net iets hoger|
+|$6$| Moeren | 12||
+|$7$|Velcro-strips|1||
+|$8$| Strip stof | 2 |Voor verbinding ondersteuningspoot| 
+|$9$| Houten balken|3| Voor ondersteuningspoot |
+|$10$| Raspberry Pi 4|1||
+|$11$| Raspberry Pi 7" DSI Touchscreen display |1|800 x 480 px
+|$12$|Rotary Encoder|1||
+|$13$| 3D-geprinte draai/drukknop|1| PLA|
+|$14$| Arduino Nano| 2 ||
+|$15$| Krokodillenklemmen|6||
+|$16$| Elektriciteitsdraad| 1 set||
+|$17$| 12 Key Capacitive I2C Touch Sensor |1|MPR121|
+|$18$|DF player mini|1|MP3-TF-16P V3.0|
+|$19$|Micro-SD kaart|1| Voor DF player mini|
+|$20$|Weerstand|1|1,2kΩ|
+|$21$|Speaker|1 | 3W - 5Ω|
+|$22$|Bleutooth Speaker|1||
+|$23$|USB-A Kabels |2||
+
+
+
 ### Bouwmaterialen
 
 Het prototype bevat een aantal standaardmaterialen waarbij deze na een aantal nabewerkingsstappen werden omgevormd tot de finale vormgeving van CYR. De hoofdmaterialen die zijn gebruikt:
