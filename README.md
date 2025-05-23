@@ -700,6 +700,7 @@ De algemene mening rond de toevoeging van het ondersteuningselement leek een log
 - Het ondersteuningselement is een logisch gegeven en een terechte toevoeging. De extra functie als handvat is een positieve bijzaak en kan ook richting de toekomst veranderen in vormgeving en functionaliteit.
 - De toevoeging van het kliksysteem is een logisch gegeven. Er werd bij alle gebruikers aangekaart dat deze handeling niet te complex mag zijn. Dit mechanisme bedienen met één hand was de hoogste prioriteit tijdens de testen.
 - De gebruikers hadden een positieve mening rond de nieuwe vormgeving van CYR. Het straalt meer professionalisme uit en geeft meer motivatie om het spel te spelen.
+- De integratie van de geluidsversterkende componenten aangehaald in het protocol, werden niet meer geïntegreerd in het ontwerp. Dit mede door de complexiteit met de te verbinden componenten en de verminderde audiokwaliteit na aansluiting met de MP3.
 
 > [!IMPORTANT]
 > **Design requirements**
@@ -813,25 +814,25 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 
 | Nr. |  Component  |Aantal|Opmerkingen| Geschatte Kostprijs|
 |-----|-----|-----|-----|-----|
-|$1$|  MDF-platen  |5|Gebruikte platen 450x600mm, indien grotere platen ter beschikking ook goed|€10|
-|$2$| Gebogen aluminiumplaten  |6| Basisafmetingen 6x6, extra deel voor verbinding elektronica|€3|
+|$1$|  MDF-platen  |5|Gebruikte platen 450x600mm|€10|
+|$2$| Gebogen aluminiumplaten  |6| Basisafmetingen 6x6, extra buiging voor verbinding krokodillenklemmen|€3|
 |$3$|  Scharnieren  |2||€6|
 |$4$| Latch  | 1||€3
-|$5$| Bouten | 12| Op huidige prototype zitten er ook vijzen in, functionaliteit blijft hetzelfde bij bouten, maar qua kost is dit net iets hoger| €9,50|
+|$5$| Bouten | 12| Op huidige prototype zitten er ook vijzen in, functionaliteit blijft hetzelfde bij bouten, maar qua kost net iets hoger| €9,50|
 |$6$| Moeren | 12||Inbegrepen bij Nr. $5$|
 |$7$|Velcro-strips|1||€5|
-|$8$| Strip stof | 2 |Voor verbinding ondersteuningspoot| €0,50|
-|$9$| Houten balken|3| Voor ondersteuningspoot | €3|
+|$8$| Strip stof | 2 |Verbinding ondersteuningspoot| €0,50|
+|$9$| Houten balken|3| Ondersteuningspoot | €3|
 |$10$| Raspberry Pi 4|1||€62,30|
 |$11$| Raspberry Pi 7" DSI Touchscreen display |1|800 x 480 px|€89,50|
-|$12$|Rotary Encoder|1||€3,50|
-|$13$| 3D-geprinte draai/drukknop|1| PLA| €0,50|
+|$12$|Rotary encoder|1||€3,50|
+|$13$| 3DP draai/drukknop|1| PLA| €0,50|
 |$14$| Arduino Nano| 2 || €27,10|
 |$15$| Krokodillenklemmen|6|| €3,99|
 |$16$| Elektriciteitsdraad|1 set||€2,99|
 |$17$| 12 Key Capacitive I2C Touch Sensor |1|MPR121| €8,94|
-|$18$|DF player mini|1|MP3-TF-16P V3.0| €5,99|
-|$19$|Micro-SD kaart|1| Voor DF player mini| €6
+|$18$|MP3-TF-16P V3.0|1|| €5,99|
+|$19$|Micro-SD kaart|1| MP3-TF-16p| €6
 |$20$|Weerstand|1|1,2kΩ| €0,60|
 |$21$|Speaker|1 | 3W - 5Ω|€3,99|
 |$22$|Bleutooth Speaker|1||€5-€20
