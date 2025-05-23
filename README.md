@@ -738,23 +738,23 @@ Deze lijst is niet limiterend en kan in de toekomst nog aangevuld worden. Bovens
 
 Een PESTLE-analyse onderzoekt de externe factoren die invloed kunnen hebben op een product of dienst. Voor CYR helpt deze analyse om inzicht te krijgen in de bredere context waarin het ontwerp zich bevindt en waar het eventueel in de toekomst kan bevinden. Hieronder worden de zes domeinen toegelicht, telkens aan de hand van een relevante vraag:
 
-**1. Politiek**
-> Zijn er overheidsmaatregelen of subsidies die het gebruik van CYR voor Parkinson patiënten zouden ondersteunen?
+- **1. Politiek**
+  > Zijn er overheidsmaatregelen of subsidies die het gebruik van CYR voor Parkinson patiënten zouden ondersteunen?
 
-**2. Economisch**
-> Hoe beïnvloeden economische factoren zoals de kostprijs van componenten en productie de haalbaarheid van CYR?
+- **2. Economisch**
+  > Hoe beïnvloeden economische factoren zoals de kostprijs van componenten en productie de haalbaarheid van CYR?
 
-**3. Sociaal**
-> In hoeverre sluit het product aan bij de sociale noden van Parkinson-patiënten en hun omgeving?
+- **3. Sociaal**
+  In hoeverre sluit het product aan bij de sociale noden van Parkinson-patiënten en hun omgeving?
 
-**4. Technoloisch**
-> Welke technologische innovaties kunnen de functionaliteit of gebruikerservaring van CYR versterken?
+- **4. Technoloisch**
+  > Welke technologische innovaties kunnen de functionaliteit of gebruikerservaring van CYR versterken?
 
-**5. Legaal**
-> Zijn er relevante wet- en regelgevingen rond medische hulpmiddelen die van invloed zijn op CYR?
+- **5. Legaal**
+  > Zijn er relevante wet- en regelgevingen rond medische hulpmiddelen die van invloed zijn op CYR?
 
-**6. Ecologisch**
-> Kan het ontwerp aangepast worden om de ecologische voetafdruk te verkleinen?
+- **6. Ecologisch**
+  > Kan het ontwerp aangepast worden om de ecologische voetafdruk te verkleinen?
 
 Door deze factoren van bij het begin in het ontwerp -en ontwikkelproces te integreren, verhoogt de kans dat CYR niet alleen technisch functioneel is, maar ook maatschappelijk relevant, wettelijk conform en duurzaam in gebruik. Deze analyse vormt dan ook een essentiële basis voor verdere besluitvorming en strategische keuzes binnen het project.
 
