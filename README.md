@@ -831,8 +831,8 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 |$15$| Krokodillenklemmen|6|| €3,99|
 |$16$| Breadboard en jumper wires |1 set| Kan in gezamenlijk pakket aangekocht worden |€5-€10|
 |$17$| 12 Key Capacitive I2C Touch Sensor |1|MPR121| €8,94|
-|$18$|MP3-TF-16P V3.0|1|| €5,99|
-|$19$|Micro-SD kaart|1| MP3-TF-16p| €6
+|$18$|DFplayer Mini|1|MP3-TF-16P V3.0| €5,99|
+|$19$|Micro-SD kaart|1|| €6
 |$20$|Weerstand|1|1,2kΩ| €0,60|
 |$21$|Speaker|1 | 3W - 5Ω|€3,99|
 |$22$|Bleutooth Speaker|1||€5-€20
