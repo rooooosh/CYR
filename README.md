@@ -14,7 +14,7 @@ De ziekte van Parkinson is een neurologische aandoening waarvoor tot op heden no
 Om te voorkomen dat deze ziekte verder ontwikkeld, werd **CYR** ontworpen. **C**reate **Y**our **R**ithm is een interactief muziekspel dat helpt bij het verbeteren van de motorische -en de cognitieve vaardigheden. Deze oplossing biedt de mogelijkheid om zelfstandig muziek te maken met behulp van twee geïntegreerde modules: een **touchbox**  en een **boombox**. De gebruiker wordt opgedragen om het ritme van de afspelende muziek na te bootsen, wat een leuke maar ook uitdagende challenge vormt!
 
 <p align="left">
-  <img src="CYR PICS/CYR RENDER FINAAL (hopelijk).png" width="100%"> 
+  <img src="CYR PICS/CYR RENDER FINAAL.png" width="100%"> 
 
 > [!NOTE]
 > Linken naar protocollen, rapporteringen en diepgaand onderzoek zijn te vinden in de sectie [Bijlagen](#Bijlagen).
