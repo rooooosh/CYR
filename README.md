@@ -581,11 +581,9 @@ Tot nu toe is het ontwerp van CYR voornamelijk functioneel benaderd, waarbij het
 <p align="left">
   <img src="CYR PICS/Gespoten_Doos.jpg" width="70%">
   
-  
-Het toevoegen van een extra kleur-element werd besproken aan de hand van Plutchik's 'Wheel of Emotion'. Hieruit werd afgeleid dat een gele tint geschikt zou zijn voor ons ontwerp. Hier is uiteindelijk niet mee verder gewerkt, aangezien er niet genoeg tijd was om dit deftig te verwerken in ons product, deze keuze zou in verband moeten staan met het onderzoek over de kleurenthema's van het ingebouwde spel.
-<p align="middle">
-<img src="CYR PICS/Moodboard Putchik.jpg" width="100%">
-
+  Het toevoegen van een extra kleurelement werd besproken op basis van Plutchik's 'Wheel of Emotion'. Hieruit bleek dat een gele tint geschikt zou zijn voor het ontwerp. Uiteindelijk is deze keuze niet verder uitgewerkt, omdat er onvoldoende tijd was om dit grondig te integreren in het product. De keuze voor een kleur zou bovendien moeten aansluiten bij het onderzoek naar de kleurenthema's van het ingebouwde spel.
+<p align="left">
+<img src="CYR PICS/Moodboard Putchik.jpg" width="70%">
 
 
 #### Toevoeging ondersteuningshendel
