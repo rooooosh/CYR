@@ -711,15 +711,31 @@ De algemene mening rond de toevoeging van het ondersteuningselement leek een log
 
 ### Slotbevindingen
 
-De verschillende deelopdrachten (3, 4 en 5) brachten telkens nieuwe frisse ontwerpuitdagingen aan het licht na de introductie van de verbeterde prototypes. Er werd telkens positieve progressie gemaakt richting het eindontwerp waarbij de gebruikers zeer nuttige en goed onderbouwde feedback gaven. Zelfs naar einde van het project werden opnieuw nieuwe zaken aan het licht gebracht die het prototype kunnen brengen naar een volgend niveau. Deze zaken zullen uiteraard niet meer behandeld worden (wegens tijdsgebrek), maar zullen hieronder weergegeven worden als een bullet list met zaken die in de toekomst kunnen toegevoegd worden:
+De verschillende deelopdrachten (3, 4 en 5) brachten telkens nieuwe frisse ontwerpuitdagingen aan het licht na de introductie van de verbeterde prototypes. Er werd telkens positieve progressie gemaakt richting het eindontwerp waarbij de gebruikers zeer nuttige en goed onderbouwde feedback gaven. 
 
-- Programmeren van hendel in spelinterface
-- Toetsen van touchbox laten oplichten in verschillend kleur voor extra moeilijkheid
+Tijdens het project werd een iteratief ontwerpproces doorlopen. In de discovery-fase zijn de noden van mensen met Parkinson onderzocht via literatuurstudies en interviews, wat leidde tot het initiële concept van CYR. In de definition-fase zijn de eerste prototypes van de touchbox en boombox ontwikkeld en getest met gebruikers. Op basis van feedback zijn interfaces en interacties aangepast, zoals het verminderen van het aantal toetsen en het toevoegen van duidelijke iconen.
+
+In de develop-fase lag de focus op het verfijnen van ergonomie, gebruiksvriendelijkheid en esthetiek. Makey Makey werd vervangen door Arduino om de latency te verbeteren, een draaiknop werd geïntroduceerd voor intuïtieve bediening en er werd een complete vormverandering van CYR geïntroduceerd. Verschillende iteraties zijn getest, waarbij gebruikers voorkeuren aangaven voor texturen, knopgrootte en interface-layout. Het prototype is compacter gemaakt door integratie van touchbox en boombox en een ondersteuningspoot is toegevoegd voor stabiliteit.
+
+Tot slot is het visuele ontwerp verder uitgewerkt, met aandacht voor kleurenthema’s en een gebruiksvriendelijk kliksysteem. Elke stap is onderbouwd door gebruikersfeedback, waardoor het eindproduct optimaal aansluit bij de behoeften van de doelgroep en de gestelde eisen aan het begin van het project.
+
+
+
+
+Zelfs naar einde van het project werden opnieuw nieuwe zaken aan het licht gebracht die het prototype kunnen brengen naar een volgend niveau. Deze zaken zullen uiteraard niet meer behandeld worden (wegens tijdsgebrek), maar zullen hieronder weergegeven worden als een bullet list met zaken die in de toekomst kunnen toegevoegd worden, of die in vraag gesteld kunnen worden:
+
+- Inprogrammeren van hendel in spelinterface
+- Onderzoek naar laten oplichten van toetsen in verschillende kleur voor extra moeilijkheid
 - Toevoegen van moeilijkheidsniveau's 
 - Nog compacter maken van prototype
 - Spel spelen zonder bedrading en aansluiting met laptop (uiteraard)
 - Eigen liedjes in het spel steken
 - Keuze uit verschillende spelthema's tijdens spelen van het spel
+- Zijn er overheidsmaatregelen of subsidies die het gebruik van CYR voor Parkinson-patiënten zouden ondersteunen?
+- Zijn er relevante wet- en regelgevingen rond medische hulpmiddelen die van invloed zijn op CYR?
+- Hoe beïnvloeden economische factoren zoals de kostprijs van componenten en productie de haalbaarheid van CYR?
+- Kan het ontwerp aangepast worden om de ecologische voetafdruk te verkleinen?
+- Zijn er privacy- of databeveiligingsaspecten waar rekening mee gehouden moet worden bij het verzamelen van gebruikersdata?
 
 
 ### Finale design requirements
