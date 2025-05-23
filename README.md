@@ -766,32 +766,32 @@ Door deze factoren van bij het begin in het ontwerp -en ontwikkelproces te integ
 | ------------- | ------------- | ------------- | ------------- |
 | **D1**  | **Algemeen** |  |  |
 | D1.1 | De touchbox bevat een minimale hoogte om elektronica te bewaren. | Discovery | 14/11/2024 |
-| D1.2 | De boombox bevat een minimale grootte voor het ondersteunen van een scherm. | Definition: Wave 1 | 5/12/2025 |
-| D1.3 | De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen. | Definition: Wave 2 | 18/02/2025 |
-| D1.4 | Het product is zo compact mogelijk. | Definition: Wave 2 | 18/02/2025 |
+| D1.2 | De boombox bevat een minimale grootte voor het ondersteunen van een scherm. | Definition | 5/12/2025 |
+| D1.3 | De touchbox en boombox bevatten snap/klikverbindingen om deze aan/uit elkaar te halen. | Develop 1 | 3/03/2025 |
+| D1.4 | Het product is zo compact mogelijk. | Develop 1 | 3/03/2025 |
 | D1.5 | Het spel kan gespeeld worden zonder het dragen van een polsband. | Develop 2 | 16/04/2025 |
 | D1.6 | De verbinding tussen de touchbox en boombox maakt het mogelijk deze op te bergen in één module. | Develop 2 | 16/04/2025 |
 | D1.7 | De ondersteuningshendel moet makkelijk inzetbaar zijn. | Develop 3 | 19/05/2025 |
 | D1.8 | Het sluitingsmechanisme moet met één hand worden bediend. | Develop 3 | 19/05/2025 |
 | **D2**  | **Gebruiksgemak** |  |  |
 | D2.1 | De touchbox produceert geluid door een enkele aanraking met één van de toetsen. | Discovery | 14/11/2024 |
-| D2.2 | Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch. | Definition: Wave 1 | 5/12/2025 |
+| D2.2 | Het indrukken van de knoppen op de touchbox gebeurt aan de hand van capacitive touch. | Definition | 5/12/2025 |
 | D2.3 | Elke toets wordt afgebeeld met een ander symbool. | Definition: Wave 1 | 5/12/2024 |
-| D2.4 | De interface van de boombox is ontworpen zonder overbodige elementen, zodat de interactie eenvoudig blijft. | Definition: Wave 2 | 18/02/2025 |
-| D2.5 | Voor elke gebruiker is een uitdagend niveau beschikbaar. | Definition: Wave 2 | 18/02/2025 |
+| D2.4 | De interface van de boombox is ontworpen zonder overbodige elementen, zodat de interactie eenvoudig blijft. | Develop 1 | 3/03/2025 |
+| D2.5 | Voor elke gebruiker is een uitdagend niveau beschikbaar. | Develop 1 | 3/03/2025 |
 | D2.6 | De touchbox heeft een minimale hoogte, zodat de gebruiker het spel comfortabel kan blijven spelen zonder dat de arm vermoeid raakt. | Develop 2 | 16/04/2025 |
 | **D3** | **Interactiviteit** |  |  |
 | D3.1 | De boombox heeft een functieknop aan de zijkant om het ritme van muziek aan/uit te schakelen. | Discovery | 24/10/2024 |
 | D3.2 | De boombox bevat verschillende knoppen om een keuze te maken uit verschillende liedjes. | Discovery | 24/10/2024 |
-| D3.3 | Het product maakt duidelijk met welke elementen de gebruiker kan interageren. | Definition: Wave 2 | 18/02/2025 |
-| D3.4 | De touchbox is responsief en heeft een lage latency. | Definition: Wave 2 | 18/02/2025 |
-| D3.5 | De hendel moet niet fysiek aanwezig zijn op de boombox. | Definition: Wave 2 | 18/02/2025 |
+| D3.3 | Het product maakt duidelijk met welke elementen de gebruiker kan interageren. | Develop 1 | 3/03/2025 |
+| D3.4 | De touchbox is responsief en heeft een lage latency. | Develop 1 | 3/03/2025 |
+| D3.5 | De hendel moet niet fysiek aanwezig zijn op de boombox. | Develop 1| 3/03/2025 |
 | **D4** | **Ergonomie** |  |  |
 | D4.1 | De dimensies van de touchbox (25,5cm x 17,5cm) maken het mogelijk deze makkelijk op te bergen.  | Discovery | 24/10/2024 |
 | D4.2 | De drukknoppen hebben een minimale diameter van 4-6cm om een keuze uit liedjes te maken. | Discovery | 24/10/2024 |
 | D4.3 | De toetsen bevinden zich in een dicht gestapeld raster (2x2, 3x2, 3x3) om multi-touch mogelijk te maken. | Discovery | 24/10/2024 |
-| D4.4 | De knoppen van de touchbox bevatten een grootte van 6x6cm. | Definition: Wave 2 | 18/02/2025 |
-| D4.5 | De interactie met de boombox gebeurt aan de hand van fysieke knoppen. | Definition: Wave 2 | 18/02/2025 |
+| D4.4 | De knoppen van de touchbox bevatten een grootte van 6x6cm. | Develop 1 | 3/03/2025 |
+| D4.5 | De interactie met de boombox gebeurt aan de hand van fysieke knoppen. | Develop 1 | 3/03/2025 |
 | D4.6 | De draaiknop bevat textuur voor een betere gevoelservaring. | Develop 2 | 16/04/2025 |
 | D4.7 | De draaiknop bevat tactiele feedback tijdens het aandraaien. | Develop 2 | 16/04/2025 |
 
@@ -829,7 +829,7 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 |$13$| 3DP draai/drukknop|1| PLA| €0,50|
 |$14$| Arduino Nano| 2 || €27,10|
 |$15$| Krokodillenklemmen|6|| €3,99|
-|$16$| Elektriciteitsdraad|1 set||€2,99|
+|$16$| Breadbord en jumper wires |1 set| Kan in gezamenlijk pakket aangekocht worden |€5-€10|
 |$17$| 12 Key Capacitive I2C Touch Sensor |1|MPR121| €8,94|
 |$18$|MP3-TF-16P V3.0|1|| €5,99|
 |$19$|Micro-SD kaart|1| MP3-TF-16p| €6
@@ -837,7 +837,7 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 |$21$|Speaker|1 | 3W - 5Ω|€3,99|
 |$22$|Bleutooth Speaker|1||€5-€20
 |$23$|USB-A Kabels |2|| Inbegrepen bij Nr. $14$
-|$24$|Breadbord en jumper wires |1|Kan in gezamenlijk pakket aangekocht worden| €5-€10 |
+
 
 
 
