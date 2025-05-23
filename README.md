@@ -790,31 +790,31 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 ## Technische beschrijving
 ### Finale Bill Of Materials (BOM)
 
-| Nr. |  Component  |Aantal|Opmerkingen|
-|-----|-----|-----|-----|
-|$1$|  MDF-platen  |5|Gebruikte platen 450x600mm, indien grotere platen ter beschikking ook goed|
-|$2$| Gebogen aluminiumplaten  |6| Basisafmetingen 6x6, extra deel voor verbinding elektronica|
-|$3$|  Scharnieren  |2||
-|$4$| Latch  | 1||
-|$5$| Bouten | 12| Op huidige prototype zitten er ook vijzen in, functionaliteit blijft hetzelfde bij bouten, maar qua kost is dit net iets hoger|
-|$6$| Moeren | 12||
-|$7$|Velcro-strips|1||
-|$8$| Strip stof | 2 |Voor verbinding ondersteuningspoot| 
-|$9$| Houten balken|3| Voor ondersteuningspoot |
-|$10$| Raspberry Pi 4|1||
-|$11$| Raspberry Pi 7" DSI Touchscreen display |1|800 x 480 px
-|$12$|Rotary Encoder|1||
-|$13$| 3D-geprinte draai/drukknop|1| PLA|
-|$14$| Arduino Nano| 2 ||
-|$15$| Krokodillenklemmen|6||
-|$16$| Elektriciteitsdraad|1 set||
-|$17$| 12 Key Capacitive I2C Touch Sensor |1|MPR121|
-|$18$|DF player mini|1|MP3-TF-16P V3.0|
-|$19$|Micro-SD kaart|1| Voor DF player mini|
-|$20$|Weerstand|1|1,2kΩ|
-|$21$|Speaker|1 | 3W - 5Ω|
-|$22$|Bleutooth Speaker|1||
-|$23$|USB-A Kabels |2||
+| Nr. |  Component  |Aantal|Opmerkingen| Geschatte Kostprijs|
+|-----|-----|-----|-----|-----|
+|$1$|  MDF-platen  |5|Gebruikte platen 450x600mm, indien grotere platen ter beschikking ook goed|€10|
+|$2$| Gebogen aluminiumplaten  |6| Basisafmetingen 6x6, extra deel voor verbinding elektronica|€3|
+|$3$|  Scharnieren  |2||€6|
+|$4$| Latch  | 1||€3
+|$5$| Bouten | 12| Op huidige prototype zitten er ook vijzen in, functionaliteit blijft hetzelfde bij bouten, maar qua kost is dit net iets hoger| €9,50|
+|$6$| Moeren | 12||Inbegrepen bij Nr. $5$|
+|$7$|Velcro-strips|1||€5|
+|$8$| Strip stof | 2 |Voor verbinding ondersteuningspoot| €0,50|
+|$9$| Houten balken|3| Voor ondersteuningspoot | €3|
+|$10$| Raspberry Pi 4|1||€62,30|
+|$11$| Raspberry Pi 7" DSI Touchscreen display |1|800 x 480 px|€89,50|
+|$12$|Rotary Encoder|1||€3,50|
+|$13$| 3D-geprinte draai/drukknop|1| PLA| €0,50|
+|$14$| Arduino Nano| 2 || €27,10|
+|$15$| Krokodillenklemmen|6|| €3,99|
+|$16$| Elektriciteitsdraad|1 set||€2,99|
+|$17$| 12 Key Capacitive I2C Touch Sensor |1|MPR121| €8,94|
+|$18$|DF player mini|1|MP3-TF-16P V3.0| €5,99|
+|$19$|Micro-SD kaart|1| Voor DF player mini| €6
+|$20$|Weerstand|1|1,2kΩ| €0,60|
+|$21$|Speaker|1 | 3W - 5Ω|€3,99|
+|$22$|Bleutooth Speaker|1||€5-€20
+|$23$|USB-A Kabels |2|| Inbegrepen bij Nr. $14$
 
 
 
