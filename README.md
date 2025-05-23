@@ -576,8 +576,17 @@ Aan de hand van volgend [document](https://ugentbe-my.sharepoint.com/:b:/g/perso
 Vervolgens worden de gebruikers gevraagd om elk ontwerp te beoordelen met een score van 1 (meest voorkeur) tot 4 (minst voorkeur). Tijdens de test zal actief worden gevraagd naar de motivatie achter hun keuzes om onderliggende redenen en eventuele suggesties voor verbetering te noteren. Na afloop van de test zal de feedback omgebuigd worden naar de behoeften van de doelgroep om aspecten zoals duidelijkheid, gebruiksgemak en visuele hiërarchie grondig vast te leggen in het eindontwerp van CYR.
 
 #### Esthetische vormverandering
+Tot nu toe is het ontwerp van CYR voornamelijk functioneel benaderd, waarbij het esthetische aspect eerder in het achterhoofd bleef zitten. In deze fase werd het belangrijk om ook op het vlak van vormgeving verdere stappen te zetten. Er is gekozen om de algemene uitstraling van CYR zwart te maken. Deze kleur vormt een neutrale en tijdloze keuze die geschikt is voor een breed doelpubliek.
 
-[Toevoegen zwartgespoten doos foto's + waarom het zwart werd gespoten]
+<p align="left">
+  <img src="CYR PICS/Gespoten_Doos.jpg" width="70%">
+  
+  
+Het toevoegen van een extra kleur-element werd besproken aan de hand van Plutchik's 'Wheel of Emotion'. Hieruit werd afgeleid dat een gele tint geschikt zou zijn voor ons ontwerp. Hier is uiteindelijk niet mee verder gewerkt, aangezien er niet genoeg tijd was om dit deftig te verwerken in ons product, deze keuze zou in verband moeten staan met het onderzoek over de kleurenthema's van het ingebouwde spel.
+<p align="middle">
+<img src="CYR PICS/Moodboard Putchik.jpg" width="100%">
+
+
 
 #### Toevoeging ondersteuningshendel
 Door toegenomen gewicht van het prototype (medemogelijk door integratie Raspberry Pi scherm) zal aan de bovenkant van het ontwerp een ondersteuningshendel worden voorzien om dit geheel stabiel te houden. Daarbij aansluitend zal een extra functionaliteit voorzien worden waarbij de hendel fungeert als handvat, dit zal in deze deelopdracht getest worden.
