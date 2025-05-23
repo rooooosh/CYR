@@ -829,7 +829,7 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 |$13$| 3DP draai/drukknop|1| PLA| €0,50|
 |$14$| Arduino Nano| 2 || €27,10|
 |$15$| Krokodillenklemmen|6|| €3,99|
-|$16$| Breadbord en jumper wires |1 set| Kan in gezamenlijk pakket aangekocht worden |€5-€10|
+|$16$| Breadboard en jumper wires |1 set| Kan in gezamenlijk pakket aangekocht worden |€5-€10|
 |$17$| 12 Key Capacitive I2C Touch Sensor |1|MPR121| €8,94|
 |$18$|MP3-TF-16P V3.0|1|| €5,99|
 |$19$|Micro-SD kaart|1| MP3-TF-16p| €6
