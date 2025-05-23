@@ -3,7 +3,7 @@ _Een interactief muziekspel voor mensen met de ziekte van Parkinson om hun cogni
 
 *Projectteam: Aldo Mauro Van Hese; Rösh-Matthew Gryson*
 
-_19/05/2025_
+_18/06/2025_
 
 <img src= "CYR PICS/CYR PIC.png">
 
@@ -877,10 +877,10 @@ De gebruiker bedient het scherm via de rotary encoder, waarbij seriële communic
 De verzamelde respondentgegevens zijn enkel toegankelijk voor personen binnen de UGent, om hun privacy zo goed mogelijk te beschermen.
 
 **Deelopdracht 1: Discovery** 
-- [Protocol interviews](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EZgXisWxXJhMnZsbv0oAmpABcYWB6VextSe_-8mGtZbczw?e=rdPOMu)
-- [Rapport interviews](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EXQgcFCJphxOka2n4J26c2YB2SpD0Y_xR_OjtG4CbjOeaw?e=a9dUqd)
-- [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/ET5ESanBntBHrZI6z7DGENoBJjJ4tEq47igJ8FG6ie01pQ?e=RRmnOu)
-- [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/ETOJTdr46DZAmO-TBadUELABeE5orUwPJHIOtHoeSB5dtw?e=vaSYRn)
+- [Protocol interviews](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EYx5H9Q-MfJGjLwBYmDqMFgB1Wtb5xZmCIfP69A1e9s7Ew?e=EZKmU5)
+- [Rapport interviews](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EfWuEMYS2fZPpf3U9sw1PBIBbR0SOu7gSOZpQujpDS2X_A?e=WV6qAo)
+- [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EarvmliUzitJqvhuUydt2U0B76wYVw16L-hvL3pKnRLV8Q?e=rq8P7p)
+- [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EQi_aIOuugFJm0tf342ZD_cBkLjSMo3do-xiki7mVfhr5Q?e=P46knH)
 
 **Deelopdracht 2: Definition**
 - [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EYI-YyfVlQNGoJw3irhUr8IB6O55q5miOOceDfL1jvSvsQ?e=XUQ8OB)
