@@ -699,7 +699,7 @@ De algemene mening rond de toevoeging van het ondersteuningselement leek een log
 - Rond het design van de hendel werden design 1 en design 4 bij voorkeur genomen. Dit mede door de betere intuïtie ervaren bij dit ontwerp.
 - Het ondersteuningselement is een logisch gegeven en een terechte toevoeging. De extra functie als handvat is een positieve bijzaak en kan ook richting de toekomst veranderen in vormgeving en functionaliteit.
 - De toevoeging van het kliksysteem is een logisch gegeven. Er werd bij alle gebruikers aangekaart dat deze handeling niet te complex mag zijn. Dit mechanisme bedienen met één hand was de hoogste prioriteit tijdens de testen.
-
+- De gebruikers hadden een positieve mening rond de nieuwe vormgeving van CYR. Het straalt meer professionalisme uit en geeft meer motivatie om het spel te spelen.
 
 > [!IMPORTANT]
 > **Design requirements**
