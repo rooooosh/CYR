@@ -747,7 +747,7 @@ Een PESTLE-analyse onderzoekt de externe factoren die invloed kunnen hebben op e
 - **3. Sociaal**
   > In hoeverre sluit het product aan bij de sociale noden van Parkinson patiënten en hun omgeving?
 
-- **4. Technoloisch**
+- **4. Technologisch**
   > Welke technologische innovaties kunnen de functionaliteit of gebruikerservaring van CYR versterken?
 
 - **5. Legaal**
