@@ -860,11 +860,11 @@ De gebruiker bedient het scherm via de rotary encoder, waarbij seriële communic
 
 De verzamelde respondentgegevens zijn enkel toegankelijk voor personen binnen de UGent, om hun privacy zo goed mogelijk te beschermen.
 
-**Deelopdracht 1: Discovery** (van deze nog PDF documenten maken)
-- [Protocol interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/ERUtZ3-igvBKqZPZnaZ0NtkBg0LwWM27S0it1dNNafc9GA?e=swQQA0)
-- [Rapport interviews](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EdLjPG8jZbNDmENYNZyzGhMBiLnvY1_2IQ1uCwe33hgFXw?e=g2ptKY)
-- [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/EV9hVFLM17dIv1ATlJXzpm8BY7pXxxL3zrjTS-Yhz_m6kg?e=oYmx1y)
-- [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/rosh_gryson_ugent_be/Ebdgvv1f3HBKtmoY7qUKnDcBnOMlaMnXfErSAxGrKYr2Vw?e=2puIpj)
+**Deelopdracht 1: Discovery** 
+- [Protocol interviews](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EZgXisWxXJhMnZsbv0oAmpABcYWB6VextSe_-8mGtZbczw?e=rdPOMu)
+- [Rapport interviews](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/EXQgcFCJphxOka2n4J26c2YB2SpD0Y_xR_OjtG4CbjOeaw?e=a9dUqd)
+- [Protocol literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/ET5ESanBntBHrZI6z7DGENoBJjJ4tEq47igJ8FG6ie01pQ?e=RRmnOu)
+- [Rapport literatuuronderzoek](https://ugentbe-my.sharepoint.com/:b:/g/personal/aldo_vanhese_ugent_be/ETOJTdr46DZAmO-TBadUELABeE5orUwPJHIOtHoeSB5dtw?e=vaSYRn)
 
 **Deelopdracht 2: Definition**
 - [Protocol gebruikstests](https://ugentbe-my.sharepoint.com/:b:/g/personal/rosh_gryson_ugent_be/EYI-YyfVlQNGoJw3irhUr8IB6O55q5miOOceDfL1jvSvsQ?e=XUQ8OB)
