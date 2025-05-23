@@ -29,9 +29,6 @@ We streven naar een gebruiksvriendelijk product die de gebruiker uitdaagt, maar 
 
 ## Methodologie
 
-```
-Nog aanpassen richting deelopdracht 5!
-```
 
 Er werd in dit project gewerkt rond het 'Triple Diamond' model. Dit model bestaat uit 3 grote fasen: discover, define en develop. Het eerste semester omslaat de eerste 2 fasen. 
 
@@ -47,6 +44,11 @@ Bij aanvang van het tweede semester (week 13) wordt de derde en laatste diamond 
 De eerste deelopdracht heeft als doel om de fysieke, cognitieve en sensoriële ergonomie van het product te optimaliseren aan de hand van theorie, prototyping en testing. De gebouwde prototypes in wave 2 van semester 1 zullen verder verfijnd worden a.d.h.v. meerdere iteraties op beide componenten van het concept. De gebruiker zal opnieuw een keuze maken uit de verschillende iteraties waarop deze worden vastgezet tot het eind van het semester. Hierbij wordt een stap teruggenomen in het proces om zo tot voldoende feedback te komen rond de vormgeving van het product.
 
 In develop 2 wordt de nadruk gelegd de user experience en usability van CYR. Concreet worden de oplossingen in develop 1 verder verfijnd waarbij opnieuw gebruikstests worden uitgevoerd om zo voldoende feedback te verzamelen. 
+
+In develop 3 word de focus gelegd op het optimaliseren van de esthetische vormgeving en de interactie-elementen van het prototype. Er werd gestart met het verzamelen van gebruikersfeedback op basis van verschillende ontwerpvoorstellen voor zowel de look & feel van het spel als de fysieke componenten, zoals het kliksysteem en de ondersteuningshendel. Door middel van gerichte SAM-tests en het vergelijken van alternatieve designopties, werden de voorkeuren en behoeften van de doelgroep in kaart gebracht.
+De inzichten uit deze sessies zijn vertaald naar concrete aanpassingen in het eindprototype, met nadruk op gebruiksgemak, visuele aantrekkelijkheid en praktische functionaliteit.
+
+Na afronding van de develop-fase volgt de deliver-fase. In deze fase worden het finale concept gepresenteerd, het eindprototype vervaardigd, visuele beelden opgesteld en word er een video deliverable gemaakt.
 
 <p align="left">
   <img src="CYR PICS/TIJDLIJN2.jpg" width="100%"> 
