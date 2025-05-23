@@ -74,14 +74,14 @@ Op basis van de interviews worden hier de belangrijkste zaken aangehaald.
 Literatuuronderzoek uitvoeren is cruciaal om goed geïnformeerd te zijn wanneer je werkt rond een doelgroep met een bepaalde aandoening of ziekte. Via een internet research werd tal van relevante informatie gevonden die het project verder kon helpen bij het opstellen van een goede onderzoeksvraag. De literatuurstudie wees uit dat muziek het meest prominente focuspunt vormt voor verdere ontwikkeling binnen dit onderzoek. Het is bewezen dat muziek en ritme een positieve invloed hebben op mensen met Parkinson.
 
 #### Conceptselectie
-De concepten die uit het vooronderzoek kwamen, waren allemaal gericht op muziek. De keuze om met **CYR** verder te gaan, was vanzelfsprekend. Dit concept sluit het beste aan bij het verlopen onderzoek. In de andere concepten stond muziek meer centraal. De kern bij **CYR** ligt vooral bij ritme en timing die een oplossing zou moeten geven voor ons project.
+De concepten die uit het vooronderzoek kwamen, waren allemaal gericht op muziek. De keuze om met **CYR** verder te gaan, was vanzelfsprekend. Dit concept sluit het beste aan bij het verlopen onderzoek. In de andere concepten stond muziek meer centraal. De kern bij **CYR** ligt vooral bij ritme en timing die een oplossing zou moeten geven voor dit project.
 <p align="left">
   <img src="CYR PICS/modules.png" width="32%"> 
 
 ## Definition (N=10)
 
 ### Doelstellingen
-Vanuit het vooropgestelde onderzoek bouwden we een prototype die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste wave werd het prototype aangepast aan de voorkeur van de gebruiker. Uit deze feedback werden de volgende stappen genomen voor wave 2.
+Vanuit het vooropgestelde onderzoek werd een prototype gebouwd, die het ritme van muziek kon construeren op een gekozen set van liedjes. Vanuit de eerste wave werd het prototype aangepast aan de voorkeur van de gebruiker. Uit deze feedback werden de volgende stappen genomen voor wave 2.
 
 ### Materiaal & methoden
 De gebruikstesten zullen plaats vinden in 2 waves. De eerste wave legt de focus op de interactie tussen het prototype (zowel touchbox als boombox) en de gebruiker. Hierbij was de bedoeling om enige ongemakken tijdens het gebruik op te sporen en de interactie zo goed mogelijk te optimaliseren. Er werd getest met drukknoppen (verschillende groottes) en hendels waarvan de functies later worden besproken. Wat getest zal worden in wave 2 is afhankelijk van de feedback uit wave 1. Voor het prototypen werd er gebruik gemaakt van mdf, karton, metalen plaatjes en Makey Makey. 
@@ -149,7 +149,7 @@ Een aantal gebruikers hadden wel kritiek op de kwaliteit van het spel. De icoont
   <img src="CYR PICS/TEST2.png" width="32%">
 
 ### Conclusies & implicaties
-Op basis van de resultaten tijdens de discovery fase en uit de definition fase kunnen we een lijst opstellen met de belangrijkste punten in het (voor)onderzoek:
+Op basis van de resultaten tijdens de discovery fase en uit de definition fase werd er een lijst opgesteld met de belangrijkste punten in het (voor)onderzoek:
 
 #### Prototypes
 - Een spel op basis van muziek zou de motivatie verhogen om hun conditie beter te onderhouden.
@@ -244,7 +244,7 @@ De verschillende iteraties op de boombox bevatten interfaces die elk op een ande
 
 - **3.** De draaiknop heeft als mogelijkheid om opnieuw uit een lijst van liedjes te scrollen via een draaibeweging naar links of naar rechts. Om een liedje te selecteren wordt dan op de knop gedrukt. 
 
-- **4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel in het iPad scherm verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de digitale schijf ook           meedraaien volgens de beweging van het draaiwiel.
+- **4.** Het draaiwiel bevat een andere manier voor het selecteren van een liedje. Het draaiwiel is via een intern draaiwiel in het iPad scherm verbonden. Wanneer er met het draaiwiel gedraaid wordt, dan zal de digitale schijf ook meedraaien volgens de beweging van het draaiwiel.
 
 
 _Foto 1: Originele boombox; Foto 2: Boombox met 4 drukknoppen; Foto 3: Boombox met draaiwiel; Foto 4: Boombox met 2 drukknoppen; Foto 5: Boombox met draaiknop; Foto 6: Bird's-eye view interfaces_
@@ -325,7 +325,7 @@ Na een aantal interessante standpunten werden zowel de meest voorkomende voor - 
 
 ### Conclusies en implicaties
 - Er kan gesteld worden dat de latency op de touchbox nog een probleem is, merendeel van de gebruikers merkt dit nog op en stoort zich er aan. Het veranderen van de software van Scratch naar ProtoPie voldoet niet. Een mogelijke stap naar andere hardware is een oplossing.
-- Wanneer de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij lieten we hun ook nadenken over de hoeveelheid knoppen men dan nog tot hun beschikking zouden hebben. De eerste keus bleef behouden, dit betekent dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
+- Wanneer de gebruikers de verschillende iteraties op de touchbox lieten zien, werd er 1 ontwerp duidelijk vooropgesteld. Dit is het ontwerp met 6 toetsen. Hierbij werden de gebruikers ook gestimuleerd om na te denken over de hoeveelheid knoppen men dan nog tot hun beschikking zouden hebben. De eerste keus bleef behouden, dit betekent dat meer dan 6 knoppen voor de gebruiker al overbodig lijkt.
 - Wanneer op dezelfde wijze de varianten op de interface van de boombox werden voorgelegd, was er een duidelijke voorkeur voor de variant met de draaiknop. De draaiknop leek de goede oplossing voor dit probleem. Het integreren van het selecteren van de liedjes in de software leek voor alle gebruikers efficiënter om zo te kunnen selecteren via 1 knop. 
 - De grote van het ontworpen scherm blijkt goed te zijn. Het gaat eerder over de grote van de iconen i.p.v. de grote van het scherm.
 - het spel zelf zit goed ineen, er kan mogelijks nog gespeeld worden met het kleurenpalette en een deeltje van de layout.
