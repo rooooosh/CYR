@@ -745,7 +745,7 @@ Een PESTLE-analyse onderzoekt de externe factoren die invloed kunnen hebben op e
   > Hoe beïnvloeden economische factoren zoals de kostprijs van componenten en productie de haalbaarheid van CYR?
 
 - **3. Sociaal**
-  In hoeverre sluit het product aan bij de sociale noden van Parkinson-patiënten en hun omgeving?
+  > In hoeverre sluit het product aan bij de sociale noden van Parkinson-patiënten en hun omgeving?
 
 - **4. Technoloisch**
   > Welke technologische innovaties kunnen de functionaliteit of gebruikerservaring van CYR versterken?
@@ -837,9 +837,6 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 |$21$|Speaker|1 | 3W - 5Ω|€3,99|
 |$22$|Bleutooth Speaker|1||€5-€20
 |$23$|USB-A Kabels |2|| Inbegrepen bij Nr. $14$
-
-
-
 
 
 
