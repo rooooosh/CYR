@@ -719,9 +719,9 @@ In de develop fase lag de focus op het verfijnen van ergonomie, gebruiksvriendel
 Tot slot is het visuele ontwerp verder uitgewerkt met aandacht voor kleurenthema’s en een gebruiksvriendelijk kliksysteem. Elke stap is onderbouwd door gebruikersfeedback waardoor het eindproduct optimaal aansluit bij de behoeften van de doelgroep en de gestelde eisen aan het begin van het project.
 
 
+#### Toekomst gerichte verbeteringen CYR
 
-
-Zelfs naar einde van het project werden opnieuw nieuwe zaken aan het licht gebracht die het prototype kunnen brengen naar een volgend niveau. Deze zaken zullen uiteraard niet meer behandeld worden (wegens tijdsgebrek), maar zullen hieronder weergegeven worden als een bullet list met zaken die in de toekomst kunnen toegevoegd worden, of die in vraag gesteld kunnen worden:
+Zelfs naar einde van het project werden opnieuw nieuwe zaken aan het licht gebracht die het prototype kunnen brengen naar een volgend niveau. Deze zaken zullen uiteraard niet meer behandeld worden (wegens tijdsgebrek), maar zullen hieronder weergegeven worden als een bullet list met zaken die in de toekomst kunnen toegevoegd worden: 
 
 - Inprogrammeren van hendel in spelinterface
 - Onderzoek naar laten oplichten van toetsen in verschillende kleur voor extra moeilijkheid
@@ -731,6 +731,10 @@ Zelfs naar einde van het project werden opnieuw nieuwe zaken aan het licht gebra
 - Eigen liedjes in het spel steken
 - Keuze uit verschillende spelthema's tijdens spelen van het spel
 
+
+#### PESTLE-analyse CYR
+
+Een PESTLE-analyse onderzoekt de externe factoren die invloed kunnen hebben op een product of dienst. Voor CYR, een hulpmiddel gericht op bijvoorbeeld Parkinson-patiënten, helpt deze analyse om inzicht te krijgen in de bredere context waarin het ontwerp zich bevindt. Hieronder worden de zes domeinen toegelicht, telkens aan de hand van een relevante vraag:
   
 - Zijn er overheidsmaatregelen of subsidies die het gebruik van CYR voor Parkinson-patiënten zouden ondersteunen?
 - Zijn er relevante wet- en regelgevingen rond medische hulpmiddelen die van invloed zijn op CYR?
