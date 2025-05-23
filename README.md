@@ -837,7 +837,7 @@ In semester 2 hebben we geprobeerd om de valkuilen uit semester 1 te vermijden, 
 |$21$|Speaker|1 | 3W - 5Ω|€3,99|
 |$22$|Bleutooth Speaker|1||€5-€20
 |$23$|USB-A Kabels |2|| Inbegrepen bij Nr. $14$
-|$24$|Breadbord en jumper wires |1|| Kan in gezamenlijk pakket aangekocht worden |€5-€10
+|$24$|Breadbord en jumper wires |1|Kan in gezamenlijk pakket aangekocht worden| €5-€10 |
 
 
 
