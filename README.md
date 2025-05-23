@@ -723,14 +723,15 @@ Tot slot is het visuele ontwerp verder uitgewerkt met aandacht voor kleurenthema
 
 Zelfs naar einde van het project werden opnieuw nieuwe zaken aan het licht gebracht die het prototype kunnen brengen naar een volgend niveau. Deze zaken zullen uiteraard niet meer behandeld worden (wegens tijdsgebrek), maar zullen hieronder weergegeven worden als een bullet list met zaken die in de toekomst kunnen toegevoegd worden: 
 
-- Inprogrammeren van hendel in spelinterface
-- Onderzoek naar laten oplichten van toetsen in verschillende kleur voor extra moeilijkheid
+- Programmeren van hendel in spelinterface
+- Laten oplichten van toetsen in verschillende kleur voor extra moeilijkheid
 - Toevoegen van moeilijkheidsniveau's 
-- Nog compacter maken van prototype
+- Compacter maken van prototype
 - Spel spelen zonder bedrading en aansluiting met laptop (uiteraard)
 - Eigen liedjes in het spel steken
 - Keuze uit verschillende spelthema's tijdens spelen van het spel
 
+Deze lijst is niet limiterend en kan in de toekomst nog aangevuld worden. Bovenstaande zaken werden vaak aangekaart door de gebruikers tijdens het jaar door.
 
 #### PESTLE-analyse CYR
 
